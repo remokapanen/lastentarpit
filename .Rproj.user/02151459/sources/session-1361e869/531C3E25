@@ -3,7 +3,7 @@
     "path": "D:/Projektit/lastentautioppitarpit/04-Lastenpsykiatria.Rmd",
     "project_path": "04-Lastenpsykiatria.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "4030708608",
     "contents": "",
     "dirty": false,
     "created": 1788711761894.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "67,0",
-        "scrollLine": "60"
+        "cursorPosition": "1059,5",
+        "scrollLine": "1020"
     },
     "folds": "",
-    "lastKnownWriteTime": 1790951140,
+    "lastKnownWriteTime": 1791041422,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1790951138263,
+    "last_content_update": 1791041420629,
     "read_only": false,
     "read_only_alternatives": []
 }

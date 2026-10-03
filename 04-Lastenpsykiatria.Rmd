@@ -420,7 +420,7 @@ Lähete lastenpsykiatrialle on ajankohtainen silloin, jos kouluterveydenhuollon 
   </button>
   <div class="solution-content">
 
-ADHD on oirediagnoosi; spesifisiä diagnostisia tutkimuksia ei ole. Diagnoosia ei voi asettaa yksittäisen kyselylomakkeen kautta, vaan se vaatii laajemman haastattelun ja kattavan anamneesin (perustuu huolelliseen oireiden kartoittamiseen ja toimintakyvyn arvioon eri toimintaympäristöissä nyt ja aiemmin)sekä tarvittaessa myös somaattisten syiden poissulkua (esim. kilpirauhasen toiminnan häiriöt, päihteiden käyttö). _Tärkeimpänä osana selvittelyä on siis laaja yleispsykiatrinen tutkimus. Alussa tulee myös heti ohjata mahdollisten altistavien elämäntapojen ohjaus ja muutkin tukitoimet. Näiden toimien ollessa riittämättömiä tehdään tarkempi diagnostinen arvio._ Diagnostinen arvio voidaan usein toteuttaa pth:ssa. Arvion tulee kattaa lapsen kokonaistilanne (psyykkinen ja 
+ADHD on oirediagnoosi; spesifisiä diagnostisia tutkimuksia ei ole. Diagnoosia ei voi asettaa yksittäisen kyselylomakkeen kautta, vaan se vaatii laajemman haastattelun ja kattavan anamneesin (perustuu huolelliseen oireiden kartoittamiseen ja toimintakyvyn arvioon eri toimintaympäristöissä nyt ja aiemmin) sekä tarvittaessa myös somaattisten syiden poissulkua (esim. kilpirauhasen toiminnan häiriöt, päihteiden käyttö). _Tärkeimpänä osana selvittelyä on siis laaja yleispsykiatrinen tutkimus. Alussa tulee myös heti ohjata mahdollisten altistavien elämäntapojen ohjaus ja muutkin tukitoimet. Näiden toimien ollessa riittämättömiä tehdään tarkempi diagnostinen arvio._ Diagnostinen arvio voidaan usein toteuttaa pth:ssa. Arvion tulee kattaa lapsen kokonaistilanne (psyykkinen ja 
 fyysinen terveydentila, kehityshistoria, elämäntilanne ja muut oireisiin mahdollisesti vaikuttavat tekijät).
 
 **Koska ADHD on keskushermoston kehityksellinen häiriö, niin oireet alkavat jo lapsuudessa (ADHD:n diagnosoiminen aikuispotilaalla vaatisi myös lapsuuden oireiden selvittämistä).**
@@ -434,7 +434,7 @@ fyysinen terveydentila, kehityshistoria, elämäntilanne ja muut oireisiin mahdo
 
 ---
 
-**Alla on ADHD:n diagnostiset kriteerit DSM-5-luokituksen mukaan (tentissä olisi tietysti kirjoitettuna omana tekstinään). Ehkä oikeampaa olisi kirjoittaa ICD-10-kriteerit, mutta Käypä Hoidon mukaan jo nytkin vielä ICD-10-aikakautta elettäessä voidaan diagnostisessa arvioinnissa käyttää myös uudempia DSM-5- ja ICD-11-järjestelmien määritelmiä.** Oireiden on tulla kestänyt vähintään 6kk. Oirekartoitukseen soveltuvia kyselyitä ovat esim. ADHD Rating Scale IV (lapselle/kotiin/koululle/varhaiskasvatuksee) ja keskittymiskysely (varsinkin opettajilla). Pelkän kyselylomakkeen mukaan diagnoosia ei voi tehdä, vaan perustuu kattavaan haastatteluun, jonka tukena voi käyttää puolistrukturoituja haastattelumalleja (aikuisilla yleensä DIVA-5, lapsilla esim. DAWBA). Myös muita hyödyllisiä lomakkeita on, kuten Viivi (five-to-fifteen), jota voi käyttää mm. käyttäytymisen ja neurokehityksellisten vaikeuksien arvioon. 
+**Alla on ADHD:n diagnostiset kriteerit DSM-5-luokituksen mukaan (tentissä olisi tietysti kirjoitettuna omana tekstinään). Ehkä oikeampaa olisi kirjoittaa ICD-10-kriteerit, mutta Käypä Hoidon mukaan jo nytkin vielä ICD-10-aikakautta elettäessä voidaan diagnostisessa arvioinnissa käyttää myös uudempia DSM-5- ja ICD-11-järjestelmien määritelmiä.** Oireiden on tulla kestänyt vähintään 6kk. Oirekartoitukseen soveltuvia kyselyitä ovat esim. ADHD Rating Scale IV (lapselle/kotiin/koululle/varhaiskasvatukseen) ja keskittymiskysely (varsinkin opettajilla). Pelkän kyselylomakkeen mukaan diagnoosia ei voi tehdä, vaan perustuu kattavaan haastatteluun, jonka tukena voi käyttää puolistrukturoituja haastattelumalleja (aikuisilla yleensä DIVA-5, lapsilla esim. DAWBA). Myös muita hyödyllisiä lomakkeita on, kuten Viivi (five-to-fifteen), jota voi käyttää mm. käyttäytymisen ja neurokehityksellisten vaikeuksien arvioon. 
 
 ![](images/dsm5adhd.png)
 ![](images/icd10adhd.png)
@@ -470,7 +470,7 @@ Aikuispsykiatriaan verrattuna lastenpsykiatriassa korostuu lapsuusiän voimakas 
 
 ---
 
-**Luokitukseen pohjautuva psykiatrinen tai neuropsykiatrinen diagnoosi annetaan vain, jos oireista on lapselle selvää pitkäaikaista haittaa iänmukaisessa selviytymisessä päivittäisistä toiminnoista.** Tämä on yleinen periaate psykiatriassa muutenkin, eli häiriöistä puhutaan silloin, kun oireet haittavat toimintakykyä/aiheuttavat huommattavaa rasitusta. 
+**Luokitukseen pohjautuva psykiatrinen tai neuropsykiatrinen diagnoosi annetaan vain, jos oireista on lapselle selvää pitkäaikaista haittaa iänmukaisessa selviytymisessä päivittäisistä toiminnoista.** Tämä on yleinen periaate psykiatriassa muutenkin, eli häiriöistä puhutaan silloin, kun oireet haittavat toimintakykyä/aiheuttavat huomattavaa rasitusta. 
 
 Ikä- ja toimintakyvyn lisäksi mm. oireiden laaja-alaisuus on usein tärkeä asia ottaa huomioon. Lapsen oireet voivat esiintyä useissa eri tilanteissa tai paikoissa tai vain tietyssä tilanteessa tai paikassa. Useat psykiatriset häiriöt näkyvät useissa ympäristöissä (esim. koulu ja koti). Jos lapsen oireet esiintyvät vain tietyssä ympäristössä, tulee miettiä, mikä juuri siinä ympäristössä vaikuttaa lapsen käyttäytymiseen. 
 
@@ -581,7 +581,7 @@ Varataan kontrolliaika neuvolaan (esim. viikon parin päähän) tilanteen seuran
   </button>
   <div class="solution-content">
 
-8kk on aikainen ikä arvioida lapsen kiinnostumista saduista tai merkittävää leikkimiskykyä, mutta se, että vauvaa ei kiinnosta ollenkaan leikkiä tai olla vuorovaikutuksessa niin vastaanotolla/kotona, on hälytysmerkki. Voi viitata mm. joko laaja-alaiseen kehitysviiveeseen, autismikirjon häiriöön tai aistiongelmaan. 
+8kk on aikainen ikä arvioida lapsen kiinnostumista saduista tai merkittävää leikkimiskykyä, mutta se, että vauvaa ei kiinnosta ollenkaan leikkiä tai olla vuorovaikutuksessa niin vastaanotolla kuin kotonaakaan, on hälytysmerkki. Voi viitata mm. joko laaja-alaiseen kehitysviiveeseen, autismikirjon häiriöön tai aistiongelmaan. 
 
 Vastaanotolla tehdään tarkka yleispediatrinen status (varsinkin reagoiko ääneen tai seuraako mitään esinettä edessä (näkö)) ja neurologinen status ja kerätään kehityshistoria. Tarkennetaan anamneesia vanhemmilta (esim. osoittaako vauva asioita, onko sosiaalista hymyä, miten jokeltelee/tuottaa ääniä, aistiherkkyydet, motorinen kehitys, onko taantumaa). 
 
@@ -857,13 +857,13 @@ Tilanne myös hieman vaihtelee sen mukaan ovatko lapset mukana vai kotona isän 
 
 ---
 
-Kerätään tarkka anamneesi ja kirjataan isän tekemä väkivalta ja kirveellä uhkailu täsmällisesti ja sitaatteja käyttäen ("Äidin mukaan isä uhkaillut kirveellä humalassa kahden vuoden ajan..."). Tämä merkintä on kriittinen myöhemmän rikosilmoituksen, lähestymiskiellon ja huoltajuusriitojen kannalta.
+Kerätään tarkka anamneesi ja kirjataan isän tekemä väkivalta ja kirveellä uhkailu täsmällisesti ja sitaatteja käyttäen (Äidin mukaan "isä uhkaillut kirveellä humalassa kahden vuoden ajan..."). Tämä merkintä on kriittinen myöhemmän rikosilmoituksen, lähestymiskiellon ja huoltajuusriitojen kannalta.
 
 Tarkistetaan äidiltä ja lapsilta mahdolliset aiemmat tai tuoreet fyysisen väkivallan jäljet (mustelmat, murtumat) ja dokumentoi ne sairauskertomukseen sanallisesti ja valokuvaten (suostumuksella).
 
 Jos on epäily siitä, että isä tietää siskon osoitteen ja on matkalla sinne kirveen kanssa tai uhkailee edelleen, soitetaan poliisille ja ilmoitetaan uhkatilanteesta. Samoin jos on ajatus siitä, että äiti tai lapset ovat tulleet lievää pahoinpitelyä pahemmin pahoinpidellyiksi, niin ilmoitus poliisille. 
 
-Tehdään kiirellinen lastensuojeluilmoitus; ei tarvitse sanoa varmaksi, että isä on sekaisena kirveen kanssa, vaan sanotaan miten asia on (eli äiti kertoo näin; eihän tässä tilanteessa vielä voida tietää oikeaa tarinaa). Keskustellaan sosiaalipäivystäjän kanssa lasten ja äidin akuutista majoituksesta ja turvallisuudesta. 
+Tehdään kiireellinen lastensuojeluilmoitus; ei tarvitse sanoa varmaksi, että isä on sekaisena kirveen kanssa, vaan sanotaan miten asia on (eli äiti kertoo näin; eihän tässä tilanteessa vielä voida tietää oikeaa tarinaa). Keskustellaan sosiaalipäivystäjän kanssa lasten ja äidin akuutista majoituksesta ja turvallisuudesta. 
 
 Lapsia ei tulisi haastatella liikaa aiheesta (vain avoimin kysymyksin, ei johdattelua) tai äitiä lasten läsnäollessa, jotta heidän tarinansa eivät merkittävästi vaikutu haastattelusta. 
 
@@ -934,7 +934,7 @@ Aloita pedagogiset tukitoimet välittömästi – diagnoosia ei tarvitse jääd�
   </button>
   <div class="solution-content">
 
-**Oireita on ollut jo ennen ikävuotta 12 (ICD10:ssä virallisesti 7v iässä viimeistään, mutta ennen 12v ICD11 ja DSM5) oireiden arvioimisessa monilähteisen tiedonkeryyn hyödyntäminen), oireet ovat kestäneet vähintään 6kk, oireita on useammalla elämän alueella, on todisteita oireiden haitasta elämässä ja että oireet eivät ole selkesti jostain muusta syystä johtuvia.** Muu psykiatrinen diagnoosi ei ole este ADHD-diagnoosille silloin, kun on kyse selkeästi erillisistä mutta samanaikaisista häiriöistä. Erotusdiagnostiikan luotettavuuden kannalta olisi hyvä, että psykiatrista oireistoa tai päihdehäiriötä olisi yritetty hoitaa ennen ADHD:n tutkimista, mutta hoitoresistentissä tilanteessa arviota voidaan yrittää erikoissairaanhoidossa tehdä.
+**Oireita on ollut jo ennen ikävuotta 12 ((ICD10:ssä virallisesti 7v iässä viimeistään, mutta ennen 12v ICD11 ja DSM5) oireiden arvioimisessa monilähteisen tiedonkeryyn hyödyntäminen), oireet ovat kestäneet vähintään 6kk, oireita on useammalla elämän alueella, on todisteita oireiden haitasta elämässä ja että oireet eivät ole selkesti jostain muusta syystä johtuvia.** Muu psykiatrinen diagnoosi ei ole este ADHD-diagnoosille silloin, kun on kyse selkeästi erillisistä mutta samanaikaisista häiriöistä. Erotusdiagnostiikan luotettavuuden kannalta olisi hyvä, että psykiatrista oireistoa tai päihdehäiriötä olisi yritetty hoitaa ennen ADHD:n tutkimista, mutta hoitoresistentissä tilanteessa arviota voidaan yrittää erikoissairaanhoidossa tehdä.
 
 Arvioitavat oireet kuuluvat kahteen ryhmään eli tarkkaamattomuuteen ja yliaktiivisuuteen/impulsiivisuuteen (ICD10:ssä yliaktiivisuus/impulsiivisuus ovat erillisiä diagnostisissa kriteereissä). 
 
@@ -1055,9 +1055,9 @@ Keskeisimmät psykiatriset samanaikaishäiriöt
 
 <div class="">
   <button class="solution-button"
-          data-label="f"
-          data-hide-label="f - Piilota vastaus">
-    f
+          data-label="g"
+          data-hide-label="g - Piilota vastaus">
+    g
   </button>
   <div class="solution-content">
 
