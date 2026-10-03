@@ -1,0 +1,1068 @@
+# Lastenpsykiatria
+
+## 2025 
+
+### Milloin tehdään päivystyksellinen/akuuttilähete lastenpsykiatrialle? {#Milloin-paiv-lpsy}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Käytännössä jos on huoli alle 13-vuotiaan (lastenpsykiatriaraja) lapsen turvallisuudesta / terveydestä / hengissä pysymisestä; **indikaatioita ovat siis mm. epäily psykoottisesta häiriöstä, itsetuhoisuus, vakava syömishäiriö, väkivaltainen/uhkaava käytös, lapsen kaltoinkohtelu, toimintakyvyn täysin vievä ahdistuneisuushäiriö**... 
+
+Usein tarvitaan lastensuojeluilmoitus ja joissain tapauksissa ilmoitus poliisillekin (kun syytä epäillä lapseen kohdistunutta rikoslain 20 luvussa seksuaalirikoksena rangaistavaksi säädettyä tekoa tai 21 luvussa henkeen ja terveyteen kohdistuvana rikoksena rangaistavaksi säädettyä tekoa, josta säädettävä enimmäisrangaistus on vähintään kaksi vuotta vankeutta (esim. lievää pahoinpitelyä merkittävämpi pahoinpitely)). 
+
+Kannattaa muistaa, että samoin kuten aikuisillakin, niin somatiikka on ensisijainen eli jos lapsella on akuutti myrkytys (esim. lääkeintoksikaatio), merkittäviä fyysisiä vammoja tai vakavia elinhäiriöitä, niin lapsi lähetetään ensisijaisesti lastentautien päivystykseen ja hoidetaan somaattinen akuutti ongelma ensin. 
+
+---
+
+Alaikäisillä tarvittaessa voidaan tehdä M1-lähete paljon helpommin kuin aikuisilla. **M1-kriteerit alaikäisillä ovat:**
+
+Kaikki seuraavat kolme ehtoa täyttyvät samanaikaisesti:
+
+<li>1 - Hänellä on vakava mielenterveyden häiriö tai mielisairaus</li>
+  <ul>
+    <li>Aikuisilla tulisi olla mielisairaus, mutta alaikäisillä riittää vakava mielenterveyden häiriö. Nyrkkisääntö: Voi olla lähes mikä tahansa mielenterveyden häiriö, joka olennaisesti vaarantaa nuoruusiän kehityksen ja/tai aiheuttaa merkittävän toimintakyvyn aleneman. Kannattaa myös huomioida, että akuutit psykoottistasoiset oireet tulkitaan alaikäisellä käytännössä aina vakavaksi mielenterveyden häiriöksi -> vaikka alaikäinen potilas olisi psykoottinen, hänellä voi aina käyttää perusteena vakavaa mielenterveyden häiriöitä (eikä mielisairautta)</li>
+  </ul>
+<li>2 - Hän on hoidon tarpeessa vakavan mielenterveyden häiriön tai mielisairauden vuoksi siten, että hoitoon toimittamatta jättäminen olennaisesti pahentaisi hänen sairauttaan tai vakavasti vaarantaisi hänen terveyttään tai turvallisuuttaan tai vakavasti vaarantaisi muiden henkilöiden terveyttä tai turvallisuutta.</li>
+<li>3 - Mitkään muut mielenterveyspalvelujen vaihtoehdot eivät sovellu käytettäviksi</li>
+
+
+  </div>
+</div>
+
+### Keneltä saat tietoa lapsen masennus- ja ahdistusoireilusta? {#Kenelta-tietoa-lapsen-masennuksesta}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Kun arvioidaan lapsen psykiatrisia oireita, tietoa on kerättävä monesta eri lähteestä, sillä lapset eivät aina osaa tai pysty itse sanoittamaan tuntemuksiaan, ja oireet voivat vaihdella eri ympäristöissä. 
+
+Tärkeimmät tiedon lähteet ovat: 
+
+<li>Lapsi itse</li>
+  <ul>
+    <li>Lapsen ikätason huomioiden kartoitetaan hänen mielialaa, pelkoja, univaikeuksia, jaksamista ja ajatuksia....</li>
+    <li>Voidaan käyttää ikäryhmälle sopivia strukturoituja itsearviointilomakkeita</li>
+  </ul>
+<li>Vanhemmat/huoltajat</li>
+  <ul>
+    <li>Tietoa lapsen kehityshistoriasta, arjesta, käyttäytymisen muutoksista, perhetilanteesta ja mahdollisesta oireilun kestosta sekä laukaisevista tekijöistä kotona</li>
+    <li>Vanhempien täyttämät oirekyselyt</li>
+  </ul>
+<li>Päiväkoti tai koulu</li>
+  <ul>
+    <li>Vanhempien luvalla kerätään tietoa lapsen käyttäytymisestä koulussa tai päivähoidossa. Koulu- tai päiväkotiympäristö tarjoaa arvokasta tietoa lapsen sosiaalisesta toimintakyvystä, keskittymisestä, kaverisuhteista, koulunkäynnistä ja siitä, miten oireet näkyvät vertaisryhmässä (eroaako tilanne kodista)</li>
+    <li>Opettajien yms ja koulukuraattorin/koulupsykologin arviot sekä opettajien täyttämät arviointilomakkeet. Opettajat ja päiväkodeissa työskentelevät asiantuntijat näkevät paljon samanikäisiä lapsia, ja heidän arvionsa lapsen käyttäytymisestä ja suoriutumisesta koulussa on tärkeä lisä koottavaan tietoon.</li>
+  </ul>
+<li>Jos koko perhe sattuu olemaan vastaanotolla yhteisymmärryksessä, niin mahdollisilta sisaruksilta/muilta perheenjäseniltäkin voi kysyä</li>
+<li>Vanhat terveydenhuollon tekstit</li>
+  <ul>
+    <li>Jos ei aikaisempaa mainintaa tai käyntiä ongelman takia, niin esim. jo aikaisemmat statuksetkin (esim. lapsen kontakti, kehitys yms) kertoo paljon</li>
+  </ul>
+
+
+  </div>
+</div>
+
+### Lapsen mielenterveyteen vaikuttavat ympäristöt {#Ymparistot}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Lukuisat epidemiologiset tutkimukset ovat osoittaneet, että ympäristötekijät ovat yhteydessä lasten mielenterveyden häiriöihin.
+
+Lapsilla psykiatristen häiriöiden esiintyvyyteen vaikuttavat yleensä sekä geeniperimä että ympäristötekijät; toisissa tapauksissa geeneillä on merkittävämpi osuus ja toisissa ympäristöllä. On myös osoitettu, että ympäristö voi aktivoida tai olla vaikutukseton geenien toimintaan. Geenien ja ympäristön vaikutukset lastenpsykiatristen häiriöiden ilmenemiseen ovat nykykäsityksen mukaan vastavuoroisia.
+
+Tärkeimpiä ympäristöjä, joissa lapsi liikkuu ovat perhe/koti, koulu/päiväkoti ja harrastukset sekä vapaa-ajan kaveripiirit. 
+
+**Perheeseen liittyviä riskitekijöitä** ovat perheen hajoaminen, vanhemman vakava psyykkinen häiriö, isän rikollisuus, päihdeongelmat ja psykopatia, vaikeat perheensisäiset ristiriidat, epäselvät, rankaisevat ja ristiriitaiset kasvatusmenetelmät, liiallinen ruutuaika perheessä ja vanhemman vakava sairastuminen tai kuolema. Monet prenataalitekijät, kuten keskosuus, raskauskomplikaatiot, sikiön altistuminen päihteille ja odottavan äidin psyykkinen pahoinvointi ovat yhteydessä erityisesti lasten neuropsykiatrisiin häiriöihin. Vanhemman ja sisarusten psykiatriset häiriöt ovat yhteydessä lastenpsykiatrisiin häiriöihin, ja täten psykiatriset häiriöt kasaantuvat perheisiin. 
+
+**Yhteisöllisiä riskitekijöitä ovat huonot olosuhteet päiväkodissa ja koulussa, koulukiusaaminen, epäsosiaalinen ystäväpiiri ja sosiaalisesti puutteellinen asuinympäristö.** Asuinalue ja fyysinen ympäristö voi myös olla vaarallinen tai palveluiltaan vähäinen (ei esim. luontoa/liikkumismahdollisuuksia, huonosti nuorisotiloja yms). 
+
+Tietysti **makrotason yhteiskunnallisetkin rakenteet ja taloudellinen tilanne** vaikuttavat lapseen; yhteiskunnan tarjoama sosiaaliturva, terveydenhuollon ja mielenterveyspalvelujen saavutettavuus (esim. matalan kynnyksen apu) sekä yleinen yhteiskunnallinen vakaus tai epävarmuus (kuten sodat tai globaalit kriisit). 
+
+Nykyaikana tulee myös huomioida **virtuaaliympäristöt.** Nykylapsille digitaalinen maailma on luonnollinen osa sosiaalista vuorovaikutusta ja viihtymistä, mutta se tuo mukanaan uudenlaisia kuormitustekijöitä. Tärkeitä vaikuttavia piirteitä ovat mm. liiallinen ruutuaika (syrjäyttää unta, liikuntaa ja kasvokkain tapahtuvaa vuorovaikutusta), altistuminen ikätasolle sopimattomalle sisällölle (väkivalta, pornografia), verkkokiusaaminen ja sosiaalisen median luomat vääristyneet vertailupaineet.
+
+---
+
+Ympäristöt voivat myös olla suojaavia. Psyykkiseltä häiriöltä lasta suojaavat mm. lämpimät ja turvalliset ihmissuhteet, positiiviset koulukokemukset (hyvä älyllinen suorituskyky ja koulumenestys) sekä lämmin, sensitiivinen ja johdonmukainen vanhemmuus. 
+
+![](images/ymparistot.png)
+![](images/riskit.png)
+
+
+  </div>
+</div>
+
+### Potilastapaus, jossa perhe tullut pakolaisena Suomeen, lapsi pian 7v, aloittanut koulun, häiriökäyttäytymistä ja ylivilkkautta:
+
+- a. mitkä ovat lapsen mielenterveyttä suojaavia tekijöitä ja mitkä riskitekijöitä
+- b. mitä diagnoosivaihtoehtoja (psykiatriset ja ei-psykiatriset)
+- c. mitä lisäselvityksiä haluaisin lapsesta ja millä keinoin lisätietoja saa
+- d. mitä apuja voi tarjota koululääkärinä
+- e. miksi lähettää erikoissairaanhoitoon
+- f. käytännön neuvot äidille
+
+<div class="">
+  <button class="solution-button"
+          data-label="a"
+          data-hide-label="a - Piilota vastaus">
+    a
+  </button>
+  <div class="solution-content">
+
+Suojaavat tekijät: 
+
+<li>Perheen turvaverkko - Vanhempien läsnäolo, heidän halu hakea apua ja yhteinen selviytymistarina pakolaisuudesta huolimatta (resilienssi)</li>
+<li>Yhteiskunnalliset palvelut: Suomen julkinen terveydenhuolto, kouluterveydenhuolto ja varhainen tuki ovat helposti saavutettavissa</li>
+<li>Koulu: Tarjoaa uusia rakenteita, vertaisryhmän ja mahdollisuuden integroitua suomalaiseen yhteiskuntaan; koululla on myös vahva tukiverkosto</li>
+
+---
+
+Riskitekijöitä: 
+
+<li>Pakolaistausta ja traumaattiset kokemukset: Mahdolliset sota-, väkivalta- tai pakenemiskokemukset, menetetyt ihmissuhdeverkostot ja turvattomuus ennen Suomeen tuloa</li>
+<li>Sopeutumisen stressi: Uusi kieli, uusi kulttuuri, uudet sosiaaliset säännöt ja koulujärjestelmä voivat aiheuttaa valtavaa kuormitusta</li>
+<li>Aikaisemmat heikot palvelut: Mahdolliset puutteet varhaiskasvatuksessa tai terveydenhuollon seurannassa lähtömaassa</li>
+<li>Vanhempien voimavarat: Vanhempien oma traumatausta, mahdolliset mielenterveyshaasteet ja sopeutumisvaikeudet</li>
+
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="b"
+          data-hide-label="b - Piilota vastaus">
+    b
+  </button>
+  <div class="solution-content">
+
+Mahdollisia erotusdiagnostisia vaihtoehtoja ovat mm. 
+
+<li>Traumaperäinen stressihäiriö (PTSD), sopeutumishäiriö</li>
+  <ul>
+    <li>Pakolaistausta ja mahdolliset traumat voivat ilmetä lapsilla ylivilkkautena, ärtyvyytenä, keskittymisvaikeuksina ja käytöshäiriöinä</li>
+  </ul>
+<li>ADHD</li>
+  <ul>
+    <li>Ylivilkkaus, levottomuus ja impulsiivisuus ovat ydinoireita, jotka usein korostuvat koulun vaativassa ympäristössä</li>
+  </ul>
+<li>Käytöshäiriöt (uhmakkuushäiriö ja käytöshäiriö)</li>
+  <ul>
+    <li>Haastava häiriökäyttäytyminen, sääntöjen vastustaminen tai aggressiivisuus suhteessa ikätovereihin.</li>
+  </ul>
+<li>Kielen ja kommunikaation vaikeudet / oppimisvaikeudet</li>
+  <ul>
+    <li>Suomen kielen puutteellinen taito tai uuden kielen oppimisen aiheuttama turhautuminen voi näkyä "häiriökäyttäytymisenä", kun lapsi ei ymmärrä ohjeita tai ei pysty ilmaisemaan itseään. Voi myös olla ihan muutenkin oppimisvaikeuksia kielestä riippumatta.</li>
+  </ul>
+<li>Muut, esim: eroahdistus, masennus, autismikirjon häiriö, </li>
+<li>Somaattisista syistä mm. kuulo- tai näkövamma</li>
+  <ul>
+    <li>Aina poissuljettava somaattinen tausta keskittymisvaikeuksien taustalla</li>
+  </ul>
+
+  </div>
+</div>
+
+
+<div class="">
+  <button class="solution-button"
+          data-label="c"
+          data-hide-label="c - Piilota vastaus">
+    c
+  </button>
+  <div class="solution-content">
+
+Lapsen haastattelu ja status (niin somaattinen, neurologinen kuin psykiatrinen). Aikaisemmat terveydenhuollon tekstit. 
+
+Koulun ja opettajan / kouluterveydenhoitojan havainnot: Miten oireet näkyvät luokassa? Onko kyseessä tilannesidonnainen levottomuus vai laaja-alainen ongelma? Onko oppimisvaikeuksia tai poikkeavaa kognitiota suomen kielen ulkopuolellakin? VOi antaa opettajille esim. keskittymiskyselyn täytettäväksi.
+
+Vanhempien haastattelu ja kotitilanteen arvio: Esiintyykö ylivilkkautta ja levottomuutta myös kotona? Miten lapsi nukkuu ja syö? Perhetilanne, elämäntilanne, elämäntavat, mahd. stressitekijät? Suvun sairaudet (perinnöllisyys…)? Aiemmat hoidot/kuntoutukset? Vanhemmillekin voi antaa ADHD-kyselylomakkeita. 
+
+Kielen ja kommunikaation arviointi: Onko kyseessä suomen kielen oppimiseen liittyvä haaste? Tarvittaessa tulkin käyttö on ehdotonta, jotta vanhempien kanssa saadaan tarkka anamneesi ilman väärinymmärryksiä.
+
+Tarvittaessa esim. psykologin, puheterapeutin, neuropsykologin, toimintaterapeutin, fysioterapeutin arviot, jos herää epäily oppimisvaikeuksista tai kehityshäiriöistä.  
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="d"
+          data-hide-label="d - Piilota vastaus">
+    d
+  </button>
+  <div class="solution-content">
+
+ADHD-epäilyissä tukitoimet käynnistettävä heti, jos kotona tai koulussa koetaan hankaluuksia – ei vaadi dg eikä sitä välttämättä tarvita, mikäli jo tästä riittävä apu.
+
+Kouluyhteisön tuen ja pedagogisen tuen käynnistäminen: Yhteistyö koulukuraattorin, koulupsykologin ja erityisopettajan kanssa. Koulupäivän rakenteen ja tukitoimien suunnittelu (selkeät rutiinit, rauhoittumistila).
+
+Kielitaidon ja kotoutumisen tuki: Varmistetaan, että lapsi saa riittävästi tukea suomi toisena kielenä (S2) -opetuksessa, mikä vähentää kommunikaatioturhautumista.
+
+Perheen tukeminen ja ohjaus: Matalan kynnyksen keskustelut vanhempien kanssa, perheohjauksen tai maahanmuuttajaperheille suunnattujen palveluiden (esim. järjestöjen tai sosiaalitoimen) piiriin ohjaaminen. **Erityistä huomiota kiinnitettävä hyvinvointia tukeviin elintapoihin (uni, päivärytmi, liikunta, ravitsemus, sähköisen median käyttö).**
+
+Kouluterveydenhuollon seuranta: Sovitaan tiiviimpi kontrolliaika (esim. 1–2 kuukauden päähän), jossa arvioidaan koulunkäynnin sujumista.
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="e"
+          data-hide-label="e - Piilota vastaus">
+    e
+  </button>
+  <div class="solution-content">
+
+Erikoissairaanhoitoon voidaan lähettää, jos kyseessä on monimutkainen yhdistelmä traumaperäistä oireilua, neuropsykiatrista häiriötä (ADHD) tai käytöshäiriötä tai muuten vaikea tilanne. Jos pelkkä epäily lievästä ADHD:sta ja sen aiheuttamista oireista, niin voi hoitaa PTH:ssakin. 
+
+
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="f"
+          data-hide-label="f - Piilota vastaus">
+    f
+  </button>
+  <div class="solution-content">
+
+Luokaa kotiin selkeä ja säännöllinen päivärytmi (syöminen, nukkumaanmeno, ulkoilu). Ruutuaikasäännöt. 
+
+Johdonmukainen vanhemmuus: Yhtenäiset säännöt vanhempien kesken, pidetään kiinni säännöistä ja ohjeista. Strukturoituihin vanhemmuustaito-ohjelmiin osallistuminen vähentää lapsen vanhemman arvioimia ADHD-oireita, lisää positiivisia kasvatuskäytäntöjä ja parantaa kokemusta vanhemmuudesta sekä lapsen ja vanhemman välisestä suhteesta.
+
+Kehu lasta onnistumisista, älä säti liikaa epäonnistumisia. Lasta ei saa lyödä Suomessa. 
+
+Rohkaise äitiä pitämään matalaa kynnystä yhteydenpitoon opettajan kanssa, jotta koulu ja koti ovat yhteisymmärryksessä kaikesta. 
+
+Muistuta äitiä siitä, että hänen oma jaksamisensa on lapsen tärkeä tukipilari; apua on saatavilla myös vanhemmille ja kotikäyntejäkin suoritetaan sosiaalityöntekijöiden toimesta tarpeen mukaan. 
+
+![](images/adhd.png)
+  </div>
+</div>
+
+### Potilastapaus 4 v poika. Vanhempia kohtaan uhmakas ja aggressiivinen. Päiväkodissa ei niin voimakasta oireilua.
+
+- a. Mitä riskejä tällaiseen käytökseen liittyy?
+- b. Miten voisit auttaa perhettä?
+- c. Mitä käytännön neuvoja antaisit vanhemmille?
+
+<div class="">
+  <button class="solution-button"
+          data-label="a"
+          data-hide-label="a - Piilota vastaus">
+    a
+  </button>
+  <div class="solution-content">
+
+Pitkittyessään uhmakkuus ja aggressiivisuus johtavat helposti negatiiviseen vuorovaikutuskehään (kieltojen, komentamisen ja rangaistusten kierteeseen), mikä kuluttaa vanhempien voimavarat ja heikentää vanhemmuutta. Jos vanhemmat eivät pysty tarjoamaan turvallista ja rauhallista kehystä lapsen tunnekuohuille, lapsen kyky oppia itse säätelemään tunteitaan vaarantuu. 
+
+Vaikka oireilu ei vielä näkyisi vahvasti päiväkodissa, niin jos tilanne pahenee, se voi ajan myötä levitä myös vertaissuhteisiin ja päiväkotiryhmään toiminnanohjauksen vaikeuksina.
+
+Hoitamattomana varhaislapsuuden käytösongelmat tai tunnesäätelyn pulmat voivat altistaa myöhemmille kouluvaikeuksille, sosiaalisille ongelmille sekä ahdistuneisuus- tai käytöshäiriöille.
+
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="b"
+          data-hide-label="b - Piilota vastaus">
+    b
+  </button>
+  <div class="solution-content">
+
+Validointi ja psykoedukaatio: Kuuntele vanhempia syyllistämättä. Kerro, että 4-vuotiaalle on tyypillistä testata rajoja (uhmaikä eli tahtoikä on normaali, noin 2–4-vuotiaalla lapsella ilmenevä itsenäistymisvaihe, johon kuuluvat voimakkaat tunteet, rajojen testaus ja kiukkukohtaukset), mutta voimakas aggressio on merkki siitä, että lapsen oma tunnesäätelykapasiteetti on ylittynyt. Ilmiö, jossa oireet purkautuvat vain kotona ("kotona räjähtäjä"), on hyvin tyypillinen: lapsi purkaa kaiken kerääntyneen stressinsä turvallisimpaan paikkaan eli vanhempiinsa.
+
+Vanhemmuuden tukiohjelmat ovat ensisijaisia hoitomuotoja käytöshäiriöiden hoidossa. Voimaperheet-vanhempainohjauksen toimintamallissa yhdistyvät lastenneuvolassa toteutettava käytösongelmien varhainen tunnistaminen ja internetin ja puhelimen välityksellä toteutettava 3-4 kuukautta kestävä vanhempainohjausohjelma. Perheille tarjottava strukturoitu ohjaus toteutetaan ohjelmaan koulutetun terveydenhuollon ammattihenkilön viikoittaisessa ohjauksessa. Voimaperheet-vanhempainohjauksen vaikuttavuutta on tutkittu Suomessa ja sen on todettu olevan tehokas menetelmä lapsuusiän käytösongelmien varhaisessa hoidossa. 
+
+Erotusdiagnostisesti tulee myös miettiä, voisiko taustalla olla mm. varhaisia ADHD-piirteitä tai autismikirjon piirteitä (ei todnäk, kun vain kotona ongelmia), aistisäätelyn häiriöitä tai univaikeuksia. Myös pitää selvitellä tarkasti arjen kulku, ruutuaika yms ja sitä kautta tarjota sopivia ohjeita arjen rutiinien korjaamiseen. 
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="c"
+          data-hide-label="c - Piilota vastaus">
+    c
+  </button>
+  <div class="solution-content">
+
+Voimaperheet-vanhempainohjauksessa saadaan tarkemmin ohjeita, mutta psykoedukaatiota voi toteuttaa jo itsekin. 
+
+Vanhempia kannattaa ohjata kiinnittämään enemmän huomiota lapsen hyväksyttävään käyttäytymiseen sen sijaan, että lapsi saa huomiota huonosta käyttäytymisestään. Vanhempana tulee myös itse pysyä rauhallisena, aikuinen ei voi rauhoittaa lasta huutamalla tai suuttumalla. 
+
+Kotona tulee olla selkeät ja johdonmukaiset säännöt. 
+
+Yhteiset rutiinit ja riittävä lepo on tärkeää. Väsyneenä tai nälkäisenä 4-vuotiaan kyky hallita impulssejaan romahtaa. Varmista säännöllinen ruokailu- ja unirytmi.
+
+![](images/voima.png)
+  </div>
+</div>
+
+### Potilastapaus kohta 8v poika, 2.lk. Koulussa oireiluna ylivilkkautta, keskittymisvaikeuksia, ei jaksa odottaa omaa vuoroa, ilkeää puhetta opettajalle yms… Perhe vasta muuttanut paikkakunnalle, vanhempi työkyvyttömyyseläkkeellä, toinen jäänyt työttömäksi. Isoveljellä ADHD. Paljon muutakin anamneesissa, perheessä vaikea tilanne, riitelyä (fyysistä?). Aiemmin äiti jättänyt saapumatta paikalle tapaamiseen, nyt äiti ja lapsi koululääkärillä. Aiemmista asuinpaikoista ja neuvolasta ei mitään tietoja. Päiväkodissa oppiminen ikätasoisesti edennyt. Aina ollut “vauhdikas” lapsi. Äiti miettii voisiko siirtää erityisluokalle. {#Ylivilkas-8v}
+
+- a. kehityksen suojatekijät ja riskitekijät
+- b. mistä keräät lisää tietoa
+- c. lastenpsykiatrisia diagnoosivaihtoehtoja? muut tekijät?
+- d. mitä konkreettisia vinkkejä annat äidille
+- e. Mitä apua kouluterveydenhuollosta voi saada
+- f. milloin lähetät esh
+
+<div class="">
+  <button class="solution-button"
+          data-label="a"
+          data-hide-label="a - Piilota vastaus">
+    a
+  </button>
+  <div class="solution-content">
+
+Suojaavia: 
+
+<li>Aikaisempi kehitys vaikuttaa olevan ihan ok: päiväkodissa ikätasoisesti kehittynyt (kognitiivinen kapasiteetti ja perustaidot ovat todennäköisesti kunnossa)</li>
+<li>Äidin mukanaolo vastaanotolla: Vaikka aiemmin on jätetty saapumatta tapaamiseen, äiti on nyt paikalla hakemassa apua ja osoittaa huolta lapsensa tilanteesta.</li>
+<li>Kouluympäristö: Koulu tarjoaa struktuuria ja mahdollisuuden puuttua tilanteeseen</li>
+
+---
+
+Riskitekijöitä: 
+
+<li>Sukuanamneesi: Isoveljellä on ADHD</li>
+<li>Perheen vaikea sosioekonominen ja psykososiaalinen tilanne: Vanhempien työkyvyttömyyseläkkeellä olo/työttömyys ja epäilyt perheen sisäisestä (fyysisestäkin) riitelystä/väkivallasta luovat turvatonta ja kuormittavaa kasvuympäristöä</li>
+<li>Stressi: Perheen muutto toiselle paikkakunnalle on rasite lapselle</li>
+<li>Heikot tiedot aikaisemmasta: Aiemmista asuinpaikoista ja neuvolasta ei ole tietoja, mikä vaikeuttaa tilanteen arviointia</li>
+
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="b"
+          data-hide-label="b - Piilota vastaus">
+    b
+  </button>
+  <div class="solution-content">
+
+Lastenpsykiatriassa kannattaa tavoitella saada tietoa tilanteesta monesta lähteestä: lapsi itse, vanhemmat, koulun henkilökunta ja aiemmat rekisterit (voidaan pyytää äitiä tuomaan esim. fyysinen neuvolakortti tai etsiä papereita neuvolakäynneistä yms, jos kannassa ei ole mitään). 
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="c"
+          data-hide-label="c - Piilota vastaus">
+    c
+  </button>
+  <div class="solution-content">
+
+Erotusdiagnostisia vaihtoehtoja ovat mm. ADHD, uhmakkuushäiriö, sopeutumishäiriö, masennus/ahdistus... Muita tekijöitä ovat mm. somaattiset syyt, koulukiusaaminen, mahdolliset oppimisvaikeudet ja perheongelmat. Todennäköisesti kyseessä on monitekijäinen ongelma
+
+<li>ADHD: Poika on ollut aiemminkin vauhdikas ja koulun tuomat haasteet voivat saada oireilun enemmän esille</li>
+<li>Uhmakkushäiriö: Anamneesissa ainakin uhmaavaa käytöstä opettajaa kohtaan</li>
+<li>Sopeutumishäiriö: Muuttaminen, uusi opettaja, muuttunut luokkadynamiikka yms</li>
+<li>Lapsuusiän masennus tai ahdistus: Mieliala- ja ahdistuneisuushäiriöt voivat näkyä ärtyneisyytenä, keskittymisvaikeuksina...</li>
+<li>Somaattiset syyt: Kilpirauhasen toimintahäiriöt, kuorsaus/uniapnea, epäsäännöllinen uni-/ruokarytmi, aistitoimintojen puutteet (huono kuulo/näkö), varhaispuberteetti</li>
+<li>Koulukiusatuksi tuleminen voi ilmentyä ongelmakäyttäytymisenä, samoin streesi kotona</li>
+<li>Oppimisvaikeudet -> Turhautuminen ja sen purkautuminen oireiluna</li>
+
+  </div>
+</div>
+
+
+<div class="">
+  <button class="solution-button"
+          data-label="d"
+          data-hide-label="d - Piilota vastaus">
+    d
+  </button>
+  <div class="solution-content">
+
+Rauhoitetaan äitiä erityisluokkasiirrosta, ensin pitää arvioida tilanne kokonaisvaltaisesti ja yrittää tavallisempia tukitoimia. 
+
+Kotona on tärkeää saada selkeät rutiinit ja terveellisen arjen: liikuntaa, ruutuajan rajoittamista, yhteiset ruokailut, säännöllisen unirytmin... Kannattaa myös vanhempana kiinnittää huomiota enemmän lapsen onnistumisiin kuin vain keskittyä lapsen moittimiseen epäonnistumisista. Muistuta äitiä siitä, että perheellä on oikeus tukeen. Tarjoa tietoa sosiaalihuollon matalan kynnyksen perhetyöstä.
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="e"
+          data-hide-label="e - Piilota vastaus">
+    e
+  </button>
+  <div class="solution-content">
+
+Lähete lastenpsykiatrialle on ajankohtainen silloin, jos kouluterveydenhuollon ja opiskelijahuollon omat tukitoimet eivät tuo helpotusta tilanteeseen tai jos on merkittävän monimutkaista oireilua ja erotusdiagnostiikka ei ole selkeää. 
+  </div>
+</div>
+
+### ADHD diagnostiset kriteerit
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+ADHD on oirediagnoosi; spesifisiä diagnostisia tutkimuksia ei ole. Diagnoosia ei voi asettaa yksittäisen kyselylomakkeen kautta, vaan se vaatii laajemman haastattelun ja kattavan anamneesin (perustuu huolelliseen oireiden kartoittamiseen ja toimintakyvyn arvioon eri toimintaympäristöissä nyt ja aiemmin)sekä tarvittaessa myös somaattisten syiden poissulkua (esim. kilpirauhasen toiminnan häiriöt, päihteiden käyttö). _Tärkeimpänä osana selvittelyä on siis laaja yleispsykiatrinen tutkimus. Alussa tulee myös heti ohjata mahdollisten altistavien elämäntapojen ohjaus ja muutkin tukitoimet. Näiden toimien ollessa riittämättömiä tehdään tarkempi diagnostinen arvio._ Diagnostinen arvio voidaan usein toteuttaa pth:ssa. Arvion tulee kattaa lapsen kokonaistilanne (psyykkinen ja 
+fyysinen terveydentila, kehityshistoria, elämäntilanne ja muut oireisiin mahdollisesti vaikuttavat tekijät).
+
+**Koska ADHD on keskushermoston kehityksellinen häiriö, niin oireet alkavat jo lapsuudessa (ADHD:n diagnosoiminen aikuispotilaalla vaatisi myös lapsuuden oireiden selvittämistä).**
+
+<li>Tietoa kerätään kattavasti vanhemmilta, päiväkodista/koululta yms. Myös lapsi tulee haastatella ja tutkia tarkasti </li>
+<li>On hyvä huomioida, että oirekuva voi muuttua lapsen kasvaessa Erityisesti yliaktiivisuus- ja impulsiivisuusoireet tyypillisesti lievittyvät aikuisuuteen tultaessa (aikuisella voi pitemminkin olla sisäistä levottomuutta tai paikallaan oloa edellyttävien tapahtumien välttelyä). Tarkkaavuuden säätelyn vaikeus voi ilmetä alle kouluikäisen leikkien lyhytjänteisyytenä, kouluikäisellä häiriöherkkyytenä, omiin ajatuksiin vaipumisena, huolimattomuusvirheinä ja tavaroiden unohteluna. Aikuisella tarkkaamattomuus voi ilmetä esim. hajamielisyytenä, vaikeutena ylläpitää keskittymistä pitkäjänteisesti yrittämisestä huolimatta, asioiden ja tehtävien unohteluna, huolimattomuutena, jatkuvana myöhästelynä ja toistuvina peruuttamattomina poisjäänteinä vastaanotoilta sekä taipumuksena tehdä toissijaisia asioita tärkeän tehtävän sijasta. Tavallista on myös ikätasoon nähden epätavallinen tuen tarve toisilta ihmisiltä elämänhallinnan onnistumiseksi.</li>
+  <ul>
+    <li>Tyypilliset ADHD-oireet ovat usein havaittavissa jo leikki-iässä, mutta diagnoosin tekeminen ennen kouluikää vaatii erityistä huolellisuutta. Luotettava diagnosoiminen ei oireiden epäspesifisyyden vuoksi useinkaan ole mahdollista ennen 5 vuoden ikää</li>
+  </ul>
+<li>Muu psykiatrinen diagnoosi ei ole este ADHD-diagnoosille silloin, kun on kyse selkeästi erillisistä mutta samanaikaisista häiriöistä. Erotusdiagnostiikan luotettavuuden kannalta olisi hyvä, että psykiatrista oireistoa tai päihdehäiriötä olisi yritetty hoitaa ennen ADHD:n tutkimista, mutta hoitoresistentissä tilanteessa arviota voidaan yrittää erikoissairaanhoidossa tehdä.</li>
+
+---
+
+**Alla on ADHD:n diagnostiset kriteerit DSM-5-luokituksen mukaan (tentissä olisi tietysti kirjoitettuna omana tekstinään). Ehkä oikeampaa olisi kirjoittaa ICD-10-kriteerit, mutta Käypä Hoidon mukaan jo nytkin vielä ICD-10-aikakautta elettäessä voidaan diagnostisessa arvioinnissa käyttää myös uudempia DSM-5- ja ICD-11-järjestelmien määritelmiä.** Oireiden on tulla kestänyt vähintään 6kk. Oirekartoitukseen soveltuvia kyselyitä ovat esim. ADHD Rating Scale IV (lapselle/kotiin/koululle/varhaiskasvatuksee) ja keskittymiskysely (varsinkin opettajilla). Pelkän kyselylomakkeen mukaan diagnoosia ei voi tehdä, vaan perustuu kattavaan haastatteluun, jonka tukena voi käyttää puolistrukturoituja haastattelumalleja (aikuisilla yleensä DIVA-5, lapsilla esim. DAWBA). Myös muita hyödyllisiä lomakkeita on, kuten Viivi (five-to-fifteen), jota voi käyttää mm. käyttäytymisen ja neurokehityksellisten vaikeuksien arvioon. 
+
+![](images/dsm5adhd.png)
+![](images/icd10adhd.png)
+
+---
+
+Tenttivastauksen rakentamisen vihjeitä: 
+
+<li>Vastauksessa tulee tulla ilmi, että aluksi tehdään yleispsykiatrinen tutkimus ja vasta myöhemmin tarkennetaan diagnostiikkaa ADHD:seen. Tärkeintä tässä vastauksessa on antaa pääpiirteet diagnostisista kriteereistä, eli se, että **oireita on ollut jo ennen ikävuotta 12 (tässä monilähteisen tiedonkeryyn hyödyntäminen), oireita on useammalla elämän alueella, on todisteita oireiden haitasta elämässä ja että oireet eivät ole selkesti jostain muusta syystä johtuvia.** Näiden lisäksi tulee tietysti mainita, että arvioitavat oireet kuuluvat kahteen ryhmään eli tarkkaamattomuuteen ja yliaktiivisuuteen/impulsiivisuuteen. Mahdollisesti voi saada täydet/lähes täydet pisteet vastauksesta ilman, että muistaa kaikkia mahdollisia yksittäisiä oireita (koska esim. tulevassa ICD-11:ssa ei edes ole kriteeriä, jonka mukaan pitäisi olla tietty numeromäärä oireita), mutta jos haluaa muistaa kaikki DSM-5-luokituksessa arvioitavat oireet, voi ne muistaa muistisäännöistä **CALLFORFRED ja RUNSFASTT:**</li>
+
+![](images/adhdmnemonic.png)
+![](images/adhddiagn.png)
+![](images/adhddiagn2.png)
+  </div>
+</div>
+
+## 2024 
+
+### Miten lasten psykiatrisen oireilun erottaa normaalista kehityksestä? {#Normaali-vs-psykiatrinen}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Aikuispsykiatriaan verrattuna lastenpsykiatriassa korostuu lapsuusiän voimakas psyykkinen ja fyysinen kehitys. Tähän kehitykseen vaikuttavat lapsen rakenteelliset tekijät, lapsen ympäristö ja monet sosiokulttuuriset tekijät. Lapsen käyttäytymisen ja tunne-elämän poikkeavuuden tunnistaminen edellyttää lapsen normaalin kasvun ja kehityksen tuntemusta. Esimerkiksi motorinen aktiivisuus, impulsiivisuus, tarkkaavuus, työmuistin toiminta ja aggressiivisuuden määrä muuttuvat iän mukaisesti normaalikehityksessä. **Se, mikä on normaalia käyttäytymistä tiettynä ikäkautena, saattaa olla poikkeavaa toisena ikäkautena.**
+
+<li>Esimerkiksi lievät käytösongelmat kuuluvat lasten normaaliin kehitykseen erityisesti tietyissä ikävaiheissa, kuten uhma- eli tahtoiässä, joka sijoittuu yleensä n. (1.5-)2–4 ikävuoden tienoille.</li>
+<li>Useat lasten oireista esiintyvät jatkumoina normaalista. Uhmaiät ja rajojen kokeilu kuuluvat lapsen kehitykseen, voimakas ja pitkäkestoinen väkivaltainen tai epäsosiaalinen käyttäytyminen eivät edes uhmaikäisellä. </li>
+
+---
+
+**Luokitukseen pohjautuva psykiatrinen tai neuropsykiatrinen diagnoosi annetaan vain, jos oireista on lapselle selvää pitkäaikaista haittaa iänmukaisessa selviytymisessä päivittäisistä toiminnoista.** Tämä on yleinen periaate psykiatriassa muutenkin, eli häiriöistä puhutaan silloin, kun oireet haittavat toimintakykyä/aiheuttavat huommattavaa rasitusta. 
+
+Ikä- ja toimintakyvyn lisäksi mm. oireiden laaja-alaisuus on usein tärkeä asia ottaa huomioon. Lapsen oireet voivat esiintyä useissa eri tilanteissa tai paikoissa tai vain tietyssä tilanteessa tai paikassa. Useat psykiatriset häiriöt näkyvät useissa ympäristöissä (esim. koulu ja koti). Jos lapsen oireet esiintyvät vain tietyssä ympäristössä, tulee miettiä, mikä juuri siinä ympäristössä vaikuttaa lapsen käyttäytymiseen. 
+
+Lapsen psyykkinen oireilu voi liittyä perheen muun jäsenen ongelmaan, vuorovaikutusongelmiin tai kouluvaikeuksiin, jolloin ennen diagnoosin asettamista tulee puuttua näihin kuormittaviin tekijöihin. Luokitukseen pohjautuvan diagnoosin asettaminen lapselle voi olla vaikeaa, koska monilla lapsilla esiintyy monenlaisia oireita. Niiden monipuolinen dimensionaalinen kartoitus onkin usein hyödyllistä, esimerkiksi oirekyselylomakkeiden avulla. Erityisesti pienemmillä lapsilla eri käyttäytymisen alueita ja toimintoja kartoittava dimensionaalinen diagnostinen arviointi on kliinisesti käyttökelpoisempi kuin luokitteleva diagnostinen arviointi. Lapsen mielialan, ajatuskulun ja käyttäytymisen arvioinnin lisäksi lasta diagnosoitaessa on pidettävä mielessä perhetilanne ja muut psykososiaaliset tekijät, jotka vaikuttavat lapsen elämässä, samoin kuin lapsen biologinen rakenne ja temperamentti sekä sukuanamneesi vakavien mielenterveydenhäiriöiden suhteen (esimerkiksi kaksisuuntainen mielialahäiriö).
+
+
+  </div>
+</div>
+
+### Mitä lasten psykiatrisessa anamneesissa tulee huomioida? {#Psykiatrinen-anamneesi}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Anamneesia kerätessä kannattaa miettiä, mitä tietoja jo on saatu esim. neuvolasta, koulusta ja muilta tahoilta. Tarvittaessa kerätään näistä lähteistä tietoa jälkikäteenkin. 
+
+Sitten vastaanotolla jutellen haastatellaan vanhempaa, lasta ja mahdollisesti koko perhettä, jos paikalla. Kerätään esitiedot lapsesta, perheestä, oireista, toimintakyvystä (lapsi ja perhe). Tietysti samalla aina arvioidaan psykiatrista statusta ja perhedynamiikkaa. Yleinen periaate lastenpsykiatriassa on se, että lapsi ei ole koskaan vain yksilönä arvioitava henkilö, vaan **perhe (ja muu ympäristö) tulee aina huomioda anamneesissa.**
+
+Tarvittaessa tiettyjen aiheiden ympärillä haastatellaan yksitellen lasta tai vai vain vanhempia; tämä usein myös muutenkin hyvä tehdä, vaikka ei olisikaan niin arkaluontoista aihetta käsiteltävänä juuri senhetkisessä haastattelussa. 
+
+<li>Esitiedot lapsesta (kannattaa hyödyntää tikapuuanamneesia, jossa kerätään vuosi vuodelta kehityksen tärkeimmät kohdat ja muutokset elämässä yms.):</li>
+  <ul>
+    <li>Lapsen kehityshistoria raskausajasta alkaen</li>
+    <li>Somaattinen terveydentila ja mahdollinen lääkehoito</li>
+    <li>Päivähoito- ja koulupolku, ikätoverisuhteet, harrastukset</li>
+    <li>Aikaisemmat tutkimukset ja niiden tulokset</li>
+    <li>Hoidot ja kuntoutukset sekä niiden vaikutus</li>
+    <li>Muut mahdolliset tukitoimet</li>
+  </ul>
+<li>Esitiedot perheestä:</li>
+  <ul>
+    <li>Perheen rakenne eli kuka kuuluu perheeseen</li>
+    <li>Eronneiden vanhempien huoltajuus ja yhteistyön sujuminen</li>
+    <li>Sosioekonominen tilanne</li>
+    <li>Sairaudet ja psyykkiset häiriöt</li>
+    <li>Vuorovaikutus ja ihmissuhteet</li>
+    <li>Olennaiset elämäntapahtumat</li>
+    <li>Vanhempien kasvatusmenetelmät, kyky johdonmukaisuuteen ja ennustettavuuteen</li>
+    <li>Perheenjäsenten väliset suhteet, vuorovaikutus, viestintä, empatia</li>
+    <li>Yksilöllisten tekijöiden huomioiminen arvioinnissa, esim. kulttuurilliset seikat</li>
+  </ul>
+<li>Oireet:</li>
+  <ul>
+    <li>Emotionaaliset oireet</li>
+    <li>Käyttäytymisen oireet</li>
+    <li>Kehitykselliset häiriöt</li>
+    <li>Ihmissuhdevaikeudet</li>
+    <li>Muut oireet</li>
+    <li>Useilla lapsilla on monenlaisia oireita! Mitä pienempi lapsi sen useammin esim. puheessa, motoriikassa, oppimisessa, tunne-elämässä haasteita samanaikaisesti</li>
+  </ul>
+<li>Toimintakyky:</li>
+  <ul>
+    <li>Miten oire vaikuttaa lapsen toimintakykyyn? Kykeneekö lapsi ikätasoiseen suoriutumiseen ja osallistumiseen? Viittaako oire häiriöön?</li>
+    <li>Sosiaaliset vaikutukset, suoriutuminen ja osallistuminen</li>
+    <li>Arki ja sen sujuminen</li>
+    <li>Vanhemman psyykkinen vointi, kuormitus, uupumus</li>
+    <li>Vanhemman kyky kestää ja ottaa vastaan lapsen erilaisia tunnetiloja</li>
+    <li>Vanhemman kyky erottaa lapsen halut ja tarpeet omistaan</li>
+    <li>Huomaa perheen toimintakykyä ja vuorovaikutusta heikentävät riskitekijät (esim. päihteet, perheensisäinen väkivalta, rikollisuus, mielenterveysongelmat)</li>
+  </ul>
+
+![](images/biopsyko.png)
+![](images/mielenterveysselvittely.png)
+![](images/heads.png)
+![](images/psykosos.png)
+![](images/kliinhaas.png)
+![](images/tikapuu.png)
+![](images/tikapuut.png)
+  </div>
+</div>
+
+### Potilastapaus, väsynyt äiti neuvolassa, itkuinen vauva. Kysymyksenä, miten etenet ja miksi?
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+On tunnistettava nopeasti mahdolliset vauvan tai vanhemman vakavat ongelmat ja toisaalta tarjottava välitöntä tukea. Väsynyt, itkuinen äiti ja jatkuvasti itkevä vauva muodostavat herkästi negatiivisen vuorovaikutuskehän, joka altistaa uupumukselle, masennukselle ja pahimmillaan vauvaan kohdistuvalle kaltoinkohtelulle (esim. shaken baby -syndrooman eli ravistellun vauvan syndrooman riski).
+
+Arvioidaan vastaanotolla heti, että vauvalla (ja äidillä) on kaikki somaattisesti ok eikä äiti ole psykiatrisessa hätätilanteessa (psykoottinen, itsetuhoinen, lastaansa kohden väkivaltainen) 
+
+On tärkeää kartoittaa äidin ja perheen tilanne ja jaksaminen. Keskustellaan syyllistämättömästi ja empaattisesti, esim. "Näen, että saatat olla väsynyt ja arki voi olla raskasta. Miten pärjäilet? Miten arki sujuu?". Arvioidaan äidin masennusoireistoa. Kysytään miten vauvan itku vaikuttaa oloon ja onko joskus tehnyt mieli ravistaa vauvaa / koskaan tehnyt näin. Tämä kysytään syyttämättömästi ja ohjeistetaan, että jos tuntuu, että omat voimat loppuvat täysin, vauvan voi laskea turvallisesti pinnasänkyyn selälleen, poistua huoneesta, laittaa oven kiinni ja hengittää syvään 5–10 minuuttia toisessa tilassa, kunnes omat kierrokset laskevat.
+
+Validoidaan tunnetta, että äiti ei ole yksin asian kanssa ja vauvaikäisten vanhemmat kokevat samoja ongelmia eikä vauvan itkuisuus ole vanhemmuustaidoista johtuvaa (jos siis vauva täysin muuten terve eikä ole elimellistä syytä itkuisuudelle). Tutkitaan vauva ja vahvistetaan äidille, että kaikki on ok vauvalla. 
+
+Voidaan tarjota konkreettista apua äidille ottamalla yhteyttä sosiaalityöntekijään, joka voi auttaa tarjoamaan palveluita arkeen (on jopa palveluita, joissa tehdään kotikäyntejä ja vanhemmat saavat hieman lepoa sen ajaksi). Tietysti myös turvaverkkoa arvioiden voidaan ehdottaa hakemaan tukea lähipiiristään, jotta äiti saisi lepoaikaa. 
+
+Varataan kontrolliaika neuvolaan (esim. viikon parin päähän) tilanteen seurantaa varten. Jos herää epäily vaikeasta äidin masennuksesta, voidaan tehdä lähete psykiatriselle poliklinikalle tai tarvittaessa jopa psykiatriseen päivystykseen. Tarvittaessa (jos vauvan kehitys ja hoiva on uhattuna) tehdään kiireellinen lastensuojeluilmoitus.
+  </div>
+</div>
+
+### Potilastapaus, (neuvolassa 8 kk lapsi, joka ei kotona leiki eikä kiinnostu saduista, kauppaan ei voi viedä koska muuttuu niin levottomaksi. Vastaanotolla lapseen ei saa kontaktia.). Kysymyksenä oli, että miten etenet ja miksi? {#8kk-ei-kiinnosta-sadut}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+8kk on aikainen ikä arvioida lapsen kiinnostumista saduista tai merkittävää leikkimiskykyä, mutta se, että vauvaa ei kiinnosta ollenkaan leikkiä tai olla vuorovaikutuksessa niin vastaanotolla/kotona, on hälytysmerkki. Voi viitata mm. joko laaja-alaiseen kehitysviiveeseen, autismikirjon häiriöön tai aistiongelmaan. 
+
+Vastaanotolla tehdään tarkka yleispediatrinen status (varsinkin reagoiko ääneen tai seuraako mitään esinettä edessä (näkö)) ja neurologinen status ja kerätään kehityshistoria. Tarkennetaan anamneesia vanhemmilta (esim. osoittaako vauva asioita, onko sosiaalista hymyä, miten jokeltelee/tuottaa ääniä, aistiherkkyydet, motorinen kehitys, onko taantumaa). 
+
+Tehdään lähete lastenneurologian poliklinikalle jos epäily siitä, että poikkeavuus kehityksessä on huomattava tai on taantumaa. 
+
+  </div>
+</div>
+
+## 2017 
+
+Tässä välissä joka vuonna vain samanlaisia kysymyksiä 
+
+### Minkä takia vanhemman psykiatrisen taustan selvittäminen on tärkeä osa lastenpsykiatrista tutkimusta? {#Miksi-vanhempien-tausta-on-tarkeaa}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Syyt tähän liittyvät sekä biologisiin (perinnöllisiin) että ympäristöllisiin ja vuorovaikutuksellisiin tekijöihin.
+
+<li>Perinnölliset:</li>
+  <ul>
+    <li>Monet psykiatriset ja neuropsykiatriset häiriöt ovat vahvasti osittain periytyviä: esim. ADHD, autismi, bipolaarinen, masennus, ahdistuneisuushäiriöt vanhemmalla -> nostaa merkittävästi lapsen riskiä sairastua samaan tai toiseen psykiatriseen häiriöön</li>
+  </ul>
+<li>Ympäristölliset ja vuorovaikutukselliset tekijät:</li>
+  <ul>
+    <li>Huonossa hoitotasapainossa oleva vanhemman masennus, ahdistuneisuus tai päihdeongelma heikentää vanhemman kykyä vastata lapsen tunne-elämän ja arjen tarpeisiin</li>
+    <li>Lapsi oppii tunteiden säätelyä ja stressinhallintaa seuraamalla vanhempiaan. Vanhemman psykiatriset oireet voivat vaikeuttaa lapsen oman tunnesäätelyn kehittymistä</li>
+    <li>Psykiatrisista ongelmista kärsivän vanhemman kotona arki saattaa olla katkonaista, arvaamatonta tai kaaottista. Lapsen oireilu (esim. levottomuus, käytöshäiriöt tai ahdistuneisuus) voi olla suora reaktio kodin turvattomuuteen tai kummuta lapsen huolesta vanhemman pärjäämisestä</li>
+    <li>Äidin raskaudenaikainen hoitamaton masennus, voimakas stressi tai lääkitys/päihteiden käyttö voivat vaikuttaa suoraan sikiön hermostolliseen kehitykseen</li>
+  </ul>
+
+---
+
+On myös tärkeää selvittää vanhempien tilanne, koska lasten psykiatrinen hoito perustuu usein pitkälti perhehoidollisiin malleihin, jotka vaativat toteutuakseen vanhemman sitoutumista ja tukea. Jos vanhemman oma psykiatrinen oireilu jää tunnistamatta ja hoitamatta, lapselle annetut tukitoimet tai terapia menevät usein hukkaan. Lapsen auttamiseksi on usein ensin autettava vanhempaa saamaan oma hoitonsa kuntoon.
+  </div>
+</div>
+
+### Pitkä potilastapausteksti {#Pitka-pt}
+
+Toimit koululääkärinä. Kyseessä 8-vuotias, 2.lk Viljami. Koulussa oltu pitkään huolissaan häiriökäyttäytymisestä: jatkuvaa paikalla pyörimistä, luokassa ääneen puhumista ja tuuppimista esim. välitunneille siirryttäessä. Viljami usein myöhästelee ja tavarat usein hukassa tai kotona. Ohjeiden kuuntelu ja tehtävien tekeminen vaikeaa.
+
+Ollut alusta asti keskitason oppilas. On isossa, normaaliluokassa. Lukemaan oppiminen hidasta, saanut tukiopetusta. Muuten kehitys tavanomaista. Otiittikierre varhaislapsuudessa, muuten somaattisesti terve. Nyt opettaja huolissaan, miettii pärjääkö normaaliluokalla. Häiriökäyttäytyminen pahentunut.
+
+Terveydenhoitaja yrittänyt tavoittaa äitiä, sopivan ajan löytyminen ollut vaikeaa äidin vuorotöiden takia. Lisäksi asiaa vaikeuttanut taustalta kuulunut nuorempien sisarusten meluaminen, äiti on sanonut, että ei koe pystyvänsä keskittymään puheluun. Lopulta saatu sopiva aika järjestymään.
+
+Vastaanotolla äiti ja Viljami. Äiti on 28v opiskelija, joka nyt töissä. Viljamin isä lähti kotoa noin 1v sitten ja perheen taloudellinen tilanne ei anna äidin opiskella. Isän lähtöä edelsi runsas riitely. Äidin mukaan kuitenkaan lapset eivät tätä ole kuulleet. Isäänsä Viljami ei ole eron jälkeen tavannut kertaakaan. Lastenhoitoapua äidin ystäviltä ja vanhemmilta. Äidin äidillä vaikeita masennusjaksoja, jotka rajoittaneet hänen toimintakykyään. Äidin ja Viljamin suhde lämmin, puuhaavat yhdessä kaikenlaista. Perheessä myös 5v poika ja 2v tyttö.
+
+Äiti kertoo, että kotona haastavaa. Hän on huolissaan Viljamin ja koko perheen tilanteesta ja toivoo apua ja tukea. Viljamin läksyjen teko takkuaa, sisarusten välillä paljon riitoja. Arki on äidin mukaan “yhtä sähellystä”. Viljami nukkuu huonosti, saattaa pelata kännykällä pitkin yötä. Aamupala jää välillä syömättä, koska Viljami lähtee kouluun vasta, kun äiti ja nuoremmat sisarukset lähteneet. Äiti vaikuttaa vastaanotolla väsyneeltä ja vastaa hyvin lyhyesti ja hiljaisella äänellä kysymyksiin.
+
+Viljami on vastaanotolla hiljaisen oloinen ja totinen. Hän istuu aika kaukana äidistä, mutta katsoo paljon äidin suuntaan. Viljami kertoo, että hänellä on vain yksi kaveri koulussa. “Aiemmin oli enemmän”, Viljami sanoo. Naapurustossa on enemmän ystäviä. Harrastuksena ollut partio, mutta nyt sieltäkin välillä poissa.
+
+- a. Mitä kehityksen riskitekijöitä ja suojaavia tekijöitä tekstissä tulee esiin?
+- b. Mitä diagnoosivaihtoehtoja tulee mieleen?
+- c. Mitkä muut tekijät (kuin varsinaiset lastenpsykiatriset häiriöt) voisivat selittää Viljamin oireilua?
+- d. Mitä lisätietoja haluat arvion tueksi ja millä menetelmillä (keneltä? miten?) voisit hankkia niitä?
+- e. Mitkä tekijät vaikuttavat päätökseesi lähettää erikoissairaanhoitoon? Mitä muita tukitoimia ehdottaisit perheelle?
+
+<div class="">
+  <button class="solution-button"
+          data-label="a"
+          data-hide-label="a - Piilota vastaus">
+    a
+  </button>
+  <div class="solution-content">
+
+Suojaavat tekijät: 
+
+<li>Lämmin vanhempi–lapsisuhde: Äidin ja Viljamin välinen suhde on lämmin, ja he tekevät asioita yhdessä. Viljami hakee myös vastaanotolla turvaa katsomalla äitiään</li>
+<li>Somaattinen terveystausta: Ei kroonisia somaattisia sairauksia</li>
+<li>OK kognitiivinen perustaso & ikätasoiset taidot: Keskitason oppilas alusta asti; oppinut lukemaan tukiopetuksen turvin</li>
+<li>Sosiaaliset suhteet & vapaa-aika: Yksi ystävä koulussa, naapurustossa enemmän kavereita, sekä osallistuminen partioon</li>
+<li>Tukiverkosto: Äidillä on jonkin verran apua omilta vanhemmiltaan ja ystäviltään</li>
+
+---
+
+Riskitekijät: 
+
+<li>Mielihäiriöitä suvussa (ei tosin anamnestisesti vanhemmilla)</li>
+<li>Perheen psyykkinen ja elämäntilanteellinen kuormitus: isän lähtö (jota edeltänyt riitely), yksinhuoltajuus kolmesta pienestä lapsesta, vuorotyö, taloudellinen tiukkuus, äidin väsymys</li>
+<li>Oireiden kärjistyminen ja yksinäisyys: Ystäväsuhteiden väheneminen koulussa, partiosta poissaolot ja sisarusten välinen jatkuva riitely</li>
+
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="b"
+          data-hide-label="b - Piilota vastaus">
+    b
+  </button>
+  <div class="solution-content">
+
+Erotusdiagnostisesti mm. ADHD, sopeutumishäiriö (esim. jos uusi opettaja yms), uhmakkuushäiriö, masennus-/ahdistuneisuushäiriö. 
+
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="c"
+          data-hide-label="c - Piilota vastaus">
+    c
+  </button>
+  <div class="solution-content">
+
+Muita tekijöitä ovat mm. somaattiset syyt (näkö- ja kuulo-ongelmat, kilpirauhasen toimintahäiriöt, elämäntapaongelmat (ruutuaika, uniongelmat...)), koulukiusaaminen, mahdolliset oppimisvaikeudet ja perheongelmat. Todennäköisesti kyseessä on monitekijäinen ongelma
+
+<li>Lapsuusiän masennus tai ahdistus: Mieliala- ja ahdistuneisuushäiriöt voivat näkyä ärtyneisyytenä, keskittymisvaikeuksina...</li>
+<li>Somaattiset syyt: Kilpirauhasen toimintahäiriöt, kuorsaus/uniapnea, epäsäännöllinen uni-/ruokarytmi, aistitoimintojen puutteet (huono kuulo/näkö), varhaispuberteetti</li>
+<li>Koulukiusatuksi tuleminen voi ilmentyä ongelmakäyttäytymisenä, samoin streesi kotona</li>
+<li>Oppimisvaikeudet -> Turhautuminen ja sen purkautuminen oireiluna</li>
+
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="d"
+          data-hide-label="d - Piilota vastaus">
+    d
+  </button>
+  <div class="solution-content">
+
+Opettajat/koulu (oirekyselyt, kirjalliset lausunnot toiminnasta), äidille myös oirekyselyt/unitaulukko/päiväkirja, koulupsykologilla kognitiivisen tason arviointi, kouluterveydenhoitajalla kasvu/aistit...
+
+Tietysti lasta itseäänkin tulee haastatella
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="e"
+          data-hide-label="e - Piilota vastaus">
+    e
+  </button>
+  <div class="solution-content">
+
+ESH lähetetään, jos perusterveydenhuollon ja koulun omat tukitoimet (pedagoginen tuki, perhetyö, elintapojen korjaukset) on käynnistetty, mutta oireet ovat vaikeita ja estävät oppimisen/toimintakyvyn. 
+
+Samoin kannattaa lähettää ESH, jos monia samanaikaisia psykiatrisia häiriöitä tai muuten vaikea ja diagnostiikaltaan vaikea tilanne. 
+
+---
+
+Koulussa suositellaan arviota pedagogisen tuen tarpeesta, lisätään struktuuria luokassa (istumapaikka), mahdollistetaan vilkkauden purku esim. härväystuoleihin yms. Kodin ja arjen strukturointi on tärkeää (unihygieni, ruutuaika, aamurutiinit)... 
+
+Ohjataan kunnan lapsiperheiden sosiaalipalveluihin / perhetyöhön (kotiin saatava konkreettinen apu arjen hallintaan ja vanhemman jaksamiseen). Tarpeen mukaan äidin ohjaaminen oman terveysaseman tai työterveydenhuollon piiriin vanhemman uupumuksen ja mielialan arvioimiseksi. 
+
+Kouluun koulukuraattorin tapaamiset Viljamille tunnesäätelyn ja kaveritaitojen tueksi. 
+
+  </div>
+</div>
+
+
+### ADHD:n lääkehoidon periaatteet {#ADHD-laakehoito}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+ADHD:n lääkehoidon voi aloittaa PTH:ssa varsinkin kouluikäisillä lapsilla (työpaikan toimiohjeista riippuen omatoimisestikin; aikuisilla periaatteessa vaatii virallisesti vähintään konsultaation, jos ei ole erikoislääkäri). **Alle 6-vuotiaiden lasten lääkehoito vaatii erityistä huolellisuutta ja toteutetaan pääasiassa ESH.** Lasten ADHD:n hoito kannattaa ohjata lähetteellä ESH:hon, jos ADHD on hoitoresistentti tai komplisoitunut (komorbiditeetteja).
+
+**Lääkehoidon tarvetta arvioidaan, jos muut tuki- ja hoitomuodot osoittautuvat riittämättömiksi tai oireet ovat niin vai**keita, että muiden hoitomuotojen toteuttaminen ei onnistu. Pelkkä lääkehoito ei kuitenkaan ole koskaan vastaus: tarpeellisia tukitoimia ja psykososiaalisia hoitomuotoja jatketaan lääkehoidon aikana. Mikäli lääkehoito aloitetaan, sen seurannan täytyy olla systemaattista ja erityisesti alussa riittävän tiivistä vasteen, tarpeen ja haittavaikutusten arvioimiseksi. 
+
+**Ennen ADHD:n lääkehoidon aloitusta tulee kartoittaa lääkkeen käyttöön liittyviä riskejä,** erityisesti siis toteutetaan: 
+
+<li>verenpaineen mittaus</li>
+<li>fokusoitu kardiovaskulaarianamneesi; tarvittaessa kardiologin konsultaatio (käytetyt lääkkeet ovat yleensä stimulantteja (esim. metyylifenidaatti, lisdeksamfetamiini) ja täten kardiovaskulaariongelmat tulee kartoittaa hyvin)</li>
+<li>EKG* (lapsilla yleensä esitiedot (ja sukuanamneesi) ja somaattinen status ((RR, pulssi, auskultaatio yms) riittää ja EKG:ta ei aina tarvita)</li>
+<li>päihdehäiriöiden poissulku anamnestisesti, kliinisesti ja tarvittaessa laboratoriokokein</li>
+
+---
+
+Ensisijainen lääkevalmiste valitaan yksilöllisesti. ADHD:n hoidossa käytettävät lääkkeet voidaan jakaa stimulantteihin ja non-stimulantteihin, joista yleisimmässä käytössä ovat: 
+
+<li>Stimulantit: metyylifenidaatti, deksamfetamiini, lisdeksamfetamiini</li>
+<li>Non-stimulantit: atomoksetiini, guanfasiini (vaikutus alkaa hitaammin parissa viikossa (vrt. stimulantit heti) ja käytetään 1x/vrk annostelulla)</li>
+
+---
+
+Yleisimmin käytetty ensisijainen lääkevalmiste ADHD:n hoidossa on niin aikuisilla kuin lapsillakin **metyylifenidaatti.** 
+
+ADHD-lääkitys aloitetaan pienellä annoksella, minkä jälkeen annosta suurennetaan tarvittaessa yksilöllisen vasteen mukaisesti 1–2 viikon välein vähitellen hoitovastetta ja haittavaikutuksia seuraten. Valittu lääkehoito aloitetaan valmisteyhteenvedossa kuvatulla aloitusannoksella ja vastetta seurataan siten että käytön jatkamista arvioidaan viimeistään 3kk kuluttua, mutta yleensä aina näiden annosmuutosten yhteydessä tiheämmin. Jos lääkkeen teho on riittämätön tai vaste sopimaton voidaan siirtyä vaihtoehtoiseen lääkitykseen
+
+Jos ensimmäinen kokeiltu valmiste ei tuota toivottua vastetta edes riittävän korkealle nostetulla annoksella, voi olla perusteltua kokeilla vielä toista, profiililtaan erilaista metyylifenidaattivalmistetta, jonka jälkeen siirrytään joko lisdeksamfetamiiniin, atomoksetiiniin tai alaikäisillä deksamfetamiiniin tai guanfasiiniin; Osalle lääkkeistä peruskorvattavuus myönnetään vain lääkärinlausunnon perusteella, jos metyylifenidaatti ei tehoa tai sovellu muuten käytettäväksi. Perusterveydenhuollon vastuulle siirretyn ADHD-potilaan lääkehoitoa arvioidaan hyvän hoitovasteen saavuttamisen jälkeen säännöllisesti vähintään kerran vuodessa. 
+
+**ADHD-lääkehoidon vastetta ja haittavaikutuksia arvioidaan strukturoidusti:**
+
+<li>Anamneesi</li>
+<li>Seurataan sykettä ja verenpainetta, tarvittaessa EKG</li>
+<li>**Lapsilla ja nuorilla painon ja pituuden kehitystä kasvukäyrien avulla**</li>
+<li>Oireita tarkemmin oirekyselyillä</li>
+<li>Stimulanttihoidossa voidaan myös ihan taktisesti pitää hoitotaukoja, jolloin lääkettä vain ei oteta tiettyinä päivinä. Usein näin toimitaan myös sen suhteen, että viikonloppuisin ei käytetä lääkettä, kun ei ole koulussa keskittymisen tarvetta. Ainakin kerran vuodessa olisi arvioitava oiretaso ilman lääkitystä, etenkin mietittäessä lääkehoidon jatkoa. </li>
+
+---
+
+Tavallisimpia haittavaikutuksia stimulanteilla (metyylifenidaatti ja amfetamiinijohdokset) ja atomoksetiinilla ovat:
+
+<li>ruokahalun väheneminen -> voi vaikuttaa kasvuun -> tärkeää seurata</li>
+<li>päänsärky</li>
+<li>erilaiset lievät mahavaivat</li>
+<li>käytösoireet (ärtyisyys, aggressiivisuus)</li>
+<li>univaikeudet</li>
+<li>verenpaineen nousu ja syketaajuuden suureneminen</li>
+<li>Guanfasiini on alfa-2-agonisti ja sen ainoa virallinen käyttöaihe on lasten ja nuorten ADHD. Se vaikuttaa muihin lääkkeisiin verrattuna erilain ja sen yleisimpiä haittavaikutuksia taas ovat uneliaisuus/väsymys, verenpaineen/syketaajuuden lasku ja painonnousu. Lopetuksessa tärkeää tehdä lopetus hitaasti.</li>
+
+
+  </div>
+</div>
+
+### Autismin olennaiset oireet
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Autismikirjon diagnostiikka tulisi toteuttaa moniammatillisessa erikoislääkärijohtoisessa työryhmässä, jossa on riittävä osaaminen autismikirjon häiriöstä. Lähete ESH on siis aiheellinen, jos on todellinen epäily autismista. Etenkin lapsilla psykologin kehitystason tutkimus ja puheterapeutin arvio ovat usein tarpeen ennen varsinaista autismikirjon tutkimusta erotusdiagnostiikan pohtimiseksi ja oikean jatkohoitopaikan määrittelyä varten.
+
+---
+
+Autismikirjon häiriön diagnostiset kriteerit perustuvat Suomessa vielä toistaiseksi ICD-10-tautiluokitukseen, jossa autismikirjon häiriöstä käytetään diagnoosinimikettä laaja-alaiset kehityshäiriöt. Diagnostiikka tulee muuttumaan uuden ICD-11:n käyttöönoton myötä; ICD-11-luokituksessa on kuvattu tarkemmin mm. piirteiden ilmenemisikää sekä piirteiden laadullisen poikkeavuuden asteen vaihtelua eri tilanteissa. Lisäksi ydinpiirteet kuvataan pysyviksi, henkilön ikäodotuksiin ja älylliseen kehitystasoon nähden suuremmiksi vaikeuksiksi. Diagnostiikassa voidaan käyttää apuna myös DSM-5-kriteeristöä, mutta on huomioitava, että Suomessa diagnostiikka perustuu ICD-luokitteluun.
+
+**Autismikirjon pääoireet muodostavat niin sanotun autistisen triadin: 1) sosiaalisen vuorovaikutuksen poikkeavuudet, 2) kommunikaatiokyvyn poikkeavuudet sekä 3) stereotypiat. Diagnostiset kriteerit ovat tällä hetkellä tiivistettynä tämänsuuntaiset (kuvana tarkemmin alla):**
+
+<li>A. Poikkeava tai viivästynyt kehitys ennen kolmen vuoden ikää (toisinaan oirekuva voi tulla selvemmin esille vasta myöhemmin ympäristön haasteiden ylittäessä henkilön taidot)</li>
+<li>B. Laadullisia poikkeavuuksia sosiaalisessa vuorovaikutuksessa + kommunikaatiossa ja rajoittuneet, toistavat ja kaavamaiset käytöstavat, kiinnostuksen kohteet ja toiminnat</li>
+<li>C. Ei selkeää muuta selittävää sairautta (vaikka voikin esiintyä samanaikaisesti muita häiriöitä)</li>
+
+---
+
+Vanhemmat kiinnittävät huomionsa lapsen poikkeaviin piirteisiin usein jo ennen lapsen ensimmäistä tai toista syntymäpäivää, ja autismikirjon diagnoosia ennustavia käyttäytymismalleja on havaittu jo 1-vuotissyntymäpäivien kotivideoissa: katsekontaktin vähäisyys, reagoimattomuus omaan nimeen, esineiden esittelemisen puute sekä puute osoittaa etusormella mielenkiinnon kohdetta. Kuitenkin autismidiagnoosi asetetaan nykyisin keskimäärin vasta 3–4 vuoden iässä, ja tätä ikää pitää edelleen saada alemmaksi.
+
+Joskus diagnoosi tehdään vasta nuoruudessa. Diagnosointi nuoruusiässä on vaikeampaa, koska autismikirjon häiriön oireet ovat useimmiten puhtaimmillaan lapsuudessa. Diagnosoinnin vaikeutta lisää se, että monille on nuoruusiässä ehtinyt kehittyä samanaikaisia psykiatrisia ja neuropsykiatrisia häiriöitä yleisemmin kuin lapsuusiässä. 
+
+![](images/neuvolaseulautism.png)
+![](images/autism.png)
+![](images/autis.png)
+![](images/icd10autismi.png)
+![](images/dsm5autismi.png)
+![](images/chatrt.png)
+![](images/autismivarhainen.png)
+  </div>
+</div>
+
+
+### Pitkä ja diffuusi potilastapausteksti {#Pitka-diffuusi}
+
+Äiti tulee ranuan terveyskeskukseen sinun kesäkandina pitämään iltapäivystysvastaanottoon. Äiti vastaanotolla hätääntynyt ja kertoo lähteneensä perheen isää karkuun pari vuotta jatkuneen “kirvesjumpan” pelottamana nyt siskonsa luokse. Kirvesjumpassa siis perheen isä uhkaillut ja riidellyt perheen äidin kanssa, usein humalassa, ottaen viestin voimakeinoksi kirveen käteensä. Ennestään tiedät että 3v lapsi harrastaa päiväkodissa heijaamista ja nyt 5v lapsi on aloittanut yökastelun. Mitä teet terveyskeskuslääkärinä? laadi toimintasuunnitelma yms tilanteen pohjalta
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Tilanne tulee ottaa rauhallisesti vastaan ja selvittää akuutti uhka. Tietysti tulee yrittää haistella, onko äiti psykoosissa ja puhuuko hän ihan totta, mutta oletetaan vastauksessa, että äiti on realiteeteissa. Tietysti hän voi myös valehdella ilman, että on psykoosissa. Kesäkandina kannattaa konsultoida takapäivystäjää tilanteesta, mutta oletetaan että hän ei vastaa.
+
+Tilanne myös hieman vaihtelee sen mukaan ovatko lapset mukana vai kotona isän kanssa vai äidin siskolla. 
+
+---
+
+Kerätään tarkka anamneesi ja kirjataan isän tekemä väkivalta ja kirveellä uhkailu täsmällisesti ja sitaatteja käyttäen ("Äidin mukaan isä uhkaillut kirveellä humalassa kahden vuoden ajan..."). Tämä merkintä on kriittinen myöhemmän rikosilmoituksen, lähestymiskiellon ja huoltajuusriitojen kannalta.
+
+Tarkistetaan äidiltä ja lapsilta mahdolliset aiemmat tai tuoreet fyysisen väkivallan jäljet (mustelmat, murtumat) ja dokumentoi ne sairauskertomukseen sanallisesti ja valokuvaten (suostumuksella).
+
+Jos on epäily siitä, että isä tietää siskon osoitteen ja on matkalla sinne kirveen kanssa tai uhkailee edelleen, soitetaan poliisille ja ilmoitetaan uhkatilanteesta. Samoin jos on ajatus siitä, että äiti tai lapset ovat tulleet lievää pahoinpitelyä pahemmin pahoinpidellyiksi, niin ilmoitus poliisille. 
+
+Tehdään kiirellinen lastensuojeluilmoitus; ei tarvitse sanoa varmaksi, että isä on sekaisena kirveen kanssa, vaan sanotaan miten asia on (eli äiti kertoo näin; eihän tässä tilanteessa vielä voida tietää oikeaa tarinaa). Keskustellaan sosiaalipäivystäjän kanssa lasten ja äidin akuutista majoituksesta ja turvallisuudesta. 
+
+Lapsia ei tulisi haastatella liikaa aiheesta (vain avoimin kysymyksin, ei johdattelua) tai äitiä lasten läsnäollessa, jotta heidän tarinansa eivät merkittävästi vaikutu haastattelusta. 
+
+---
+
+Tee lähete lastenpsykiatrian poliklinikalle tai kasvatus- ja perheneuvolaan lasten kokeman mahdollisen trauman vuoksi, ei tulisi jättää hoitoa vain päivystyskäyntiin. 
+
+  </div>
+</div>
+
+## 2015 
+
+### Kysymyksiä ADHD:sta, vastaa lyhyesti:
+
+- a. Esiintyvyys ja sukupuolijakauma
+- b. Miten neuvot vanhempia ADHDsta?
+- c. Miten neuvot koulua ADHDsta?
+- d. Diagnoosin pääpiirteet lyhyesti?
+- e. Lääkehoito TK-lääkärin näkökulmasta
+- f. Komorbiditeetti?
+- g. Mitkä muut häiriöt aiheuttavat levottomuutta?
+
+<div class="">
+  <button class="solution-button"
+          data-label="a"
+          data-hide-label="a - Piilota vastaus">
+    a
+  </button>
+  <div class="solution-content">
+
+Vuonna 2023 julkaistun meta-analyysin mukaan ADHD:n esiintyvyydeksi 3–12-vuotiailla lapsilla arvioitiin 7,6 % (6,1–9,4 %) ja 12–18-vuotiailla 5,6 % (4,8–7 %). Esiintyvyys on yleisempää pojilla: 7–12-vuotiailla pojilla 11,3 % ja tytöillä 3,9 %, nuoruusikäisillä pojilla 9,5 % ja tytöillä 5,7 %. 
+
+Esiintyvyyden on arvioitu olevan aikuisilla 2,2–3,4 %; ero sukupuolien välillä tasoittuu iän myötä. 
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="b"
+          data-hide-label="b - Piilota vastaus">
+    b
+  </button>
+  <div class="solution-content">
+
+Rakenna selkeä ja ennakoitava arjen struktuuri (rutiinit, visuaaliset lukujärjestykset, yhtenäiset säännöt). Paloittele ohjeet lyhyiksi ja yksinkertaisiksi; anna positiivista palautetta onnistumisista -- älä keskity epäonnistumisien sättimiseen. Huolehdi unihygieniasta ja rajaa iltaruutuaikaa. Kannusta liikuntaan. Huolehdi terveellisestä ravinnosta ja ruokarytmistä. 
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="c"
+          data-hide-label="c - Piilota vastaus">
+    c
+  </button>
+  <div class="solution-content">
+
+Istumapaikka pois häiriötekijöistä, härväyspenkit. Ohjeiden pilkkominen, apuvälineet (esim. kuulosuojaimet) ja tauoista huolehtiminen. 
+
+Aloita pedagogiset tukitoimet välittömästi – diagnoosia ei tarvitse jäädä odottamaan. 
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="d"
+          data-hide-label="d - Piilota vastaus">
+    d
+  </button>
+  <div class="solution-content">
+
+**Oireita on ollut jo ennen ikävuotta 12 (ICD10:ssä virallisesti 7v iässä viimeistään, mutta ennen 12v ICD11 ja DSM5) oireiden arvioimisessa monilähteisen tiedonkeryyn hyödyntäminen), oireet ovat kestäneet vähintään 6kk, oireita on useammalla elämän alueella, on todisteita oireiden haitasta elämässä ja että oireet eivät ole selkesti jostain muusta syystä johtuvia.** Muu psykiatrinen diagnoosi ei ole este ADHD-diagnoosille silloin, kun on kyse selkeästi erillisistä mutta samanaikaisista häiriöistä. Erotusdiagnostiikan luotettavuuden kannalta olisi hyvä, että psykiatrista oireistoa tai päihdehäiriötä olisi yritetty hoitaa ennen ADHD:n tutkimista, mutta hoitoresistentissä tilanteessa arviota voidaan yrittää erikoissairaanhoidossa tehdä.
+
+Arvioitavat oireet kuuluvat kahteen ryhmään eli tarkkaamattomuuteen ja yliaktiivisuuteen/impulsiivisuuteen (ICD10:ssä yliaktiivisuus/impulsiivisuus ovat erillisiä diagnostisissa kriteereissä). 
+
+Tarvitaan riittävä määrä oireita, jotta voidaan diagnosoida ADHD. ICD10:ssä vaaditaan 6 tarkkaamattomuusoiretta, 3 impulsiivisuusoiretta ja 3 yliaktiivisuusoiretta; DSM5 vaaditaan vähintään 6 oiretta tarkaamattomuudesta tai yliaktiivisuudesta/impulsiivisuudesta. ADHD:stä voidaan tunnistaa kolme ilmenemismuotoa sen mukaan, painottuvatko oireet tarkkaamattomuuteen (pääasiassa tarkkaamaton ilmenemismuoto), yliaktiivisuuteen ja impulsiivisuuteen (pääasiassa yliaktiivis-impulsiivinen ilmenemismuoto) vai esiintyykö kaikkia ydinoireita (yhdistetty ilmenemismuoto). 
+
+Tuleva ICD-11-luokitus ei enää määrittele vaadittavien oireiden tarkkaa lukumäärää, vaan kuvaa keskeisiä oireita oireryhminä. 
+
+
+![](images/dsm5adhd.png)
+![](images/icd10adhd.png)
+![](images/adhdmnemonic.png)
+![](images/adhdmuisti.png)
+![](images/adhddiagn.png)
+![](images/adhddiagn2.png)
+
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="e"
+          data-hide-label="e - Piilota vastaus">
+    e
+  </button>
+  <div class="solution-content">
+
+ADHD:n lääkehoidon voi aloittaa PTH:ssa varsinkin kouluikäisillä lapsilla (työpaikan toimiohjeista riippuen omatoimisestikin; aikuisilla periaatteessa vaatii virallisesti vähintään konsultaation, jos ei ole erikoislääkäri). **Alle 6-vuotiaiden lasten lääkehoito vaatii erityistä huolellisuutta ja toteutetaan pääasiassa ESH.** Lasten ADHD:n hoito kannattaa ohjata lähetteellä ESH:hon, jos ADHD on hoitoresistentti tai komplisoitunut (komorbiditeetteja).
+
+**Lääkehoidon tarvetta arvioidaan, jos muut tuki- ja hoitomuodot osoittautuvat riittämättömiksi tai oireet ovat niin vai**keita, että muiden hoitomuotojen toteuttaminen ei onnistu. Pelkkä lääkehoito ei kuitenkaan ole koskaan vastaus: tarpeellisia tukitoimia ja psykososiaalisia hoitomuotoja jatketaan lääkehoidon aikana. Mikäli lääkehoito aloitetaan, sen seurannan täytyy olla systemaattista ja erityisesti alussa riittävän tiivistä vasteen, tarpeen ja haittavaikutusten arvioimiseksi. 
+
+**Ennen ADHD:n lääkehoidon aloitusta tulee kartoittaa lääkkeen käyttöön liittyviä riskejä,** erityisesti siis toteutetaan: 
+
+<li>verenpaineen mittaus</li>
+<li>fokusoitu kardiovaskulaarianamneesi; tarvittaessa kardiologin konsultaatio (käytetyt lääkkeet ovat yleensä stimulantteja (esim. metyylifenidaatti, lisdeksamfetamiini) ja täten kardiovaskulaariongelmat tulee kartoittaa hyvin)</li>
+<li>EKG* (lapsilla yleensä esitiedot (ja sukuanamneesi) ja somaattinen status ((RR, pulssi, auskultaatio yms) riittää ja EKG:ta ei aina tarvita)</li>
+<li>päihdehäiriöiden poissulku anamnestisesti, kliinisesti ja tarvittaessa laboratoriokokein</li>
+
+---
+
+Ensisijainen lääkevalmiste valitaan yksilöllisesti. ADHD:n hoidossa käytettävät lääkkeet voidaan jakaa stimulantteihin ja non-stimulantteihin, joista yleisimmässä käytössä ovat: 
+
+<li>Stimulantit: metyylifenidaatti, deksamfetamiini, lisdeksamfetamiini</li>
+<li>Non-stimulantit: atomoksetiini, guanfasiini (vaikutus alkaa hitaammin parissa viikossa (vrt. stimulantit heti) ja käytetään 1x/vrk annostelulla)</li>
+
+---
+
+Yleisimmin käytetty ensisijainen lääkevalmiste ADHD:n hoidossa on niin aikuisilla kuin lapsillakin **metyylifenidaatti.** 
+
+ADHD-lääkitys aloitetaan pienellä annoksella, minkä jälkeen annosta suurennetaan tarvittaessa yksilöllisen vasteen mukaisesti 1–2 viikon välein vähitellen hoitovastetta ja haittavaikutuksia seuraten. Valittu lääkehoito aloitetaan valmisteyhteenvedossa kuvatulla aloitusannoksella ja vastetta seurataan siten että käytön jatkamista arvioidaan viimeistään 3kk kuluttua, mutta yleensä aina näiden annosmuutosten yhteydessä tiheämmin. Jos lääkkeen teho on riittämätön tai vaste sopimaton voidaan siirtyä vaihtoehtoiseen lääkitykseen
+
+Jos ensimmäinen kokeiltu valmiste ei tuota toivottua vastetta edes riittävän korkealle nostetulla annoksella, voi olla perusteltua kokeilla vielä toista, profiililtaan erilaista metyylifenidaattivalmistetta, jonka jälkeen siirrytään joko lisdeksamfetamiiniin, atomoksetiiniin tai alaikäisillä deksamfetamiiniin tai guanfasiiniin; Osalle lääkkeistä peruskorvattavuus myönnetään vain lääkärinlausunnon perusteella, jos metyylifenidaatti ei tehoa tai sovellu muuten käytettäväksi. Perusterveydenhuollon vastuulle siirretyn ADHD-potilaan lääkehoitoa arvioidaan hyvän hoitovasteen saavuttamisen jälkeen säännöllisesti vähintään kerran vuodessa. 
+
+**ADHD-lääkehoidon vastetta ja haittavaikutuksia arvioidaan strukturoidusti:**
+
+<li>Anamneesi</li>
+<li>Seurataan sykettä ja verenpainetta, tarvittaessa EKG</li>
+<li>**Lapsilla ja nuorilla painon ja pituuden kehitystä kasvukäyrien avulla**</li>
+<li>Oireita tarkemmin oirekyselyillä</li>
+<li>Stimulanttihoidossa voidaan myös ihan taktisesti pitää hoitotaukoja, jolloin lääkettä vain ei oteta tiettyinä päivinä. Usein näin toimitaan myös sen suhteen, että viikonloppuisin ei käytetä lääkettä, kun ei ole koulussa keskittymisen tarvetta. Ainakin kerran vuodessa olisi arvioitava oiretaso ilman lääkitystä, etenkin mietittäessä lääkehoidon jatkoa. </li>
+
+---
+
+Tavallisimpia haittavaikutuksia stimulanteilla (metyylifenidaatti ja amfetamiinijohdokset) ja atomoksetiinilla ovat:
+
+<li>ruokahalun väheneminen -> voi vaikuttaa kasvuun -> tärkeää seurata</li>
+<li>päänsärky</li>
+<li>erilaiset lievät mahavaivat</li>
+<li>käytösoireet (ärtyisyys, aggressiivisuus)</li>
+<li>univaikeudet</li>
+<li>verenpaineen nousu ja syketaajuuden suureneminen</li>
+<li>Guanfasiini on alfa-2-agonisti ja sen ainoa virallinen käyttöaihe on lasten ja nuorten ADHD. Se vaikuttaa muihin lääkkeisiin verrattuna erilain ja sen yleisimpiä haittavaikutuksia taas ovat uneliaisuus/väsymys, verenpaineen/syketaajuuden lasku ja painonnousu. Lopetuksessa tärkeää tehdä lopetus hitaasti.</li>
+
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="f"
+          data-hide-label="f - Piilota vastaus">
+    f
+  </button>
+  <div class="solution-content">
+
+ADHD:n kanssa esiintyy usein samanaikaisesti muita häiriöitä tai sairauksia. Osalla niistä lienee samantyyppinen neurobiologinen alkuperä, mutta osa voi kehittyä sekundaarisina, esimerkiksi reaktiivinen masennus toistuvien epäonnistumisten seurauksena. Psykiatriset samanaikaishäiriöt myös komplisoivat ADHD:n hoitoa ja lisäävät oppimiseen ja toimintakykyyn liittyviä ongelmia. 
+
+ADHD-diagnoosin saaneilla samanaikaishäiriöiden esiintyvyys on 5–20 vuoden iässä n. 77 %.
+
+---
+
+Keskeisimmät samanaikaiset neurokehitykselliset oireyhtymät: 
+
+<li>Hieno- ja karkeamotoriikan sekä aistitiedon käsittelyn vaikeuksia esiintyy eri tutkimusten mukaan 30–80 %:lla ADHD-diagnoosin saaneista lapsista</li>
+<li>Puheen ja kielen kehityksen häiriöiden riski on ADHD-oireisilla lapsilla jopa kolminkertainen, mutta arviot kehityksellisen kielihäiriön ja ADHD:n samanaikaisuudesta kuitenkin vaihtelevat</li>
+<li>Erityiset oppimisvaikeudet ovat tavallisempia ADHD-diagnoosin saaneilla kuin verrokeilla</li>
+<li>Autismikirjon häiriön (autism spectrum disorder, ASD) yhteydessä esiintyvän ADHD:n esiintyvyydeksi lapsilla on arvioitu 30–80 %. ADHD:n yhteydessä samanaikaisia autismikirjon häiriön piirteitä taas on arvioitu esiintyvän 20–50 %:lla lapsista.</li>
+<li>Tic-oireita esiintyy noin 20–30 %:lla ADHD-oireisista lapsista</li>
+
+---
+
+Keskeisimmät neurologiset ja somaattiset samanaikaishäiriöt
+
+<li>Unihäiriöt ovat ADHD-diagnoosin saaneilla yleisiä -- voi olla lääkityksenkin haittavaikutus</li>
+<li>Epilepsia on yleisempää: epilepsialla ja ADHD:llä ei ole syy-seuraussuhdetta keskenään, vaan niiden taustalla on yhteisiä syytekijöitä</li>
+
+---
+
+Keskeisimmät psykiatriset samanaikaishäiriöt
+
+<li>**Käytöshäiriö on lapsilla ja nuorilla tavallisin ADHD:n kanssa samanaikaisesti esiintyvä psykiatrinen häiriö**</li>
+<li>Ahdistuneisuushäiriöitä esiintyy 15–50 %:lla lapsista ja nuorista, joilla on ADHD</li>
+<li>Masennusta esiintyy samanaikaisesti ADHD:n kanssa 20–70 %:lla lapsista ja 35–50 %:lla aikuisista</li>
+<li>Kaikkien syömishäiriöiden riski on suurentunut etenkin naisilla ja tytöillä, joilla on ADHD</li>
+<li>Päihdehäiriöt ovat ADHD-diagnoosin saaneilla aikuisilla 2–3 kertaa yleisempiä kuin muulla väestöllä</li>
+<li>Lapsuudessa tai nuoruudessa ADHD-diagnoosin saaneilla on suurentunut riski sairastua psykoottiseen häiriöön</li>
+
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="f"
+          data-hide-label="f - Piilota vastaus">
+    f
+  </button>
+  <div class="solution-content">
+
+Ahdistuneisuus, masennus, bipolaarinen, psykoottinen häiriö, sopeutumishäiriö/trauma (PTSD), autismikirjo, oppimisvaikeudet... 
+
+Tietysti myös somaattiset/ympäristölliset syyt, kuten uniongelmat, kuulon/näön heikous, kilpirauhasen toimintahäiriöt, turvattomuus kotiympäristössä (esim. perheväkivalta, vanhemman uupumus), pitkä ruutuaika ja haitallinen sosiaalisen median käyttö...
+  </div>
+</div>

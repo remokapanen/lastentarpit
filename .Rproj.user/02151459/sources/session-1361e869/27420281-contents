@@ -1,0 +1,73 @@
+# 2024
+
+## Tentti
+
+### Perikardiitin uusimista ehkäisee
+
+- a. Kolkisiinihoito
+- b. Perikardiumpunktio
+- c. Glukokortikoidihoito
+- d. Tarpeeksi pitkä tulehduskipulääkekuuri
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      a
+
+Perikardiitti eli sydänpussin tulehdus on jokseenkin yleinen päivystyspotilaan oireiden taustalta löytyvä syy. Rintakipu (tyypillisesti terävä ja pistävä; ei yleensä säteile, mutta joskus kylläkin voi säteillä hartioihin) on tavallisin akuutin perikardiitin oire. Tyypillistä on se, että kipu pahenee  yskiessä tai syvään hengitettäessä ja voi helpottua istuessa ja eteenpäin nojatessa. Myös sydäninfarktia muistuttava kipu on mahdollinen erityisesti myoperikardiitissa. Osalla potilaista on hengenahdistusta erityisesti rasituksessa. 
+
+Yleisin aiheuttaja on idiopaattinen ja yleensä taustalla ajatellaan olevan jokin virusinfektio. Yleisin todettavissa oleva aiheuttaja on maligniteetti (yleensä metastaasiin liittyvä), muita ovat mm. infarktiperikardiitti (transmuraalisen infarktin aiheuttamasta paikallisesta ärsytyksestä ja tulehduksesta johtuva perikardiitti; syntyy 1. viikolla infarktista), Dresslerin oireyhtymä (infarktin jälkeen autovasta-aineiden kertymisen seurauksena syntyvä tulehdus n. 2-10 viikkoa infarktista), SLE (ja muut systeemiset tulehdussairaudet), säteily ja vaikea uremia (luokkaa >60 mmol/l; esiintyy jopa 6-10%:lla vaikeaa munuaisten vajaatoimintaa sairastavista ennen dialyysin aloittamista; tyypillistä on se, että EKG-muutoksia ei ilmene). 
+
+<li>Idiopaattisessa (viraalisessa) perikardiitissa on typillistä virusinfektion yleisoireet, varsinkin ennen rintakipuilua. Lievä lämpöily on viruksen aiheuttamalle sydänpussitulehdukselle tyypillistä (vrt. korkea kuume viittaa bakteeri-infektioon; bakterielli perikardiitti on harvinainen, mutta vaarallinen)</li>
+<li>Maligniteetin aiheuttama ilmenee yleensä kivuttomana ja runsaana nesteilynä (yleensä huonon ennusteen merkki)</li>
+
+---
+
+Diagnostiikassa yleensä otetaan status+anamneesi, thoraxkuva, EKG, laboratoriotutkimuksia ja keskeisimpänä juuri perikardiitin suhteen sydämen kaikututkimus (UKG). 
+
+<li>Auskultaatiossa voi kuulua perikardiaalinen hankausääni; parhaiten äänen saa esiin etukumarassa asennossa. Hankausääni on yleensä kaksijakoinen, systolis-diastolinen; se on usein kuultavissa vain sisäänhengityksen aikana ja voi muistuttaa hiekkapaperin hankausääntä. Hankausääni voi puuttua, jos perikardiumnestettä on runsaasti.</li>
+<li>Thx-rtg on yleensä normaali, mutta on runsaasti nestettä -> sydänvarjo suurenee</li>
+<li>EKG:ssa tyypillisiä löydöksiä ovat varsinkin laaja-alaiset ST-nousut (ei siis yleensä noudata suonitusalueita, voi joskus olla lokalisoituneempaakin) ja näitä seuraavat T-invertaatiot (joskus voi olla pelkkiä T-muutoksia) ja/tai (varsinkin akuuttivaiheessa) PR-laskut. Yksi suhteellisen sensitiivinen piirre on ns. Spodickin merkki eli alaspäin viettävät TP-segmentit, joka näkyy yleensä parhaiten lateraalisissa rintakytkennöissä ja kytkennässä II. Lievä sinustakykardia on sydänpussitulehduksessa tavallista, mutta muut rytmihäiriöt ja johtumishäiriöt viittaavat sydänlihasvaurioon (myokardiitti).</li>
+<li>Labroissa tulehdusarvot ovat tyypillisesti koholla eli CRP on suurentunut (korreloi taudin aktiivisuuteen), lievä/kohtalainen leukosytoosi, suurentunut lasko. Troponiinit nousevat, jos mukana on sydänlihaksen tulehdus (myoperikardiitti).</li>
+<li>Keskeisin tutkimus on sydämen UÄ ja se kuuluu tehdä kaikille epäilyn herätessä. Siinä voidaan nähdä sydäntä ympäröivän perikardiumnesteen kertymistä</li>
+  <ul>
+    <li>Nestevaippa voidaan (ja kannattaa) mitata monissa standardi-ikkunoissa, kuten PLAX:ssa, PSAX:ssa, A4C:ssa ja subkostaalisesti (neste kertyy yleensä ensimmäiseksi posteriorisesti, joten PLAX tai subkostaalinen ikkuna on yleensä paras sen suhteen; subkostaalisessa vielä näkyy ympäröivät effuusiot hyvin). Kertymän paksuus mitataan diastolessa parietaalisen ja viskeraalisen perikardiumin välisenä etäisyytenä.</li>
+    <li>Poikkeava kertymä on >5mm, keskivaikea on 10-20mm ja vaikea on >20mm (vaikeusasteet riippuvat hieman lähteestä). Jos nestettä näkyy pienesti vain systolessa, niin se on yleensä merkityksetön.</li>
+  </ul>
+
+---
+
+Suurin osa akuuteista sydänpussitulehduksista paranee ongelmitta ja tyypillisiä viruksen aiheuttamia sydänpussitulehduksia voidaan hoitaa ja seurata avohoidossa. Sairaalahoito on aiheellinen, jos 
+
+<li>Potilaalla kuumetta</li>
+<li>Verenpaine on matala ja syke tiheä</li>
+<li>Kaulalaskimopaine koholla</li>
+<li>Suuri perikardiumeffuusio</li>
+<li>Immunosuppressoitu potilas</li>
+<li>Antikoaguloitu potilas (etenkin jos jokin sydäntoimenpide tehty)</li>
+
+---
+
+Akuutin perikardiitin hoidon perusperiaatteet ovat rasituksen välttäminen (vältetään ponnisteluja ja raskasta fyysistä kuormitusta) ja lääkehoito. **Lääkitykseen kuuluu yleensä tulehduskipulääkitys ja kolkisiini.**
+
+<li>NSAID (esim. ibuprofeeni 600mg x3 aikuisille tai ASA 500 - 1000 mg x3) estävät COX-entsyymejä ja vähentävät prostaglandiinien tuotantoa, mikä vähentää vasodilataatiota, turpoamista, kudoksen ärsytystä ja yleisesti tulehdusreaktiota sydänpussissa ja siten vähentävät myös perikardiumnesteen kertymistä, Ne myös vähentävät rintakipua. NSAIDeja jatketaan oireiden ajan ja kunnes CRP on normaalistunut, mihin tavallisesti kuluu 7–14 vrk. Tämän jälkeen lääkeannosta pienennetään asteittain oireiden mukaan. Tämä asteittainen vähentäminen ja pitkäkestoinen hoito myös vähentää uusiutumisriskiä.</li>
+<li>Kolkisiini on vanha kihtilääke, jota käytetään myös juuri perikardiitin hoidossa (myös mm. välimeren kuumeessa). Se inhiboi intrasellulaaristen mikrotubulusten polymerisaatiota sitomalla ja stabiloimalla tubuliinia. Täten solut, joiden toiminta nojaa runsaasti mikrotubulusten polymerisaatioon (erityisesti neutrofiilit), kokevat heikentynyttä toimintaa -> kolkisiini siis estää neutrofiilien migraatiota, fagosytoosia ja degranulaatiota. Kolkisiini myös estää inflammasomikompleksien muodostumista. Nämä mekanismit auttavat perikardiumin tulehduksen vähentämisessä ja erityisesti myös perikardiitin uusiutumisen ja kroonistumisen estämisessä. Hoidon kesto ensimmäisen perikardiitin jälkeen on 3 kk. Jos kyseessä on uusiutuminen tai krooninen tilanne, niin kesto on yleensä 6kk. Annostelu on 0.5mg x2, jos paino on >70kg ja 0.5mgx1 jos paino on <70kg tai potilaalla on munuaisten vajaatoiminta (gfr 30-60). Maksan vajaatoiminnassa tulee olla tarkka käytön kanssa (annos myös 0.5mg/vrk) ja vajaatoimintapotilailla käyttö on vasta-aiheista samanaikaisesti voimakkaiden CYP3A4 tai P-glykoproteiinin estäjien kanssa (esim. siklosporiini, makrolidit, atsolit), koska ne lisäävät kolkisiinin pitoisuutta.</li>
+  <ul>
+    <li>Yleisimpiä haittavaikutuksia ovat pahoinvointi, GI-ongelmat (oksentelu, vatsakipu, ripuli). Harvinaisia haittoja ovat mm. luuydinsuppressio, perifeerinen neuriitti, alopesia. Verenkuva on tarkistettava ajoittain. Jos potilaalla ilmenee iho-oireita tai veridyskrasian oireita (kuume, stomatiitti, kipeä kurkku, pidentynyt vuotoaika), hoito pitää keskeyttää välittömästi ja veriarvot on tarkistettava.</li>
+   <li>Ripulointi voi olla ensimerkki kolkisiinitoksisuudesta; annosta kannattaa vähentää tai tauottaa lääke</li>
+  </ul>
+
+---
+
+b: Perikardiumpunktio (sydänpussin neulapisto nesteen tyhjentämiseksi) on hätätoimenpide, joka tehdään, jos nestettä on kertynyt niin paljon, että se uhkaa sydämen toimintaa (tamponaatio). Se ei ole uusiutumista ehkäisevä hoito.
+
+c: Glukokortikoidi (yleensä prednisoloni/prednisoni 0-2-0.5 mg/kg) aloitetaan vain, jos tulehduskipulääkkeellä ja kolkisiinilla ei saada hoitovastetta. Lievittää oireita nopeasti. Niitä pyritään välttämään, koska etenkin suurilla annoksilla glukokortikoidi altistaa uusiutuville perikardiiteille. Hoitoresistenteissä tapauksissa voidaan myös pohtia vaihtoehtoisesti anakinraa (IL-1-estäjä). Glukokortikoidi voi olla varsin perusteltu lääkevalinta, jos potilaalla on systeeminen tulehduksellinen sairaus (esim. SLE) tai hän on raskaana. Kolkisiinille ja glukokortikoidihoidolle reagoimattoman perikardiitin hoidossa on myös käytetty muita immunosuppressiivisia lääkkeitä, kuten atsatiopriinia tai metrotreksaattia. 
+
+d: Liian lyhyt tai äkillisesti lopetettu tulehduskipulääkitys altistaa kyllä relapsille, minkä vuoksi lääkitys pitää aina purkaa asteittain eli taperoida. Tulehduskipulääke on kuitenkin ensisijaisesti akuutin vaiheen oire- ja tulehdushoito. Tutkimusnäytön valossa pelkkä pitkäkään NSAID-kuuri ei estä uusiutumista yhtä tehokkaasti kuin se, että hoitoon yhdistetään kolkisiini. Siksi kolkisiini on oppikirjamaisesti "oikeampi" vastaus kysymykseen, joka koskee nimenomaan uusimisen ehkäisyä.
+  </div>
+</div>
+

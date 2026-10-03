@@ -1,0 +1,1632 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Chapter 2 Sisätaudit 1 - 2018 | Sisätaudit 1 - 1</title>
+  <meta name="description" content="Chapter 2 Sisätaudit 1 - 2018 | Sisätaudit 1 - 1" />
+  <meta name="generator" content="bookdown 0.43 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Chapter 2 Sisätaudit 1 - 2018 | Sisätaudit 1 - 1" />
+  <meta property="og:type" content="book" />
+  
+  
+  <meta name="github-repo" content="rstudio/bookdown-demo" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Chapter 2 Sisätaudit 1 - 2018 | Sisätaudit 1 - 1" />
+  
+  
+  
+
+<meta name="author" content="" />
+
+
+<meta name="date" content="2026-05-16" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="index.html"/>
+<link rel="next" href="cross.html"/>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+<link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
+<link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
+
+
+<style type="text/css">
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { color: #008000; } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { color: #008000; font-weight: bold; } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+</style>
+
+<style type="text/css">
+  
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+</style>
+<style type="text/css">
+/* Used with Pandoc 2.11+ new --citeproc when CSL is used */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}
+</style>
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./">A Minimal Book Example</a></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> About</a>
+<ul>
+<li class="chapter" data-level="1.1" data-path="01-2018.html"><a href="#sis%C3%A4taudit-1---1"><i class="fa fa-check"></i><b>1.1</b> Sisätaudit 1 - 1?</a></li>
+</ul></li>
+<li class="chapter" data-level="2" data-path="01-2018.html"><a href="#sis%C3%A4taudit-1---2018"><i class="fa fa-check"></i><b>2</b> Sisätaudit 1 - 2018</a>
+<ul>
+<li class="chapter" data-level="2.1" data-path="01-2018.html"><a href="#mik%C3%A4-on-tyypillisen-raudanpuuteanemian-verenkuva"><i class="fa fa-check"></i><b>2.1</b> Mikä on tyypillisen raudanpuuteanemian verenkuva?</a></li>
+<li class="chapter" data-level="2.2" data-path="01-2018.html"><a href="#mik%C3%A4-seuraavista-on-folaatinpuutteen-synnyn-riskitekij%C3%A4"><i class="fa fa-check"></i><b>2.2</b> Mikä seuraavista on folaatinpuutteen synnyn riskitekijä?</a></li>
+<li class="chapter" data-level="2.3" data-path="01-2018.html"><a href="#mik%C3%A4-seuraavista-ei-ole-hemolyysin-osoituskoe"><i class="fa fa-check"></i><b>2.3</b> Mikä seuraavista ei ole hemolyysin osoituskoe</a></li>
+<li class="chapter" data-level="2.4" data-path="01-2018.html"><a href="#mill%C3%A4-trombosyyttitasolla-voi-ottaa-luuydinaspiraation%C3%A4ytteen"><i class="fa fa-check"></i><b>2.4</b> Millä trombosyyttitasolla voi ottaa luuydinaspiraationäytteen?</a></li>
+<li class="chapter" data-level="2.5" data-path="sisätaudit-1---2018.html"><a href="sisätaudit-1---2018.html"><i class="fa fa-check"></i><b>2.5</b> Aplastinen anemia on</a></li>
+<li class="chapter" data-level="2.6" data-path="01-2018.html"><a href="#mik%C3%A4-n%C3%A4ist%C3%A4-ei-kuulu-ns.-b-oireisiin"><i class="fa fa-check"></i><b>2.6</b> Mikä näistä ei kuulu ns. B-oireisiin</a></li>
+<li class="chapter" data-level="2.7" data-path="sisätaudit-1---2018.html"><a href="sisätaudit-1---2018.html#multippelin-myelooman-yleisin-ensioire-on"><i class="fa fa-check"></i><b>2.7</b> Multippelin myelooman yleisin ensioire on:</a></li>
+<li class="chapter" data-level="2.8" data-path="01-2018.html"><a href="#mik%C3%A4-seuraavista-ei-aiheuta-vuototaipumusta"><i class="fa fa-check"></i><b>2.8</b> Mikä seuraavista ei aiheuta vuototaipumusta</a></li>
+<li class="chapter" data-level="2.9" data-path="01-2018.html"><a href="#kun-verirym%C3%A4-on-o-plasmassa-olevat-isoagglutiinit-ovat-tyypilt%C3%A4%C3%A4n"><i class="fa fa-check"></i><b>2.9</b> Kun verirymä on O, plasmassa olevat isoagglutiinit ovat tyypiltään</a></li>
+<li class="chapter" data-level="2.10" data-path="01-2018.html"><a href="#mik%C3%A4-on-b-12-vitamiinin-kuljetusproteiini-veress%C3%A4"><i class="fa fa-check"></i><b>2.10</b> Mikä on B-12-vitamiinin kuljetusproteiini veressä?</a></li>
+<li class="chapter" data-level="2.11" data-path="01-2018.html"><a href="#mik%C3%A4-seuraavista-sopii-hemolyyttiseen-anemiaan"><i class="fa fa-check"></i><b>2.11</b> Mikä seuraavista sopii hemolyyttiseen anemiaan?</a></li>
+<li class="chapter" data-level="2.12" data-path="01-2018.html"><a href="#mink%C3%A4-karsinooman-ensioire-voi-olla-erytrosytoosi-polysytemia"><i class="fa fa-check"></i><b>2.12</b> Minkä karsinooman ensioire voi olla erytrosytoosi (polysytemia)?</a></li>
+<li class="chapter" data-level="2.13" data-path="01-2018.html"><a href="#miss%C3%A4-seuraavista-ns.-klassisista-myeloproliferatiivisista-taudeista-l%C3%B6ytyy-philadelphia-kromosomi"><i class="fa fa-check"></i><b>2.13</b> Missä seuraavista ns. klassisista myeloproliferatiivisista taudeista löytyy Philadelphia-kromosomi?</a></li>
+<li class="chapter" data-level="2.14" data-path="01-2018.html"><a href="#mik%C3%A4-viittaa-makrosytaariseen-anemiaan"><i class="fa fa-check"></i><b>2.14</b> Mikä viittaa makrosytaariseen anemiaan?</a></li>
+<li class="chapter" data-level="2.15" data-path="sisätaudit-1---2018.html"><a href="sisätaudit-1---2018.html#polysytemia-veran-transformaatiolla-taudin-kulun-muutos-tarkoitetaan"><i class="fa fa-check"></i><b>2.15</b> Polysytemia veran transformaatiolla (taudin kulun muutos) tarkoitetaan</a></li>
+<li class="chapter" data-level="2.16" data-path="01-2018.html"><a href="#mink%C3%A4-hyytymistapahtuman-aktiivisuutta-inr-mittaa"><i class="fa fa-check"></i><b>2.16</b> Minkä hyytymistapahtuman aktiivisuutta INR mittaa?</a></li>
+<li class="chapter" data-level="2.17" data-path="01-2018.html"><a href="#sepsikselle-altistavista-tekij%C3%B6ist%C3%A4"><i class="fa fa-check"></i><b>2.17</b> Sepsikselle altistavista tekijöistä</a></li>
+<li class="chapter" data-level="2.18" data-path="sisätaudit-1---2018.html"><a href="sisätaudit-1---2018.html#vtin-hoito-pyelonefriitti"><i class="fa fa-check"></i><b>2.18</b> VTI:n hoito (pyelonefriitti)</a></li>
+<li class="chapter" data-level="2.19" data-path="sisätaudit-1---2018.html"><a href="sisätaudit-1---2018.html#keskushermostoinfektioista"><i class="fa fa-check"></i><b>2.19</b> Keskushermostoinfektioista</a></li>
+<li class="chapter" data-level="2.20" data-path="01-2018.html"><a href="#jos-vuorokauden-kuluttua-pneumonian-antibioottihoidon-aloittamisesta-crp-ei-ole-laskenut-yleens%C3%A4"><i class="fa fa-check"></i><b>2.20</b> Jos vuorokauden kuluttua pneumonian antibioottihoidon aloittamisesta CRP ei ole laskenut, yleensä</a></li>
+<li class="chapter" data-level="2.21" data-path="sisätaudit-1---2018.html"><a href="sisätaudit-1---2018.html#rotavirusripuli"><i class="fa fa-check"></i><b>2.21</b> Rotavirusripuli</a></li>
+<li class="chapter" data-level="2.22" data-path="sisätaudit-1---2018.html"><a href="sisätaudit-1---2018.html#zoonoosilla-tarkoitetaan"><i class="fa fa-check"></i><b>2.22</b> Zoonoosilla tarkoitetaan</a></li>
+<li class="chapter" data-level="2.23" data-path="01-2018.html"><a href="#matkustukseen-liittyv%C3%A4t-sukupuolitaudit--erityisesti-hiv"><i class="fa fa-check"></i><b>2.23</b> Matkustukseen liittyvät sukupuolitaudit- erityisesti HIV</a></li>
+<li class="chapter" data-level="2.24" data-path="sisätaudit-1---2018.html"><a href="sisätaudit-1---2018.html#c.-difficile-infektion-hoidossa"><i class="fa fa-check"></i><b>2.24</b> C. Difficile-infektion hoidossa</a></li>
+<li class="chapter" data-level="2.25" data-path="sisätaudit-1---2018.html"><a href="sisätaudit-1---2018.html#lymen-borrelioosin-yleisin-manifestaatio-erythema-migransia-lukuunottamatta-on"><i class="fa fa-check"></i><b>2.25</b> Lymen borrelioosin yleisin manifestaatio erythema migransia lukuunottamatta on</a></li>
+<li class="chapter" data-level="2.26" data-path="sisätaudit-1---2018.html"><a href="sisätaudit-1---2018.html#tularemia"><i class="fa fa-check"></i><b>2.26</b> Tularemia</a></li>
+<li class="chapter" data-level="2.27" data-path="sisätaudit-1---2018.html"><a href="sisätaudit-1---2018.html#bakteeriripulitaudin-empiirinen-antibioottihoito"><i class="fa fa-check"></i><b>2.27</b> Bakteeriripulitaudin empiirinen antibioottihoito</a></li>
+<li class="chapter" data-level="2.28" data-path="sisätaudit-1---2018.html"><a href="sisätaudit-1---2018.html#ruusu"><i class="fa fa-check"></i><b>2.28</b> Ruusu</a></li>
+<li class="chapter" data-level="2.29" data-path="sisätaudit-1---2018.html"><a href="sisätaudit-1---2018.html#normaalin-ihon-mikrobisto"><i class="fa fa-check"></i><b>2.29</b> Normaalin ihon mikrobisto</a></li>
+<li class="chapter" data-level="2.30" data-path="01-2018.html"><a href="#vy%C3%B6ruusu"><i class="fa fa-check"></i><b>2.30</b> Vyöruusu</a></li>
+<li class="chapter" data-level="2.31" data-path="sisätaudit-1---2018.html"><a href="sisätaudit-1---2018.html#potilastapaus"><i class="fa fa-check"></i><b>2.31</b> Potilastapaus</a></li>
+<li class="chapter" data-level="2.32" data-path="01-2018.html"><a href="#tuberkuloosipotilas-pit%C3%A4%C3%A4-erist%C3%A4%C3%A4-ilmaeristyshuoneeseen-sairaalassa"><i class="fa fa-check"></i><b>2.32</b> Tuberkuloosipotilas pitää eristää ilmaeristyshuoneeseen sairaalassa</a></li>
+<li class="chapter" data-level="2.33" data-path="01-2018.html"><a href="#septisell%C3%A4-immunosupressiopotilaalla"><i class="fa fa-check"></i><b>2.33</b> Septisellä immunosupressiopotilaalla</a></li>
+<li class="chapter" data-level="2.34" data-path="01-2018.html"><a href="#kefalosporiiniryhm%C3%A4%C3%A4n-kuuluva-antibiootti-l%C3%A4ht%C3%B6kohtaisesti-tehoaa"><i class="fa fa-check"></i><b>2.34</b> Kefalosporiiniryhmään kuuluva antibiootti lähtökohtaisesti tehoaa</a></li>
+<li class="chapter" data-level="2.35" data-path="01-2018.html"><a href="#spironolaktoni-mik%C3%A4-ei-pid%C3%A4-paikkaansa"><i class="fa fa-check"></i><b>2.35</b> Spironolaktoni, mikä EI pidä paikkaansa?</a></li>
+<li class="chapter" data-level="2.36" data-path="01-2018.html"><a href="#mik%C3%A4-seuraavista-ei-ole-akuutin-iskemian-merkki-ekgssa"><i class="fa fa-check"></i><b>2.36</b> Mikä seuraavista EI ole akuutin iskemian merkki EKG:ssa?</a></li>
+<li class="chapter" data-level="2.37" data-path="01-2018.html"><a href="#mik%C3%A4-seuraavista-on-oikein-akuutissa-voimakkaassa-mitraalivuodossa"><i class="fa fa-check"></i><b>2.37</b> Mikä seuraavista on oikein akuutissa, voimakkaassa mitraalivuodossa?</a></li>
+<li class="chapter" data-level="2.38" data-path="01-2018.html"><a href="#mik%C3%A4-vaihtoehdoista-ei-ole-oikein"><i class="fa fa-check"></i><b>2.38</b> Mikä vaihtoehdoista ei ole oikein?</a></li>
+<li class="chapter" data-level="2.39" data-path="01-2018.html"><a href="#miss%C3%A4-vaiheessa-aikaisintaan-rint%C3%A4kivun-alusta-herkk%C3%A4-troponiini-t-on-koholla-akuutissa-sepelvaltimotautikohtauksessa"><i class="fa fa-check"></i><b>2.39</b> Missä vaiheessa aikaisintaan rintäkivun alusta herkkä-Troponiini T on koholla akuutissa sepelvaltimotautikohtauksessa?</a></li>
+<li class="chapter" data-level="2.40" data-path="01-2018.html"><a href="#mik%C3%A4-v%C3%A4itt%C3%A4m%C3%A4-oikein"><i class="fa fa-check"></i><b>2.40</b> Mikä väittämä oikein?</a></li>
+<li class="chapter" data-level="2.41" data-path="sisätaudit-1---2018.html"><a href="sisätaudit-1---2018.html#sekundaarisessa-eli-tyypin-2-akuutissa-sepelvaltimotautikohtauksessa-on-tyypillisesti"><i class="fa fa-check"></i><b>2.41</b> Sekundaarisessa eli tyypin 2 akuutissa sepelvaltimotautikohtauksessa on tyypillisesti</a></li>
+<li class="chapter" data-level="2.42" data-path="01-2018.html"><a href="#mik%C3%A4-seuraavista-on-hy%C3%B6dyllinen-neuroendokriininen-v%C3%A4litt%C3%A4j%C3%A4aine-syd%C3%A4men-vajaatoiminnassa"><i class="fa fa-check"></i><b>2.42</b> Mikä seuraavista on hyödyllinen neuroendokriininen välittäjäaine sydämen vajaatoiminnassa?</a></li>
+<li class="chapter" data-level="2.43" data-path="01-2018.html"><a href="#mik%C3%A4-seuraavista-ei-ole-kest%C3%A4vyysliikunnan-vasta-aihe-syd%C3%A4npotilaalla"><i class="fa fa-check"></i><b>2.43</b> Mikä seuraavista ei ole kestävyysliikunnan vasta-aihe sydänpotilaalla?</a></li>
+<li class="chapter" data-level="2.44" data-path="sisätaudit-1---2018.html"><a href="sisätaudit-1---2018.html#potilastapaus-1"><i class="fa fa-check"></i><b>2.44</b> Potilastapaus</a></li>
+<li class="chapter" data-level="2.45" data-path="01-2018.html"><a href="#mik%C3%A4-n%C3%A4ist%C3%A4-l%C3%A4%C3%A4kkeist%C3%A4-on-paras-eteisv%C3%A4rin%C3%A4n-sykkeen-hallintaan"><i class="fa fa-check"></i><b>2.45</b> Mikä näistä lääkkeistä on paras eteisvärinän sykkeen hallintaan?</a></li>
+<li class="chapter" data-level="2.46" data-path="01-2018.html"><a href="#mik%C3%A4-v%C3%A4itt%C3%A4mist%C3%A4-on-v%C3%A4%C3%A4r%C3%A4"><i class="fa fa-check"></i><b>2.46</b> Mikä väittämistä on väärä?</a></li>
+<li class="chapter" data-level="2.47" data-path="01-2018.html"><a href="#mik%C3%A4-v%C3%A4ite-v%C3%A4%C3%A4r%C3%A4"><i class="fa fa-check"></i><b>2.47</b> Mikä väite väärä?</a></li>
+<li class="chapter" data-level="2.48" data-path="01-2018.html"><a href="#mik%C3%A4-v%C3%A4ite-v%C3%A4%C3%A4r%C3%A4-1"><i class="fa fa-check"></i><b>2.48</b> Mikä väite väärä?</a></li>
+<li class="chapter" data-level="2.49" data-path="01-2018.html"><a href="#mik%C3%A4-n%C3%A4ist%C3%A4-on-harvinaisin-keuhkoembolian-oirel%C3%B6yd%C3%B6s"><i class="fa fa-check"></i><b>2.49</b> Mikä näistä on harvinaisin keuhkoembolian oire/löydös?</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="cross.html"><a href="cross.html"><i class="fa fa-check"></i><b>3</b> Cross-references</a>
+<ul>
+<li class="chapter" data-level="3.1" data-path="cross.html"><a href="cross.html#chapters-and-sub-chapters"><i class="fa fa-check"></i><b>3.1</b> Chapters and sub-chapters</a></li>
+<li class="chapter" data-level="3.2" data-path="cross.html"><a href="cross.html#captioned-figures-and-tables"><i class="fa fa-check"></i><b>3.2</b> Captioned figures and tables</a></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="parts.html"><a href="parts.html"><i class="fa fa-check"></i><b>4</b> Parts</a></li>
+<li class="chapter" data-level="5" data-path="footnotes-and-citations.html"><a href="footnotes-and-citations.html"><i class="fa fa-check"></i><b>5</b> Footnotes and citations</a>
+<ul>
+<li class="chapter" data-level="5.1" data-path="footnotes-and-citations.html"><a href="footnotes-and-citations.html#footnotes"><i class="fa fa-check"></i><b>5.1</b> Footnotes</a></li>
+<li class="chapter" data-level="5.2" data-path="footnotes-and-citations.html"><a href="footnotes-and-citations.html#citations"><i class="fa fa-check"></i><b>5.2</b> Citations</a></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="blocks.html"><a href="blocks.html"><i class="fa fa-check"></i><b>6</b> Blocks</a>
+<ul>
+<li class="chapter" data-level="6.1" data-path="blocks.html"><a href="blocks.html#equations"><i class="fa fa-check"></i><b>6.1</b> Equations</a></li>
+<li class="chapter" data-level="6.2" data-path="blocks.html"><a href="blocks.html#theorems-and-proofs"><i class="fa fa-check"></i><b>6.2</b> Theorems and proofs</a></li>
+<li class="chapter" data-level="6.3" data-path="blocks.html"><a href="blocks.html#callout-blocks"><i class="fa fa-check"></i><b>6.3</b> Callout blocks</a></li>
+</ul></li>
+<li class="chapter" data-level="7" data-path="sharing-your-book.html"><a href="sharing-your-book.html"><i class="fa fa-check"></i><b>7</b> Sharing your book</a>
+<ul>
+<li class="chapter" data-level="7.1" data-path="sharing-your-book.html"><a href="sharing-your-book.html#publishing"><i class="fa fa-check"></i><b>7.1</b> Publishing</a></li>
+<li class="chapter" data-level="7.2" data-path="sharing-your-book.html"><a href="sharing-your-book.html#pages"><i class="fa fa-check"></i><b>7.2</b> 404 pages</a></li>
+<li class="chapter" data-level="7.3" data-path="sharing-your-book.html"><a href="sharing-your-book.html#metadata-for-sharing"><i class="fa fa-check"></i><b>7.3</b> Metadata for sharing</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i>References</a></li>
+<li class="divider"></li>
+<li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Sisätaudit 1 - 1</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="sisätaudit-1---2018" class="section level1 hasAnchor" number="2">
+<h1><span class="header-section-number">Chapter 2</span> Sisätaudit 1 - 2018<a href="#sis%C3%A4taudit-1---2018" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<p>Tästä vuodesta alkaa monivalintakysymykset wikissä.</p>
+<div id="mikä-on-tyypillisen-raudanpuuteanemian-verenkuva" class="section level2 hasAnchor" number="2.1">
+<h2><span class="header-section-number">2.1</span> Mikä on tyypillisen raudanpuuteanemian verenkuva?<a href="#mik%C3%A4-on-tyypillisen-raudanpuuteanemian-verenkuva" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Matala Hb ja korkea MCV</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Normaali Hb ja matala mcv</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>Matala Hb ja matala trombosyyttiluku</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>Matala Hb ja matala MCV</li>
+</ol></li>
+</ul>
+<div>
+<button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>d</code></pre>
+ads
+</div>
+</div>
+</div>
+<div id="mikä-seuraavista-on-folaatinpuutteen-synnyn-riskitekijä" class="section level2 hasAnchor" number="2.2">
+<h2><span class="header-section-number">2.2</span> Mikä seuraavista on folaatinpuutteen synnyn riskitekijä?<a href="#mik%C3%A4-seuraavista-on-folaatinpuutteen-synnyn-riskitekij%C3%A4" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Liian lihaisa dieetti</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Alkoholipitoinen dieetti</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>Pelkästään kasvisperäinen dieetti</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>Laihduttaminen</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-1" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  b</code></pre>
+</div>
+</div>
+</div>
+<div id="mikä-seuraavista-ei-ole-hemolyysin-osoituskoe" class="section level2 hasAnchor" number="2.3">
+<h2><span class="header-section-number">2.3</span> Mikä seuraavista ei ole hemolyysin osoituskoe<a href="#mik%C3%A4-seuraavista-ei-ole-hemolyysin-osoituskoe" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Seerumin LDH (laktaattihydrogenaasi)</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Veren trombosyyttiluku</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>Seerumin bilirubiini</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>Veren retikulosyyttiarvo</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-2" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  b</code></pre>
+</div>
+</div>
+</div>
+<div id="millä-trombosyyttitasolla-voi-ottaa-luuydinaspiraationäytteen" class="section level2 hasAnchor" number="2.4">
+<h2><span class="header-section-number">2.4</span> Millä trombosyyttitasolla voi ottaa luuydinaspiraationäytteen?<a href="#mill%C3%A4-trombosyyttitasolla-voi-ottaa-luuydinaspiraation%C3%A4ytteen" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>B-trom oltava yli 40</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Trombosyyttitasolla ei ole väliä</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>B-trom oltava yli 20</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>B-tromb oltava yli 60</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-3" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  b</code></pre>
+</div>
+</div>
+</div>
+<div id="aplastinen-anemia-on" class="section level2 hasAnchor" number="2.5">
+<h2><span class="header-section-number">2.5</span> Aplastinen anemia on<a href="sisätaudit-1---2018.html#aplastinen-anemia-on" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Kaikkien pääsolulinjojen vajavainen tuotanto luuytimessä</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Tietyn geenivirheen aiheuttama luuytimen vajaatoiminta</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>Punasolusiirroista riippuvainen anemia</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>Syvä raudanpuuteanemia</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-4" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  a</code></pre>
+</div>
+</div>
+</div>
+<div id="mikä-näistä-ei-kuulu-ns.-b-oireisiin" class="section level2 hasAnchor" number="2.6">
+<h2><span class="header-section-number">2.6</span> Mikä näistä ei kuulu ns. B-oireisiin<a href="#mik%C3%A4-n%C3%A4ist%C3%A4-ei-kuulu-ns.-b-oireisiin" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Iltalämpöily</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Yöhikoilu</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>Painon lasku</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>Vatsavaivat</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-5" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  d</code></pre>
+</div>
+</div>
+</div>
+<div id="multippelin-myelooman-yleisin-ensioire-on" class="section level2 hasAnchor" number="2.7">
+<h2><span class="header-section-number">2.7</span> Multippelin myelooman yleisin ensioire on:<a href="sisätaudit-1---2018.html#multippelin-myelooman-yleisin-ensioire-on" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Selkäkipu</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Anemia</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>Anuria</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>Sekavuus (hyperviskositeetti)</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-6" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  a</code></pre>
+</div>
+</div>
+</div>
+<div id="mikä-seuraavista-ei-aiheuta-vuototaipumusta" class="section level2 hasAnchor" number="2.8">
+<h2><span class="header-section-number">2.8</span> Mikä seuraavista ei aiheuta vuototaipumusta<a href="#mik%C3%A4-seuraavista-ei-aiheuta-vuototaipumusta" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Polysytemia verassa trombosyytit yli 1500</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Maksan vajaatoiminta</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>Talassemia</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>Sepsis</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-7" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  c</code></pre>
+</div>
+</div>
+</div>
+<div id="kun-verirymä-on-o-plasmassa-olevat-isoagglutiinit-ovat-tyypiltään" class="section level2 hasAnchor" number="2.9">
+<h2><span class="header-section-number">2.9</span> Kun verirymä on O, plasmassa olevat isoagglutiinit ovat tyypiltään<a href="#kun-verirym%C3%A4-on-o-plasmassa-olevat-isoagglutiinit-ovat-tyypilt%C3%A4%C3%A4n" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Anti-A ja Anti-B</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Ei ole isoagglutiineja</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>Anti-A</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>Anti-B</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-8" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  a</code></pre>
+</div>
+</div>
+</div>
+<div id="mikä-on-b-12-vitamiinin-kuljetusproteiini-veressä" class="section level2 hasAnchor" number="2.10">
+<h2><span class="header-section-number">2.10</span> Mikä on B-12-vitamiinin kuljetusproteiini veressä?<a href="#mik%C3%A4-on-b-12-vitamiinin-kuljetusproteiini-veress%C3%A4" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Albumiini</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Transferriini</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>Transkobalamiini</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>Intrinsic factor</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-9" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  c</code></pre>
+</div>
+</div>
+</div>
+<div id="mikä-seuraavista-sopii-hemolyyttiseen-anemiaan" class="section level2 hasAnchor" number="2.11">
+<h2><span class="header-section-number">2.11</span> Mikä seuraavista sopii hemolyyttiseen anemiaan?<a href="#mik%C3%A4-seuraavista-sopii-hemolyyttiseen-anemiaan" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Potilas on punakka</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Oirekuva kehittyy aina hitaasti</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>Syvä anemia ja potilas oireeton</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>Potilas on ikteerinen</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-10" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  d</code></pre>
+</div>
+</div>
+</div>
+<div id="minkä-karsinooman-ensioire-voi-olla-erytrosytoosi-polysytemia" class="section level2 hasAnchor" number="2.12">
+<h2><span class="header-section-number">2.12</span> Minkä karsinooman ensioire voi olla erytrosytoosi (polysytemia)?<a href="#mink%C3%A4-karsinooman-ensioire-voi-olla-erytrosytoosi-polysytemia" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Munuaiskarsinooma</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Prostatakarsinooma</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>Kohtukarsinooma</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>Ovariokarsinooma</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-11" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  a</code></pre>
+</div>
+</div>
+</div>
+<div id="missä-seuraavista-ns.-klassisista-myeloproliferatiivisista-taudeista-löytyy-philadelphia-kromosomi" class="section level2 hasAnchor" number="2.13">
+<h2><span class="header-section-number">2.13</span> Missä seuraavista ns. klassisista myeloproliferatiivisista taudeista löytyy Philadelphia-kromosomi?<a href="#miss%C3%A4-seuraavista-ns.-klassisista-myeloproliferatiivisista-taudeista-l%C3%B6ytyy-philadelphia-kromosomi" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Essentielli trombosytoosi</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Polysytemia vera</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>Myelofibroosi</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>Krooninen myelooinen leukemia</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-12" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  d</code></pre>
+</div>
+</div>
+</div>
+<div id="mikä-viittaa-makrosytaariseen-anemiaan" class="section level2 hasAnchor" number="2.14">
+<h2><span class="header-section-number">2.14</span> Mikä viittaa makrosytaariseen anemiaan?<a href="#mik%C3%A4-viittaa-makrosytaariseen-anemiaan" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Punasolujen suuri hemoglobiinimassa (E-MCH)</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Punasolujen suuri koko (E-MCV)</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>B-Hb 100-120 g/l</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>Pieni erytrosyyttiluku (B-eryt)</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-13" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  b</code></pre>
+</div>
+</div>
+</div>
+<div id="polysytemia-veran-transformaatiolla-taudin-kulun-muutos-tarkoitetaan" class="section level2 hasAnchor" number="2.15">
+<h2><span class="header-section-number">2.15</span> Polysytemia veran transformaatiolla (taudin kulun muutos) tarkoitetaan<a href="sisätaudit-1---2018.html#polysytemia-veran-transformaatiolla-taudin-kulun-muutos-tarkoitetaan" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Taudin muuntumista myelofibroosiksi</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Hemoglobiinitaso pysyy tasaisena ilman hoitoja</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>Budd-Chiarin syndrooman ilmaantumista</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>Taudin muuntumista krooniseksi myelooiseksi leukemiaksi</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-14" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  a</code></pre>
+</div>
+</div>
+</div>
+<div id="minkä-hyytymistapahtuman-aktiivisuutta-inr-mittaa" class="section level2 hasAnchor" number="2.16">
+<h2><span class="header-section-number">2.16</span> Minkä hyytymistapahtuman aktiivisuutta INR mittaa?<a href="#mink%C3%A4-hyytymistapahtuman-aktiivisuutta-inr-mittaa" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Sisäisen (intrinsic) hyytymistien aktiivisuutta</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Trombosyyttien funktiota</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>Ulkoisen (extrinsic) hyytymistien aktiivisuutta</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>Fibrinolyysin aktiivisuutta</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-15" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  c</code></pre>
+</div>
+</div>
+</div>
+<div id="sepsikselle-altistavista-tekijöistä" class="section level2 hasAnchor" number="2.17">
+<h2><span class="header-section-number">2.17</span> Sepsikselle altistavista tekijöistä<a href="#sepsikselle-altistavista-tekij%C3%B6ist%C3%A4" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Tärkein on obesiteetti</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>iv-huumeiden käyttö liittyy erityisesti E-colin aiheuttamiin sepsiksiin</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>Kortikosteroidit immunosupressiivisena lääkityksenä on merkittävä riskitekijä</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>Alkoholismi lisää vain E-coli -sepsisten riskiä</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-16" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  c</code></pre>
+</div>
+</div>
+</div>
+<div id="vtin-hoito-pyelonefriitti" class="section level2 hasAnchor" number="2.18">
+<h2><span class="header-section-number">2.18</span> VTI:n hoito (pyelonefriitti)<a href="sisätaudit-1---2018.html#vtin-hoito-pyelonefriitti" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Ensisijainen valmiste on ESBL E-colien lisääntymisen vuoksi nykyään imipeneemi tai meropeneemi</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Nykyään katsotaan hoidon pituudeksi riittävän lähes kaikissa tapauksissa 5vrk</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>Fluorokinolonia voidaan käyttää koko kuurin ajan suun kautta otettuna</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>Pyelonefriitin hoito on aina aloitettava suonensisäisellä valmisteella</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-17" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  c</code></pre>
+</div>
+</div>
+</div>
+<div id="keskushermostoinfektioista" class="section level2 hasAnchor" number="2.19">
+<h2><span class="header-section-number">2.19</span> Keskushermostoinfektioista<a href="sisätaudit-1---2018.html#keskushermostoinfektioista" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Meningiitin diagnoosiin vaaditaan selkäydinnestenäyte</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Aiheuttajaa ei voida saada selville veriviljelystä</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>Purulentti meningiitti on yleisempi kuin lymfosytäärinen meningiitti</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>CRP erottelee virus- ja bakteerimeningiitin hyvin jos oireiston kesto on yli 2h</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-18" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  a</code></pre>
+</div>
+</div>
+</div>
+<div id="jos-vuorokauden-kuluttua-pneumonian-antibioottihoidon-aloittamisesta-crp-ei-ole-laskenut-yleensä" class="section level2 hasAnchor" number="2.20">
+<h2><span class="header-section-number">2.20</span> Jos vuorokauden kuluttua pneumonian antibioottihoidon aloittamisesta CRP ei ole laskenut, yleensä<a href="#jos-vuorokauden-kuluttua-pneumonian-antibioottihoidon-aloittamisesta-crp-ei-ole-laskenut-yleens%C3%A4" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Antibioottia pitää vaihtaa</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Nostetaan antibiootin annosta</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>Aloitetun antibiootin oheen aloitetaan toinen hoitoa tehostava antibiootti</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>Jatketaan aloitetun antibioottihoidon kanssa</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-19" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  d</code></pre>
+</div>
+</div>
+</div>
+<div id="rotavirusripuli" class="section level2 hasAnchor" number="2.21">
+<h2><span class="header-section-number">2.21</span> Rotavirusripuli<a href="sisätaudit-1---2018.html#rotavirusripuli" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>On yleisin epidemioiden aiheuttaja laitoksissa</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Aiheuttaa yleensä verisen ripulin</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>On itämisajaltaan yleensä 3-5vrk</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>On aikuisilla harvinainen</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-20" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  d</code></pre>
+</div>
+</div>
+</div>
+<div id="zoonoosilla-tarkoitetaan" class="section level2 hasAnchor" number="2.22">
+<h2><span class="header-section-number">2.22</span> Zoonoosilla tarkoitetaan<a href="sisätaudit-1---2018.html#zoonoosilla-tarkoitetaan" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Resistenttien bakteerien tarttumista eläimistä ihmisiin</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Vektorivälitteisiä infektioita</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>Eläimillä olevia infektioita</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>Eläimiltä ihmisiin tai ihmisiltä eläimiin tarttuvia infektioita</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-21" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  d</code></pre>
+</div>
+</div>
+</div>
+<div id="matkustukseen-liittyvät-sukupuolitaudit--erityisesti-hiv" class="section level2 hasAnchor" number="2.23">
+<h2><span class="header-section-number">2.23</span> Matkustukseen liittyvät sukupuolitaudit- erityisesti HIV<a href="#matkustukseen-liittyv%C3%A4t-sukupuolitaudit--erityisesti-hiv" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Eivät vähenisi kondomien maksuttomuuden seurauksena</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>HIV:n suhteen vasta-ainetutkimus ensitautivaiheessa on korkeasti positiivinen laskien sitten vuosiksi matalammalle tasolle</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>Keskittyvät eniten Thaimaan matkailijoihin, Venäjän ja Viron käviöihin sekä Espanjan lomailijoihin</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>Ovat vähentyneet viime vuosina tehokkaan valistuksen ansiosta</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-22" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  c</code></pre>
+</div>
+</div>
+</div>
+<div id="c.-difficile-infektion-hoidossa" class="section level2 hasAnchor" number="2.24">
+<h2><span class="header-section-number">2.24</span> C. Difficile-infektion hoidossa<a href="sisätaudit-1---2018.html#c.-difficile-infektion-hoidossa" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Vankomysiini on metronidatsolia jnkv huonotehoisemi hoito, mutta sitä joudutaan interaktion vuoksi käyttämään Marevan-hoitoa saavilla potilailla metronidatsolin sijaan</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Metronidatsolia ei enää suositella ensisijaiseksi hoidoksi</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>Fidaksomisiini on vankomisiinia nopeampaa tulokseen johtava hoito</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>Ulosteensiirron tulokset uusivassa c. Diff-infektiossa ovat difaksomisiinia paremmat.</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-23" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  d</code></pre>
+</div>
+</div>
+</div>
+<div id="lymen-borrelioosin-yleisin-manifestaatio-erythema-migransia-lukuunottamatta-on" class="section level2 hasAnchor" number="2.25">
+<h2><span class="header-section-number">2.25</span> Lymen borrelioosin yleisin manifestaatio erythema migransia lukuunottamatta on<a href="sisätaudit-1---2018.html#lymen-borrelioosin-yleisin-manifestaatio-erythema-migransia-lukuunottamatta-on" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Facialispareesi ja / tai Bannwarthin meningoradikultiitti</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>II-III asteen AV-katkos</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>Lymen artriitti</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>Acrodermatitis chronica atroficans</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-24" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  a (??)</code></pre>
+</div>
+</div>
+</div>
+<div id="tularemia" class="section level2 hasAnchor" number="2.26">
+<h2><span class="header-section-number">2.26</span> Tularemia<a href="sisätaudit-1---2018.html#tularemia" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Taudinkuva on hyvin samankaltainne kuin anthraxin eli pernaruton</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>taudinkuva on yleisimmin iholeesio + alueellisesti suurentuneet imusolmukkeet</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>Taudinkuvaan kuuluu muiden mainittujen lisäksi useimmiten respiratorinen oireisto</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>Voi saada Suomessa yhtä hyvin hyttysenpistosta kuin puutiaisen pistostakin</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-25" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  b</code></pre>
+</div>
+</div>
+</div>
+<div id="bakteeriripulitaudin-empiirinen-antibioottihoito" class="section level2 hasAnchor" number="2.27">
+<h2><span class="header-section-number">2.27</span> Bakteeriripulitaudin empiirinen antibioottihoito<a href="sisätaudit-1---2018.html#bakteeriripulitaudin-empiirinen-antibioottihoito" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Määräytyy yleensä kliinisen kuvan mukaan</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Määräytyy yleensä veriviljelytuloksen perusteella</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>Määräytyy yleensä ulosteviljelytuloksen perusteella</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>On kuumeisessa tapauksessa välttämätön</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-26" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  a</code></pre>
+</div>
+</div>
+</div>
+<div id="ruusu" class="section level2 hasAnchor" number="2.28">
+<h2><span class="header-section-number">2.28</span> Ruusu<a href="sisätaudit-1---2018.html#ruusu" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Paranee paikallisella antibioottivoiteella</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Hoidetaan ensijaisesti suun kautta otettavalla klindamysiinillä</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>On tavallisimmin streptokokkus pyogeneksen aiheuttama</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>Esiintyy useimmin käsivarressa</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-27" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  c</code></pre>
+</div>
+</div>
+</div>
+<div id="normaalin-ihon-mikrobisto" class="section level2 hasAnchor" number="2.29">
+<h2><span class="header-section-number">2.29</span> Normaalin ihon mikrobisto<a href="sisätaudit-1---2018.html#normaalin-ihon-mikrobisto" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Ihon puolustautuminen bakteereja vastaan perustuu aina hankittuun immuniteettiin</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Normaalilla iholla ja limakalvolla on hiivasieniä</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>Iholla olevat bakteerit ovat yleensä haitallisia, koska ne aiheuttavat infektioita</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>Stafylococcus aureusta ei ole normaalisti iholla</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-28" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  b</code></pre>
+</div>
+</div>
+</div>
+<div id="vyöruusu" class="section level2 hasAnchor" number="2.30">
+<h2><span class="header-section-number">2.30</span> Vyöruusu<a href="#vy%C3%B6ruusu" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>on tavallisempi nuorilla kuin iäkkäillä henkilöillä</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Aiheuttaa rakkuloita tavallisesti vain toisella puolella vartaloa</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>aiheuttaa aina kovaa särkyä</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>johtuu HSV-1 viruksen reaktivaatiosta</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-29" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  b</code></pre>
+</div>
+</div>
+</div>
+<div id="potilastapaus" class="section level2 hasAnchor" number="2.31">
+<h2><span class="header-section-number">2.31</span> Potilastapaus<a href="sisätaudit-1---2018.html#potilastapaus" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Perusterveellä nuorella naisella on ollut 3 päivää kuivaa yskää ja lämpöä 37.8 astetta C. Yleisvointi on hyvä. Veren Happikyllästeisyys on 96%. Keuhkojen röntgenkuva sopii lohkokeuhkokuumeeseen. CRP on 80mg/l. Mikä on oikea hoitopaikka ja hoito?</p>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Sairaala, kefuroksiimi 1,5g x 3 i.v.</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Sairaala, moksifloksasiini 400 mg x 1 i.v.</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>Koti, amoksisilliini 750mg x 3 p.o.</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>Koti, amoksisilliini 750mg x 2 p.o.</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-30" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  c</code></pre>
+</div>
+</div>
+</div>
+<div id="tuberkuloosipotilas-pitää-eristää-ilmaeristyshuoneeseen-sairaalassa" class="section level2 hasAnchor" number="2.32">
+<h2><span class="header-section-number">2.32</span> Tuberkuloosipotilas pitää eristää ilmaeristyshuoneeseen sairaalassa<a href="#tuberkuloosipotilas-pit%C3%A4%C3%A4-erist%C3%A4%C3%A4-ilmaeristyshuoneeseen-sairaalassa" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Keuhkotuberkuloosissa silloin, jos ysköksen tuberkuloosivärjäys on positiivinen, tai keuhkokuvassa on ontelo</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>vain, jos potilaalle ei pystytä järjestämään erillistä huonetta kotona</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>aina taudin alussa vähintään 2 viikon ajaksi</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>aina kunnes viljelytulokset valmistuvat ja tiedetään, että kanta on lääkeherkkä</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-31" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  a</code></pre>
+</div>
+</div>
+</div>
+<div id="septisellä-immunosupressiopotilaalla" class="section level2 hasAnchor" number="2.33">
+<h2><span class="header-section-number">2.33</span> Septisellä immunosupressiopotilaalla<a href="#septisell%C3%A4-immunosupressiopotilaalla" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Empiirinen hoito on samanlaista kuin muilla</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>hoidon osuvuus on aiheellista varmistaa odottamalla viljelytulosta ennen empiirisen hoidon aloitusta</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>empiirisen hoidon aloitus on aiheellinen heti kun crp ja leukosyyttien diffi varmistaa septistasoisen infektion</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>empiirinen hoito on kiireellistä aloittaa heti näytteenoton jälkeen (jo ennen esim. tavallista laajempia kuvantamistutkimuksia)</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-32" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  d</code></pre>
+</div>
+</div>
+</div>
+<div id="kefalosporiiniryhmään-kuuluva-antibiootti-lähtökohtaisesti-tehoaa" class="section level2 hasAnchor" number="2.34">
+<h2><span class="header-section-number">2.34</span> Kefalosporiiniryhmään kuuluva antibiootti lähtökohtaisesti tehoaa<a href="#kefalosporiiniryhm%C3%A4%C3%A4n-kuuluva-antibiootti-l%C3%A4ht%C3%B6kohtaisesti-tehoaa" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Enterokokkiin</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Listeriaan</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>Enterobakteeriin (gram-negatiivinen sauvabakteeri)</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>MRSA-bakteeriin</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-33" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  c</code></pre>
+</div>
+</div>
+</div>
+<div id="spironolaktoni-mikä-ei-pidä-paikkaansa" class="section level2 hasAnchor" number="2.35">
+<h2><span class="header-section-number">2.35</span> Spironolaktoni, mikä EI pidä paikkaansa?<a href="#spironolaktoni-mik%C3%A4-ei-pid%C3%A4-paikkaansa" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Spironolaktonihoito parantaa sydämen vajaatoimintapotilaan ennustetta</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Spironolaktoni aiheuttaa harvoin hyperkalemiaa</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>Spironolaktoni voi aiheuttaa gynekomastiaa</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>Spironolaktoni on aldosteronin antagonisti</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-34" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  b</code></pre>
+</div>
+</div>
+</div>
+<div id="mikä-seuraavista-ei-ole-akuutin-iskemian-merkki-ekgssa" class="section level2 hasAnchor" number="2.36">
+<h2><span class="header-section-number">2.36</span> Mikä seuraavista EI ole akuutin iskemian merkki EKG:ssa?<a href="#mik%C3%A4-seuraavista-ei-ole-akuutin-iskemian-merkki-ekgssa" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>ST-nousu</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>ST-lasku</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>Q-aalto</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>T-invertaatio</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-35" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  c</code></pre>
+</div>
+</div>
+</div>
+<div id="mikä-seuraavista-on-oikein-akuutissa-voimakkaassa-mitraalivuodossa" class="section level2 hasAnchor" number="2.37">
+<h2><span class="header-section-number">2.37</span> Mikä seuraavista on oikein akuutissa, voimakkaassa mitraalivuodossa?<a href="#mik%C3%A4-seuraavista-on-oikein-akuutissa-voimakkaassa-mitraalivuodossa" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Sivuääni voi olla hiljainen</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Sivuääni on voimakas</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>Vika on yleensä oireeton tai lieväasteinen</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>Kammio on voimakkaasti dilatoitunut</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-36" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  a</code></pre>
+</div>
+</div>
+</div>
+<div id="mikä-vaihtoehdoista-ei-ole-oikein" class="section level2 hasAnchor" number="2.38">
+<h2><span class="header-section-number">2.38</span> Mikä vaihtoehdoista ei ole oikein?<a href="#mik%C3%A4-vaihtoehdoista-ei-ole-oikein" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Aspiriini on melko tehoton eteisvärinäpotilaan aivoinfarktin estossa</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Dabigatraani on antikoagulantti</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>Eteisvärinä on tärkein sydänperäisen aivoinfarktin aiheuttaja</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>Antikoagulaatiohoito on aiheellinen oireettomallakin 75-vuotiaalla eteisvärinäpotilaalla</li>
+</ol></li>
+<li><ol start="5" style="list-style-type: lower-alpha">
+<li>Eteisvärinäkohtauksen voi kääntää ilman antikoagulaatiota, jos kohtaus on ilmeisesti alkanut edellisenä yönä</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-37" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  e</code></pre>
+</div>
+</div>
+</div>
+<div id="missä-vaiheessa-aikaisintaan-rintäkivun-alusta-herkkä-troponiini-t-on-koholla-akuutissa-sepelvaltimotautikohtauksessa" class="section level2 hasAnchor" number="2.39">
+<h2><span class="header-section-number">2.39</span> Missä vaiheessa aikaisintaan rintäkivun alusta herkkä-Troponiini T on koholla akuutissa sepelvaltimotautikohtauksessa?<a href="#miss%C3%A4-vaiheessa-aikaisintaan-rint%C3%A4kivun-alusta-herkk%C3%A4-troponiini-t-on-koholla-akuutissa-sepelvaltimotautikohtauksessa" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>1h kuluttua</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>3h kuluttua</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>6h kuluttua</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>8h kuluttua</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-38" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  b</code></pre>
+</div>
+</div>
+</div>
+<div id="mikä-väittämä-oikein" class="section level2 hasAnchor" number="2.40">
+<h2><span class="header-section-number">2.40</span> Mikä väittämä oikein?<a href="#mik%C3%A4-v%C3%A4itt%C3%A4m%C3%A4-oikein" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Katetriablaatio on tehokkain hoito nuoren terveen ihmisen toistuvien eteisvärinäkohtausten ehkäisyyn</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Digoksiini on eteisvärinäpotilaan sykkeen hallinnan peruslääke</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>Adenosiinia voidaan yrittää käyttää akuutin eteisvärinäkohtauksen kääntöön, ellei sähköinen kardioversio ole saatavissa</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>Flekainidia voidaan käyttää muuten terveen sepelvaltimotautipotilaan eteisvärinärytmin hallintaan</li>
+</ol></li>
+<li><ol start="5" style="list-style-type: lower-alpha">
+<li>Verapamiili sopii hyvin etesivärinäpotilaan sykkeen hallintaan, jos potilaalla on sydämen vajaatoimintaa</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-39" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  a</code></pre>
+</div>
+</div>
+</div>
+<div id="sekundaarisessa-eli-tyypin-2-akuutissa-sepelvaltimotautikohtauksessa-on-tyypillisesti" class="section level2 hasAnchor" number="2.41">
+<h2><span class="header-section-number">2.41</span> Sekundaarisessa eli tyypin 2 akuutissa sepelvaltimotautikohtauksessa on tyypillisesti<a href="sisätaudit-1---2018.html#sekundaarisessa-eli-tyypin-2-akuutissa-sepelvaltimotautikohtauksessa-on-tyypillisesti" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>¨
+- a. Hoito samanlaista kuin tyypin 1 sydäninfarktissa
+- b. Hapen tarjonnan ja kulutuksen epäsuhta esim. rytmihäirön tai anemian vuoksi
+- c. Sepelvatimossa tromboosia
+- d. Plakin repeämä tai eroosio sepelvaltimossa</p>
+<div class="solution">
+<p><span id="unlabeled-div-40" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  b</code></pre>
+</div>
+</div>
+</div>
+<div id="mikä-seuraavista-on-hyödyllinen-neuroendokriininen-välittäjäaine-sydämen-vajaatoiminnassa" class="section level2 hasAnchor" number="2.42">
+<h2><span class="header-section-number">2.42</span> Mikä seuraavista on hyödyllinen neuroendokriininen välittäjäaine sydämen vajaatoiminnassa?<a href="#mik%C3%A4-seuraavista-on-hy%C3%B6dyllinen-neuroendokriininen-v%C3%A4litt%C3%A4j%C3%A4aine-syd%C3%A4men-vajaatoiminnassa" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Noradrenaliini</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Aldosteroni</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>Angiotensiini II</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>Natriureettinen eteispeptidi</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-41" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  d</code></pre>
+</div>
+</div>
+</div>
+<div id="mikä-seuraavista-ei-ole-kestävyysliikunnan-vasta-aihe-sydänpotilaalla" class="section level2 hasAnchor" number="2.43">
+<h2><span class="header-section-number">2.43</span> Mikä seuraavista ei ole kestävyysliikunnan vasta-aihe sydänpotilaalla?<a href="#mik%C3%A4-seuraavista-ei-ole-kest%C3%A4vyysliikunnan-vasta-aihe-syd%C3%A4npotilaalla" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Sairastettu sydäninfarkti</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Epävakaa sepelvatimotauti</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>Kontrolloimattomat kammiorytmihäriöt</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>Hoitamaton sydämen vajaatoiminta</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-42" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  a</code></pre>
+</div>
+</div>
+</div>
+<div id="potilastapaus-1" class="section level2 hasAnchor" number="2.44">
+<h2><span class="header-section-number">2.44</span> Potilastapaus<a href="sisätaudit-1---2018.html#potilastapaus-1" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>55- vuotias runsaasti liikuntaa harrastava mies jolla ajoittain levossa runsaasti (=useita tunnissa) kammiolisälyöntejä. Perustutkimukset mukaan lukien ultraääni ja ekg normaalit. Mikä vaihtoehdoista paras?</p>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Lähetän kardiologian poliklinikalle kiireettömänä potilaana</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>En suosittele jatkotutkimuksia</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>Lähetän Holter-tutkimukseen</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>Lähetän rasitusEKG-tutkimukseen</li>
+</ol></li>
+<li><ol start="5" style="list-style-type: lower-alpha">
+<li>Aloitan säännöllisen beetasalpaajalääkityksen</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-43" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  b</code></pre>
+</div>
+</div>
+</div>
+<div id="mikä-näistä-lääkkeistä-on-paras-eteisvärinän-sykkeen-hallintaan" class="section level2 hasAnchor" number="2.45">
+<h2><span class="header-section-number">2.45</span> Mikä näistä lääkkeistä on paras eteisvärinän sykkeen hallintaan?<a href="#mik%C3%A4-n%C3%A4ist%C3%A4-l%C3%A4%C3%A4kkeist%C3%A4-on-paras-eteisv%C3%A4rin%C3%A4n-sykkeen-hallintaan" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Amlodipiini</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Digoksiini</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>Karvediloli</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>Dronedaroni</li>
+</ol></li>
+<li><ol start="5" style="list-style-type: lower-alpha">
+<li>Bisoprololi</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-44" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  e</code></pre>
+</div>
+</div>
+</div>
+<div id="mikä-väittämistä-on-väärä" class="section level2 hasAnchor" number="2.46">
+<h2><span class="header-section-number">2.46</span> Mikä väittämistä on väärä?<a href="#mik%C3%A4-v%C3%A4itt%C3%A4mist%C3%A4-on-v%C3%A4%C3%A4r%C3%A4" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Vajaatoimintatahdistin sopii hyvin lievänkin vajaatoiminnan hoitoon, jos ejektiofrakto on alle 35% ja potilaalla on LBBB</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Rytmihäiriötahdistimen asentamisesta ei ole yleensä apua potilaalle, jolla sydäninfarkti on aiheuttanut rintakipujen alkuvaiheessa kammiovärinän</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>Rytmihäiriötahdistin voi kääntää ylitahdistamalla kammiotakykardian</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>VVI-tahdistustapa tarkoittaa fysiologista tahdistusta</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-45" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  d</code></pre>
+</div>
+</div>
+</div>
+<div id="mikä-väite-väärä" class="section level2 hasAnchor" number="2.47">
+<h2><span class="header-section-number">2.47</span> Mikä väite väärä?<a href="#mik%C3%A4-v%C3%A4ite-v%C3%A4%C3%A4r%C3%A4" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Kammiotahdistuksen aikana ei voi diagnosoida eteisvärinää</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Vajaatoimintatahdistin parantaa ennustetta, jos vajaatoimintapotilaalla on EKG:ssa levelä LBBB ja NYHA 2-3 oireet</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>Rytmihäiriötahdistin voi kääntää sekä kammiotakykardian että kammiovärinän
+DDD-tyyppinen tahdistun on ns. fysiologinen tahdistus, jossa on mahdollista tahdistaa sekä eteistä että kammiota</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>Kammiotahdistus estää ST-nousuinfarktin EKG-diagnostiikan</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-46" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  a</code></pre>
+</div>
+</div>
+</div>
+<div id="mikä-väite-väärä-1" class="section level2 hasAnchor" number="2.48">
+<h2><span class="header-section-number">2.48</span> Mikä väite väärä?<a href="#mik%C3%A4-v%C3%A4ite-v%C3%A4%C3%A4r%C3%A4-1" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Bioläppä ja TAVI-läppä eivät ole este myöhemmälle (&gt; 3kk) suorien antikoagulanttien käytölle eteisvärinäindikaatiolla</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Suoria antikoagulantteja voi käyttää eteisvärinäpotilaalla, jolla on mekaaninen tekoläppä</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>Merkittävä mitrallivuoto ei ole este eteisvärinäpotilaan suorien antikoagulanttien käytölle</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>Tekoläpän hyytymisriski on keskimäärin pienempi aorttaläppäpositiossa ja INR tavoitetaso on yleensä 2-3</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-47" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  b</code></pre>
+</div>
+</div>
+</div>
+<div id="mikä-näistä-on-harvinaisin-keuhkoembolian-oirelöydös" class="section level2 hasAnchor" number="2.49">
+<h2><span class="header-section-number">2.49</span> Mikä näistä on harvinaisin keuhkoembolian oire/löydös?<a href="#mik%C3%A4-n%C3%A4ist%C3%A4-on-harvinaisin-keuhkoembolian-oirel%C3%B6yd%C3%B6s" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Hengenahdistus/takypnea</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Takykardia</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>Veriyskä</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>Kollapsi/synkopee</li>
+</ol></li>
+<li><ol start="5" style="list-style-type: lower-alpha">
+<li>Rintakipu</li>
+</ol></li>
+</ul>
+<div class="solution">
+<p><span id="unlabeled-div-48" class="solution"><em>Solution</em>. </span></p>
+<button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+Vastaus
+</button>
+<div class="solution-content">
+<pre><code>  c</code></pre>
+</div>
+</div>
+
+</div>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="index.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="cross.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+  "sharing": {
+    "github": false,
+    "facebook": true,
+    "twitter": true,
+    "linkedin": false,
+    "weibo": false,
+    "instapaper": false,
+    "vk": false,
+    "whatsapp": false,
+    "all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+  },
+  "fontsettings": {
+    "theme": "white",
+    "family": "sans",
+    "size": 2
+  },
+  "edit": {
+    "link": "https://github.com/USERNAME/REPO/edit/BRANCH/01-2018.Rmd",
+    "text": "Edit"
+  },
+  "history": {
+    "link": null,
+    "text": null
+  },
+  "view": {
+    "link": null,
+    "text": null
+  },
+  "download": ["_main.pdf", "_main.epub"],
+  "search": {
+    "engine": "fuse",
+    "options": null
+  },
+  "toc": {
+    "collapse": "subsection"
+  }
+});
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/latest.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+</body>
+
+</html>

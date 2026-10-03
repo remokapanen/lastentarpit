@@ -1,0 +1,22 @@
+--- 
+title: "Lastentautiopin tärpit"
+author: "Remo Kapanen"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: 
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+---
+
+# Tenteistä {#Tenteista}
+
+Tentit ovat exam-tenttejä. 
+
+Lastentautiopin tentti sisältää lastentaudit sekä myös lastenkirurgian ja lastenneurologian kysymykset. Näiden molempien oppiaineiden kysymyksistä tulee saada vähintään 2,5 pistettä / 5 pistettä, jotta tentti on näiden kysymysten osalta hyväksytty. Hylätty suoritus lastenneurologian ja lastenkirurgian kysymyksistä (alle 2,5 p molemmista) -> uusitaan vain hylätty osa tentistä. Jos lastentautien osuus hylätään, niin uusitaan koko lastentautiopin tentti. Arvostelu 1-5.
+
+
+Lastenpsykiatria on oma exam-tenttinsä ja se on HYV-HYL. 

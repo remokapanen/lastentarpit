@@ -1,0 +1,25 @@
+--- 
+title: "C6-sisätaudit 1"
+author: ""
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: 
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+---
+
+# About
+
+Tärpit on formatoitu wikissä jokseenkin vaikeakäyttöisesti. Sisätaudit on siitä harvinainen klinikan kurssi wikin suhteen, että tärpit ovat kuitenkin aina hyvin saatu kerättyä ja niihin on jopa merkattu vastaukset (tosin on kuitenkin pari kysymystä, johon on merkattu vastaus väärin). 
+
+Isoin ongelma wikin kanssa on vain se, että kun vastaus on merkattu suoraan kysymykseen, niin ei pysty testaamaan itseään, vaan kysymystä lukiessa jo tietää vastauksen eikä tältä voi välttyä. Tässä gitbookissa vastaus on piilotettu napin taakse, joten voi ensin yrittää vastata kysymykseen ja vasta sitten tarkistaa vastauksen. 
+
+Toinen iso ongelma yleisesti wikissä kaikkien kurssien osalta on se, että kysymysten vastauksia ei selitetä, vaan opiskelijan tulee itse kuluttaa aikaa siihen, että etsii selitykset siihen, miksi jokin vastaus on oikein ja muut väärin. Uusissa tenteissä usein kysytään aikaisempien tärppien kaltaisia kysymyksiä, mutta hieman muokattuna ja on hyvin järkevää osata kaikkien edellisten vuosien kysymysten ympäriltä myös paljon, jolloin pystyy vastaamaan erilaisiin kysymyksiin. Tässä kokoelmassa olen yrittänyt selittää kysymykset auki.
+
+## Sisätaudit 1? 
+
+Sisätaudit 1:llä tarkoitan 1. sisätautien kurssin (C6) ensimmäistä välitenttiä. Se on jo pitkään käsittänyt samat erikoisalat eli tenttialue sisältää kardiologiaa, hematologiaa ja infektiotauteja. as 
