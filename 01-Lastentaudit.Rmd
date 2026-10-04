@@ -7709,6 +7709,46 @@ Lasten astman Käypä hoito -suositus ei kuitenkaan ota kantaa pienen lapsen ens
   <div class="solution-content">
       Oikein
 
+Laryngiitti eli kurkunpäätulehdus on **kurkunpään virusinfektio** (tavallisimmin parainfluenssa, rhino-, respiratory syncytial-, boca- ja epidemian aikana myös influenssavirukset. Muita mahdollisia aiheuttajia ovat metapneumo-, entero- ja adenovirukset), jonka **tavallisimmat oireet ovat kuiva, usein haukkuva (seal-bark) yskä ja hankalammissa tapauksissa sisäänhengityksen stridor (vinkuna).** Oireet johtuvat virusinfektion aiheuttamasta turvotuksesta äänihuulten alaisessa tilassa.
+
+Yskä jatkuu ensioireiden jälkeen yleensä tavallisena yskänä muutamasta päivästä viikkoon. Kurkunpäätulehdusta edeltävät tavallisesti ylähengitysteiden oireet 12–72 tunnin ajan, ja **hengitysvaikeus alkaa usein äkillisesti yöllä.**
+
+---
+
+**Lasten kurkunpäätulehduksen diagnoosi on kliininen. Taudinkuva on yleensä selkeä ja äänekkään sisäänhengityksen taustalla on hyvin harvoin muu syy kuin kurkunpäätulehdus.** Jos taudinkuva on epätyypillinen, oireet ovat vaikeita tai vaste hoitoon on huono, erotusdiagnostiikassa tulee ottaa huomioon kurkunkansitulehdus (epiglottiitti), bakteerin aiheuttama henkitorven tulehdus (trakeiitti), kurkunpään turvotus, nielupaiseet (peritonsillaari- ja retrofaryngeaalinen absessi) ja hengitysteiden vierasesineet.
+
+<li>Tyypillisin ikäryhmä tähän lasten erityispiirteiseen laryngiittiin (pseudokruppiin), jossa ilmenee tämä haukkuva yskä ja stridor on 12-36kk; koluikäisillä ja aikuisillakin siis ilmenee laryngiittiä usein, mutta ei ole yleensä näin vakavaoireinen. Jos kurkunpäätulehdukseen sopivia oireita esiintyy alle puolen vuoden ikäisellä lapsella tai lapsen ensimmäisen virusinfektion yhteydessä, tulee huomioida hengitysteiden rakenteelliset ja toiminnalliset poikkeavuudet. Alle vuoden ikäisillä mahdollisia poikkeavuuksia ovat laryngomalasia, hemangioomat, lymfangioomat, kurkunpään kehityshäiriöt, kuten ahtaumat, kystat, halkiot ja limakalvopurjeet ja juveniili papillomatoosi.</li>
+
+---
+
+Lapsen hengitysvaikeuden tila arvioidaan kliinisesti. Sisäänhengityksen vaikeuden merkkejä ovat yleensä korvin kuullen havaittavan stridorin lisäsi apuhengityslihasten käyttö ja hengitystiheyden nousu. Happeutuminen on tarkastettava pulssioksimetrilla kaikissa tapauksissa, joissa lapsen hengitys on vaikeutunut, ja tarvittaessa (happisaturaatio alle 95 %) on annettava lisähappea.
+
+Päivystyksellisiä laboratoriokokeita tai röntgenkuvia ei komplisoitumattomassa laryngiitissa tarvita.
+
+---
+
+Kurkunpäätulehdus on lieväoireinen 85 %:lla lapsista ja vain 1 %:lla on vaikea kurkunpäätulehdus. **Tavallinen kurkunpäätulehdus, johon ei liity hengitysvaikeutta, paranee itsestään.**  Levossa esiintyvä äänekäs sisäänhengitys tai kurkunpäätulehdukseen liittyvä lieväkin pulssioksimetrilla todettava happeutumishäiriö viittaavat vaikeaan tautiin.  
+
+_Suurin osa lapsista voidaan hoitaa kotona._ **Ensisijainen hoito on oireenmukainen** + äänilepo (jos vanhemmalla lapsella/aikuisella ja pystyy ohjeistamaan). Kuumeisen ylähengitystieinfektion aikana hyvä nestetasapaino sekä tulehduskipulääkkeet helpottavat laryngiittipotilaan vointia. Höyryhengityksen tehosta ei ole näyttöä, mutta jotkut voivat kokea siitä hyötyä.
+
+**Jos lapsella on hengitysvaikeus, se helpottaa useimmiten istuvassa asennossa ja viileä ilma helpottaa kurkunpäätulehduksen oireita.** Huoneilman viilentämisen voi toteuttaa esimerkiksi pitämällä ikkunan auki. Jos hengitysvaikeus ei nopeasti helpotu 15–20 minuutin kuluessa, lapsi tulee viedä päivystykseen.
+
+Laryngiittiin liittyvä **hengitysvaikeus hoidetaan suun kautta annettavalla glukokortikoidilla** (deksametasonin annos on 0.15–0.6 mg/kg suun kautta tai lihakseen (enintään 8 mg); beetametasonia erityislupavalmisteena voi myös käyttää, annos on 0.25–0.4 mg/kg suun kautta (enintään 7 mg). Nesteeseen liuotettava 0.5 mg:n tabletti maistuu paremmalta kuin deksametasoni). Jos hengitysvaikeus jatkuu huolimatta suun kautta annostellusta glukokortikoidista, voidaan tarvittaessa antaa lisälääkkeenä, yleensä sairaalassa, 2 mg inhaloitavaa budesonidia.
+
+**Vaikeassa, äkillisessä tilanteessa voidaan käyttää lisäksi inhaloitavaa raseemista adrenaliinia höyrystävällä inhalaattorilla.** Raseeminen adrenaliini lievittää tehokkaasti laryngiitista johtuvan hengitysvaikeuden oireita, mutta sen vaikutus on lyhyt, vain 1–2 t. Koska hengitysvaikeus palaa yleensä 1–2 t:n kuluessa, raseemista adrenaliinia saaneet potilaat on lähetettävä ensiavun jälkeen herkästi sairaalahoitoon tai heitä on seurattava polikliinisesti riittävän kauan (vähintään 1–2 t). 
+
+**Mikrobilääkkeistä, keuhkoputkia avaavista lääkkeistä, antihistamiineista, yskänlääkkeistä tai höyryhengityksestä ei ole hyötyä lasten kurkunpäätulehduksen hoidossa.**
+
+---
+
+Sairaalaan voidaan lähettää tietyissä tapauksissa ja lapsi voidaan ottaa osastoseurantaan, ja joskus jopa teho-osastolle. Sairaalaan kuuluu lähettää, jos 
+
+<li>yleistila on huonontunut</li>
+<li>inspiratorinen stridor jatkuu ensiapulääkityksestä huolimatta</li>
+<li>hengitysvaikeus uusiutuu ensiapulääkkeen jälkeisen päivystysseurannan (1–2 t) aikana tai</li>
+<li>todetaan pienentynyt happisaturaatio (< 95 %) ensiapulääkkeen jälkeisen päivystysseurannan aikana</li>
+
+![](images/croup.png)
 
   </div>
 </div>
@@ -7716,35 +7756,309 @@ Lasten astman Käypä hoito -suositus ei kuitenkaan ota kantaa pienen lapsen ens
 
 #### Laryngiitin aiheuttaja on tavallisesti H. influenzae tyyppi b
 
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+
+Hib on klassisesti epiglottiitin eli kurkunkannen tulehduksen aiheuttaja, mutta rokotusten myötä epiglottiitista on tullut todella harvinainen. 
+
+Laryngiitti eli kurkunpään tulehdus on taas lähes aina viruksen aiheuttama sairaus. Sen tavallisin aiheuttaja on parainfluenssavirus. Muita yleisiä aiheuttajia ovat mm. RSV, adenovirukset, influenssavirukset ja rhinovirukset.
+
+  </div>
+</div>
+
+
 #### Avosyntyisen keuhkokuumeen ensisijainen hoito alle kouluikäisellä on doksisykliini {#Doksisykliini-keuhkokuume}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+
+Keuhkokuumeen antibioottihoidon tulee aina kattaa pneumokokki. **Ensisijainen antibiootti avohoidossa on amoksisilliini** ja sairaalahoitoa vaativalla potilaalla G-penisilliini. Suun kautta annosteltava amoksisilliini (40-45 mg/kg/vrk jaettuna 3 annokseen (maksimiannos 750 mg × 3) 5 vrk:n ajan) on siis ensisijainen valinta aikaisemmin terveiden lasten kotisyntyisessä keuhkokuumeessa, jonka oireet viittaavat bakteeritautiin, kun taudinkuva ei ole vaikea. Hyväkuntoisen lapsen keuhkokuume voidaan hoitaa kotona suun kautta otettavilla antibiooteilla. Lapsi kuuluu sairaalahoitoon, mikäli hän on alle puolen vuoden ikäinen, yleistila on heikentynyt, hengitys on vaikeutunut, tai jos keuhkokuvassa nähdään laajat tulehdusmuutokset tai pleuranestettä.
+
+Hyväkuntoiset penisilliiniallergiset voidaan hoitaa makrolidilla (ensisijaisesti atritromysiini).
+
+**Jos on perusteltu syy epäillä mykoplasmakeuhkokuumetta, hoidetaan keuhkokuume makrolidilla tai doksisykliinillä (vain yli 8-vuotiaille).**
+
+_Oseltamiviiria voidaan käyttää influenssaviruksen aiheuttaman keuhkokuumeen hoitoon (jos influenssa on todettu testaamalla ja oireiden alusta on alle 48 tuntia)._
+
+  </div>
+</div>
 
 #### Vanhempien tupakointi lisää lapsen riskiä sairastua äkilliseen välikorvatulehdukseen {#Vanhempien-tupakointi-AOM}
 
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Äkillisten välikorvatulehdusten (AOM) riskitekijöitä nuoren iän ja ylähengitystieinfektion lisäksi ovat mm: 
+
+<li>Vanhempien tupakointi (passiivinen tupakointi) -- ärsyttää nenänielun ja välikorvan limakalvoja aiheuttaen tulehdusta ja turvoitusta -> tukkii korvatorvea, jolloin välikorvan ilmastointi häiriintyy</li>
+<li>Päivähoito kodin ulkopuolella / runsaasti sisaruksia</li>
+<li>Immuunipuutokset</li>
+<li>Rintaruokinnan puuttuminen / lyhyt kesto</li>
+
+  </div>
+</div>
+
 #### Mikrosytäärisen anemian taustalla voi olla liiallinen maidonjuonti {#Mikrosytaarinen-maito}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Lehmänmaidossa on erittäin vähän rautaa, sen kalsium estää raudan imeytymistä, ja suuri maidon juonti vie lapsen vatsassa tilaa rautapitoiselta kiinteältä ruoalta sekä voi aiheuttaa tihkuvuotoa -> johtaa raudanpuuteanemiaan. Raudanpuuteanemia on mikrosytääristä. 
+
+  </div>
+</div>
 
 #### Mikrosytäärisen anemian taustalla voi olla keliakia {#Mikrosytaarinen-keliakia}
 
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Keliakia aiheuttaa suolistossa imeytymishäiriön ja voi siten johtaa raudanpuutteeseen ja sitä kautta mikrosytääriseen anemiaan (yleisin keliakiassa). Anemia voi myös olla makro- tai normosytäärinen, koska myös B12- ja B9-vitamiinien imeytyminen voi häiriytyä. Sekalainen imeytymishäiriö voi aiheuttaa myös samaan aikaan sekä mikro- että makrosytäärisyyttä -> RDW koholla. 
+  </div>
+</div>
+
 #### Vesirokkorokotus kuuluu yleiseen rokotusohjelmaan
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Kysymyksen tekovuonna ei vielä ollut totta, mutta vesirokkorokote tuli Suomen kansalliseen rokotusohjelmaan syyskuussa 2017. Perusrokotussarjaan kuuluu kaksi annosta, annetaan neuvolassa 1,5-vuotiaille ja 6-vuotiaille (tällöin osana MPRV-yhdistelmärokotetta). Rokote sisältää elävää, heikennettyä varicella-zoster-virusta. 
+
+Suurin osa väestöstä ei ole siis saanut rokotetta, vaan sairastanut taudin lapsuudessa. Korkeintaan 1-3 prosenttia aikuisväestöstä ei ole sairastanut vesirokkoa, joten rokotustarve on hyvin vähäinen. Jos henkilö ei ole sairastanut vesirokkoa tai saanut kahta rokoteannosta (vähintään 3 kuukauden välein), täydennä rokotussuoja. Lähes kaikki 50 vuotta täyttäneet ja sitä vanhemmat ovat sairastaneet vesirokon, eivätkä tarvitse rokotetta. Jos lapsi on sairastanut vesirokon hyvin lievänä alle vuoden ikäisenä, hän saattaa saada vesirokon uudelleen. Siksi myös näille lapsille suositellaan kahta vesirokkorokotusta. Jos vesirokon on sairastanut yli yksivuotiaana lievänä, ei rokotuksia tarvita. Vanhempien antama tieto siitä, onko lapsi sairastanut vesirokon, on yleensä luotettava. Vesirokon sairastaneen rokottamisesta ei ole haittaa, mutta immuunipuutteisen rokottamisesta päättää lääkäri.
+
+Koska kyseessä on elävä rokote, sitä ei tule antaa raskaana oleville eikä henkilöille, joilla on vaikea immunologinen puutostila (esim. solunsalpaajahoito tai vaikea immuunipuutos).
+
+  </div>
+</div>
 
 #### Rotavirusrokote annetaan peroraalisesti
 
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Suomen kansallisessa lasten rokotusohjelmassa tällä hetkellä ainoa suuhun annosteltava valmiste (maailmalla ja matkailijoille on käytössä useita muitakin suun kautta otettavia rokotteita, kuten kolera, lavantauti ja kehitysmaissa käytettävä oraalinen poliorokote). 
+
+---
+
+Rotavirusrokote on myös sen suhteen poikkeuksellinen rokote, että sen **antamiselle on asetettu tiukat ikärajat,** ja sitä annetaan ainoastaan varhaisimeväisille. Suomessa käytössä oleva suun kautta annettava rotavirusrokote annetaan neuvolassa 2, 3 ja 5 kuukauden iässä. _Ensimmäinen annos on annettava viimeistään 12 viikon iässä ja kolmas annos tulee antaa ennen kuin lapsi on täyttänyt 32 viikkoa._ Annosten minimivälin tulee olla neljä viikkoa. Perusrokotussarjan jälkeen ei anneta tehosteita. 
+
+Rokotteita ei anneta vanhemmille potilaille, koska heillä rokotteen **riski aiheuttaa harvinaista suolentuppeumaa (invaginaatiota, intussusseptiota) kasvaa.** Rokote siis voi aiheuttaa lymfoidihyperplasiaa suolistossa (Peyerin laikuissa) ja nämä voivat toimia tarttumiskohtina (lead point) suolentuppeumalle. 
+
+Toinen syy miksi rokotteita ei kannata antaa vanhemmille potilaille on se, että vaikea rotavirusripuli ja kuivuminen on todennäköisintä juuri pienillä imeväisillä ja vanhemmilla lapsilla/varsinkin aikuisilla tauti ei ole yleensä yhtä vakava. 
+
+  </div>
+</div>
+
 #### Kuumekouristuksen taustalla on usein keskushermostoinfektio
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+
+Kuumekouristus itsessään määritellään nimenomaan tilanteeksi, jossa kouristuksen taustalla ei ole keskushermostoinfektiota. 
+
+Kuumeen aikainen kohtaus kuitenkin voi olla bakteerimeningiitin, enkefaliitin tai sepsiksen oire, joten ensimmäistä kertaa kouristanut lapsi on syytä pyytää päivystyksellisesti lääkärin tutkittavaksi, vaikka kohtaus olisi ollut lyhyt ja lapsi olisi siitä toipunut. Poissuljetaan keskushermostoinfektio, tarkistetaan verensokeri, varmistetaan statuksen normaalistuminen. Jos lapsi on muutaman tunnin seurannassa kohtauksen jälkeen hyväkuntoinen eikä lääkärin tutkimuksessa tule esiin mitään poikkeavaa, häntä ei tarvitse lähettää sairaalaseurantaan, ja vanhemmille kerrotaan kuumekouristusten hyvänlaatuisuudesta sekä annetaan tarkat ohjeet lapsen voinnin seurannasta; tarvittaessa bukkaalinen midatsolaami tai diatsepaamirektiolit kotiin (jos pitkittynyt tai lapsi asuu pitkällä ensiapua antavasta yksiköstä).
+
+---
+
+EEG- tai kuvantamistutkimuksia ei normaalisti kehittyneillä ja muuten terveillä yksinkertaisia kuumekouristuksia saavilla lapsilla tarvita jatkotutkimuksina siinäkään tapauksessa, että kuumekouristukset uusiutuvat myöhempien kuumeiden aikana. Em. tutkimukset ovat aiheellisia, jos lapselle tulee myös kuumeettomia kouristuksia
+
+Jatkotutkimuksia ei tarvita, jos 6 kk:n–5 v:n ikäisellä lapsella esiintyy vain kuumeen aikana yksinkertaisia tajuttomuus-kouristuskohtauksia, joista lapsi toipuu normaalisti. Välttämättä nämä eivät ole tarpeen myöskään 6(–7) v:n ikäisellä yksinkertaisen kuumekouristuksen saaneella etenkään, jos lapsella on ollut taipumus toistuviin yksinkertaisiin kuumekouristuksiin pienempänäkin.
+
+  </div>
+</div>
 
 #### Petekia häviää läpinäkyvällä lasilla painettaessa {#Petekia-haviaa}
 
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+
+Petekia eli 1-2mm läpimittainen pinnallinen hematooma ei kalpene, kun sitä painetaan läpinäkyvällä lasilla. Veri on vuotanut verisuonen ulkopuolelle ihosolukon väliin. Koska veri ei ole verisuonen sisällä, paine ei pysty siirtämään sitä pois. Läpinäkyvällä lasilla painettaessa punainen täppä näkyy edelleen kirkkaana. 
+
+Vrt. esim. urtikaria tai eryteema, jossa punoitus johtuu pienten verisuonten laajenemisesta ja lisääntyneestä verenvirtauksesta. Kun kohtaa painetaan lasilla, veri puristuu väliaikaisesti pois verisuonesta ja punoitus häviää/vaalenee. 
+
+![](images/petechiae.png)
+  </div>
+</div>
+
+
 #### Lapsella voi esiintyä solisluunmurtuma synnytystraumana {#Solisluumurtuma-synnytystraumana}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Solisluunmurtuma on ylivoimaisesti tavallisin synnytystrauma vastasyntyneellä. Murtuma syntyy yleensä synnytyksen loppuvaiheessa, jos hartioiden ulostulo on vaikeaa (ns. hartiadystokia). 
+
+Oireena voi olla affisioidun yläraajan heikko liikuttaminen ja tunnustellessa voi tuntua pykälä tai krepitaatio. Paranee yleensä noepasti ja täydellisesti ilman kipsausta tai leikkausta. Hoitona on varovainen käsittely ja tarvittaessa kivunlievitys. 
+  </div>
+</div>
+
 
 #### Lapsen diabetesepäily (tyyppi 1:n diabetes) on aina päivystysasia {#T1DM-paiv}
 
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Ketoasidoosin kehittymisen aikataulua ei voi ennustaa -> ei ole turvallista odotteluaikaa -> lapsen diabetesepäily aina päivystykseen
+
+![](images/t1dpaiv.png)
+  </div>
+</div>
+
 #### Tyypillinen kasvukäyrälöydös hypertyreoosissa on suhteellisen painon lisäys ja suhteellisen pituuden vähenemä {#Hypotyreoosi-kasvukayra}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+
+Näin olisi hypotyreoosissa. Hypertyreoosissa taas päinvastoin: suhteellisen painon alenema ja suhteellisen pituuden kiihtyminen
+
+Tällainen ristioire, jossa paino ja pituus menevät eri suuntiin on aina hälyttävä. 
+
+  </div>
+</div>
 
 #### Asetyylisalisyylihappoa voidaan käyttää lapsen kuumeen ja kivun hoidossa {#ASA-lapsella}
 
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+
+Asetyylisalisyylihappoa (ASA) vältetään lapsen kivun/kuumeen hoidossa **Reyen oireyhtymän** riskin takia. Reyen oireyhtymä tarkoittaa virusinfektiota sairastavalla/juuri sairastaneella lapsella ilmentyvää akuuttia maksan vajaatoimintaa ja enkefalopatiaa; ilmentymisellä todettu olevan erityisesti yhteys aspiriinin annosteluun virusinfektion aikana
+
+Aspiriinin metaboliitit voivat inhiboida mitokondrioiden entsyymejä ja vähentää beetaoksidaatiota -> rasvahappojen kertyminen (mikrovesikulaarinen rasvainen muutos) ja tulehdus maksassa. 
+
+**ASA:a käytetään matalalla annoksella kuumeisella lapsella pääasiassa ainoastaan Kawasakin taudissa (vaskuliitti), jossa tromboosinehkäisy on tärkeää.**
+
+  </div>
+</div>
+
 #### Runsasta pulauttelua voidaan hillitä maidonsakeuttajalla {#Maidonsakeuttajat}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Imeväisikäisten ja pienten lasten pulauttelua voidaan usein vähentää maidon sakeuttamisella. Voidaan käyttää esimerkiksi johanneksenleipäpuun uutetta (esim. Nutrilon Nutriton). Sakeutettu maito on rakenteeltaan paksumpaa ja raskaampaa. Tämä tekee sen fyysisestä nousemisesta mahalaukusta takaisin ruokatorveen merkittävästi vaikeampaa.
+
+  </div>
+</div>
 
 #### Pahanlaatuinen imusolmuke on tyypillisesti punoittava, liikkuva ja aristava
 
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+
+Pahanlaatuinen imusolmuke on yleensä kivuton, kova, kiinteästi alustaansa kiinnittynyt eikä se yleensä punoita. 
+
+Punoitus, liikkuvuus ja aristus viittaa enemmänkin hyvänlaatuiseen, tulehdukselliseen lymfadenopatiaan (lymfadeniittiin).
+  </div>
+</div>
+
 #### Herpes simplex -viruksen aiheuttamaan suutulehdukseen liittyy yleensä rakkuloita myös käsissä ja jaloissa {#HSV-suutulehdus}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+
+Tämä viittaa enemmänkin enteroviruksen aiheuttamaan rokkoon (Hand, foot and mouth disease). 
+
+HSV:n aiheuttama suutulehdus taas ilmenee pääasiassa ainoastaan suussa ja huulilla. 
+
+![](images/enterorokko.png)
+  </div>
+</div>
 
 #### 3 kk:n iässä lapsi normaalisti kohottaa päätä ja vartaloa suoristetuin käsivarsin {#Lapsi-kohottaa-paataan-ja-vartaloaan-suoristetuin-kasivarsin-3kk}
 
@@ -7759,7 +8073,9 @@ Tämä on enemmänkin lastenneurologinen kysymys ja tätä seuraavat kysymykset 
   <div class="solution-content">
       Väärin
 
+N. 2kk ikäisen tulisi jo kohottaa päätään, mutta vasta 6kk ikäisen odotetaan pystyvän kohottamaan vartaloaan suoristetuin käsivarsin. 4kk ikäinen kohottaa päätä ja vartaloa kyynärnojassa. 
 
+![](images/normi.png)
   </div>
 </div>
 
@@ -7775,19 +8091,12 @@ Tämä on enemmänkin lastenneurologinen kysymys ja tätä seuraavat kysymykset 
   <div class="solution-content">
       Oikein
 
+Babinski (isovarpaan ojentuminen ylöspäin jalkapohjan ulkosyrjää raaputtaessa) häviää kun tasapainoreaktiot jalkaterässä kehittyvät. Sen häviäminen on tärkeä edellytys pystyasennon hallinnalle; ei absoluuttinen edellytys, mutta sen häviäminen mahdollistaa kävelyn oppimista tehokkaasti. Babinski voi kuitenkin säilyä positiivisena jopa 24kk asti. 
 
   </div>
 </div>
 
 #### Kasvukivut tuntuvat tavallisesti polvitaipeissa ja pohkeissa
-
-#### Jos skoliometrin lukema on alle 6 astetta, riittää kliininen seuranta eikä rtg-kuvaa tarvita {#Skoliometri-alle-6}
-
-#### Osgood-Schlatterin taudilla tarkoitetaan reisiluun avaskulaarista nekroosia 
-
-#### Äkillisesti kipeytynyt kivespussi vaatii kiireellisen selvittelyn {#Kiveskipu-vaatii}
-
-#### Napatyrä leikataan, jos se vielä 6 kk:n iässä on jäljellä {#Napatyra-leikataan-jos}
 
 <div class="">
   <button class="solution-button"
@@ -7798,6 +8107,139 @@ Tämä on enemmänkin lastenneurologinen kysymys ja tätä seuraavat kysymykset 
   <div class="solution-content">
       Oikein
 
+Kasvukivut voidaan tunnistaa esitietojen ja kliinisen kuvan perusteella. Esiintyvyys on suurin 3–8 v:n iässä. Muuta kipujen syytä on epäiltävä, jos lapsi on alle 3-vuotias, kipu on jatkuvasti vain yhdessä raajassa tai jos kipuihin liittyy ontumista tai objektiivisia löydöksiä. 
+
+**Sääret, pohkeet ja polvitaipeet ovat tavallisimmat sijaintipaikat.** Kipu on useimmiten symmetrinen: se tuntuu molemmissa alaraajoissa tai vaihtaa puolta. **Vaivaa iltaisin nukkumaanmenoaikana,** myös öisin, mutta ei yleensä aamuisin (vrt. aamujäykkyys niveltulehduksissa). Tuntuu levossa, ei rasituksen aikana. Kestää 0.5–5 tuntia.
+
+Kipuja voi esiintyä lyhytkestoisesti esim. muutamien kuukausien ajan, mutta ne saattavat kestää voimakkuudeltaan vaihdellen myös useita vuosia. Alaraajojen iänmukaiset muotovariaatiot eivät liity kasvukipujen esiintymiseen.
+
+Kasvukipujen yhteydessä kliininen status on täysin normaali.
+
+Epätyypillistä kasvukivuille on: ontuminen tai leikkien/liikuntaharrastusten keskeytyminen kivun takia, muut oireet (esim. yleiskunnon heikkous), jatkuvasti toispuolinen kipu tai särky tai oireilu muulloinkin kuin illalla tai yöaikaan.
+
+---
+
+Jos taudinkuva on vähänkään epätyypillinen, esim. kipu vain toisessa raajassa, yläraajojen kipu, aamujäykkyys, nivelturvotus tai systeemioireet (kuume, painonlasku, väsymys), tutkitaan ainakin TVK (leukemian poissulku), CRP ja lasko (niveltulehduksen epäily). Kuvantaminen (rtg tai kaikututkimus) on aiheellista, jos kipu lokalisoituu yhteen paikkaan tai todetaan jokin objektiivinen paikallislöydös.
+
+---
+
+Hoidoksi yleensä riittää tilanteen selittäminen sekä itsehoito hieronnalla, venyttelyllä, lämpimällä yms. Parasetamolia (15 mg/kg kerta-annos) voidaan käyttää tilapäisesti. 
+
+![](images/kasvukivut.png)
+  </div>
+</div>
+
+#### Jos skoliometrin lukema on alle 6 astetta, riittää kliininen seuranta eikä rtg-kuvaa tarvita {#Skoliometri-alle-6}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Skolioosin tutkimisessa status on tärkein tutkimus PTH:ssa. Statuksessa aloitetaan vartalon symmetrian arvioimisella. Lisäksi on tärkeää mitata etutaivutuksessa (Adamsin testi) selkään piirtyvän kylkikohouman määrä asteina - tässä käytetään skoliometria. Aseta se tasaisesti selän poikki, kohtisuoraan selkärankaan nähden ja keskitettynä okahaarakkeiden päälle. Siirrä sitä hitaasti yläselästä alaselkään ja pysähdy jokaisen alueen kohdalla. Kirjaa suurin lukema ja sen sijainti. Merkintä ”8°, oikea rintaranka” on puolen vuoden kuluttua paljon hyödyllisempi kuin pelkkä ”8°”. Alaraajojen pituusero määritetään tarvittaessa lyhyemmän raajan alle asetettujen korotuspalojen avulla. **Poikkeava löydös skoliometrillä on >6º -> lähete erikoissairaanhoitoon lastenkirurgian poliklinikalle.** Muuten voidaan jatkaa seurannalla.
+
+Jos skoliometrilukema on 7° tai enemmän, on perusteltua ottaa **skolioosiröntgenkuva seisten taka-etusuunnassa; sivukuvaa ei yleensä tarvita.** _Kuvaus voidaan periaatteessa tehdä perusterveydenhuollon lähetteellä, kannattaa tutustua oman alueen sopimuksiin porrastuksesta._ Kuvasta tarkistetaan Cobbin kulma (käyrän eniten kallellaan olevien äärinikamien päätelevyjen suuntaisiin viivoihin piirretään kohtisuorat, joiden leikkauskulma on haettu tulos) jonka ollessa >10 astetta on skolioosi diagnosoitu. Sen perusteella myös voidaan päätellä hoitolinjaa.  Lieväkin kivulias skolioosi tulee tutkia natiiviröntgenkuvien lisäksi myös magneettikuvauksella. Magneettikuvaus tehdään myös ennen leikkaushoitoa tai jos taudinkuva on poikkeava. Natiivirtg:n suhteen otetaan myös taivutuskuvia ennen leikkaushoitoa. 
+
+**Skolioosin hoitovaihtoehtoja ovat seuranta, korsettihoito tai leikkaushoito.** Hoidon valinta riippuu käyrän suuruudesta, etenemisestä, sijainnista ja potilaan luustoiästä. Selän pituuskasvu on virheasennon etenemisen kannalta keskeisin ennusteellinen tekijä, ja siksi kasvuvaiheen arviointi on tärkeää virheasentopotilasta arvioitaessa. Tytöillä kuukautisten (menarche) alkaminen lopettaa nopeimman pituuskasvun ja on siksi erinomainen ennustetekijä selän pituuskasvun loppumiselle. Käden röntgenkuva soveltuu erinomaisesti kasvuvaiheen arviointiin. Lantion takasiiven kasvurustojen (Risserin apofyysit) ja selkänikaman rengasrustojen sulkeutumisen jälkeen kasvu on päättynyt, eikä skolioosin pahenemista enää tapahdu suuriasteisimpia muutoksia lukuun ottamatta.
+
+<li><25 astetta -> seuranta</li>
+<li>25-40 astetta kasvavalla lapsella -> korsetti; korsetti ei oikaise rankaa, mutta tavoitteena on ehkäistä muutoksen pahenemista</li>
+<li>45 astetta (aikuisella >50) -> leikkaus; indikaatiorajan asettelu perustuu siihen, että yli 40 asteen skolioosi pyrkii edelleen kasvun päätyttyä hitaasti etenemään ja yli 60 asteen rintarangan skolioosiin liittyy merkittävä keuhkotilavuuden alenema. Hoitamattomaan yli 70 asteen skolioosiin liittyy merkittävästi kohonnut kuolleisuus. Leikkauksena posteriorinen luudutus tai torakoskooppinen Tethering-leikkaus</li>
+<li>Voimistelu, fysioterapia ja manipulaatiohoidot ovat tehottomia</li>
+
+![](images/scoliometer.png)
+![](images/skolioosicobb.png)
+
+  </div>
+</div>
+
+
+#### Osgood-Schlatterin taudilla tarkoitetaan reisiluun avaskulaarista nekroosia 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+
+Reisiluun avaskulaarinen nekroosi viittaa Perthesin tautiin. Taudinkuva muistuttaa lonkan ohimenevää synoviittia, mutta oireilu alkaa hitaammin ja kestää pitkään. Oireena on ajoittaista tai rasituksessa tuntuvaa lonkkakipua, johon lepo auttaa. Kipu voi tuntua nivusen, reiden tai polven alueella. Tautia esiintyy 5-12-vuotiailla ja pojilla jopa viisi kertaa enemmän kuin tytöillä. Trendelenburgin testi on positiivinen ja lonkka voi olla sisärotaatiossa. Röntgentutkimus varmistaa diagnoosin. Tauti paranee ajan kanssa itsestään. Perthesin taudin hoito kuuluu erikoissairaahoitoon. Lähete tehdään kiireellisenä (ei päivystyksellisenä).
+
+---
+
+Osgood–Schlatterin tauti on yleinen polvivaivan aiheuttaja aktiivisesti urheilevilla nuorilla useimmiten kasvupyrähdyksen aikaan. **Patellajänteen ja sen kiinnitysalueen rusto tulehtuu liian voimakkaan vetorasituksen (traktioapofysiitti) takia tyypillisesti 12–15-vuotiaalla urheilijalla, jonka lajiin kuluu paljon hyppyjä** (kori-, lento- ja jalkapallo tai juoksu). Tytöillä Osgood–Schlatterin tauti on harvinaisempi, ja oireet alkavat aikaisemmin (8–12 vuoden iässä).
+
+**Kipu paikantuu sääriluun kyhmyn (tuberositas tibiae) seutuun. Tuberositas tibiaen kohdalla todetaan usein selvä kyhmy.** Akuutissa vaiheessa kyhmyä särkee, ja se on selvästi aristava. Akuutin tilanteen rauhoituttua särky ja painoarkuus häviävät, mutta lievää kipua esiintyy usein edelleen rasituksen jälkeen. 
+
+---
+
+Kuvantamistutkimuksia ei tarvita, mikäli tila on molemminpuolinen. Toispuoleisissa tapauksissa on hyvä poissulkea muu patologia (kasvain, infektio) AP- ja sivuröntgenkuvin.
+
+---
+
+Hoidossa tärkeintä on perheelle annettava informaatio. _Liikuntarajoitukset jätetään potilaan ja vanhempien päätettäviksi._ Oireiden voimakkuus vaihtelee niin paljon, että tarkkoja ajallisia ohjeita esim. urheilutauon kestosta yksittäisen potilaan kohdalla ei voida antaa. 
+
+<li>Hoitona riittää kipua provosoivien harjoitteiden eli useimmiten juoksemisen ja hyppimisen välttäminen (esim. pari viikkoa) ja tarvittaessa korvaaminen esimerkiksi uinnilla tai pyöräilyllä. Keskeistä on, että vain kipua aiheuttava liikuntaa tauotetaan. Tauko on tarpeen aina, jos oireet palaavat. Fysioterapian tehosta ei ole selvää näyttöä, mutta fysioterapeutti voi ohjata alaraajan lihashallintaa parantavia lihasharjoitteita.</li>
+<li>**Akuutissa vaiheessa oireita voidaan lievittää tulehduskipulääkityksellä ja kylmällä,** ja pahimmassa tapauksessa polven voi immobilisoida esimerkiksi ortoosilla pariksi viikoksi.</li>
+<li>Leikkaushoitoa voidaan harkita niissä harvoissa tapauksissa, joissa todetaan irrallinen kipeä luufragmentti patellajänteen alla kasvun päätyttyä. Kasvuiässä vaivaa ei hoideta kirurgisesti.</li>
+
+---
+
+Osgood–Schlatterin taudin oireet kestävät muutamasta kuukaudesta pariin vuoteen ja häviävät valtaosalla potilaista viimeistään kasvun päättyessä. Kyhmy jää, ja yli puolet potilaista kokee polvilla seisomisen pysyvästi kipeäksi. Komplikaatiot (apofyysin ennenaikainen luutuminen, akuutti murtuma) ovat hyvin harvinaisia.
+
+![](images/osgood.png)
+![](images/osgood2.png)
+
+  </div>
+</div>
+
+
+#### Äkillisesti kipeytynyt kivespussi vaatii kiireellisen selvittelyn {#Kiveskipu-vaatii}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Akuutin kiveskivun aiheuttajia ovat _kiveksen kiertymä, kiveslisäkkeen kiertymä, (kureutunut nivustyrä), trauma ja lisäkiveksen tulehdus._ **Yleisimmät kaksi näistä ovat kiveslisäkkeen kiertymä ja lisäkiveksen tulehdus, mutta kiveksen kiertymä on aina syytä pystyä poissulkemaan.** Kiveskipua voi myös aiheuttaa mm. orkiitti (harvinainen nykyään), varikoseele tai idiopaattinen skrotumin ödeema, mutta nämä harvoin ovat samalla tavalla akuutteja. 
+
+Syyltään epäselväksi jäänyt akuutti kivespussin kipu on kiireellisen leikkausarvion aihe -- pääasiassa juuri kiveskiertymän takia, koska se voi johtaa kiveksen nekroosiin. **Kasvuikäisen äkillisen kiveskivun syy on kiertymä, kunnes toisin on osoitettu.**
+
+
+  </div>
+</div>
+
+
+#### Napatyrä leikataan, jos se vielä 6 kk:n iässä on jäljellä {#Napatyra-leikataan-jos}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+
+Napatyrät (hernia umbilicalis) johtuvat suolen sisällön työntymisestä naparenkaan (anulus umbilicalis) läpi. Vastasyntyneellä on valkeassa jännesaumassa (linea alba) napanuoran mentävä reikä, jota ympäröi naparengas (annulus umbilicalis). Syntymän jälkeen napatyrä on melko yleinen, mutta ensimmäisten elinvuosien aikana reikä yleensä pienenee ja tyrä häviää itsestään. 
+
+Napatyrä on sormenpäällä tunnettavissa oleva aukko navan kohdalla. **Napatyrä aiheuttaa erittäin harvoin oireita, vaikka saattaa lapsen itkiessä olla kookaskin (perussääntö on, että tyrä pullistuu koska lapsi huutaa, ei päinvastoin)**. Jos napatyrästä on oikeasti vaivoja tai tyräportti on suuri, voidaan leikkaus tehdä normaalia aiemmin.
+
+<li>Pienet napatyrät paranevat itsestään, ja jos tyräportin läpimitta on alle 1,5 cm, yli 90 % tyristä paranee. </li>
+<li>**Napatyrän kuroutumisen ollessa harvinaista seuranta viiteen ikävuoteen asti on perusteltua. Tyrä leikataan ennen kouluikää, jos se on vielä jäljellä.**</li>
+
+
+![](images/napatyrä.png)
 
   </div>
 </div>
@@ -7820,4 +8262,17 @@ Jos normaalikokoinen kives on vedettävissä kivespussin pohjalle ja se siellä 
   </div>
 </div>
 
-#### Vanhemman depressio on lapsen/nuoren depression riskitekijä
+#### Vanhemman depressio on lapsen/nuoren depression riskitekijä {#Vanhemman-depressio}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Perinnöllisyydellä on merkittävä rooli mielialahäiriöiden alttiudessa. Perimän lisäksi vanhemman depressio myös vaikuttaa vuorovaikutukseen lapsen kanssa sekä voi heikentää perheen sosioekonomista tilannetta -> altistaa masennukselle. 
+  </div>
+</div>
