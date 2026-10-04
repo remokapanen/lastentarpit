@@ -6431,7 +6431,7 @@ Vaikka sairaudet ovat taustamekanismeiltaan erilaisia, niiden oirekuvat ovat osi
 
 Eosinofiilinen esofagiitti (EoE) on harvinainen, vaikkakin kaikissa länsimaissa yleistyvä ruokatorven krooninen tulehdussairaus
 
-EoE tarkoittaa ruokatorven kroonista eosinofiilivaltaista tulehdustilaa, joka aiheuttaa klassisesti erityisesti ruokatorven toimintahäiriön (dysmotiliteetti)::minkä tyyppisiä oireita. Johtuu Th2-vasteesta allergeenille (tyypillisesti ruoka-aine, mahdollisesti aeroallergeeni) ja sen aiheuttamasta eosinofiilisestä infiltraatista; n. 75%:lla potilaista on myös muita allergisia tauteja (esim. allerginen riniitti tai astma). 
+EoE tarkoittaa ruokatorven kroonista eosinofiilivaltaista tulehdustilaa, joka aiheuttaa klassisesti erityisesti ruokatorven toimintahäiriön (dysmotiliteetti). Johtuu Th2-vasteesta allergeenille (tyypillisesti ruoka-aine, mahdollisesti aeroallergeeni) ja sen aiheuttamasta eosinofiilisestä infiltraatista; n. 75%:lla potilaista on myös muita allergisia tauteja (esim. allerginen riniitti tai astma). 
 
 EoE:tä on syytä epäillä lapsella, jolla on nielemisvaikeuksia, ruokaboluksen juuttumista ruokatorveen sekä närästystä/rintalastan alaista kipua, erityisesti atopiataustan omaavilla lapsilla. Pienillä lapsilla oirekuva ei ole aina yhtä klassinen, vaan voidaan todeta enemmän oksentelua/regurgitaatota, vatsakipua ja syömishäiriöitä. Lapsen kasvaessa tulee enemmän närästystyyppistä oireilua ja lopulta vanhemmilla teineillä/aikuisilla ruoan juuttumista ruokatorveen ja dysfagiaa. 
 
@@ -6525,7 +6525,7 @@ Maailmanlaajuisesti (n.65-70%) valtaosa on laktoosi-intolerantteja. Aasiassa, Af
   <div class="solution-content">
       Oikein
 
-Älä sekoita synnynnäistä laktaasinpuutosta ja primaarista hypolaktasiaa (eli tyypillistä laktoosi-intoleranssia): synnynnäinen laktaasinpuutos on harvinainen (Suomesta on toistaiseksi löydetty seitsemän mutaatiota yhteensä 43 potilaalta; esiintyvyys maailmalla n. 1:5 milj) vetisenä ripulina ilmenevä resessiivisesti periytyvä tila, jossa vauvan elimistö ei muodosta laktaasi-entsyymiä lainkaan syntymästä alkaen ja ongelma ilmenee välittömästi syntymän jälkeen. 
+Älä sekoita synnynnäistä laktaasinpuutosta ja primaarista hypolaktasiaa (eli tyypillistä laktoosi-intoleranssia): synnynnäinen laktaasinpuutos on harvinainen (Suomessa oli ainakin vuoteen 2009 mennessä erään Duodecim-artikkelin mukaan löydetty seitsemän mutaatiota yhteensä 43 potilaalta; esiintyvyys maailmalla n. 1:5 milj) vetisenä ripulina ilmenevä resessiivisesti periytyvä tila, jossa vauvan elimistö ei muodosta laktaasi-entsyymiä lainkaan syntymästä alkaen ja ongelma ilmenee välittömästi syntymän jälkeen. 
 
 Primaarinen laktoosi-intoleranssi on taas todella yleinen (18%) ja kehittyy vasta myöhemmin (tyypillisesti yli 5v.-aikuisikä). Laktaasientsyymin tuotanto alkaa hiipua perimän säätelemänä vasta iän kertyessä. 
 
@@ -6560,7 +6560,7 @@ Ruoka-allergia on astman riskitekijä ja liitännäissairaus, ei suora syy. Laps
     Vastaus
   </button>
   <div class="solution-content">
-      Väärin
+      Oikein
 
 Lehmänmaidossa on erittäin vähän rautaa, sen kalsium estää raudan imeytymistä, ja suuri maidon juonti vie lapsen vatsassa tilaa rautapitoiselta kiinteältä ruoalta. Runsas maito voi myös aiheuttaa tihkuvuotoa suolen verisuonissa. Kaikki nämä tekijät altistavat raudanpuutteelle. 
 
@@ -6893,7 +6893,7 @@ Puuttuva tai poikkeava punaheijaste viittaa valon kulun esteeseen silmän taitta
   </div>
 </div>
 
-#### Imeväisikäisellä atooppinen ihottuma esiintyy yleesä taivealueilla {#Imevaisikaisella-atooppinen-ihottuma-taivealueilla}
+#### Imeväisikäisellä atooppinen ihottuma esiintyy yleensä taivealueilla {#Imevaisikaisella-atooppinen-ihottuma-taivealueilla}
 
 <div class="">
   <button class="solution-button"
@@ -7232,7 +7232,7 @@ Elektrolyyttiarvot ovat yleensä normaalit, jonka takia niitä ei voida käyttä
   </div>
 </div>
 
-#### Akuutti yskä paranee yskimällä {Yska-yskimalla}
+#### Akuutti yskä paranee yskimällä {#Yska-yskimalla}
 
 <div class="">
   <button class="solution-button"
