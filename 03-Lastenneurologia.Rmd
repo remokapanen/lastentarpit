@@ -182,6 +182,10 @@ Migreenikohtaus voidaan jakaa neljään vaiheeseen:
     <li>Tensiopäänsäryssä ei usein perinnöllistä taustaa (liittyy henkiseen ja fyysiseen stressiin; sisältää sekä lihasjännityksestä johtuvat että henkisestä jännittyneisyydestä johtuvat päänsäryt; voi siis esiintyä ilman merkittävää lihaskireyttä)</li>
     <li>Sukutausta altistaa migreenipäänsärylle</li>
   </ul>
+<li>Alkamisikä:</li>
+  <ul>
+    <li>Molemmissa voi alkaa hyvin varhain, jopa leikki-ikäisenä. Yleistyvät nuoruusikään tultaessa.</li>
+  </ul>
 <li>Esioireisuus</li>
   <ul>
     <li>Tensiopäänsäryssä ei esioireita</li>

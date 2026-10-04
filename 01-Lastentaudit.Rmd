@@ -6410,3 +6410,1414 @@ Tietysti myös sairaalaan, jos merkittävän korkea CRP tai esim. keuhkokuume, j
   </div>
 </div>
 
+### Monivalinnat  
+
+O/V-väittämiä
+
+#### Ruokatorven refluksisairauden ja eosinofiilisen esofagiitin oireet poikkeavat selkeästi toisistaan {#GERD-vs-EoE}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+
+Vaikka sairaudet ovat taustamekanismeiltaan erilaisia, niiden oirekuvat ovat osittain erittäin samankaltaisia ja menevät merkittävästi päällekkäin. 
+
+---
+
+Eosinofiilinen esofagiitti (EoE) on harvinainen, vaikkakin kaikissa länsimaissa yleistyvä ruokatorven krooninen tulehdussairaus
+
+EoE tarkoittaa ruokatorven kroonista eosinofiilivaltaista tulehdustilaa, joka aiheuttaa klassisesti erityisesti ruokatorven toimintahäiriön (dysmotiliteetti)::minkä tyyppisiä oireita. Johtuu Th2-vasteesta allergeenille (tyypillisesti ruoka-aine, mahdollisesti aeroallergeeni) ja sen aiheuttamasta eosinofiilisestä infiltraatista; n. 75%:lla potilaista on myös muita allergisia tauteja (esim. allerginen riniitti tai astma). 
+
+EoE:tä on syytä epäillä lapsella, jolla on nielemisvaikeuksia, ruokaboluksen juuttumista ruokatorveen sekä närästystä/rintalastan alaista kipua, erityisesti atopiataustan omaavilla lapsilla. Pienillä lapsilla oirekuva ei ole aina yhtä klassinen, vaan voidaan todeta enemmän oksentelua/regurgitaatota, vatsakipua ja syömishäiriöitä. Lapsen kasvaessa tulee enemmän närästystyyppistä oireilua ja lopulta vanhemmilla teineillä/aikuisilla ruoan juuttumista ruokatorveen ja dysfagiaa. 
+
+EoE johtaa hoitamattomana ruokatorven motiliteetin heikentymiseen, mistä voi olla seurauksena lihanpalojen juuttuminen ruokatorveen. 
+
+EoE todetaan aina gastroskopialla. Diagnostiset kriteerit ovat: 
+
+<li>Ruokatorven toimintahäiriöön viittaavat oireet (dysfagia, ruoan impaktoituminen, rintakipu/närästys, pienillä lapsilla oksentelu, syömisongelmat...)</li>
+<li>Ruokatorven limakalvon koepalassa > 15 eosinofiiliä/näkökenttä(hpf) ja</li>
+<li>Muut eosinofilian syyt poissuljettu (esim. infektiot)</li>
+
+---
+
+Hoitona käytetään lapsuusiässä eliminaatiodieettejä (lehmänmaito, viljat, kananmuna tavallisimmat), joilla saadaan vaihteleva vaste
+
+Lääkehoidoista happosalpaajilla on merkittävä rooli, mutta vaikean EoE:n hoidossa paras vaste saadaan nieltävällä budesonidilla. Varhaislapsuudessa käytettynä PPI-lääkkeet näyttävät lisäävän taudin riskiä, mutta niitä käytetään myös taudin hoidossa (on anti-inflammatorinen vaikutus, joka on riippumaton haponvastaisesta vaikutuksesta)
+
+Ennuste epäselvä, ongelma on taudin uusimisherkkyys.
+
+![](images/eoeprogree.png)
+![](images/eoeoireet.png)
+  </div>
+</div>
+
+
+#### Happosalpaus on tehokas imeväisen pulauttelun hoito {#Happosalpaus-tehokas-imevaisen-pulauttelussa}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+
+Pelkkään pulautteluun ei tarvita yleensä muuta hoitoa kuin lääkkeetön hoito (asentohoito, käsittelyohjeet, maidon sakeuttaminen, kerta-annosten vähentäminen, ummetuksen hoito...). 
+
+Happosalpaajalääkkeiden käyttö alle 1-vuotiailla lapsilla oireperusteisesti refluksiin (ilman näyttöä happosairaudesta) ei perustu tutkimusnäyttöön -- vain todettuun poikkeavaan happamaan refluksiin tai peptiseen esofagiittiin kun lääkkeettömät hoidot eivät riitä (lähete esh)
+
+  </div>
+</div>
+
+#### Noin kolmasosa tunnettuja riskigeenejä kantavista sairastuu elinaikanaan keliakiaan {#Keliakia-riskigeenit}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+
+Lähes kaikilla keliaakikoilla todetaan HLA-haplotyyppi DQ2 ja/tai DQ8, mutta vain < 1/10 geenialttiuden omaavista sairastuu. 
+
+---
+
+Nämä perintötekijät ovat tavallisia koko väestössä, ja tämän vuoksi testi sopii vain keliakian poissulkuun (ESH-tutkimus) eikä positiivisena tuo diagnostista lisäarvoa. Noin 1/3 suomalaisista tämä geenialttius, mutta vain <1/10 heistä sairastuu. Perimän ja gluteenin lisäksi tarvitaan muita tekijöitä, joita ei vielä tunneta. Riskiryhmässä mm. he joilla muita autoimmuunisairauksia, 21 trisomia tai lähisuvussa keliakia (1. asteen sukulaiset 5-10% ja 2. asteen sukulaiset 2-4%)
+
+
+  </div>
+</div>
+
+#### Valtaosa maapallon väestöstä on laktoosi-intolerantteja {#Valtaosa-laktoosi-intolerantteja}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Laktoosin imeytymishäiriötä ja sen aiheuttamaa laktoosin sietämisen ongelmaa eli laktoosi-intoleranssia esiintyy noin kuudesosalla (n. 18%) suomalaisista. 
+
+Maailmanlaajuisesti (n.65-70%) valtaosa on laktoosi-intolerantteja. Aasiassa, Afrikassa, Etelä-Amerikassa ja Arabimaissa laktoosi-intoleranssi on valta-asemassa: monilla alueilla (esimerkiksi Itä-Aasiassa) jopa 80–100 % aikuisväestöstä ei kykene pilkkomaan laktoosia. Pohjois-Euroopassa ja osassa Pohjois-Amerikkaa valtaosa taas sietää laktoosia 
+
+  </div>
+</div>
+
+#### Synnynnäinen laktoosi-intoleranssi on harvinainen suomalaiseen tautiperintöön kuuluva sairaus {#Synnynnainen-laktoosi-intoleranssi}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Älä sekoita synnynnäistä laktaasinpuutosta ja primaarista hypolaktasiaa (eli tyypillistä laktoosi-intoleranssia): synnynnäinen laktaasinpuutos on harvinainen (Suomesta on toistaiseksi löydetty seitsemän mutaatiota yhteensä 43 potilaalta; esiintyvyys maailmalla n. 1:5 milj) vetisenä ripulina ilmenevä resessiivisesti periytyvä tila, jossa vauvan elimistö ei muodosta laktaasi-entsyymiä lainkaan syntymästä alkaen ja ongelma ilmenee välittömästi syntymän jälkeen. 
+
+Primaarinen laktoosi-intoleranssi on taas todella yleinen (18%) ja kehittyy vasta myöhemmin (tyypillisesti yli 5v.-aikuisikä). Laktaasientsyymin tuotanto alkaa hiipua perimän säätelemänä vasta iän kertyessä. 
+
+  </div>
+</div>
+
+#### Ruoka-allergia on tärkein yksittäinen pikkulapsen astman aiheuttaja {#Ruoka-allergia-pikkulapsen-astma}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+
+Tärkein yksittäinen astman laukaisija pikkulapsilla on virusten aiheuttamat hengitystieinfektiot (esim. RSV, rinovirukset) -> bronkioliitti ja obstruktiiviset bronkiitit. Lisäksi perimä (atooppinen taipumus) ja muut ympäristötekijät alaltistavat hengitysteiden yliherkkyydelle.
+
+---
+
+Ruoka-allergia on astman riskitekijä ja liitännäissairaus, ei suora syy. Lapsella, jolla on vaikea ruoka-allergia tai paha atooppinen ihottuma, on suurempi riski sairastua myöhemmin myös astmaan.
+  </div>
+</div>
+
+#### Liiallinen maidonjuonti voi aiheuttaa pikkulapselle raudanpuuteanemian {#Maidonjuonnista-anemia}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+
+Lehmänmaidossa on erittäin vähän rautaa, sen kalsium estää raudan imeytymistä, ja suuri maidon juonti vie lapsen vatsassa tilaa rautapitoiselta kiinteältä ruoalta. Runsas maito voi myös aiheuttaa tihkuvuotoa suolen verisuonissa. Kaikki nämä tekijät altistavat raudanpuutteelle. 
+
+Hoitona maitotuotteiden käytön rajoittaminen suosituksiin eli ad 5-6dl/vrk. Samalla yleensä aloitetaan tyypillinen raudanpuutehoito eli p.o.-rauta 2-6mg (max 100mg) joka toinen päivä ja pienellä lapsella paras vaihtoehto on Obsidan Fe2+, jonka kapselin voi avata ja siten annostella sopiva määrä rakeita. Sukrosomiaalinen rauta (Sideral) on myös hyvä, mutta on kalliimpi ja siinä annostelu on erilainen (pienille 14mg x1, kouluikäisille ja vanhemmille 30mg x1). Nestemäisiä rautavalmisteita ei suosita, jos hampaat ovat puhjenneet, koska ne värjäävät ne (ja usein imeytyvät huonommin). 
+
+  </div>
+</div>
+
+#### Leukemiat ovat yleisin lasten syöpätyyppi {#Leukemiat-yleisin-syopa}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Noin kolmasosa alle 16-vuotiaiden lasten syövistä on leukemioita. Kyseessä on lähes aina akuutti leukemia ja useimmiten ALL; krooniset leukemiat (KML ja KLL) ovat vanhempien aikuisten sairauksia. 
+
+Toiseksi yleisin lasten syöpätyyppi on aivokasvaimet.
+
+![](images/lastensyovat.png)
+  </div>
+</div>
+
+#### Leikki-ikäisen lapsen sydämen sivuääni johtuu usein synnynnäisestä sydänviasta {#Sivuaani-johtuu-yleensa-sydanviasta}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Synnynnäinen sydämen rakennevika on yleisin synnynnäinen rakennepoikkeavuus ja sellainen todetaan n. **1%:lla lapsista.** On kuitenkin tärkeää tiedostaa, että **n. 50%:lla lapsista kuullaan ainakin joskus sivuääni** (ja jopa 80%:lla päivystyspotilaista). Oireettoman lapsen sivuääni on useimmiten hyvänlaatuinen, vaikkakin joskus taustalta löytyy seurantaa tai hoitoa vaativa rakenteellinen sydänvika. Kaikissa rakennevioissa ei aina kuulla sivuääntä alkuvaiheissa eikä joskus koskaan. 
+
+![](images/lapsensivuääni.png)
+![](images/lapsensivuäänihyvänlaatuinenvslisätutkimuksiaedellyttävä.png)
+
+  </div>
+</div>
+
+
+#### Munuaistensiirto on yleisin lapsille tehtävä kiinteän elimen siirto {#Munuaistensiirto-yleisin}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+**Yleisimmät lasten elinsiirrot ovat munuais-, maksa- ja sydänsiirrot.** Lisäksi muutama lapsi on saanut suolen- tai keuhkojensiirron.
+
+Elinsiirtoa tarvitsevien lasten tautikirjo on varsin laaja, ja usein syynä on synnynnäinen sairaus, toisin kuin aikuisilla. 
+
+Suomessa munuaisensiirtoja tehdään lapsille 10–15 vuodessa. **Tärkein lasten munuaissiirron aihe maassamme on synnynnäinen suomalaistyyppinen nefroosi (CNF, NPHS1),** joka on syynä 40 %:ssa elinsiirroista. Nämä lapset saavat siirteen varhain eli 1 - 2 vuoden iässä nefroosivaiheen komplikaatioiden välttämiseksi. Toiseksi tärkein ryhmä on virtsaelinten rakenneviat ja munuaisten kehityshäiriöt.
+
+<li>Suomalaistyyppinen synnynnäinen nefroottinen oireyhtymä (CNF, NPHS1) on tautiperimäämme kuuluva, resessiivisesti periytyvä sairaus, joka johtuu NPHS1-geenin mutaatioista. Tämä geeni ohjaa nefriiniproteiinin syntyä. Nefriini on munuaissuodattimen tärkeä komponentti, ja sen puute johtaa massiiviseen proteiinivuotoon ja turvotuksiin heti syntymän jälkeen. CNF-lapset syntyvät usein hieman etuajassa ja heidän istukkansa on suuri (yli 25 % lapsen painosta), mikä herättää epäilyn taudista jo synnytyssalissa. Tauti varmistetaan geenitestillä. CNF-lapsilla ei ole munuaisten ulkopuolisia epämuodostumia. CNF-lapsen valkuaisvirtsaisuus ei reagoi lääkitykseen, minkä takia hoitona on päivittäinen suonensisäinen albumiinin anto. Sairauden ainoa parantava hoito on munuaisensiirto, jota suomalaisen käytännön mukaan edeltää munuaisten poisto ja dialyysihoito.</li>
+
+---
+
+Lapsipotilaille siirretään yleensä aikuisen munuainen ja siirre asetetaan ekstraperitoneaalisesti oikeaan suoliluukuoppaan. Jotta leikkaus olisi teknisesti mahdollinen, tulee lapsen olla vähintään 9–10 kg painava munuaisensiirron aikana. Tyypillisesti munuaisensiirto tehdään aikaisintaan noin yhden vuoden iässä. Noin puolet lasten munuaisensiirroista tehdään elävältä luovuttajalta. Munuaisensiirto voidaan tehdä ilman dialyysihoitoa (pre-emptiivinen munuisensiirto), mikäli kyseessä on hitaasti etenevä sairaus ja lapsen virtsaneritys säilyy sairaudesta huolimatta. Lasten munuaisensiirtojen tulokset ovat hyvät. Lapsista on kymmenen vuoden seurannan jälkeen elossa yli 90 %. Suomessa on vuoden 2021 loppuun mennessä tehty munuaisensiirto 314 lapsipotilaalle. Munuaisensiirron jälkeen lapsi tarvitsee elinikäisen hyljinnänestolääkityksen. Hyljinnänestolääkityksen tiedetään kasvattavan riskiä sairastua sydän- ja verisuonitauteihin, metaboliseen oireyhtymään, herpesryhmän virusinfektioihin ja syöpiin. Elinsiirtopotilaat tarvitsevatkin säännöllisiä sairaala- ja poliklinikkaseurantoja, jotka toteutetaan siirtotoimintaan perehtyneessä yksikössä.
+
+---
+
+Lasten maksansiirtojen tärkein aihe on synnynnäinen sappitieatresia, kuten muuallakin maailmassa. Näiden lasten leikkaushoidon, Kasain portoenterostomian, keskittäminen yhteen yksikköön Suomessa on kuitenkin vähentänyt - mutta ei poistanut - maksansiirron tarvetta, joka nykyisin on 1 - 2 potilasta vuodessa. Nykyään jo 67 % potilaista selviytyy vähintään viisi vuotta oman maksansa turvin. Osuus saattaa suurentua tulevaisuudessa uusien lääkehoitojen ansiosta.
+
+---
+
+Sydämensiirron kaksi valta-aihetta ovat kardiomyopatia ja sydämen synnynnäinen rakennevika, nykyisin usein yksikammiovika. 
+
+---
+
+Keuhkonsiirron tarve on maassamme lapsilla pieni, mikä osaksi johtuu kystisen fibroosin niukasta esiintyvyydestä suomalaisilla. 
+
+Kaikilla neljällä suolensiirtolapsella syynä oli synnynnäisen motiliteettihäiriön aiheuttama suolen vajaatoiminta ja sen edellyttämän suonensisäisen ravitsemuksen komplikaatiot.
+
+
+
+![](images/munuaissiirto.png)
+![](images/munuaissyyt.png)
+  </div>
+</div>
+
+#### Nefroottisen oireyhtymän merkittävin löydön on verivirtsaisuus {#Nefroottinen-oireyhtyma-verivirtsaisuus}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+
+Nefroottinen oireyhtymä on ryhmä glomeruluksen häiriöitä, joille on tyypillistä merkittävä proteinuria >3-3.5g/päivä. _Nefriittiselle oireyhtymälle_ on taas hematuria tyypillisempää (Nefriittinen oireyhtymä = Nefriittinen virtsalöydös (hematuria+vaihteleva proteinuria) + oireyhtymälle ominaisia piirteitä (esim. hypertensio, virtsamäärien väheneminen, lievät turvotukset)). 
+
+**Runsasta virtsaan suodattuvaa proteiinin määrää siis kutsutaan nefroosiksi ja nefroottisessa oireyhtymässä on sen lisäksi hypoalbuminemiaa ja perifeerisiä turvotuksia.** Yhteydessä voidaan usein todeta myös nefriittisen oireyhtymän piirteitä, kuten hematuriaa -> nefriittinen ja nefroottinen oireyhtymä eivät ole täysin erotettu toisistaan vaan voivat ilmetä sekamuotoisena. 
+
+---
+
+**Lapsilla yleisin nefroottinen oireyhtymä on minimal change -nefropatia** (idiopaattinen nefroottinen oireyhtymä). Siihen sairastuu vuosittain parikymmentä suomalaislasta. Valtaosa on 2–8-vuotiaita, ja tauti on yleisempi pojilla (3:2). Taudin puhkeamista edeltää usein virusinfektio, mutta selvää yhteyttä mihinkään etiologiseen tekijään ei tunneta.
+
+Sairauden ensioireena ilmenee turvotuksia silmäluomissa, muualla kasvoissa ja alaraajoissa. Potilaan yleistila on yleensä hyvä, hänellä ei ole kuumetta tai muita tulehduksen merkkejä, verenpaineet ovat normaalit, plasman kreatiniini- ja ureapitoisuudet ovat jokseenkin normaaleja, mutta albumiinipitoisuus on selvästi pienentynyt (alle 20 g/l). Virtsassa todetaan vahva proteinuria (yli 2–3 g/l tai U-prot/krea yli 200 mg/mmol) ja vain niukasti punasoluja. Turvotukset ja liuskakokeella todettava proteinuria ovat riittävä syy potilaan ohjaamiseksi avohoidosta keskussairaalaan. Kaikki ei ole tavallista minimal change nefropatiaa: siksi biopsia + tarv geenitutkimuksia.
+
+Idiopaattisen nefroottisen oireyhtymän hoitona on glukokortikoidilääkitys yleensä 8–12 viikon ajan. Valtaosa (80 %) potilaista reagoi jo parissa viikossa lääkitykseen. Kahdella kolmasosalla episodit kuitenkin uusivat yhden tai useamman kerran lapsuudessa, mutta hoituvat aina glukokortikoidilääkityksellä. Pienellä osalla taudinkulku on ongelmallisempi niin, että episodit uusivat tiheästi tai tarvitaan jatkuvaa glukokortikoidilääkitystä. Näillä lapsilla episodien estoon voidaan käyttää siklosporiinia. Lähes poikkeuksetta episodit loppuvat kuitenkin murrosikään mennessä. Pienellä osalla nefroottiseen oireyhtymään sairastuneista lapsista proteinuria ei alun perinkään reagoi glukokortikoidilääkitykseen (nk. steroidiresistentti nefroosi). Heillä proteinuria johtaa vähitellen munuaisten vajaatoimintaan ja pahimmassa tapauksessa munuaisensiirtoon.
+
+  </div>
+</div>
+
+#### Kuumekouristuksia esiintyy yleensä kouluiässä {#Kuumekouristuksia-kouluiassa}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+
+Potilas on tyypillisesti 6 kk:n–5 v:n ikäinen.
+  </div>
+</div>
+
+
+#### Suurin osa lastenreumasta on seropositiivista polyartriittia {#Suurin-osa-lastenreumasta}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+
+N. 95% tapauksista on seronegatiivisia. Reumatekijän (ja/tai CCP-vasta-aineiden) tutkiminen varmistaa siis lapsen reumadiagnoosin hyvin harvoin, eikä negatiivinen tulos koskaan sulje sitä pois! Sen sijaan tumavasta-ainetutkimus on hyödyllinen, joskaan ei-spesifinen.
+
+Lastenreuma on vain harvoin sama kuin "aikuisen nivelreuma". Selvin tämä yhteys on vajaalla viidellä prosentilla kaikista lastenreumaa sairastavista, jotka tyypillisimmin sairastuvat 10–15 vuoden iässä, ja joilla on seerumista mitattavissa reumatekijä (RF tai CCP-vasta-aineita).
+
+---
+
+**Lastenreumaksi kutsutaan alle 16 vuoden iässä alkanutta pitkäaikaista niveltulehdussairautta, jolle ei löydy muuta selitystä -- toiselta nimeltään onkin juveniili idiopaattinen artriitti (JIA).** Diagnostisissa kriteereissä niveltulehdus (yhdessä tai useammassa nivelessä) on kestänyt yhtäjaksoisesti vähintään 6 viikkoa ja muut niveltulehduksen syyt on poissuljettu. Tarkempi tautityyppi määräytyy ensimmäisten 6kk aikana. Tarkkaa etiologiaa ei tunneta, perinnöllinen alttius isossa roolissa (esim. HLA-assosiaatiot; sisarusten riski sairastua  n. 15-30-kertainen terveeseen normaaliväestöön verrattuna), mutta tarvitaan jokin laukaiseva tekijäkin (identtisistä kaksosistakin vain 25-40% sairastuu).
+
+Ei ole yksittäinen sairaus, vaan luokitellaan _seitsemään alatyyppiin._ **Yleisin (n. 47%) on oligoartriitti (6 kk taudin alusta ≤ 4 niveltä; tosin voi olla ns. leviävä oligoartriitti, jossa 6kk jälkeen ≥5 niveltä). Toiseksi yleisin (n. 19%) on reumatekijänegatiivinen polyartriitti (6 kk sisään ≥5 niveltä).** Sitten tulee yleisoireinen artriitti (kuume, ihottuma), reumatekijäpositiivinen polyartriitti, entesiitteihin liittyvä artriitti (sisältää lastenselkärankareuman), psoriaasiartriitti ja muu artriitti.
+
+Alatyyppien erityispiirteet ja varsinkin vastaaviin aikuisten reumasairauksiin liittyvät piirteet ilmenevät usein vasta murrosiässä, ja siksi erityisesti pienillä lapsilla alatyyppejä voi taudin alkuvaiheessa olla hankala erottaa. Lastenreuma ei siis ole aina erityisenkään samankaltainen kuin aikuisten reuma -- varsinkin pieni lapsi ei useinkaan valita kipua. Alku on moninivelinen vain 10-30%:lla. Tulehdus nivelessä voi aiheuttaa kasvohäiriöitä: voi häiritä pituuskasvua kyseisessä nivelessä (-> heikko kasvu alueella (esim. leuassa pienileukaisuus (usein toispuoleinen leukanivelen affisioituminen) ja leuan vetäytyminen taakse, voi olla vaikeaa avata suuta -> hammaslääkärille seurantaan purennan ja kasvun optimoimiseen) tai varsinkin polven alueella voi nopeuttaa kasvua -> pituusero ja valgusvirheasento alaraajassa)
+
+Lastenreumaan liittyy usein etuosan uveiitti/iriitti (krooninen värikalvontulehdus) ja kaikki niveloireiset lastenreumaepäilyt lähetetään silmälääkärille, hoitamattomana voi aiheuttaa näön hekkenemistä; alku voi olla hidas ja tauti oireeton, joten tutkimuksi tarvitaan. Jos taas niveloireettomalla lapsella on etuosan uveiitti, niin silmälääkäri lähettää lastenreumaselvittelyihin, koska 80%:iin tapauksista liittyy lastenreuma (10%:lla todetaan ennen niveltulehdusta). Uveiitti voi olla hyvin vaikeahoitoinen.
+
+Lastenreuman hoito alkaa lastenreumatologin tai sairauden hoitoon perehtyneen lastenlääkärin toimesta heti, kun muut syyt on poissuljettu ja diagnoosi on varma tai siitä on vahva epäily. Ennen kuin voidaan olla täysin varmoja diagnoosista täytyy muut syyt saada poissuljettua. Hoito tulehduskipulääkkeellä ja nivelten glukokortikoidi-injektioilla voidaan kuitenkin yleensä aloittaa heti. Lastenreuman lääkehoidon tavoitteena on tulehduksen täydellinen rauhoittuminen, remissio. Kipuun NSAIDit (esim. naprokseeni, koska pitkävaikutteinen), alkuhoitoon nivelinjektiot usein ja systeemistä glukokortikoidia voidaan harkita (varsinkin yleisoireisessa tyypissä, muuten harvoin). Perinteisiä reumalääkkeitä käytetään usein ensilinjassa, metotreksaatista eniten näyttöä, muitakin käytetään. Mikäli niveltulehduksia ei saada rauhoittumaan metotreksaatilla ja nivelen sisäisillä glukokortikoidi-injektioilla, voi toinen perinteinen reumalääke tulla kyseeseen ja tällöin usein aletaan käyttää biologisia reumalääkkeitä (TNF-alfasalpaajat, JAK-estäjät, IL-estäjät...).
+
+Ennuste on parantunut, mutta ollaan edelleen kaukana ideaalitilanteesta (41%:lla aktiivitauti / lääkitys 30 v kuluttua diagnoosista; 28%:lla korkea taudin aktiviteetti; 20%:lle potilaista biologisella lääkehoidollakaan ei saavuteta riittävää vastetta).
+
+  </div>
+</div>
+
+#### Aamujäykkyys ja ontuminen ovat yleisiä lastenreuman ensioireita {#Aamujaykkyys-ja-ontuminen-lastenreuma}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Lapsen niveloireiden diagnostiikassa on tärkeää selvittää, onko ensioireena ollut kipu, ontuminen vai turvotus. _Lapsuusiän idiopaattisessa niveltulehduksessa (lastenreuma) lapsen valittama kipu on harvoin ensimmäinen oire._
+
+Ensiksi havaitaan yleensä nivelen käytön varominen tai turvotus. Sen sijaan infektioartriitissa ja lonkan transientissa synoviitissa kipu alkaa sangen äkisti ja on usein voimakasta. 
+
+**Lastenreumassa ontuminen tai nivelen jäykkyys on vaikeampaa aamuisin, kun taas ei-tulehduksellisissa (ortopedisissä) nivelsairauksissa nivelen tai raajan kipu yleensä pahenee päivän mittaan ja rasituksessa.**
+
+Yleisoireet (lämpöily, väsymys, heikentynyt yleiskunto, hidastunut kasvu tai painonlasku) voivat viitata pahanlaatuiseen tautiin tai krooniseen suolistotulehdukseen.
+
+  </div>
+</div>
+
+#### Verenvuodot verkkokalvolla on tyypillinen vauvan ravistelusta aiheutuva löydös {#Vauvan-ravistelu-verenvuodot}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Ravistellun vauvan oireyhtymä (shaken baby syndrome) tarkoittaa tilaa, jossa tavallisesti alle kolmevuotiaan lapsen väkivaltaisesta ravistelusta on aiheutunut lapselle vakavia vammoja. Näissä tilanteissa sekä akuutin kuolleisuuden että uusiutuvan pahoinpitelyn riski ovat suurentuneet. Ulkoiset merkit tapahtuneesta voivat olla vähäisiä, mutta suurella osalla (50–100 %) ravistelluista lapsista havaitaan verkkokalvon verenvuotoja. Muita löydöksiä ovat subduraalihematoomat, aivojen turpoaminen sekä raajojen ja kallon murtumat.
+
+Pienen lapsen pää on painava suhteessa muuhun kehoon. Vauvan tai pienen lapsen ravistaminen aiheuttaa silmän lasiaiseen hidastuvuus- ja kiihtyvyysvoimia, vetoa lasiaisesta verkkokalvolle ja edelleen verenvuotoja verkkokalvolle ja joskus myös lasiaistilaan. **Silmänpohjan huolellinen tutkiminen on tärkeää epäiltäessä vauvan tai pienen lapsen kaltoinkohtelua.**
+
+---
+
+Oirekirjo ravistellun vauvan oireyhtymässä on laaja hyvin vähäisistä ja epämääräisistä oireista kuolemaan johtaviin oireisiin.
+
+<li>Itkuisuus, ärtyneisyys</li>
+<li>Syömättömyys, oksentelu</li>
+<li>Hengityskatkokset</li>
+<li>Epileptiset kohtausoireet</li>
+<li>Tajunnantason muutokset</li>
+
+![](images/sbs.png)
+![](images/sbs1.png)
+![](images/sbs2.png)
+![](images/sbs3.png)
+
+
+  </div>
+</div>
+
+#### Lapsen myrkytyksen ensisijainen hoito on oksettaminen
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+
+Tukehtumis- ja aspiraatioriski sekä kudosvauriot ruokatorveen ja nieluun -> ei enää suositella lainkaan kotihoidossa eikä sairaalassa
+
+---
+
+Myrkytysepäilyissä on aina hyvä kysyä neuvoa Myrkytystietokeskuksesta. Tämän voi tehdä jo ennen potilaan saapumista ja näin valmistautua tarvittaviin toimenpiteisiin.
+
+Myrkytystilanteissa lapsen vointi tulee arvioida ja vakauttaa noudattaen ABCDE-algoritmia kuten muissakin akuuttitilanteissa. Voinnin vakauttamisen jälkeen voidaan keskittyä myrkytyksen hoitamiseen.
+
+Monien myrkytysten hoito on oireenmukaista: vitaalitoiminnot turvataan, kunnes myrkky on poistunut ja oireet väistyneet. Usein on syytä huolehtia hyvästä nesteytyksestä riittävän diureesin turvaamiseksi.
+
+Myrkytysten hoito voidaan jakaa kolmeen vaiheeseen: 1) imeytymisen esto, 2) eliminaation nopeuttaminen, 3) vastalääkehoito.
+
+<li>Myrkyn imeytymisen estäminen on ensisijainen toimenpide myrkytyspotilaan hoidossa. Iholle, silmiin tai limakalvoille joutunut myrkky poistetaan huuhtelemalla ja kontaminoituneet vaatteet riisutaan. **Lääkehiili on tärkeä niellyn myrkyn imeytymisen estämiseksi.** Se estää tehokkaasti myrkyn imeytymistä ruuansulatuskanavasta. Lääkehiilen annostelu on syytä aloittaa mahdollisimman nopeasti, mielellään yhden tunnin kuluessa altistumisesta. Mitään ehdotonta takarajaa lääkehiilen annolle ei kuitenkaan ole. Lapsilla epäilykin myrkyn nielemisestä on aihe lääkehiilen annolle. Annostelussa tulee kuitenkin ottaa huomioon myös mahdolliset riskit eikä lääkehiiltä tule annostella potilaalle, jonka tajunnantaso on laskenut, ilman että ilmatie on turvattu.</li>
+  <ul>
+    <li>Lääkehiili ei tehoa kaikissa myrkytyksissä (alkoholi, rauta, litium, petrolituotteet, fluoridi, syanidi, kaliumkloridi) ja on lisäksi vasta-aiheinen happo- ja emäsmyrkytyksissä.</li>
+    <li>Toistuvaa lääkehiilen annostelua tulee harkita vakavissa myrkytyksissä ja etenkin, jos kysymyksessä ovat hitaasti imeytyvät lääkeaineet.</li>
+    <li>Mahahuuhtelua voi harkita käytettäväksi henkeä uhkaavissa myrkytystilanteissa vain, mikäli altistuksesta on kulunut lyhyt aika (alle tunti). Jos myrkytyksen aiheuttanut aine on syövyttävä, on mahahuuhtelu vasta-aiheinen. Mahahuuhteluun liittyy komplikaatioriskejä (aspiraatiopneumonia, elektrolyyttihäiriöt, mekaaniset vauriot), ja se tulee toteuttaa vain yhteistyökykyiselle potilaalle tai tajuttomalle ja intuboidulle potilaalle, näissäkin tilanteissa erityistä harkintaa käyttäen</li>
+  </ul>
+<li>Eliminaation nopeuttaminen</li>
+  <ul>
+    <li>Henkeä uhkaavissa myrkytyksissä eliminaatiota voidaan nopeuttaa esim hemodialyysillä, -perfuusiolla tai virtsan alkalisaatiolla. Nämä kuitenkin vaativat aina erityisosaamista, joten käyttöaiheet ja hoidon toteutus on tarkkaan harkittava.</li>
+  </ul>
+<li>Vastalääkkeet</li>
+  <ul>
+    <li>Kun vastalääkehoito on mahdollinen ja aiheellinen, tulee se aloittaa mahdollisimman pian elintoimintojen turvaamisen jälkeen. Hoito aloitetaan, kun kyseessä on vakava myrkytys tai sen uhka ja vastalääkkeen hyöty arvoidaan suuremmaksi kuin mahdolliset haitat.</li>
+  </ul>
+
+![](images/lääkehiili.png)
+
+  </div>
+</div>
+
+#### Luun huippumassa saavutetaan n. 20 ikävuoteen mennessä {#Luun-huippumassa}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin/Oikein
+
+Wikissä merkattu oikein, mutta luumassan huippu saavutetaan sinänsä 30 ikävuoteen mennessä. Ikävuodet 30-40 luuntiheys pysyy melko muuttumattomana (plateau); tämän jälkeen luumassaa menetetään keskiarvolta n. 0,7% vuodessa ja menopaussissa kiihtyy vielä enemmän. Maksimaaliseen luumassaan sekä luumassan menetykseen vaikuttaa perintö- että ympäristötekijät (mm. ravinto, liikunta).
+
+![](images/luumassa.png)
+  </div>
+</div>
+
+
+#### Alalohkon keuhkokuume voi aiheuttaa oireena pelkästään vatsakivun {#Alalohkon-keuhkokuume-vatsakipu}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Alalohkokeuhkokuume voi oireilla pelkkänä vatsakipuna ilman selkeitä hengitystieoireita, kuten yskää tai hengenahdistusta. Keuhkopussiin yltävä tulehdus voi ärsyttää palleaa ja sitä hermottavia hermoja, mikä tuntuu kipuna vatsan alueella.
+
+  </div>
+</div>
+
+#### Puuttuva punaheijaste viittaa glaukoomaan 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+
+Puuttuva tai poikkeava punaheijaste viittaa valon kulun esteeseen silmän taittavissa väliaineissa tai silmänpohjan sairauteen – ensisijaisesti lapsilla synnynnäiseen kaihiin tai retinoblastoomaan (silmänpohjan pahanlaatuiseen kasvaimeen).
+
+  </div>
+</div>
+
+#### Downin syndroomaan liittyy älyllinen kehitysvammaisuus {#Down-alyllinen-kehitysvammaisuus}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+21-trisomiaa eli Downin oireyhtymää sairastavia lapsia syntyy Suomessa vuosittain n. 70. **Sille ominaisia löydöksiä ovat kehitysvammaisuuden lisäksi alhainen lihasjäntevyys ja tyypilliset ulkonäköpiirteet, kuten ylöspäin viistot luomiraot, epikantuspoimut ja käsien nelisormipoimut.** _Kehitysvamma on yleensä keskivaikea, mutta voi olla myös lievä tai vaikea._ Sosiaalinen selviytyminen on usein kognitiivisia taitoja mittaavia testituloksia parempaa. 40 %:lla Downin oireyhtymää sairastavista lapsista on **synnynnäinen sydänvika** ja 10 %:lla pohjukaissuolen synnynnäinen tukkeuma tai muu suoliston kehityshäiriö. Myös riski sairastua leukemiaan, maksatulehdukseen, keliakiaan, diabetekseen ja kilpirauhasen vajaatoimintaan on kohonnut.
+
+![](images/down.png)
+![](images/down2.png)
+  </div>
+</div>
+
+#### Imeväisikäisellä atooppinen ihottuma esiintyy yleesä taivealueilla {#Imevaisikaisella-atooppinen-ihottuma-taivealueilla}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+
+Vauvoilla erityisesti kasvoilla, raajojen ekstensoripinnoilla ja vartalolla. Vaippa-alue yleensä säästyy. 
+
+![](images/atooppinenihottumatyyppialueet.png)
+![](images/atooppinen1.png)
+![](images/atooppinen2.png)
+
+
+  </div>
+</div>
+
+
+#### Viaton sivuääni kuuluu myös selän puolella {#Viaton-selan-puolelta}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+
+Selän puolelta kuuluva sivuääni herättää epäilyn erityisesti koarktaatiosta.
+
+---
+
+Sydämen ns. **hyvänlaatuinen sivuääni on soinnillinen, alku- tai keskisystolinen, voimakkuudeltaan 1–2/6 ja se voi kuulua rintakehän etupuolelta miltä kuuntelualueelta tahansa.** 
+
+Lyhyesti voi sanoa, että **erikoissairaanhoidon arviota edellyttää systolinen voimakas (vähintään 3/6), karhea, diastolinen, jatkuva (systodiastolinen) tai selän puolelta kuuluva sivuääni.** Myös ikä vaikuttaa sen verran, että **tulisi tehdä lähete ESH riippumatta sivuäänen laadusta, jos lapsi on alle 4kk** (pienillä imeväisillä sydämen rakennepoikkeavuus sivuäänen aiheuttajana on tavallisempi ja muutokset verenkierrossa syntymän jälkeen voivat tuoda sivuäänet esille hiljalleen). Yli 3-vuotiaista kannattaa muistaa jo yllä mainittu, eli **jos yli 3-vuotiaalla todetaan seurannassa toistuvasti hyvänlaatuinenkin sivuääni, niin kannattaa ottaa PTH:ssa kaksi-/neliraajaverenpaineet (eli siis vähintään oikea yläraaja ja toinen alaraaja) ja EKG.** Jos ne (ja muut asiat statuksessa+anamneesissa) ovat normaalit, niin ei tarvitse lisätutkimuksia. Tietysti jos vanhemmat ovat äärimmäisen huolissaan äänestä rauhotteluiden ja tilanteen selittämisen jälkeenkin, niin voi tehdä lähetteen ESH (pelkkä UÄ-varmistus siitä, että kaikki on hyvin, on näille stressaaville vanhemmille tyypillisesti riittävä jatkotutkimus).
+
+<li>Tietysti ESH tarvitaan myös, jos todetaan sivuäänen yhteydessä heikot reisivaltimosykkeet, sydänperäisiä oireita (mukaanlukien heikentynyt suorituskyky), verenpainetaso on epänormaali (esim. yläraajahypertensio tai merkittävä ero (>10mmHg) ylä- ja alaraajan systolisissa verenpaineissa (viittaisi koarktaatioon)), kasvu on hidastunut (eikä mitään muuta selkeää selittävää todeta) tai muuta selkeää poikkeavaa statuksessa.</li>
+<li>Päivystyslähetettä tarvitaan mm. jos on sydämen vajaatoimintaan viittavia löydöksiä (esim. hengitysvaikeudet), yleistila on heikentynyt tai sivuäänen lisäksi imeväisikäisellä on heikot/puuttuvat reisivaltimosykkeet (valtimotiehyen sulkeutuminen tapahtuu vaiheittain, minkä vuoksi aortan koarktaation aiheuttamaa reisivaltimosykkeiden heikkenemistä ei aina havaita vastasyntyneiden kotiinlähtötarkastuksessa).</li>
+
+![](images/lapsensivuääni.png)
+![](images/lapsensivuäänihyvänlaatuinenvslisätutkimuksiaedellyttävä.png)
+
+  </div>
+</div>
+
+
+#### Uudelleen alkava kastelu voi olla oire diabeteksesta 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Enuresis tarkoittaa kastelua lapsella, jonka jo odotettaisiin kykenevän rakon kontrolloimiseen(eli ≥5v). Tavallisesti kastelua ei siis diagnosoida alle 5-vuotiaalla lapsella tai lapsella, jonka älykkyysikä on alle 5 vuotta. 
+
+Kastelu voidaan erotella päiväkasteluun (enuresis diurna), yökasteluun (enuresis nocturna) ja sekakasteluun (sekä yö- että päiväoireita). Toinen tärkeä jako on primaariseen ja sekundaariseen kasteluun:
+
+<li>Primaarinen kastelu tarkoittaa tilannetta, jossa lapsi ei ole koskaan ollut yli 6 kk:ta kastelematta.</li>
+<li>**Sekundaarinen kastelu tarkoittaa tilannetta, jossa lapsi on alkanut kastella uudelleen oltuaan jossain vaiheessa yli 6 kk kuivana. Sekundaarisen kastelun kanssa tulee pysähtyä miettimään, mikä voisi olla aiheuttajana -- taustalla voi olla mm. VTI, ummetus, uniapnea, diabetes... Yleisimpinä tekijöinä ovat kuitenkin psyykkiset tekijät ja elämäntapamuutokset.**</li>
+
+
+  </div>
+</div>
+
+
+#### VSD aiheuttaa holosystolisen soinnittoman sivuäänen {#VSD-sivuaani}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Kammioväliseinäaukon (VSD) tyypillinen sivuääni on karhea ja holosystolinen. Sivuäänen voimakkuus riippuu oikovirtauksen nopeudesta ja määrästä; pienemmät VSD:t ovat yleensä äänekkäämpiä, ja vastasyntyneellä kookas paineet tasaava VSD ei sivuääntä aiheuta. Usein sivuäänen voimakkuus on trikuspidaaliläpän alueella (left lower sternal border) voimakkain). 
+
+  </div>
+</div>
+
+#### Vauvalle aloitetaan lisäruoat (rintamaidon tai korvikkkeen ohella) 4-6 kk:n iästä alkaen {#Vauvalle-lisaruoka}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Rintamaito on ensisijainen ravinto vauvalle. Vauvan täysimetystä (ainoa ravinto on rintamaito) suositellaan 4–6 kk:n ikään asti ja osittaisimetystä (rintamaidon lisäksi ravintona kiinteä ruoka) vähintään vuoden ikään. Rintamaidossa on kaikki täysiaikaisena ja normaalipainoisena syntyneen vauvan tarvitsemat ravintoaineet D-vitamiinia lukuun ottamatta. Pelkkä maito ei kuitenkaan enää >6kk-ikäisillä riitä kattamaan kasvavan lapsen energiatarvetta ja esim. raudan tarvetta.
+
+
+---
+
+Maisteluannoksia suositellaan imetetylle vauvalle aikaisintaan 4 kk:n iästä tukemaan suoliston kypsymistä ja sietokyvyn kehittymistä uusille ruoka-aineille. Kiinteitä ruokia ei saisi antaa alle 4 kuukauden ikäiselle vauvalle, koska suolisto tai nielemisfunktio ei ole valmis. 
+
+![](images/ravinto.png)
+![](images/ruoat.png)
+  </div>
+</div>
+
+#### Tumma iho tehostaa auringonvalon stimuloimaa D-vitamiinisynteesiä elimistössä {#Tummaihoiset-D-vitamiini}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+
+Tumma iho vähentää D-vitamiinin synteesiä UVB:n vaikutuksesta -> tummaihoisilla ihmisillä on pohjoisilla leveysasteilla huomattavasti suurempi riski D-vitamiinin puutokselle, jos ei käytä ympärivuotista D-vitamiinilisää. 
+  </div>
+</div>
+
+#### Suuri säderasitus rajoittaa TT-tutkimuksen käyttöä lapsilla {#Suuri-saderasitus-TT-lapsilla}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Tietysti tarvittaessa TT-kuva otetaan, mutta sen käytön kanssa on varovaisemmat kriteerit kuin vanhempien aikuisten, koska säteilyaltistus nuoremmalla iällä altistaa korkeammalle pahanlaatuisten muutosten kehittymisen riskille vuosien kuluessa. 
+
+  </div>
+</div>
+
+#### D-vitamiinia suositellaan 10 mikrogrammaa päivässä 2 viikon iästä 2 vuoden ikään saakka {#D-vitamiinisuositukset}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Kaikille vauvoille suositellaan 2vk iästä aloitettavaksi D-vitamiini 10 mikrog (5 tippaa/pv = 10 ug = 400 KY; vähemmän esim. 1-3 tippaa, jos lapsi saa paljon korviketta (korvikkeiden D-vitamointi on n. 2-3 ug/100kcal)). Tätä jatketaan 2 vuoteen saakka. 2-18v on suositus 7.5 ug/pv. 
+
+D-vitamiinia tulisi käyttää vuoden ympäri, ei vain talvisin. 
+
+![](images/dvit.png)
+  </div>
+</div>
+
+#### Streptokokin aiheuttaman tonsilliitin jälkeen voi mennä päiväkotiin vasta 2 vrk:n kuluttua mikrobilääkityksen alusta {#Streptokokki-paivakotiin}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+
+24 t:n kuluttua mikrobilääkehoidon aloittamisesta potilas muuttuu tartuttamattomaksi ja voi palata kouluun tai päiväkotiin, ellei oireiden takia tarvitse pidempää sairauspoissaoloa. 
+
+  </div>
+</div>
+
+#### Alle 16-vuotiaan alkoholi-intoksikaation vuoksi on syytä tehdä lastensuojeluilmoitus {#Lasu-alkoholista}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Lastensuojeluilmoitus tulisi tehdä aina alle 18-vuotiaasta, joka tavataan päihtyneenä tai jonka hallusta löydetään alkoholia.
+
+  </div>
+</div>
+
+#### Vastasyntyneen keltaisuus on patologista, jos se jatkuu yli kolme viikkoa
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Vastasyntyneen keltaisuutta tulisi ainakin **epäillä patologiseksi,** jos 
+
+<li>se ilmenee ensimmäisen elinvuorokauden aikana</li>
+<li>seerumin bilirubiinipitoisuus suurenee nopeasti (yli 85 mikromol/l/vrk) tai ylittää sikiöiän mukaisen turvallisuusrajan</li>
+<li>ilmenee sairaalla lapsella (esim. infektiosta johtuvaa)</li>
+<li>on pitkittynyttä (>1vk täysiaikaisella tai >2vk keskosella; näin dioissa, mutta suurimmassa osassa lähteitä rajana pitkittyneelle on >2vk täysiaikaisille tai 3-4vk keskosilla)</li>
+
+---
+
+**Patologisen keltaisuuden yleisimpiä aiheuttajia ovat:**
+
+<li>Hemolyysitauti: ABO- tai Rh-veriryhmäsopimattomuus, G6PD-entsyymin puutos, sferosytoosi</li>
+<li>Infektiot: Sepsis, keuhkokuume tai kohtuaikaiset infektiot (TORCH-infektiot)</li>
+<li>Maksan ja sappiteiden ongelmat: Sappitieatresia (biliaariatresia), neonataalihepatiitti tai aineenvaihduntasairaudet (esim. galaktosemia)</li>
+<li>Verenpurkaumat: Hematoomien resorboituminen; esim. kefalohematooma eli päänahkan alainen verikertymä</li>
+
+---
+
+Pitkittyneen keltaisuuden taustalla on useimmiten kuitenkin ns. **rintamaitokeltaisuus,** joka ei sinänsä ole patologista. Sen syytä ei tunneta, mutta on esitetty, että taustalla saattaisi olla rintamaidon sisältämät äidin hormonit tai rintamaidon vapaat rasvahapot (rintamaidon β-glukuronidaasi voi tehostaa enterohepaatista kiertoa). 
+
+Rintamaitokeltaisuus on periaatteessa poissulkudiagnoosi. Tärkeimmät erotusdiagnoosit ovat kuivuma, virtsatieinfektio, vastasyntyneen hepatiitti (neonataalihepatiitti) ja äärimmäisen harvoin hoitamaton synnynnäinen hypotyreoosi. Sappitieatresia johtaisi konjugoidun bilirubiinin lisääntyvään suurenemiseen; samalla ulosteet olisivat vaaleita yleensä. 
+
+Keltaisuuden jatkuessa yli kahden viikon on siis aina syytä varmistaa, ettei kysymyksessä ole konjugoituneen bilirubiinin määrän lisääntyminen, vaikka lapsen muu vointi ei antaisikaan aihetta huoleen. Konjugoituneen bilirubiinin tutkimisesta on tehtävä erillinen pyyntö laboratoriolle, ja tutkimukseen tarvitaan useimmiten laskimoverinäyte. Konjugoidun bilirubiinin mittaaminen voidaan tehdä perusterveydenhuollossa, jos tulos on käytettävissä nopeasti eikä aiheuta viivettä erikoissairaanhoitoon lähettämisessä. Jos mahdollista, niin tulisi tutkia myös muita vakavia syitä ja tarkistaa:
+
+<li>S-Bil ja S-Bil-kj -> _Jos konjugoitu bilirubiini on > 20 % kokonaisbilirubiinista tai yli 20 µmol/l, tarvitaan kiireellisiä erikoissairaanhoidon jatkotutkimuksia sappitieatresian poissulkemiseksi._</li>
+<li>Pvk+t, Coombs, retikulosyytit</li>
+<li>ALAT</li>
+<li>TSH</li>
+<li>Ulosteen ja virtsan väri</li>
+
+---
+
+Jos lapsi voi hyvin, paino nousee ja hänellä on vain pitkittynyttä keltaisuutta ja konjugoitumaton hyperbilirubinemia, niin kyseessä on todennäköisimmin rintamaitokeltaisuus. Rintamaitokeltaisuus on vaaratonta eikä sitä tarvitse hoitaa. 
+
+Imetystaukoa ei suositella, koska se voi johtaa imetyksen loppumiseen kokonaan ja rintaruokintaa saa jatkaa, jos bilirubiinitasot eivät seurannassa anna aihetta muihin selvittelyihin ja lapsi voi hyvin. 
+
+---
+
+Jos lapsi kellastuisi uutena yli 2 viikon iässä (alle 2vk syntymästä yleensä vanhemmilla on yleensä vapaa yhteys synnytyssairaalaan ongelmatilanteiden selvittelyssä), hänet lähetetään lastenpoliklinikkaan lisätutkimuksiin kiireellisesti < 1 viikon lähetteellä tai päivystyslähetteellä seuraavana arkipäivänä (tai heti jos epäily esim. sepsiksestä tai vaikeasta hemolyysistä). Laboratoriokokeiden ottaminen perusterveydenhuollossa ei ole välttämätöntä ennen lähettämistä. 
+
+<li>Ilmeisesti oikeassa elämässä lähete tulee usein takaisin rintamaitokeltaisuuden diagnoosilla, mutta terveysportin ohjeiden mukaan yli 2vk iässä kellastuvat ohjataan ESH.</li>
+
+  </div>
+</div>
+
+#### Jos lapsi on lähisuvussaan ainoa lihava, se lisää todennäköisyyttä, että kyseessä on tavallinen lihavuus {#Ainoa-lihava}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+
+Se, että lapsi on sukunsa ainoa merkittävästi lihava henkilö, ei lisää tavallisen (polygeenisen/elintapasidonnaisen) lihavuuden todennäköisyyttä, vaan päinvastoin herättää epäilyn harvinaisemmasta, monogeenisesta, oireyhtymään liittyvästä tai sekundaarisesta (esim. hypotyreoosi) lihavuudesta.
+
+  </div>
+</div>
+
+#### Lihavilla lapsilla esiintyy usein kohonneita maksan transaminaasiarvoja
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Lihavuuteen liittyy erittäin usein rasva-aineenvaihdunnan häiriö (kohonneet triglyseridit, matala HDL-kolesteroli ja kohonnut LDL-kolesteroli), mikä lisää valtimotautien ja **rasvamaksan** riskiä jo lapsuus- ja nuoruusiässä. 
+
+Lihavilta lapsilta T4V ja TSH tutkitaan diagnostisen selvittelyn osana, jos pituuskasvu samanaikaisesti hidastuu eikä syynä ole kasvukauden loppuminen puberteetissa, ja kerran kaikilta lihavilta lapsilta. Lisäksi perusverikokeet tutkitaan kerran lihavilta lapsilta, ja ne voidaan uusia kertaalleen murrosiässä, jos tutkimukset on edellisen kerran otettu alle 10 v:n iässä: PVK, Kol, LDL, HDL, Trigly, fP-Gluk, HbA1c (joskus yli 10-vuotiaille myös oraalinen sokerirasituskoe paikallisen hoitoketjun mukaan), ALAT. 
+
+  </div>
+</div>
+
+#### Yleisin nestetasapainon häiriö on lapsella kuivuminen {#Kuivuminen-yleisin}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Yleisin syy lapsen kuivumalle on virus-gastroenteriitti. 
+
+  </div>
+</div>
+
+#### Painon menetyksellä voidaan kuvata kuivumaa {#Painon-menetys-kuivuma}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Kuivuman arviossa tärkeää on tietysti anamneesi ja status sekä vitaalien tarkistaminen. 
+
+
+<li>Anamneesi:</li>
+  <ul>
+    <li>Oireet, niiden kesto, mitä annettu ja mitä menetetty, virtsan määrä</li>
+  </ul>
+<li>Status:</li>
+  <ul>
+    <li>Paino (tarkista myös kasvukäyrä), kapillaaritäyttö (normaali alle 3sek), limakalvojen kosteus, ihon turgor (telttautuminen), silmien kuopalla olo</li>
+  </ul>
+<li>Vitaalit:</li>
+  <ul>
+    <li>Syke, verenpaine, hengitystaajuus, saturaatio...</li>
+  </ul>
+  
+---
+
+Kuivuman vaikeus voidaan jakaa lievään (3-5%), keskivaikeaan (6-10%) ja vaikeaan (9-15%). Arviossa käytetään alla olevan taulukon löydöksiä. **Paras objektiivinen mittari on kuitenkin painon muutos (jos tuore vertailupaino on tiedossa).**
+
+Elektrolyyttiarvot ovat yleensä normaalit, jonka takia niitä ei voida käyttää kuivuman vaikeuden arviossa. Kuitenkin jos tarvitaan suonensisäistä nesteytystä, verikaasuanalyysi ja elektrolyytit (K, Na) on hyvä tarkistaa; hyväkuntoiselta lapselta ei yleensä tarvita verikokeita virustautiepäilyissä.
+
+![](images/kuivumanmerkit.png)
+
+  </div>
+</div>
+
+#### Akuutti yskä paranee yskimällä {Yska-yskimalla}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Yskänlääkkeiden teho on tutkimuksissa todettu hyvin vähäiseksi tai lumeluonteiseksi; lapsilla ei myöskään kodeiinipitoisia yskänlääkkeitä voi käyttää (kodeiini vasta-aiheista alle 12v). Siksi paras "hoito" akuuttiin flunssayskään on useimmiten vain ajan antaminen, riittävä lepo ja nesteen juominen. 
+
+Tietysti taustalla voi olla jokin hoitoa vaativa sairaus (keuhkokuume, astmakohtaus...), jolloin voidaan tarvita lääketieteellistä hoitoa. 
+  </div>
+</div>
+
+#### Alle kolmevuotiaan tonsilliitti on tyypillisesti streptokokin aiheuttama
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+
+Bakteeriperäisten nielutulehdusten taustalla on useimmiten beetahemolyyttisten streptokokkien (BHS) ryhmä, joista yleisin aiheuttaja on A-ryhmän streptokokki eli Streptococcus pyogenes (StrA, GAS). StrA liittyy 14 %:iin kaikista aikuisten nielutulehduksista ja 25–37%:iin lasten (< 18-vuotiaat) nielutulehduksista. Beetahemolyyttiseen ryhmään kuuluu myös C- ja G-streptokokit. Muiden streptokokkien osuutta nielutulehduksista ei tiedetä tarkkaan, mutta se on pienempi kuin StrA:n. 
+
+**Alle 3-vuotiailla beetahemolyyttinen streptokokki (BHS) on kuitenkin nielutulehduksen aiheuttajana harvinainen** ja yleensä streptokokit alkavat aiheuttaa lapsille nielutulehduksia vasta kouluiässä. Tietysti jos lapsella on esim. sisaruksia, jotka tuovat taudin kotiin, niin alle kouluikäisilläkin voi ilmentyä streptokokkifaryngiittia (usein ilmenee atyyppisesti eli mm. epäspesifinen kuume ja kirkas nenäerite). **Alle 5-vuotiailla yleisin aiheuttaja on adenovirus**
+
+![](images/nielutulehdusmikrobit.png)
+
+  </div>
+</div>
+
+#### Kylmä ilma helpottaa kurkunpään tulehdukseen liittyvää ahdistusta {#Kylma-ilma-laryngiitissa}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Kurkunpäätulehdus on lieväoireinen 85 %:lla lapsista ja vain 1 %:lla on vaikea kurkunpäätulehdus. **Tavallinen kurkunpäätulehdus, johon ei liity hengitysvaikeutta, paranee itsestään.**  Levossa esiintyvä äänekäs sisäänhengitys tai kurkunpäätulehdukseen liittyvä lieväkin pulssioksimetrilla todettava happeutumishäiriö viittaavat vaikeaan tautiin.  
+
+_Suurin osa lapsista voidaan hoitaa kotona._ **Ensisijainen hoito on oireenmukainen** + äänilepo (jos vanhemmalla lapsella/aikuisella ja pystyy ohjeistamaan). Kuumeisen ylähengitystieinfektion aikana hyvä nestetasapaino sekä tulehduskipulääkkeet helpottavat laryngiittipotilaan vointia. Höyryhengityksen tehosta ei ole näyttöä, mutta jotkut voivat kokea siitä hyötyä.
+
+**Jos lapsella on hengitysvaikeus, se helpottaa useimmiten istuvassa asennossa ja viileä ilma helpottaa kurkunpäätulehduksen oireita.** Huoneilman viilentämisen voi toteuttaa esimerkiksi pitämällä ikkunan auki. Jos hengitysvaikeus ei nopeasti helpotu 15–20 minuutin kuluessa, lapsi tulee viedä päivystykseen.
+
+---
+
+Laryngiittiin liittyvä **hengitysvaikeus hoidetaan suun kautta annettavalla glukokortikoidilla** (deksametasonin annos on 0.15–0.6 mg/kg suun kautta tai lihakseen (enintään 8 mg); beetametasonia erityislupavalmisteena voi myös käyttää, annos on 0.25–0.4 mg/kg suun kautta (enintään 7 mg). Nesteeseen liuotettava 0.5 mg:n tabletti maistuu paremmalta kuin deksametasoni). Jos hengitysvaikeus jatkuu huolimatta suun kautta annostellusta glukokortikoidista, voidaan tarvittaessa antaa lisälääkkeenä, yleensä sairaalassa, 2 mg inhaloitavaa budesonidia.
+
+**Vaikeassa, äkillisessä tilanteessa voidaan käyttää lisäksi inhaloitavaa raseemista adrenaliinia höyrystävällä inhalaattorilla.** Raseeminen adrenaliini lievittää tehokkaasti laryngiitista johtuvan hengitysvaikeuden oireita, mutta sen vaikutus on lyhyt, vain 1–2 t. Koska hengitysvaikeus palaa yleensä 1–2 t:n kuluessa, raseemista adrenaliinia saaneet potilaat on lähetettävä ensiavun jälkeen herkästi sairaalahoitoon tai heitä on seurattava polikliinisesti riittävän kauan (vähintään 1–2 t). 
+
+**Mikrobilääkkeistä, keuhkoputkia avaavista lääkkeistä, antihistamiineista, yskänlääkkeistä tai höyryhengityksestä ei ole hyötyä lasten kurkunpäätulehduksen hoidossa.**
+
+---
+
+Sairaalaan voidaan lähettää tietyissä tapauksissa ja lapsi voidaan ottaa osastoseurantaan, ja joskus jopa teho-osastolle. Sairaalaan kuuluu lähettää, jos 
+
+<li>yleistila on huonontunut</li>
+<li>inspiratorinen stridor jatkuu ensiapulääkityksestä huolimatta</li>
+<li>hengitysvaikeus uusiutuu ensiapulääkkeen jälkeisen päivystysseurannan (1–2 t) aikana tai</li>
+<li>todetaan pienentynyt happisaturaatio (< 95 %) ensiapulääkkeen jälkeisen päivystysseurannan aikana</li>
+
+![](images/croup.png)
+
+  </div>
+</div>
+
+
+#### Positiivinen tuberkuliinitesti kertoo elimistön kohdanneen mykobakteerin {#Tuberkuliinitesti}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Latentin tuberkuloosin tutkimisessa voidaan käyttää tuberkuliinikoetta (Mantoux). Tuberkuliinitesti on positiivinen, jos on saanut tuberkuloositartunnan tai BCG-rokotteen (IGRA ei pos. rokotuksen kanssa). 
+
+
+Tuberkuliinikokeen käyttö on vähentynyt ja tilalle on suurelta osin käyttöön tullut **IGRA-verikoetesti** (interferon gamma release assay, gammainterferonin tuotantoon perustuva testi).
+
+Positiivinen IGRA (interferon-gamma release assay) -> infektoitunut joskus TB (BCG-rokote ei aiheuta positiivista reaktiota; vrt. tuberkuliinikoe eli Mantoux-ihotesti). Ei kuitenkaan erota aktiivista ja latenttia infektiota toisistaan! -> IGRA käytetään pääasiassa tartunnanjäljityksessä ja mietittäessä latentin tuberkuloosin hoidon aloitusta. Akuuttia infektiota diagnosoidessa tulee ottaa keuhkokuva, ysköksen tb-värjäys ja -viljely, nukleiinihapon osoitus; on myös PCR-pikatestejä. 
+
+![](images/mantoux.png)
+  </div>
+</div>
+
+#### Allergista nuhaa voidaan hoitaa mm. nenästeroideilla ja allergiasaneerauksella {#Allerginen-nuha-saneeraus}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Allergisen nuhan hoidoksi valitaan vaikeusasteen mukaan ensisijaisesti paikallisesti annosteltava nenästeroidi (ensisijaisesti suihke), suun tai nenän kautta otettava antihistamiini tai näiden yhdistelmä. Nenään paikallisesti annosteltavat glukokortikoidi-nenäsuihkeet tehoavat allergisen ja ei-allergisen nuhan kaikkiin oireisiin. Paikallisesti annosteltavaa antihistamiini-glukokortikoidi-yhdistelmäsuihketta käytetään yliherkkyysnuhassa, jos pelkkä glukokortikoidi-nenäsuihke ei tehoa riittävästi. Lievissä oireissa antihistamiinit voivat riittää oireenmukaiseksi hoidoksi (esim. lievissä kausittaisissa oireissa).
+
+Steroidihoito tulisi aloittaa jo ennen oireiden ilmenemistä kausinuhassa. Käyttöä jatketaan säännöllisenä koko kauden ajan. Potilas voi säädellä annosta altistuksen (siitepölymäärien) ja oireiden mukaan.
+
+Saneerauksella tarkoitetaan allergiaoireita aiheuttavien tekijöiden (kuten pölypunkkien, eläinhilseen...) määrän vähentämistä elinympäristössä eli kodissa; nykyään vältetään turhan tiukkoja "varmuuden vuoksi" tehtäviä saneerauksia. 
+  </div>
+</div>
+
+#### Trakeiittiin kuuluu tyypillisesti puuskittainen yskä {#Trakeiitti-puuskittainen-yska}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+      
+Trakeiitille eli trakean tulehdukselle ominaista ei ole "puuskittainen" yskä, vaan mieluummin syvä, käheä ja haukkuva yskä (kuten valekrupissa/laryngiitissa), johon liittyy sisäänhengityksen vinkuna (stridor) sekä vaikeutuva hengitysahtaus. 
+
+Puuskittainen yskä viittaa puolestaan tyypillisesti hinkuyskään (pertussis), jossa esiintyy pitkiä, tukehtumisentaipuisia yskänpuuskia, joita seuraa usein oksentaminen. 
+
+  </div>
+</div>
+
+#### Lääkeyliherkkyys esiintyy useimmiten urticariana ja eksanteemana {#Laakeyliherkkyys-urtikaria}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+      
+Lääkkeet voivat aiheuttaa joko ennakoituja tai ennakoimattomia haitallisia reaktioita. Ennakoimattomia haitallisia reaktioita ovat lääkkeiden aiheuttamat yliherkkyysreaktiot (drug hypersensitivity, voivat olla joko ei-allergisia eli pseudoallergisia tai välittömiä tai viivästyneitä allergisia reaktioita) ja immunologisen mekanismin kautta syntyvät lääkeallergiset (drug allergy) reaktiot.
+
+Lääkeihottumiksi kutsutaan iholla esiintyviä lääkkeiden aiheuttamia reaktioita. **Tavallisimmat lääkkeen aiheuttamat iho-oireet ovat eksanteema (rokkoihottuma) ja urtikaria (nokkosihottuma).** Yleisimpiä aiheuttajia ovat mikrobilääkkeet (erityisesti penisilliinit ja muut beetalaktaamit).
+
+Lääkeihottumien taustalla voivat olla lääkeaineyliherkkyys, lääkeaineallergia tai lääkkeen toksiset tai farmakologiset ominaisuudet. Lääkeihottuman syntyyn vaikuttavat myös yksilölliset perintötekijät (lääkemetabolia, farmakogenetiikka) ja samanaikaiset infektiot. Esimerkiksi amoksisilliinihoidon kanssa samanaikainen akuutti mononukleoosi altistaa lääkeihottumalle.
+
+Lääkeaineet voivat myös laukaista tai pahentaa monia eri autoimmuunipohjalta syntyviä tai tulehduksellisia ihosairauksia joko yksin tai yhdessä UV-altistuksen kanssa. 
+  </div>
+</div>
+
+#### Turnerin oireyhtymä johtaa lyhytkasvuisuuteen {#Turner-lyhytkasvuisuus}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+      
+Turnerin oireyhtymän on kromosomipoikkeavuus, jonka yleisin karyotyyppi on 45,XO. Esiintyy 1:2 500–1:5 000 tytöstä. 
+
+Sen tärkeimmät oireet ovat pienikokoisuus ja munasarjojen toimimattomuudesta johtuva viivästynyt tai puuttuva murrosikä. Muita löydöksiä voivat olla turvonneet kämmenselät ja jalkaterät vastasyntyneenä, leveä ja lyhyt kaula, kaulapoimu ja aortan koarktaatio. Ilmiasu vaihtelee suuresti, joten hitaasti kasvavasta tai murrosiältään viiveisestä tytöstä tulee tutkia kromosomit matalalla kynnyksellä. Varhainen diagnoosi takaa optimaalisen hoidon ja sen myötä lähes normaalin kasvun ja murrosiän kehityksen.
+
+![](images/tunrer.png)
+  </div>
+</div>
+
+#### Mykoplasmapneumoniaan liittyy tyypillisesti korkea kuume
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+      
+Toisin kuin klassiselle bakteerikeuhkokuumeelle (kuten pneumokokin aiheuttamalle), Mycoplasma pneumoniae -bakterin aiheuttamalle keuhkokuumeelle on tyypillistä lievä tai kohtalainen kuume ja suhteellisen hyvä kunto (ns. atyyppinen keuhkokuume eli "walking pneumonia").
+
+  </div>
+</div>
+
+#### Yökasteluun liittyy yleensä jokin virtsateiden rakenteellinen poikkeus {#Yokastelu-rakenteellinen-poikkeus}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+      
+Niin yö- taikka päiväkastelu ei yleensä johdu kirurgisesta syystä -- varsinkaan yökastelu, joka voidaan pääsääntöisesti hoitaa PTH:ssa. Päiväkastelussa yleensä tehdään UÄ-tutkimus ESH:ssa, mutta sekin jää useimmiten rakenteellisen vian suhteen negatiiviseksi. 
+
+  </div>
+</div>
+
+#### Pojan somaattista kehitysastetta mitataan Tannerin luokituksen P- ja G-luokilla 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+      
+Tannerin asteikossa murrosiän edistymistä arvioivat osa-alueet merkataan seuraavilla kirjaimilla:
+
+<li>P = Häpykarvoitus</li>
+<li>G = Poikien sukupuolielimet</li>
+<li>M = Tyttöjen rintakudos</li>
+
+---
+
+![](images/tanner.png)
+  </div>
+</div>
+
+#### Synnynnäinen hypotyreoosi ei vaikuta sikiökauden kasvuun {#Synnynnainen-hypotyreoosi}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+**Synnynnäisessä hypotyreoosissa lapsi on yleensä vastasyntyneenä normaalisti kehittynyt ja kasvanut.** Vastasyntyneen seulonnassa löytyneen hypotyreoosin varhain aloitettu hoito turvaa käytännössä lapsen normaalin kasvun ja kehityksen, vaikka joissakin tutkimuksissa on myös hoidetuilla lapsilla löydetty vähäistä viivettä kehityksessä suhteessa terveisiin lapsiin. Jos synnynnäistä hypotyreoosia ei hoideta, hidastuu kasvu välittömästi ja lapsen kehitys vaurioituu pysyvästi. Lapsella voi lisäksi olla todettavissa hypotonia, keltaisuus, ulostyöntyvä kieli, vatsan pulleus ja suuri päänympärys hidastuneesta kallon saumojen luutumisesta johtuen.
+
+_Synnynnäiseen hypotyreoosiin liittyy lievästi kohonnut anomalioiden riski._ Synnynnäisen sydänvian yleisyys on neljä kertaa tavallisempi kuin muilla lapsilla, ja myös luuston, munuaisten ja virtsateiden ja ruuansulatuskanavan poikkeavuudet ovat lievästi yleistyneet. Kuulovammoja on kuvattu jopa 20 %:lla lapsista. Näiden poikkeavuuksien osalta ei kuitenkaan ole olemassa seulontasuositusta. Tiettyjen geenien virheisiin liittyy hypotyreoosin lisäksi muita selkeitä poikkeavuuksia: FOXE-1-geenin mutaatioihin voi liittyä suulakihalkio ja NKX2.1-geenin mutaatioihin neurologisen kehityksen poikkeavuus, erityisesti ataksia.
+
+---
+
+Synnynnäisen hypotyreoosin esiintyvyys Suomessa on noin 1:2 700 vastasyntynyttä. Synnynnäistä hypotyreoosia on Suomessa seulottu napaverinäytteistä vuodesta 1979 alkaen. Synnynnäisen hypotyreoosin seulomiseksi jokaisen vastasyntyneen kilpirauhasen toiminta tutkitaan määrittämällä napaveren TSH-pitoisuus. Jos arvo ylittää seulontarajan, otetaan uusintanäyte yleensä 3 vrk:n päivän kuluttua, tämän tuloksen perusteella joko aloitetaan tyroksiinikorvaushoito tai lapsi todetaan tältä osin terveeksi. Jos kyseessä on kaksosraskaus ja yhteinen istukka, lasten TSH-pitoisuudet ovat voineet sekoittua istukan kautta. Tällöin molemmilta kaksosilta tutkitaan myöhemmin TSH (ja mahdollisesti T4v). Myös pikkukeskosilla hypotyreoosi on täysiaikaisia yleisempää ja myöhempi uusintaseulonta on tarpeen.
+
+---
+
+Pysyvä synnynnäinen hypotyreoosi johtuu useimmiten (85 %) kilpirauhasen kehityshäiriöstä (dysgeneesi), tai harvemmin (15 %) hormonituotannon perinnöllisestä häiriöstä (dyshormonogeneesi). Synnynnäisen hypotyreoosin aiheuttajiksi on paljastunut useiden geenien virheitä, mutta tunnetut geenivirheet selittävät vain hyvin pienen osan kaikista hypotyreoositapauksista, erityisesti dysgeneesin etiologia jää edelleen useimmiten tuntemattomaksi. Ohimenevä hypotyreoosi voi johtua äidin raskaudenaikaisesta jodin puutteesta, äidin käyttämästä kilpirauhasen liikatoimintaa jarruttavasta lääkkeestä tai äidiltä saaduista TSH-reseptorin toimintaa estävistä vasta-aineista. Ohimenevä lievä hypotyreoosi voi aiheutua myös heterotsygoottisesta geenivirheestä tai kookkaasta maksan hemangiomasta.
+
+Sentraalinen/tertiäärinen hypotyreoosi on hyvin harvinainen, mutta on tärkeää huomata, että sairaus ei löydy seulonnalla, joka perustuu suureen TSH-pitoisuuteen hypotyreoottisella vastasyntyneellä. Erittäin harvinaisia syitä ovat myös poikkeava tyroksiinin kuljetus solun sisään sekä kilpirauhashormoni- tai tyreotropiiniresistenssi reseptorimutaation vuoksi. 
+
+---
+
+**Hoito toteutetaan erikoissairaanhoidossa,** koska hoidon toteutuminen on varmistettava kaikilla potilailla normaalin kehityksen ja kasvun turvaamiseksi: ensimmäisen kahden vuoden aikana **hypotyreoosi voi johtaa palautumattomaan kehitysviiveeseen.** Hoito aloitetaan välittömästi, kun varmistavasta näytteestä on saatu positiivinen eli poikkeava tulos. Tyroksiinin suositeltu aloitusannos on 10–15 (n. 12) mikrog/kg. Tyroksiini annetaan pienelle lapselle murskattuna pieneen määrään vettä sekoitettuna. Lääke annostellaan aamulla ja lapsen olisi hyvä olla syömättä puoli tuntia lääkkeen oton jälkeen. Tällä hoidolla T4v- ja T3v-pitoisuudet normalisoituvat keskimäärin kolmessa päivässä ja TSH-pitoisuus viimeistään neljän viikon kuluessa. Tämän jälkeen hoitoannos määräytyy kilpirauhasarvojen, lapsen kasvun ja voinnin mukaan. Jos hoidon aikana TSH-pitoisuus ei ole suurentunut yli iänmukaisten viitearvojen, kannattaa pitää lyhyt hoitotauko lapsen ollessa 2–3-vuotias ja tutkia kilpirauhaskokeet tauon jälkeen ja vielä 2, 4 ja 8 viikon kuluttua. Luonnollisesti pysyvä tyroksiinihoito aloitetaan heti, jos tauon aikana TSH kohoaa tai T4v laskee selkeästi viitearvojen ulkopuolelle. Kolmen vuoden iästä alkaen synnynnäinen hypotyreoosi hoidetaan samoin kuin juveniili hypotyreoosi.
+
+![](images/hypotyr.png)
+![](images/hypotyr2.png)
+
+
+  </div>
+</div>
+
+
+#### Virtsatieinfektio imeväisellä on normaali ilmiö eikä vaadi jatkotutkimuksia {#VTI-imevaisella-ei-jatkotutkimuksia}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+
+Merkittävien hoitoa vaativien rakennepoikkeavuuksien ja synnynnäisten munuaisten kehityshäiriöiden toteamiseksi tehdään **ultraäänitutkimus**
+
+<li>aina imeväisen (< 2-vuotiaat) virtsatieinfektion jälkeen</li>
+<li>ensimmäisen pyelonefriitin jälkeen kaikilla lapsilla ja nuorilla</li>
+<li>leikki- ja kouluikäisten poikien virtsatieinfektion jälkeen</li>
+
+  </div>
+</div>
+
+#### Lihominen voi kiihdyttää pituuskasvua {#Lihominen-kiihdyttaa}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Tavallinen lihavuus johtaa kasvun ja luuston kypsymisen lievään nopeutumiseen (aikuispituus ei kasvuiän lihavuuden takia muutu, koska ylimääräinen energia johtaa kasvupotentiaalin hyödyntämiseen etuajassa). 
+
+Syytä lihavuuden aiheuttamalle kasvun kiihtymiselle ei täysin tunneta, mutta todennäköisesti ilmiö liittyy liiallisen rasvakudoksen aikaan saamiin muutoksiin lisämunuais-, sukupuoli- ja kilpirauhashormoneissa. Lihavuuteen liittyy myös suurentunut insuliini- ja insuliinin kaltaisten kasvutekijöiden eritys.
+
+---
+
+Pituus ja paino tulee aina seurata yhdessä lapsen kasvua arvioitaessa. Käyrien ristitseminen (esim. painon nousu ja kasvun hidastuminen) on aina poikkeavaa (esim. hypo-/hypertyreoosi). 
+
+  </div>
+</div>
+
+#### Alle 37 raskausviikolla syntynyt lapsi on keskonen
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Termi "keskonen" on alun perin arkkiatri Arvo Ylpön käyttämä nimitys alle 2 500 g:n painoisena syntyneelle vastasyntyneelle (nykyään pieni syntymäpaino (low birthweight, LBW)), mutta nykyään termillä tarkoitetaan yleisemmin ennenaikaisesti (<37vk) syntynyttä lasta.
+  </div>
+</div>
+
+#### Avoimen duktus arteriosuksen sulkuun voidaan käyttää indometasiinia {#Indometasiini-PDA}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Avoin valtimotiehyt (PDA) voidaan keskosilla usein sulkea lääkkeellisesti mm. indometasiinilla (tai ibuprofeenilla tai joskus parasetamoliakin voidaan kokeilla), joka vähentää PGE:n tuotantoa ja johtaa siten PDA:n sulkeutumiseen.
+
+<li>PGE siis luonnollisesti pitää duktuksen auki sikiöllä. NSAID:t (eli siis myös ibuprofeenia voitaisiin käyttää) blokkaavat COX-välitteistä PGE-synteesiä -> PDA sulkeutuu (PGE:n antaminen lääkemuodossa esim. alprostadiilina siten voisi pitää PDA:n auki).</li>
+
+---
+
+Lääkkeellinen sulku ei tehoa muilla kuin keskosilla
+
+<li>Valtimotiehyt suljetaan keskosilla leikkauksella, mikäli lääkkeellinen sulku ei tuota tulosta</li>
+<li>Muilla potilailla avoin valtimotiehyt suljetaan verisuonta pitkin vietävällä tulppa- tai kierukkamallisella sulkulaitteella. Hoidon tulokset ovat erinomaisia ja sulun jälkeen sydämen toiminta palautuu normaaliksi eikä pitkäaikaisseurantaa tai rajoituksia tarvita.</li>
+
+  </div>
+</div>
+
+#### Apgarin pisteet jo sinällään antavat luotettavan kuvan vastasyntyneen asfyksian asteesta {#Apgarin-pisteet-asfyksia}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+
+Asfyksian vaikeusaste määritellään ICD-10:ssä pääasiassa Apgar-pisteiden perusteella, vaikka ne heijastavatkin asfyksiaa vain osittain. Pelkästään Apgarin pisteillä ei kuitenkaan voida varmasti sanoa asfyksiasta mitään, koska jos Apgarin pisteet ovat pienet, mutta pH-taso on normaalin rajoissa (tai vain vähän laskenut), ei todennäköisesti ole kyse asfyksiasta. 
+
+---
+
+Syntymäasfyksialla tarkoitetaan sikiölle perinataalisti (juuri ennen syntymää, syntyessä tai juuri syntymän jälkeen) ilmaantuvan hapenpuutteen, hiilidioksidin kertymisen ja kudosverenkierron vajauksen yhdistelmää
+
+<li>Hapenpuute johtaa metaboliseen asidoosiin, joka voidaan havaita jo sikiöstä synnytyksen aikana otetusta mikroverinäytteestä ja varmistaa napaveren verikaasuanalyysin avulla.</li>
+<li>Yleisesti käytetty vastasyntyneen asfyksian määritelmä perustuu sekä huonoon yleiskuntoon että verinäytteessä todettuun metaboliseen asidoosiin</li>
+<li>ICD-10-diagnoosiluettelossa taudin vaikeusaste luokitellaan Apgarin pisteiden perusteella, mutta lisäksi lapsella pitää olla muita asfyksian kliinisiä löydöksiä, kuten alentunut jäntevyys, riittämätön tai puuttuva hengitys ja harva sydämen syke. Vaikka pisteet heijastavat asfyksiaa vain osittain, niiden ja napavaltimoveren pH:n määritykset ovat tärkeitä yksittäisen lapsen kannalta, ja ne kuuluvat normaaliin synnytystoiminnan laadunvarmennukseen. Jos Apgarin pisteet ovat pienet, mutta pH-taso on normaalin rajoissa (tai vain vähän laskenut), ei todennäköisesti ole kyse asfyksiasta.</li>
+<li>Kehittyneissä maissa arviolta 1–4 lasta tuhannesta vastasyntyneestä kärsii vaikeasta tai keskivaikeasta syntymäasfyksiasta</li>
+
+---
+
+Asfyksian syyt voivat olla moninaisia.
+
+<li>Äidin perussairaus (esimerkiksi diabetes tai hypertensiivinen sairaus), istukan toiminnan häiriö (mm. äidin raskausmyrkytykseen eli pre-eklampsiaan liittyen), istukan äkillinen irtoaminen (ablaatio), napanuoran poikkeava puristuminen synnytyksen aikana tai sikiön sairaus (esim. infektio, verenvuoto tai epämuodostuma) voi altistaa asfyksialle.</li>
+<li>Asfyksian syytä selviteltäessä onkin tärkeää perehtyä sekä äidin anamneesiin että synnytyksen aikaisiin tapahtumiin ja olosuhteisiin (vähäinen lapsivesi, napanuorakomplikaatiot, istukka-ablaatio, kalvokiinnitteinen istukka, lääkkeet). On myös tärkeää selvittää, onko lapsella jokin sairaus, joka on altistanut häntä syntymäasfyksialle (anemia, infektio, ennenaikaisuus, epämuodostumat, kromosomipoikkeavuudet, pienipainoisuus, verenvuoto).</li>
+
+---
+
+Asfyksia tulisi ehkäistä ennalta.
+
+<li>Siksi on tärkeää todeta sikiöasfyksian ensioireet (esim. sikiön vähentyneet liikkeet, napavirtauksen ja sikiön kasvun muutokset, KTG-käyrän poikkeavuudet ja/tai verenvirtauksen muutokset, mekoniumin värjäämä lapsivesi, poikkeava lapsiveden määrä) ja ryhtyä ajoissa toimenpiteisiin. Jos sikiön seurannassa todetaan selviä asfyksian merkkejä, on lapsi synnytettävä mahdollisimman nopeasti.</li>
+
+---
+
+Vastasyntyneen elvytystoimet eroavat vanhemman lapsen ja aikuisen elvytystoimista
+
+<li>Noin 10 % vastasyntyneistä tarvitsee synnyttyään stimulaatiota, 5 % hengityksen avustamista, mutta alle 2 % intubaation ja vain alle 0,3 % paineluelvytystä tai elvytyslääkkeitä.</li>
+
+---
+
+Elvytyksen jälkeen tarvitaan useimmiten seurantaa tai hoitoa vastasyntyneiden teho-osastolla, jossa vastasyntyneen vointia monitoroidaan jatkuvasti ja peruselintoimintoja tuetaan tarvittaessa. Keskeisintä asfyktisen vastasyntyneen hoidossa elvytyksen sekä hengityksen ja verenkierron vakauttamisen jälkeen on arvioida toistetusti kliinistä neurologista statusta ja jatkuvaa EEG:tä viilennyshoidon tarpeen viiveettömäksi tunnistamiseksi.
+
+<li>Asfyksia voi johtaa monielinvaurioon, ja oireita ja löydöksiä voi ilmaantua sydänlihasvariosta (alentunut supistuvuus), keuhko-ongelmista (pulmonaalihypertensio, mekoniumaspiraatio), aineenvaihdunnan ongelmista (glukoositasapainon häiriöt, hypokalsemia), luuytimen ja maksan vauriosta (trombosytopenia, hyytymishäiriöt) sekä munuaisvauriosta. Osa elinvaurioista on palautuvia, mutta osa pysyviä. Tehohoidon keinoin pyritään turvaamaan normaali ventilaatio, happeutuminen, kiertävä verivolyymi, verenpaine ja sydämen toiminta sekä metabolia ja estämään lisävauriot.</li>
+<li>Asfyksian jälkeen kehittyvää aivotoiminnan häiriötä kutsutaan hypoksis-iskeemiseksi enkefalopatiaksi (HIE), joka todetaan Suomessa noin 200 lapsella vuosittain. Siihen liittyy tyypillisiä neurologisia oireita ja mahdollisesti kouristuksia, ja se jaetaan kolmeen vaikeusasteeseen.</li>
+<li>Täysiaikaisen tai lähes täysiaikaisen lapsen keskivaikeaa ja vaikeaa hypoksis-iskeemista enkefalopatiaa hoidetaan viilennyshoidolla (toistaiseksi ainoa hoitomuoto, joka parantaa neurologista kehitysennustetta). Lähivuosina selvinnee, onko viilennyshoidosta hyötyä myös lievän enkefalopatian kehitysennusteen parantamisessa.</li>
+<li>Elvytyksen aikana lapsen lämpötila pidetään normaalina ja sen jälkeen arvioidaan, täyttyvätkö viilennyshoidon kriteerit. Aivojen vaurioituminen usein etenee verenkierron parantuessa aivoissa ns. reperfuusiovaiheessa -- viilennyshoito vähentää sekundaarista solutuhoa. Kriteerien täyttyessä viilennyshoito aloitetaan mahdollisimman nopeasti kuuden tunnin sisällä lapsen syntymästä. Se toteutetaan lämpötilaltaan säädettävällä patjalla, jossa kiertää kylmää vettä. Jatkuvan lämpötilaseurannan avulla ylläpidetään 33–34 asteen lämpötilaa 72 tunnin ajan, minkä jälkeen lämpötila nostetaan hitaasti normaaliksi. Viilennyshoitoa varten vastasyntynyt siirretään yliopistosairaalaan, jossa on ympärivuorokautinen valmius myös asfyktisen lapsen monielinvaurioiden hoitoon ja seurantaan.</li>
+<li>Syntymäasfyksian yhteydessä lapsen kivun ja tuskaisuuden farmakologinen hoito on usein tarpeen. Tavanomaisesti ensilinjan lääke on parasetamoli, johon usein lisätään jatkuva opioidi-infuusio.</li>
+<li>Pitkittyneet kohtausoireet aiheuttavat lisävaurioita, joten kansainvälisen asiantuntijaryhmän suositus on hoitaa sekä kliiniset että elektrografisesti todetut kohtausoireet. Kouristusten ensisijaisena lääkkeenä on käytetty fenobarbitaalia</li>
+
+---
+
+Kuolleisuus vaikeaan asfyksiaan on edelleen korkea (10-25%), ja vaikeaan hypoksis-iskeemiseen enkefalopatiaan liittyy aivovaurion tai menehtymisen vaara suurella osalla (48-71 % kuolee ja 9-33 %:lla todetaan liikuntavamma; keskivaikean HIE:n jälkeen kuolleisuus on 0-14 % ja liikuntavamma todetaan 7-23 %:lla lapsista)
+
+<li>Kliiniset neurologiset löydökset, ts. hypoksis-iskeemisen enkefalopatian vaikeusaste yhdistettynä magneettitutkimuksen löydöksiin (ja tunto- ja näköradan herätevasteisiin) ennustavat parhaiten lapsen tulevaisuutta. Jos siis neurologia ei toivu 5 vrk kuluessa (vaurioitumisriski 10-30%), niin otetaan aivojen MRI. Jos MRI poikkeava -> lastenneurologin seuranta. Jos MRI normaali -> kehitysseuranta muuten yliopistosairaalassa, 2 vuoden jälkeen seuranta lastenneuvoloissa.</li>
+<li>Syntymäasfyksian jälkeen lapsella voi olla esimerkiksi kuulo- tai näön käyttöön liittyviä ongelmia. Myös motoriset ja kognitiiviset vaikeudet ovat tavallisia; CP-vamma tietysti riskinä. Mikäli lapsella on ollut merkittävä aivokudosvaurio, on epilepsian riski kohonnut.</li>
+
+![](images/apgar.png)
+![](images/asfyksiadiagnoosi.png)
+![](images/asfyksia1.png)
+![](images/asfyksia2.png)
+![](images/asfyksia3.png)
+![](images/asfyksia4.png)
+
+  </div>
+</div>
+
+#### Bronkioliittia hoidetaan antibiooteilla
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+
+Bronkioliitti (= alle 1-vuotiaan ensimmäinen uloshengitysvaikeus) on pääsääntöisesti virusinfektio, ei tarvita antibioottihoitoa.
+
+---
+
+Bronkioliittiin ei ole parantavaa lääkehoitoa. Tärkeintä on, että riskipotilaat (taulukko alimmassa kuvassa) tunnistetaan ja lähetetään sairaalaseurantaan. 
+
+Bronkioliitin hoidoksi klassisesti suositellaan hapensaannin (lisähappea esimerkiksi suurivirtauksinen nenäkanyylin (optiflow) avulla, jos <92%), nesteytyksen ja ravitsemuksen varmistamista; ns. "minimal handling"-hoitperiaate eli merkittäviä toimenpiteitä pyritään välttämään. Jos limaa erittyy runsaasti, sen imeminen nenänielusta voi helpottaa hengitystä ja syömistä. Mikäli syöminen onnistuu huonosti, annetaan nesteytystä ja ravitsemusta yleensä nenämahaletkulla tai joskus suonensisäisesti. Käypä hoito- tai kansainväliset bronkioliitin hoitosuositukset eivät suosittele beeta2-agonististia, adrenaliinia, systeemistä tai inhaloitua kortikosteroidia, antibioottia tai antiviraalista lääkitystä bronkioliitin hoitoon. 
+
+Lasten astman Käypä hoito -suositus ei kuitenkaan ota kantaa pienen lapsen ensimmäisen rinoviruksen aiheuttaman vinkukohtauksen hoitoon. On kuitenkin esitetty asiantuntijanäkemyksiä hoitolinjoista (esim. [tässä Lääkärilehden artikkelissa](images/RinoRSV.pdf); samat asiat on myös luentodioissa paljon sekavammin). Vaikka kontrolloituja tutkimuksia on vielä vähän, on viitteitä, että niiden akuuttiin hoitoon tulee suhtautua eri tavoin. **Ensimmäinen rinovirusvinkuna vaikuttaa olevan tällä hetkellä tehokkain aikapiste astman sekundaaripreventioon.**
+
+
+<li>RSV-Bronkioliitti:</li>
+  <ul>
+    <li>Potilas: Tyypillinen ikä alle 6 kuukautta, osastohoitoa vaativa tauti, runsaasti limaa hengitysteissä, työläs hengitys, ei atooppista ekseemaa, vanhemmilla ei astmaa ja he tupakoivat.</li>
+    <li>Hoitolinja: Pidättäydy lääkkeistä. Oireenmukaisena hoitona hapensaannin ja ravitsemuksen turvaaminen. Limaimut vain tarvittaessa.</li>
+    <li>Perustelut: Oireiden syynä liman ja solujätteen aiheuttama mekaaninen tukos hengitysteissä, eikä astmariski ole merkittävästi lisääntynyt. Avaavien tai hoitavien lääkkeiden tehosta ei ole näyttöä.</li>
+  </ul>
+<li>Rinovirusvinkuna:</li>
+  <ul>
+    <li>Potilas: Tyypillinen ikä yli 12 kuukautta, osastohoitoa vaativa tauti, taustalla pitkittynyt yskä, auskultoiden selkeät ekspiratoriset vinkunat molemman puolin, hengitysapulihakset käytössä, atooppista ihottumaa, toisella vanhemmista on allerginen astma, kotona 2 kissaa. </li>
+    <li>Hoitolinja: Kokeillaan avaavaa lääkettä (esim. salbutamoli). Jos hyötyy ja vinkuna toistuu, harkitse kolmen päivän systeemistä kortikosteroidikuuria ja määritä pöly- ja ruokaryhmän allergiatestit.</li>
+    <li>Perustelut: Astman kaltainen taudinkuva ja merkittävästi lisääntynyt astmariski. Hieman näyttöä sekä avaavan lääkkeen että kortikosteroidin hyödystä tässä potilasryhmässä.</li>
+  </ul>
+<li>Käytännön elämässä virusdiagnostiikkaa tehdään suhteellisen harvoin. Siksi voitaisiin puhua RSV-bronkioliitista, kun RSV-virus on osoitettu tai alle 6 kuukauden ikäinen vauva sairastaa tyypillisen taudinkuvan RSV-epidemian aikana. Tällöin keuhkoputkia avaavaa lääkettä (beeta2-agonistia) ei kannata edes kokeilla. **Jos taas ikä on yli 6 kuukautta ja lapsi sairastaa RSV-epidemian ulkopuolella, voitaisiin avaavaa lääkettä kokeilla sitä herkemmin, mitä vaikeampi tauti on, mitä voimakkaammin uloshengitys vinkuu ja mitä enemmän on atopiapiirteitä.** Hoitovasteen, riskitekijöiden ja iän (mielellään yli 12 kk) mukaan voidaan harkita 3 päivän systeemistä kortikosteroidikuuria. </li>
+
+
+----
+
+![](images/uuttaajattelua.png)
+![](images/bronkioliittiryhmät.png)
+![](images/bronchiolitissigns.png)
+![](images/eshbronkioliitti.png)
+
+  </div>
+</div>
+
+#### Laryngiitin tyypillinen oire on yöllä alkanut kumea yskä {#Laryngiitti-yska}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+
+  </div>
+</div>
+
+
+#### Laryngiitin aiheuttaja on tavallisesti H. influenzae tyyppi b
+
+#### Avosyntyisen keuhkokuumeen ensisijainen hoito alle kouluikäisellä on doksisykliini {#Doksisykliini-keuhkokuume}
+
+#### Vanhempien tupakointi lisää lapsen riskiä sairastua äkilliseen välikorvatulehdukseen {#Vanhempien-tupakointi-AOM}
+
+#### Mikrosytäärisen anemian taustalla voi olla liiallinen maidonjuonti {#Mikrosytaarinen-maito}
+
+#### Mikrosytäärisen anemian taustalla voi olla keliakia {#Mikrosytaarinen-keliakia}
+
+#### Vesirokkorokotus kuuluu yleiseen rokotusohjelmaan
+
+#### Rotavirusrokote annetaan peroraalisesti
+
+#### Kuumekouristuksen taustalla on usein keskushermostoinfektio
+
+#### Petekia häviää läpinäkyvällä lasilla painettaessa {#Petekia-haviaa}
+
+#### Lapsella voi esiintyä solisluunmurtuma synnytystraumana {#Solisluumurtuma-synnytystraumana}
+
+#### Lapsen diabetesepäily (tyyppi 1:n diabetes) on aina päivystysasia {#T1DM-paiv}
+
+#### Tyypillinen kasvukäyrälöydös hypertyreoosissa on suhteellisen painon lisäys ja suhteellisen pituuden vähenemä {#Hypotyreoosi-kasvukayra}
+
+#### Asetyylisalisyylihappoa voidaan käyttää lapsen kuumeen ja kivun hoidossa {#ASA-lapsella}
+
+#### Runsasta pulauttelua voidaan hillitä maidonsakeuttajalla {#Maidonsakeuttajat}
+
+#### Pahanlaatuinen imusolmuke on tyypillisesti punoittava, liikkuva ja aristava
+
+#### Herpes simplex -viruksen aiheuttamaan suutulehdukseen liittyy yleensä rakkuloita myös käsissä ja jaloissa {#HSV-suutulehdus}
+
+#### 3 kk:n iässä lapsi normaalisti kohottaa päätä ja vartaloa suoristetuin käsivarsin {#Lapsi-kohottaa-paataan-ja-vartaloaan-suoristetuin-kasivarsin-3kk}
+
+Tämä on enemmänkin lastenneurologinen kysymys ja tätä seuraavat kysymykset ovatkin neurologisia, kirurgisia tai psykiatrisia; aikaisemmin aihealueet olivat tällä tavalla yhdessä supussa välitentissä.
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+
+
+  </div>
+</div>
+
+
+#### Babinskin reaktion häviäminen on edellytys pystyasennon hallinnalle {#Babinskin-haviaminen}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+
+  </div>
+</div>
+
+#### Kasvukivut tuntuvat tavallisesti polvitaipeissa ja pohkeissa
+
+#### Jos skoliometrin lukema on alle 6 astetta, riittää kliininen seuranta eikä rtg-kuvaa tarvita {#Skoliometri-alle-6}
+
+#### Osgood-Schlatterin taudilla tarkoitetaan reisiluun avaskulaarista nekroosia 
+
+#### Äkillisesti kipeytynyt kivespussi vaatii kiireellisen selvittelyn {#Kiveskipu-vaatii}
+
+#### Napatyrä leikataan, jos se vielä 6 kk:n iässä on jäljellä {#Napatyra-leikataan-jos}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+
+  </div>
+</div>
+
+#### Testis saltans vaatii seurantaa neuvolassa
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Jos normaalikokoinen kives on vedettävissä kivespussin pohjalle ja se siellä pysyy ainakin hetken kiveksestä irti päästettäessä, niin kyseessä on todennäköisesti testis saltans eli hyppivä kives. Se johtuu ylivilkkaasta cremasterrefleksistä, joka on voimakkaimmillaan 1-9-vuotiailla. 
+
+**Kyseessä on fysiologinen ilmiö, joka ei vaadi erikoissairaanhoidon seurantaa vaan normaali neuvolan ja koululääkärin seuranta riittää** (valvotaan, että pysyy fysiologisena eikä kehity sekundaarista piilokivestä esim. siemennuoran jäädessä jälkeen pituuskasvusta). Kives vetäytyy helposti cremaster-lihaksen refleksin takia esimerkiksi kylmän, kivun tai jännityksen takia. Kivespussit ovat normaalisti kehittyneet ja symmetriset. Jos taas kives on pienentynyt, ei yllä täysin kivespussiin asti tai kivespussi on alikehittynyt, niin saattaa olla, että kyseessä ei ole pelkästään hyppivä kives enää kyseessä.
+
+  </div>
+</div>
+
+#### Vanhemman depressio on lapsen/nuoren depression riskitekijä

@@ -50,8 +50,8 @@ h4:laktuloosin-teho-ummetukseen-on-parempi-kuin-makrogolin Laktuloosin teho umme
 h4:Makrogoli-koprostaasi Makrogoli on hyvä koprostaasin hoito
 h4:Hinkuyska-virus Hinkuyskä on viruksen aiheuttama
 h4:Pneumokokkirokote-epiglottiitti Pneumokokkirokote on vähentänyt epiglottiittien määrää
-h4:pediatrisessa-gcs-arvioidaan-vastetta-silmien-avaamiselle Pediatrisessa GCS arvioidaan vastetta silmien avaamiselle
-h4:pediatrisessa-gcs-arvioidaan-vastetta-kouristukselle Pediatrisessa GCS arvioidaan vastetta kouristukselle
+h4:pediatrisessa-gcsssa-arvioidaan-vastetta-silmien-avaamiselle Pediatrisessa GCS:ssa arvioidaan vastetta silmien avaamiselle
+h4:pediatrisessa-gcsssa-arvioidaan-vastetta-kouristukselle Pediatrisessa GCS:ssa arvioidaan vastetta kouristukselle
 h4:suomessa-syntyvyys-on-30-000v Suomessa syntyvyys on 30 000/v
 h4:suomessa-tyypin-1-diabetes-ilmaantuvuus-on-maailman-alhaisimpia Suomessa tyypin 1 diabetes ilmaantuvuus on maailman alhaisimpia
 h4:Vauva-syntymapainossaan Vauvan pitäisi olla syntymäpainossaan 14 vrk kuluttua
@@ -129,7 +129,7 @@ h3:Vauvarokko-on Vauvarokko on taaperoikäisten tauti, jossa ensin 2-4 vrk kuume
 h3:Monotest-taaperoikaiset Monotest toimii hyvin taaperoikäisten EBV-nieluinfektioiden diagnostiikassa; O/V
 h3:Likvor-neuroborrelioosi Likvorin CXCL-13 -pitoisuuden nousu on tyypillistä neuroborrelioosille; O/V
 h3:Sivuontelutulehdukset-immuunivajaus Toistuvat nenän sivuonteloiden tulehdukset kouluikäisellä syy epäillä immuunivajavuutta; O/V
-h3:Hinkuyskan-oireet Hinkuyskän oireita ovat kovat yskänpuuskaat ja limaoksennukset, imeväisillä voi olla toistuvia apneoita ilman yskää; O/V
+h3:Hinkuyskan-oireet Hinkuyskän oireita ovat kovat yskänpuuskat ja limaoksennukset, imeväisillä voi olla toistuvia apneoita ilman yskää; O/V
 h3:Bronkioliitin-diagnostiikassa Bronkioliitin diagnostiikassa käytetään apuna thx-röntgeniä sekä CRP-arvoa; O/V
 h3:perusterveen-lapsen-keuhkokuumeen-ab-hoidon-tulee-kattaa-pneumokokki-ov Perusterveen lapsen keuhkokuumeen ab-hoidon tulee kattaa pneumokokki; O/V
 h3:Lapsen-vti-diagnostiikka Lapsen VTI:n diagnoosiin riittävät stix-näytteet tai seulontanäyte; O/V
@@ -139,13 +139,13 @@ h3:Allergia-siedatyshoito-ige Allergian täytyy olla IgE-välitteinen siedätysh
 h3:Mita-nuorempi-astmaa Mitä nuorempi astmaa sairastava lapsi, sitä parempi vaste inhalaatiosteroidille; O/V
 h3:Alaraajat-vs-ylaraajat-rr Alaraajojen verenpaineet yleensä korkeammat kuin yläraajojen; O/V
 h3:Hb-nousee-syanoottisessa-sydanviassa Hb voi nousta syanoottisessa sydänviassa; O/V
-h3:HSP-trombosytopenia Henoch-Schönleinen purpura johtuu trombosytopeniasta; O/V
+h3:HSP-trombosytopenia Henoch-Schönleinin purppura johtuu trombosytopeniasta; O/V
 h3:Lapsen-hypertensio Lapsen hypertensio on lähes aina primaarista; O/V
 h3:Keliakia-yleisin Keliakia on lasten yleisin imeytysmishäiriösairaus; O/V
 h3:Tihentynyt-hengitys-sepsis Tihentynyt hengitys vastasyntyneellä on merkki sepsiksestä; O/V
-h3:vastasyntyneen-niukka-ravinto-ja-vähäiset-ulosteet-lisäävät-enterohepaattista-kiertoa-täten-vähentäen-ihon-keltaisuutta-ov-enterohepaattinen-kierto-ravinto Vastasyntyneen niukka ravinto ja vähäiset ulosteet lisäävät enterohepaattista kiertoa täten vähentäen ihon keltaisuutta; O/V {Enterohepaattinen-kierto-ravinto}
+h3:Enterohepaattinen-kierto-ravinto Vastasyntyneen niukka ravinto ja vähäiset ulosteet lisäävät enterohepaattista kiertoa täten vähentäen ihon keltaisuutta; O/V
 h3:Lehmanmaito-anemia Runsas lehmänmaidon juominen voi aiheuttaa anemian vastasyntyneellä; O/V
-h3:akuutti-virusinfektio-voi-aiheuttaa-lievän-trombosytopenian-ov-virusinfektio-trombosytopenia Akuutti virusinfektio voi aiheuttaa lievän trombosytopenian; O/V {#Virusinfektio-trombosytopenia
+h3:Virusinfektio-trombosytopenia Akuutti virusinfektio voi aiheuttaa lievän trombosytopenian; O/V
 h3:Paivystykseen-pvk Lapsella trombosytopenia, anemia ja granulosytopenia. Lähetätkö lapsen päivystykseen?
 h3:Kauhukohtaus-EEG Yölliset kauhukohtaukset ovat yhteydessä EEG:n poikkeavuuksiin; O/V
 h3:Infektio-hypoglykemia Infektio voi provosoida hypoglykemian leikki-ikäisellä; O/V
@@ -159,7 +159,7 @@ h3:Lisamunuaisten-vt-glukokortikoidit Lisämunuaisen vajaatoiminta on usein seur
 h3:poika-kasvaa-nopeiten-kun Poika kasvaa nopeiten, kun
 h3:vammaisen-lapsen-syömisongelmiin-liittyy Vammaisen lapsen syömisongelmiin liittyy
 h3:diagnosoimaton-dm1-voi-aiheuttaa Diagnosoimaton DM1 voi aiheuttaa
-h3:nielutuleduksien-aiheuttajiin-liittyen Nielutuleduksien aiheuttajiin liittyen
+h3:nielutulehduksien-aiheuttajiin-liittyen Nielutulehduksien aiheuttajiin liittyen
 h3:bronkioliitin-hoidossa-käytetään Bronkioliitin hoidossa käytetään
 h3:pyelonefriittin-liittyy Pyelonefriittin liittyy
 h3:scid SCID
@@ -187,4 +187,84 @@ h3:Lastenneuvolassa-femoralispulssit-puuttuu Toimit terveyskeskuslääkärinä l
 h3:Taysimetetylla-punoittavaa-ihottumaa Vastaanotollasi on 5kk:n ikäinen täysimetyksellä oleva vauva, jolle kuukausi sitten ilmaantui punoittavaa ihottumaa aluksi kasvoille, sitten myös vartalolle. Ihottuman puhkeamisen jälkeen lapsi on nukkunut yöt huonommin ilmeisesti kutinan takia.
 h3:Afrikasta-yskaa Afrikasta 9kk aikaisemmin Suomeen muuttaneen perheen vanhin, 12 v ikäinen poika on potilaana tk-vastaanotolla. Koulu-th on ohjannut hänet tutkimuksiin yli kuukauden jatkuneen yskän vuoksi. Yskä vaivaa etenkin iltaisin ja aamuisin, mutta ei ole haitannut koulunkäyntiä. Pojan yleistila on hyvä eikä hänellä ole kuumetta, muut perheenjäsenet ovat terveitä. Maahanmuuttotutkimukset antoivat normaalit tulokset.
 h3:Lapsi-kouristaa-korkea-lampo Keuruun tk:sen odotusaulassa 3-vuotias tyttö alkaa kouristaa symmetrisesti. Lapsi on tullut lääkäriin flunssaoireiden pitkittymisen vuoksi. Hoitaja toteaa tajuttoman ja kouristelevan potilaan korvalämmöksi 39,6.
+h3:monivalinnat-3 Monivalinnat
+h4:GERD-vs-EoE Ruokatorven refluksisairauden ja eosinofiilisen esofagiitin oireet poikkeavat selkeästi toisistaan
+h4:Happosalpaus-tehokas-imevaisen-pulauttelussa Happosalpaus on tehokas imeväisen pulauttelun hoito
+h4:Keliakia-riskigeenit Noin kolmasosa tunnettuja riskigeenejä kantavista sairastuu elinaikanaan keliakiaan
+h4:Valtaosa-laktoosi-intolerantteja Valtaosa maapallon väestöstä on laktoosi-intolerantteja
+h4:Synnynnainen-laktoosi-intoleranssi Synnynnäinen laktoosi-intoleranssi on harvinainen suomalaiseen tautiperintöön kuuluva sairaus
+h4:Ruoka-allergia-pikkulapsen-astma Ruoka-allergia on tärkein yksittäinen pikkulapsen astman aiheuttaja
+h4:Maidonjuonnista-anemia Liiallinen maidonjuonti voi aiheuttaa pikkulapselle raudanpuuteanemian
+h4:Leukemiat-yleisin-syopa Leukemiat ovat yleisin lasten syöpätyyppi
+h4:Sivuaani-johtuu-yleensa-sydanviasta Leikki-ikäisen lapsen sydämen sivuääni johtuu usein synnynnäisestä sydänviasta
+h4:Munuaistensiirto-yleisin Munuaistensiirto on yleisin lapsille tehtävä kiinteän elimen siirto
+h4:Nefroottinen-oireyhtyma-verivirtsaisuus Nefroottisen oireyhtymän merkittävin löydön on verivirtsaisuus
+h4:Kuumekouristuksia-kouluiassa Kuumekouristuksia esiintyy yleensä kouluiässä
+h4:Suurin-osa-lastenreumasta Suurin osa lastenreumasta on seropositiivista polyartriittia
+h4:Aamujaykkyys-ja-ontuminen-lastenreuma Aamujäykkyys ja ontuminen ovat yleisiä lastenreuman ensioireita
+h4:Vauvan-ravistelu-verenvuodot Verenvuodot verkkokalvolla on tyypillinen vauvan ravistelusta aiheutuva löydös
+h4:lapsen-myrkytyksen-ensisijainen-hoito-on-oksettaminen Lapsen myrkytyksen ensisijainen hoito on oksettaminen
+h4:Luun-huippumassa Luun huippumassa saavutetaan n. 20 ikävuoteen mennessä
+h4:Alalohkon-keuhkokuume-vatsakipu Alalohkon keuhkokuume voi aiheuttaa oireena pelkästään vatsakivun
+h4:puuttuva-punaheijaste-viittaa-glaukoomaan Puuttuva punaheijaste viittaa glaukoomaan
+h4:Down-alyllinen-kehitysvammaisuus Downin syndroomaan liittyy älyllinen kehitysvammaisuus
+h4:Imevaisikaisella-atooppinen-ihottuma-taivealueilla Imeväisikäisellä atooppinen ihottuma esiintyy yleesä taivealueilla
+h4:Viaton-selan-puolelta Viaton sivuääni kuuluu myös selän puolella
+h4:uudelleen-alkava-kastelu-voi-olla-oire-diabeteksesta Uudelleen alkava kastelu voi olla oire diabeteksesta
+h4:VSD-sivuaani VSD aiheuttaa holosystolisen soinnittoman sivuäänen
+h4:Vauvalle-lisaruoka Vauvalle aloitetaan lisäruoat (rintamaidon tai korvikkkeen ohella) 4-6 kk:n iästä alkaen
+h4:Tummaihoiset-D-vitamiini Tumma iho tehostaa auringonvalon stimuloimaa D-vitamiinisynteesiä elimistössä
+h4:Suuri-saderasitus-TT-lapsilla Suuri säderasitus rajoittaa TT-tutkimuksen käyttöä lapsilla
+h4:D-vitamiinisuositukset D-vitamiinia suositellaan 10 mikrogrammaa päivässä 2 viikon iästä 2 vuoden ikään saakka
+h4:Streptokokki-paivakotiin Streptokokin aiheuttaman tonsilliitin jälkeen voi mennä päiväkotiin vasta 2 vrk:n kuluttua mikrobilääkityksen alusta
+h4:Lasu-alkoholista Alle 16-vuotiaan alkoholi-intoksikaation vuoksi on syytä tehdä lastensuojeluilmoitus
+h4:vastasyntyneen-keltaisuus-on-patologista-jos-se-jatkuu-yli-kolme-viikkoa Vastasyntyneen keltaisuus on patologista, jos se jatkuu yli kolme viikkoa
+h4:Ainoa-lihava Jos lapsi on lähisuvussaan ainoa lihava, se lisää todennäköisyyttä, että kyseessä on tavallinen lihavuus
+h4:lihavilla-lapsilla-esiintyy-usein-kohonneita-maksan-transaminaasiarvoja Lihavilla lapsilla esiintyy usein kohonneita maksan transaminaasiarvoja
+h4:Kuivuminen-yleisin Yleisin nestetasapainon häiriö on lapsella kuivuminen
+h4:Painon-menetys-kuivuma Painon menetyksellä voidaan kuvata kuivumaa
+h4:akuutti-yskä-paranee-yskimällä-yska-yskimalla Akuutti yskä paranee yskimällä {Yska-yskimalla}
+h4:alle-kolmevuotiaan-tonsilliitti-on-tyypillisesti-streptokokin-aiheuttama Alle kolmevuotiaan tonsilliitti on tyypillisesti streptokokin aiheuttama
+h4:Kylma-ilma-laryngiitissa Kylmä ilma helpottaa kurkunpään tulehdukseen liittyvää ahdistusta
+h4:Tuberkuliinitesti Positiivinen tuberkuliinitesti kertoo elimistön kohdanneen mykobakteerin
+h4:Allerginen-nuha-saneeraus Allergista nuhaa voidaan hoitaa mm. nenästeroideilla ja allergiasaneerauksella
+h4:Trakeiitti-puuskittainen-yska Trakeiittiin kuuluu tyypillisesti puuskittainen yskä
+h4:Laakeyliherkkyys-urtikaria Lääkeyliherkkyys esiintyy useimmiten urticariana ja eksanteemana
+h4:Turner-lyhytkasvuisuus Turnerin oireyhtymä johtaa lyhytkasvuisuuteen
+h4:mykoplasmapneumoniaan-liittyy-tyypillisesti-korkea-kuume Mykoplasmapneumoniaan liittyy tyypillisesti korkea kuume
+h4:Yokastelu-rakenteellinen-poikkeus Yökasteluun liittyy yleensä jokin virtsateiden rakenteellinen poikkeus
+h4:pojan-somaattista-kehitysastetta-mitataan-tannerin-luokituksen-p--ja-g-luokilla Pojan somaattista kehitysastetta mitataan Tannerin luokituksen P- ja G-luokilla
+h4:Synnynnainen-hypotyreoosi Synnynnäinen hypotyreoosi ei vaikuta sikiökauden kasvuun
+h4:VTI-imevaisella-ei-jatkotutkimuksia Virtsatieinfektio imeväisellä on normaali ilmiö eikä vaadi jatkotutkimuksia
+h4:Lihominen-kiihdyttaa Lihominen voi kiihdyttää pituuskasvua
+h4:alle-37-raskausviikolla-syntynyt-lapsi-on-keskonen Alle 37 raskausviikolla syntynyt lapsi on keskonen
+h4:Indometasiini-PDA Avoimen duktus arteriosuksen sulkuun voidaan käyttää indometasiinia
+h4:Apgarin-pisteet-asfyksia Apgarin pisteet jo sinällään antavat luotettavan kuvan vastasyntyneen asfyksian asteesta
+h4:bronkioliittia-hoidetaan-antibiooteilla Bronkioliittia hoidetaan antibiooteilla
+h4:Laryngiitti-yska Laryngiitin tyypillinen oire on yöllä alkanut kumea yskä
+h4:laryngiitin-aiheuttaja-on-tavallisesti-h.-influenzae-tyyppi-b Laryngiitin aiheuttaja on tavallisesti H. influenzae tyyppi b
+h4:Doksisykliini-keuhkokuume Avosyntyisen keuhkokuumeen ensisijainen hoito alle kouluikäisellä on doksisykliini
+h4:Vanhempien-tupakointi-AOM Vanhempien tupakointi lisää lapsen riskiä sairastua äkilliseen välikorvatulehdukseen
+h4:Mikrosytaarinen-maito Mikrosytäärisen anemian taustalla voi olla liiallinen maidonjuonti
+h4:Mikrosytaarinen-keliakia Mikrosytäärisen anemian taustalla voi olla keliakia
+h4:vesirokkorokotus-kuuluu-yleiseen-rokotusohjelmaan Vesirokkorokotus kuuluu yleiseen rokotusohjelmaan
+h4:rotavirusrokote-annetaan-peroraalisesti Rotavirusrokote annetaan peroraalisesti
+h4:kuumekouristuksen-taustalla-on-usein-keskushermostoinfektio Kuumekouristuksen taustalla on usein keskushermostoinfektio
+h4:Petekia-haviaa Petekia häviää läpinäkyvällä lasilla painettaessa
+h4:Solisluumurtuma-synnytystraumana Lapsella voi esiintyä solisluunmurtuma synnytystraumana
+h4:T1DM-paiv Lapsen diabetesepäily (tyyppi 1:n diabetes) on aina päivystysasia
+h4:Hypotyreoosi-kasvukayra Tyypillinen kasvukäyrälöydös hypertyreoosissa on suhteellisen painon lisäys ja suhteellisen pituuden vähenemä
+h4:ASA-lapsella Asetyylisalisyylihappoa voidaan käyttää lapsen kuumeen ja kivun hoidossa
+h4:Maidonsakeuttajat Runsasta pulauttelua voidaan hillitä maidonsakeuttajalla
+h4:pahanlaatuinen-imusolmuke-on-tyypillisesti-punoittava-liikkuva-ja-aristava Pahanlaatuinen imusolmuke on tyypillisesti punoittava, liikkuva ja aristava
+h4:HSV-suutulehdus Herpes simplex -viruksen aiheuttamaan suutulehdukseen liittyy yleensä rakkuloita myös käsissä ja jaloissa
+h4:Lapsi-kohottaa-paataan-ja-vartaloaan-suoristetuin-kasivarsin-3kk 3 kk:n iässä lapsi normaalisti kohottaa päätä ja vartaloa suoristetuin käsivarsin
+h4:Babinskin-haviaminen Babinskin reaktion häviäminen on edellytys pystyasennon hallinnalle
+h4:kasvukivut-tuntuvat-tavallisesti-polvitaipeissa-ja-pohkeissa Kasvukivut tuntuvat tavallisesti polvitaipeissa ja pohkeissa
+h4:Skoliometri-alle-6 Jos skoliometrin lukema on alle 6 astetta, riittää kliininen seuranta eikä rtg-kuvaa tarvita
+h4:osgood-schlatterin-taudilla-tarkoitetaan-reisiluun-avaskulaarista-nekroosia Osgood-Schlatterin taudilla tarkoitetaan reisiluun avaskulaarista nekroosia
+h4:Kiveskipu-vaatii Äkillisesti kipeytynyt kivespussi vaatii kiireellisen selvittelyn
+h4:Napatyra-leikataan-jos Napatyrä leikataan, jos se vielä 6 kk:n iässä on jäljellä
+h4:testis-saltans-vaatii-seurantaa-neuvolassa Testis saltans vaatii seurantaa neuvolassa
+h4:vanhemman-depressio-on-lapsennuoren-depression-riskitekijä Vanhemman depressio on lapsen/nuoren depression riskitekijä
 
