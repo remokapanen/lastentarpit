@@ -1,5 +1,252 @@
 # Lastenpsykiatria
 
+## 2026 
+
+Tenttirakenne täysin poikkeava aikaisemmista vuosista: koostuu muutamasta aukkotehtävästä ja 30 tosi/epätosi-väittämästä. 
+
+### Aukkotehtävät {#Aukkotehtavat-2026}
+
+#### Tikapuuanamneesissa olennaista on (1) ____, (2) ____ ja (3) _____ ajallinen yhteys toisiinsa (3p)
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+
+(1) lapsen kehityksen/terveydentilan, (2) ympäristön/elämänmuutosten ja (3) hoitokontaktien
+
+---
+
+Vanhemman haastattelun perusteella on siis hyödyllistä tehdä lapsen kehityskaavio, tikapuuanamneesi, josta nähdään lapsen kehitys ja ympäristön tapahtumat ajan funktiona.
+
+
+![](images/tikapuu.png)
+![](images/tikapuutesimerkki.png)
+  </div>
+</div>
+
+
+#### Paniikkihäiriö: nimeä 3 oiretta (3p) {#Paniikkihairio-3-oiretta}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+  
+**Esimerkiksi sydämentykytys, hikoilu, vapina**
+
+Tai yleisemmin ajateltuna esim. **autonomisen kiihotustilan oireet, rinnan/Vatsan alueen oireet ja psyykkiset oireet**
+
+---
+      
+Paniikkihäiriö on mielenterveyden häiriö, jonka keskeisin piirre on toistuvien paniikkikohtausten esiintyminen. Yksittäisiä paniikkikohtauksia voi esiintyä satunnaisesti terveilläkin henkilöillä, joilla ei ole varsinaista ahdistuneisuushäiriötä. Väestötutkimuksissa jopa 10–15 %:lla haastatelluista on joskus ollut paniikkikohtaus. Paniikkikohtauksia voi esiintyä myös jonkin muun ahdistuneisuushäiriön, erityisesti agorafobian yhteydessä. Paniikkihäiriössä kohtauksia esiintyy kuitenkin toistuvasti ja varsinkin häiriön alkuvaiheessa ilman laukaisevaa tekijää, keskeisin diagnostinen piirre onkin se, että **potilaalla esiintyy toistuvasti odottamattomia, spontaaneja paniikkikohtauksia.**
+
+Paniikkikohtauksilla on usein huomattavia jälkivaikutuksia, jotka ilmenevät **käyttäytymisen muutoksina.** Kohtaukset ovat siinä määrin tuskallisia, ahdistavia ja pelottavia, että ne aiheuttavat jatkuvan huolen kohtauksen uusiutumisesta, sen välittömistä kielteisistä seurauksista, esimerkiksi itsen hallinnan menettämisestä, sydänkohtauksesta tai "hulluksi tulemisesta" tai muutoin muuttavat merkittävästi potilaan käyttäytymistä.
+
+Paniikkikohtauksella tarkoitetaan **äkillisesti ilmaantuvaa, erittäin voimakasta ahdistuksen, pelon tai pakokauhun tunnetta.** Se alkaa yleensä nopeasti muutaman (<10) minuutin kuluessa, ja siihen liittyy voimakkaita somaattisia ja kognitiivisia oireita. Kohtaus kestää tavallisesti minuutteja, useimmiten alle puoli tuntia, mutta joskus jopa tunteja.
+
+![](images/paniikkihairio.png)
+
+  </div>
+</div>
+
+
+#### Ahdistuneisuuden noidankehä muodostuu (1) _____, (2) ______, (3) ______, ja (4) ______. (4p) {#Ahdistuneisuuden-noidankeha}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+  
+**ajatuksista, tunteista, fyysisistä oireista ja käyttäymisestä**
+
+---
+
+Muodostavat ns. ahdistuksen noidankehän, jossa osa-alueet vahvistavat toisiaan. 
+
+Esimerkiksi: 
+
+<li>Tilanne: Pitää pitää esitelmä.</li>
+<li>Ajatus: "Menen täysin lukkoon."</li>
+<li>Tunteet: Pelko ja ahdistus</li>
+<li>Kehon reaktio: Sydän hakkaa. Punastuu.</li>
+<li>Tulkinta kehosta: "Kaikki huomaavat tämän."</li>
+<li>Käyttäytyminen: Välttelen esitelmiä, jotta tätä ei tapahdu uudestaan -> tulevaisuudessa samoissa tilanteissa pahaa enteilevät ajatukset voivat olla vahvempia ja siten reaktio vielä vahvempi -> tulevaisuudessa ei ehkä edes pysty pitämään esityksiä, vaikka olisi pakko</li>
+
+---
+
+**Välttely on keskeinen ylläpitävä tekijä** monissa ahdistuneisuushäiriöissä, koska ihminen ei saa kokemusta siitä, että selviäisi tilanteesta
+
+Ajatusten tasolla voidaan edetä myös kyseisen tilanteen ulkopuolelle; esim. punastuminen -> ”näytän muiden mielestä typerältä” -> ”tulen aina olemaan yksin” (katastrofiajatus)
+
+![](images/noidankeha.png)
+
+  </div>
+</div>
+
+
+#### ADHD:n 3 pääkriteeriä ovat (1) _____, (2) _____ ja (3) _____ (nimet riittää) {#ADHD-paakriteerit}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+  
+ylivilkkaus, levottomuus ja impulsiivisuus
+
+---
+
+ADHD:n arvioitavat oireet kuuluvat kahteen/kolmeen ryhmään eli tarkkaamattomuuteen ja yliaktiivisuuteen/impulsiivisuuteen (ICD10:ssä yliaktiivisuus/impulsiivisuus ovat erillisiä diagnostisissa kriteereissä, DSM5:ssä eivät). 
+
+Tarvitaan riittävä määrä oireita, jotta voidaan diagnosoida ADHD. ICD10:ssä vaaditaan 6 tarkkaamattomuusoiretta, 3 impulsiivisuusoiretta ja 3 yliaktiivisuusoiretta; DSM5 vaaditaan vähintään 6 oiretta tarkaamattomuudesta tai yliaktiivisuudesta/impulsiivisuudesta. ADHD:stä voidaan tunnistaa kolme ilmenemismuotoa sen mukaan, painottuvatko oireet tarkkaamattomuuteen (pääasiassa tarkkaamaton ilmenemismuoto), yliaktiivisuuteen ja impulsiivisuuteen (pääasiassa yliaktiivis-impulsiivinen ilmenemismuoto) vai esiintyykö kaikkia ydinoireita (yhdistetty ilmenemismuoto). 
+
+Tuleva ICD-11-luokitus ei enää määrittele vaadittavien oireiden tarkkaa lukumäärää, vaan kuvaa keskeisiä oireita oireryhminä. 
+
+**Diagnostisesti oireita on ollut jo ennen ikävuotta 12 ((ICD10:ssä virallisesti 7v iässä viimeistään, mutta ennen 12v ICD11 ja DSM5) oireiden arvioimisessa monilähteisen tiedonkeryyn hyödyntäminen), oireet ovat kestäneet vähintään 6kk, oireita on useammalla elämän alueella, on todisteita oireiden haitasta elämässä ja että oireet eivät ole selkesti jostain muusta syystä johtuvia.** Muu psykiatrinen diagnoosi ei ole este ADHD-diagnoosille silloin, kun on kyse selkeästi erillisistä mutta samanaikaisista häiriöistä. Erotusdiagnostiikan luotettavuuden kannalta olisi hyvä, että psykiatrista oireistoa tai päihdehäiriötä olisi yritetty hoitaa ennen ADHD:n tutkimista, mutta hoitoresistentissä tilanteessa arviota voidaan yrittää erikoissairaanhoidossa tehdä.
+
+
+![](images/dsm5adhd.png)
+![](images/icd10adhd.png)
+![](images/adhdmnemonic.png)
+![](images/adhdmuisti.png)
+![](images/adhddiagn.png)
+![](images/adhddiagn2.png)
+
+
+  </div>
+</div>
+
+#### Resilienssi tarkoittaa ____ ____ ____ 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+valmiutta ja kykyä joustaa sekä sopeutua muutoksiin
+
+---
+
+Mielenterveyden joustavuus ilmenee mm. myönteisinä odotuksina ja optimistisena tulevaisuudenkuvana, toivon ylläpitämisenä. Tätä positiivisen mielenterveyden kokonaisuutta luonnehditaan usein termillä resilienssi. Se voidaan ymmärtää myös kapeammin joustavana selviytymisenä kuormittavista tilanteista.
+
+resilienssi (< re + salire 'uudestaan' + 'hypätä'). Palautumiskyky, toipumiskyky.
+
+  </div>
+</div>
+
+
+#### ADHD-stimulanttilääkkeitä on (1) _____-, (2) _____- ja (3) _____vaikutteisia, kesto vaihtelee ___ ____ tuntiin {#ADHD-laakkeet-vaikutusajat}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+lyhyt-, keskipitkä- ja pitkävaikutteisia; kahdesta 14 tuntiin
+
+---
+
+Atomoksetiini ja guanfasiini taas ovat lääkkeitä, jotka otetaan 1krt vrk ja vaikuttavat n. 24h. Näiden vaikutus myös alkaa hitaammin kuin stimulanttien. 
+
+![](images/Stimulantit.png)
+  </div>
+</div>
+
+
+#### Selitä mikä on ACE (3p) {#Mika-on-ACE}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Lapsuudenaikainen haitallinen kokemus (adverse childhood events, ACE, childhood adversity)
+
+---
+
+Varhaislapsuuden ACEt voivat aiheuttaa stressiä, joka häiritsee aivojen rakennetta ja toimintaa, muuttaa stressi- ja immuunijärjestelmien säätelyä, vaikuttaa suolistomikrobiomiin, heikentää tunnesäätelyä sekä mahdollisesti nopeuttaa biologista ikääntymistä, lisäten riskiä terveys-, kehitys- ja mielenterveyshaitoille läpi elämän.
+
+Esim. lapsen kokema uhka, epävarmuus, väkivalta, seksuaalinen hyväksikäyttö, hylkäämiskokemukset sekä muu kaltoinkohtelu, kuten lapsen kehityksellisesti tärkeiden tarpeiden tyydyttymisen laiminlyönti... -> liittyvät myöhemmin aikuisena koettuihin mielenterveyden ongelmiin, erityisesti masennukseen.
+
+Tutkimukset laitoksiin sijoitetuista lapsista osoittavat palautuvuutta ACE:jen jälkeen: Perheympäristöön sijoittamisen jälkeen lasten (aivo)kehitys korjaantuu, etenkin kun heidät sijoitetaan jo nuorena. 
+
+  </div>
+</div>
+
+#### Ahdistuneisuushäiriöitä on esim ___ (mainitse 3) {#Mainitse-3-ahdistuneisuushairiota}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+<li>Julkisten paikkojen pelko (agorafobia) (F40.0)</li>
+<li>Sosiaalisten tilanteiden pelko (Lapsuuden sosiaalinen ahdistushäiriö on F93.2, mutta sosiaalisten tilanteiden pelon dg on F40.1)</li>
+<li>Paniikkihäiriö (kohtauksittainen ahdistus) (F41.0)</li>
+
+---
+
+Muita mm. 
+
+<li>Yleistynyt ahdistuneisuushäiriö (Lapsuuden yleistynyt ahdistushäiriö on F93.8 ja on hieman suppeampi oirevalikoiman suhteen; muuten diagnoosi on F41.1)</li>
+<li>Alla olevat eivät virallisesti ICD-10:ssä ole ahdistuneisuushäiriöiden alla (ovat F90-diagnooseja), mutta ICD-11:ssa ovat pääsääntöisesti:</li>
+  <ul>
+    <li>(Lapsuuden) eroahdistushäiriö (F93.0)</li>
+    <li>Pelko-oireinen ahdistuneisuushäiriö (F93.1)</li>
+    <li>Selektiivinen mutismi (valikoiva puhumattomuus) (F94.0)</li>
+    <li>Muut ja sekamuotoiset</li>
+  </ul>
+
+
+![](images/ahd1.png)
+![](images/ahd2.png)
+![](images/ahd3.png)
+![](images/ahd0.png)
+
+  </div>
+</div>
+
+#### ADHD-lääkityksen seurannassa tarkkaillaan (fyysiset asiat) (5 viivaa, 3p) {#ADHD-laakityksen-seurannassa}
+
+#### Nimeä lapselle täytettäväksi annettavia lomakkeita (3kpl) {#Lapselle-lomakkeita}
+
+#### Nimeä 3 opettajalle annettavaa lapsen oirekyselylomaketta {#Opettajalle-lomakkeita}
+
+### Tosi/Epätosi-väittämät {#Vaittamat-2026}
+
+#### ADHD:n periytyvyys on 40-50% 
+
+#### Masennus ja ahdistus voi ilmentyä ADHD:n kaltaisena oireiluna {#Mas-ahd-adhd}
+
+#### Huolimattomuusvirheet ja tavaroiden hukkaaminen ovat tyypillisiä tarkkaamattomuuden oireita {#Huolimattomuusvirheet-tarkaamattomuus}
+
+#### ADHD voi ilmentyä ylivilkkautena tai toiminnan hidastumisena {#ADHD-ylivilkkaus-tai-hidastuminen}
+
 ## 2025 
 
 ### Milloin tehdään päivystyksellinen/akuuttilähete lastenpsykiatrialle? {#Milloin-paiv-lpsy}
