@@ -233,19 +233,340 @@ Muita mm.
 
 #### ADHD-lääkityksen seurannassa tarkkaillaan (fyysiset asiat) (5 viivaa, 3p) {#ADHD-laakityksen-seurannassa}
 
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+**pituus, paino, verenpaine, syke, uni**
+
+---
+
+Yleinen stimulanttien haittavaikutus on **ruoanhalun väheneminen,** mikä voi lapsilla johtaa kasvun hidastumiseen. Tämän takia lapsilla kasvun kehityksen seuranta on todella tärkeää. Uni voi myös häiriintyä lääkkeistä. 
+
+Stimulantit voivat myös _nostaa sykettä ja aiheuttaa verenpaineenkin nousua,_ minkä takia kardiovaskulaarianamneesi on tärkeää selvittää ennen hoidon alkua ja jatkaa haitavaikutusten seurantaa hoidossa. Aikuisilla rutiinisti otetaan EKG ennen hoidon aloitusta, mutta lapsilla status ja anamneesi riittää yleensä.
+Hyvän hoitovasteen saavuttamisen jälkeen lääkehoitoa arvioidaan säännöllisesti yksilöllisen tarpeen mukaan, alussa tiiviisti ja jatkossakin kuitenkin vähintään kerran vuodessa
+
+<li>Arvion yhteydessä tarkistetaan kokonaistilanne, lääkeannoksen teho ja riittävyys sekä lääkityksen jatkamisen tarve</li>
+<li>Lääkehoidon aikana seurataan sykettä ja verenpainetta sekä lapsilla ja nuorilla painon ja pituuden kehitystä kasvukäyrien avulla lääkehoidon alkuvaiheessa ja muuttuessa 3–6 kuukauden välein</li>
+
+  </div>
+</div>
+
 #### Nimeä lapselle täytettäväksi annettavia lomakkeita (3kpl) {#Lapselle-lomakkeita}
 
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Tässä nyt neljä: RCADS, SDQ, CDI, SCARED
+
+---
+
+<li>RCADS (Revised Children’s Anxiety and Depression Scale) – ahdistus- ja masennusoireita kartoittava kyselylomake</li>
+<li>SDQ (Strengths and Difficulties Questionnaire) - lyhyt lapsen käyttäytymistä kartoittava kysely (kerätään tietoa 3–16-vuotiaan lapsen psykososiaalisesta hyvinvoinnista omilla lomakkeillaan vanhemmalta, opettajalta (päivähoito, koulu) ja yli 11-vuotiailta lapsilta itseltään)</li>
+<li>CDI (Children's Depression Inventory) – lasten ja nuorten masennusoireiden kartoitus- ja seulontamenetelmä</li>
+<li>SCARED (Screen for Child Anxiety Related Disorders) - seulotaan ja arvioidaan lasten ja nuorten ahdistuneisuusoireita </li>
+
+  </div>
+</div>
+
+
 #### Nimeä 3 opettajalle annettavaa lapsen oirekyselylomaketta {#Opettajalle-lomakkeita}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Tässä nyt neljä: SDQ, Keskittymiskysely, ADHD-RS, Viivi (5-15R, FTF, five-to-fifteen)
+
+---
+
+<li>SDQ (Strengths and Difficulties Questionnaire) - lyhyt lapsen käyttäytymistä kartoittava kysely (kerätään tietoa 3–16-vuotiaan lapsen psykososiaalisesta hyvinvoinnista omilla lomakkeillaan vanhemmalta, opettajalta (päivähoito, koulu) ja yli 11-vuotiailta lapsilta itseltään)</li>
+<li>Keskittymiskysely - kartoitetaan kouluikäisten lasten ja nuorten tarkkaavuuden ja toiminnanohjauksen vaikeuksia; yleensä opettaja kouluympäristössä on täyttäjä (Pienemmille lapsille on olemassa vastaava PikkuKesky - Pienten lasten keskittymiskysely, jota käytetään varhaiskasvatuksessa)</li>
+<li>ADHD-RS-kysely on diagnostiseen oirekartoitukseen tarkoitettu kysely, jossa lapsen käyttäytymistä koskevat väittämät perustuvat DSM-tautiluokituksen mukaisiin oirekriteereihin. Kyselylomakkeesta on alkuperäisversiossa olemassa rinnakkaiset identtiset versiot vanhemmille ja opettajalle</li>
+<li>Viivi-kysely soveltuu 5–17-vuotiaan lapsen kehityksen eri toiminta-alueiden, motoriikan, toiminnanohjauksen, hahmotuksen, muistin, kielen, sosiaalisten taitojen ja oppimisen ongelmien, kartoittamiseen kliinisessä työssä - Vanhempien ja opettajien versiossa on yhteensä 17 väittämää motoriikan osa-alueelta: 7 karkeamotoriikasta ja 10 hienomotoriikasta</li>
+
+  </div>
+</div>
+
+### Kolmen sukupolven mallissa perehdytään ---, --- ja --- asioihin {#3-sukupolven-mallissa}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+lapsen, vanhempien ja isovanhempien 
+
+---
+
+Peheen toiminnan ja sisäisten vuorovaikutussuhteiden tarkastelussa on tärkeää ottaa huomioon myös vanhempien primaariperheiden vaikutus. Äidin ja isän kokemukset ja kasvatus vaikuttavat myös heidän näkemyksiinsä ja toimintatapoihin. 
+
+Tietysti myös geneettiset tekijät vaikuttavat perheen lapsien riskeihin ja on hyvä selvittää vanhempienkin vanhempien taustoja.
+  </div>
+</div>
 
 ### Tosi/Epätosi-väittämät {#Vaittamat-2026}
 
 #### ADHD:n periytyvyys on 40-50% 
 
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin 
+      
+Riippuu lähteestä, joten vähän huono kysymys. Käypä Hoidon mukaan arviot periytyvän komponentin osuudesta vaihtelevat välillä 74–88 %. Kyseessä on yksi periytyvimmistä (neuro)psykiatrisista häiriöistä.
+
+---
+
+Vakiintuneen käsityksen mukaan ADHD:n tausta on monitekijäinen ja sen ilmenemiseen vaikuttavat yhdessä erilaiset altistavat ja suojaavat tekijät perimässä ja ympäristössä. Monimuotoinen tausta selittää myös ADHD:n monimuotoisen ilmiasun
+
+ADHD:n periytymisen todennäköisyys perheissä on huomattavan korkea. Jos vanhemmalla on diagnoosi, lapsella on noin 25-50 prosentin riski saada sama häiriö. Jos sekä vanhemmalla että sisaruksella on ADHD, riski on vielä korkeampi.
+
+Kyse on alttiudesta, ei varmasta periytymisestä.
+
+  </div>
+</div>
+
 #### Masennus ja ahdistus voi ilmentyä ADHD:n kaltaisena oireiluna {#Mas-ahd-adhd}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein 
+      
+Masennus tai ahdistuneisuushäiriö voi aiheuttaa mm. toiminnanohjauksen vaikeuksia, keskittymiskyvyttömyyttä, muistivaikeuksia, levottomuutta ja sisäistä rauhattomuutta -> muistuttaa ADHD:n keskeisiä oireita -> erotusdiagnostiikka tärkeää. 
+
+  </div>
+</div>
+
 
 #### Huolimattomuusvirheet ja tavaroiden hukkaaminen ovat tyypillisiä tarkkaamattomuuden oireita {#Huolimattomuusvirheet-tarkaamattomuus}
 
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein 
+      
+ADHD:n keskeisiä diagnostisia oireita keskittymiskyvyttömyyslokerosta. 
+
+![](images/icd10adhd.png)
+![](images/dsm5adhd.png)
+
+![](images/adhdmnemonic.png)
+  </div>
+</div>
+
+
 #### ADHD voi ilmentyä ylivilkkautena tai toiminnan hidastumisena {#ADHD-ylivilkkaus-tai-hidastuminen}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein 
+      
+Ylivilkkaus tietysti tyypillistä, mutta toiminnan hidastuminen liittyy erityisesti tarkkaamattomuuteen (ADD). Tehtävien aloittaminen ja toiminnan suunnittelu voi olla vaikeaa -- tämä onkin yski keskittymiskyvyttömyyden kriteeristön oireista.
+
+On olemassa myös ns. sluggish cognitive tempo (SCT) -häiriö, joka on on tarkkaavaisuus- ja ylivilkkaushäiriöstä täysin erillinen tarkkaavaisuushäiriö, jota ei ole sisällytetty ICD tai DSM-kriteeristöihin. 
+
+![](images/icd10adhd.png)
+![](images/dsm5adhd.png)
+![](images/adhdmnemonic.png)
+
+  </div>
+</div>
+
+#### Komplisoitumattoman ADHD:n voi hoitaa PTH:ssa 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein (pääasiassa) 
+      
+Lasten ja nuorten diagnostinen arvio ja hoito- ja kuntoutussuunnitelma tehdään moniammatillisesti ensisijaisesti perusterveydenhuollon palveluissa, ellei erityistä perustetta vaativampiin palveluihin ole esimerkiksi erotusdiagnostisista syistä. 
+
+_Mahdollisesti lääkekokeilua tarvitsevat alle 6-vuotiaat lapset ohjataan erikoissairaanhoitoon._
+
+Aikuisten ADHD:ssa paikallisten ohjeiden mukaan voidaan usein PTH:ssa aloittaa diagnostiikka ja mahdollisesti lääkityskin, mutta psykiatrin konsultaatio tulisi tehdä viimeistään, jos ensimmäisen ADHD:n lääkehoidon aloittava lääkäri ei ole erikoislääkäri. 
+
+---
+
+ESH:n vastuulla ovat erikoissairaanhoitoa tarvitsevien potilaiden erotusdiagnostiset selvittelyt ja niihin kuuluvat lisätutkimukset, vaativien lääkehoitojen aloittaminen, vaativan hoidon ja kuntoutuksen suunnittelu sekä jatkohoidosta ja -seurannasta sopiminen. Lisäksi erikoissairaanhoidon tehtäviin kuuluvat riittävien konsultaatiomahdollisuuksien ja koulutuksen järjestäminen. Erikoissairaanhoidon arviota tarvitaan, jos: 
+
+<li>perusterveydenhuollon hoito- ja kuntoutustoimet ovat osoittautuneet konsultaatiotuesta huolimatta riittämättömiksi</li>
+<li>tarvitaan erityistä osaamista vaativaa erotusdiagnostista arviointia (käytännössä siis komorbiditeetteja häiritsemässä)</li>
+<li>lääkehoidon toteutuksessa tai hoitovasteessa on ongelmia, jotka eivät ratkea konsultaatiotuen avulla tai</li>
+<li>kokonaistilanteen ongelmallisuuden vuoksi tarvitaan erikoissairaanhoidon osaamista tai usean erikoisalan yhteistyötä</li>
+
+  </div>
+</div>
+
+
+#### EPDS voidaan käyttää autismikirjon häiriön seulonnassa {#EPDS-tismi}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin 
+      
+EPDS (Edinburgh Postnatal Depression Scale) on 10-osainen kyselylomake, jota käytetään raskaudenaikaisen ja synnytyksenjälkeisen masennuksen tunnistamiseen. 
+
+---
+
+Autismikirjon seulontaan soveltuvia oirekyselylomakkeita ja arviointimenetelmiä on kehitetty eri ikäisille, esim.: 
+
+<li>SCQ (Social Communication Questionnaire, Sosiaalisen kommunikaation kyselylomake). SCQ-lomakkeen Elinikäinen-versio ilmeisesti soveltuu autismikirjon häiriön seulontaan yli 4-vuotiaille. Sen voi täyttää vanhempi tai huoltaja, joka on tuntenut lapsen 4–5 vuoden iässä. Tällä hetkellä -version voi täyttää lisäksi esimerkiksi opettaja tai muu tutkittavan henkilön hyvin tunteva henkilö</li>
+<li>M-CHAT R/FTM (The Modified Checklist for Autism in Toddlers -revised-with follow-up) -seulonnan käyttö 16–30 kuukauden ikäisille saattaa aikaistaa autismidiagnoosia</li>
+<li>ASSQ (Autism Spectrum Screening Questionnaire) kartoittaa autistisia piirteitä (sosiaalisen vuorovaikutuksen ja kommunikaation erityispiirteitä sekä rajoittunutta ja toistavaa käyttäytymistä) 7–16-vuotiailta lapsilta ja nuorilta, jotka ovat kognitiivisesti hyvätasoisia tai lievästi älyllisesti kehitysvammaisia. ASSQ-lomakkeen täyttävät opettaja ja vanhemmat. ASSQ-REV on ASSQ:n laajennettu versio, johon on lisätty väittämiä, joiden avulla voidaan tunnistaa paremmin autismikirjon tytöt</li>
+<li>AQ eli autismikirjon osamäärä (Autism Spectrum Quotient) on itsearviointilomake, jonka tarkoituksena on tunnistaa henkilöitä, joille voi olla perusteltua tehdä tarkempi autismikirjon häiriön diagnostinen tutkimus. AQ soveltuu 16 vuotta täyttäneille nuorille ja aikuisille</li>
+<li>AQ eli autismikirjon osamäärä (Autism Spectrum Quotient) on itsearviointilomake, jonka tarkoituksena on tunnistaa henkilöitä, joille voi olla perusteltua tehdä tarkempi autismikirjon häiriön diagnostinen tutkimus. AQ soveltuu 16 vuotta täyttäneille nuorille ja aikuisille</li>
+<li>ESB (Early Sociocognitive Battery) on 2–5 vuoden ikäisten lasten sosiaalisen kognition taitojen arviointimenetelmä, joka on tarkoitettu muun muassa puheterapeuttien ja psykologien käyttöön. Sen avulla voidaan tunnistaa lapsia, joilla on riski kielen kehityksen, sosiaalisen kommunikaation tai autismikirjon häiriöön</li>
+<li>CCC-2-lomakkeen (Children's Communication Checklist) voi täyttää joko vanhempi tai huoltaja tai ammattihenkilö. Sen avulla voidaan seuloa lapsen tai nuoren mahdollinen kielihäiriö, kielen pragmatiikan ongelma ja autismikirjon häiriön piirteet, ja lomakkeen antamaa tietoa voidaan hyödyntää jatkotutkimusten suunnittelussa. Sitä voidaan käyttää apuna myös kuntoutustavoitteiden seuraamisessa</li>
+<li>GQ-ASC (Girls Questionnaire for Autism Spectrum Condition) on autismikirjon häiriöön liittyvien käyttäytymismallien ja kykyjen tunnistamiseen tarkoitettu itsearviointilomake 17-vuotiaille ja sitä vanhemmille cis- ja transnaisille</li>
+<li>SRS (Social Responsiveness Scale) on arviointilomake, johon vastaa lapsen tai nuoren (4–18 vuotta) vanhempi, huoltaja, opettaja tai muu tämän hyvin tunteva henkilö. SRS-lomaketta voidaan käyttää autismikirjon häiriön piirteiden tunnistamisessa, mutta sen osoittamat sosiaalisen kompetenssin haasteet voivat johtua myös muusta kuin autismikirjon häiriöstä</li>
+
+
+  </div>
+</div>
+
+#### Neuvolapsykologi on käytössä joko lasten- tai äitiysneuvolassa
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin 
+      
+Neuvolapsykologi on sekä lasten- että äitiysneuvolan käytettävissä -- ei ole rajattu vain jompaankumpaan. 
+
+  </div>
+</div>
+
+#### PTSD:n ilmaantuvuus on 30% traumaattisen kokemuksen kokeneilla lapsilla
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin 
+      
+PTSD:n prevalenssi on trauman kokeneilla lapsilla/nuorilla n. 15.9%. 
+
+![](images/ptsdlaps.png)
+  </div>
+</div>
+
+#### Komorbiditeetti on lastenpsykiatrialla harvinaista 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin 
+      
+Komorbiditeetti eli rinnakkaissairastavuus on lastenpsykiatrialla erittäin tavallista. Riippuen lähteestä jopa yli puolella lastenpsykiatrisista potilaista on enemmän kuin yksi diagnostinen kriteeri täyttyneenä (esim. ADHD + uhmakkuushäiriö, ahdistuneisuus + masennus yms).
+
+  </div>
+</div>
+
+
+#### Jos lapsella on toimintakyvyn laskua, saattaa kyseessä olla lastenpsykiatrinen häiriö {#Toimintakyvyn-laskua-hairio}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein 
+      
+Määräävä kriteeri yleisesti psykiatrisissa häiriöissä (mukaan lukien lastenpsykiatriset häiriöt) on se, että oireet aiheuttavat merkittävää toimintakyvyn laskua tai kärsimystä arjessa – esimerkiksi kotona, koulussa, päiväkodissa tai kaverisuhteissa
+
+Pelkkä yksittäinen oire tai oireilu ei pääsääntöisesti vielä täytä diagnostisia kriteereitä, jos toimintakyky säilyy hyvänä. Toimintakyvyn heikkeneminen on siis keskeinen merkki mahdollisesta psykiatrisesta häiriöstä.
+  </div>
+</div>
+
+
+#### Stressi ja ympäristötekijät eivät voi aiheuttaa lapsilla tunne-elämän häiriöitä {#Stressi-ja-ymparisto-ei}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin 
+      
+Stressi, traumaattiset kokemukset, turvaton kasvuympäristö ja muut ympäristötekijät ovat keskeisiä tunne-elämän häiriöiden (kuten ahdistuneisuuden ja masennuksen) aiheuttajia ja laukaisevia tekijöitä lapsilla.
+
+  </div>
+</div>
+
+#### Joskus olennaisinta lastenpsykiatrialla on lapsen vanhemman psykiatrisen häiriön hoito ja sosiaalitoimet {#Joskus-olennaisinta-lpsy}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein 
+      
+Lasten psykiatriset oireet ja vointi ovat tiiviissä yhteydessä perheen kokonaistilanteeseen. Vanhemman hoitamaton psykiatrinen häiriö tai perheen sosiaaliset kuormitustekijät (esim. perheväkivalta, päihdeongelmat tai vakavat toimeentulo-ongelmat) vaikuttavat suoraan lapsen turvallisuudentunteeseen ja kehitykseen. Tällöin lapsen oireilu voi helpottaa parhaiten tukemalla vanhempaa ja vakauttamalla perheen arki sosiaalitoimen keinoin.
+
+  </div>
+</div>
 
 ## 2025 
 
