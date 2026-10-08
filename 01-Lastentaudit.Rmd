@@ -6597,7 +6597,7 @@ Toiseksi yleisin lasten syöpätyyppi on aivokasvaimet.
     Vastaus
   </button>
   <div class="solution-content">
-      Oikein
+      Väärin
 
 Synnynnäinen sydämen rakennevika on yleisin synnynnäinen rakennepoikkeavuus ja sellainen todetaan n. **1%:lla lapsista.** On kuitenkin tärkeää tiedostaa, että **n. 50%:lla lapsista kuullaan ainakin joskus sivuääni** (ja jopa 80%:lla päivystyspotilaista). Oireettoman lapsen sivuääni on useimmiten hyvänlaatuinen, vaikkakin joskus taustalta löytyy seurantaa tai hoitoa vaativa rakenteellinen sydänvika. Kaikissa rakennevioissa ei aina kuulla sivuääntä alkuvaiheissa eikä joskus koskaan. 
 

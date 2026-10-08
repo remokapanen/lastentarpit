@@ -6,6 +6,31 @@ Tenttirakenne täysin poikkeava aikaisemmista vuosista: koostuu muutamasta aukko
 
 ### Aukkotehtävät {#Aukkotehtavat-2026}
 
+#### Mentalisaatio tarkoittaa ...? 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+yksilön varhaisessa vuorovaikutuksessa kehittyvää kykyä havaita ja ymmärtää itseä ja toista
+
+---
+
+Mentalisaatiokyky on yksi keskeisimmistä ihmisen kehitystavoitteista vuorovaikutuskyvyn ja omien tunnetilojen säätelyn kannalta.
+
+Yksilö alkaa kehityksensä alkutaipaleella vähitellen havaita, että toinen ihminen on olemassa ja että toisella on oma itsenäinen mielensä. Tämän perusasian ymmärtäminen ja harjoittelu johtavat sosiaalisten taitojen karttumiseen sekä mahdollisuuteen, että voi ottaa toisen ihmisen huomioon itsenäisenä toisena ihmisenä, johon oman mielen vaikutusvalta ei ulotu.
+
+**Mentalisaatiokyky voi jäädä kehittymättä tai puutteelliseksi, jos varhaislapsuuden hoivaaja ei kykene reflektoimaan vauvan tunnetiloja eli vastaanottamaan, tulkitsemaan ja työstämään niitä riittävän osuvalla tavalla eikä palauttamaan niitä sitten vauvalle.** Jos läheinen hoivaaja on lisäksi esimerkiksi pahantahtoinen, ei kasvava lapsi voi sijoittaa häneen ajatusta itsestä riippumattomista intentioista, koska tällöin ohut mielikuva hyvästä hoivaajasta tulee uhatuksi. Mentalisaatioprosessi estyy ja lisäksi mielikuvat hyvästä ja pahasta jäävät toisistaan lohkoutuneiksi, integroitumattomiksi. Lapselle ei myöskään voi kehittyä toimivaa itsereflektiokykyä, jos hänellä ei ole ollut hoivaajan suhteen reflektoivaa vuorovaikutusta, joka voisi sisäistyä. Tämän seurauksena voi olla monenlaista arkipäivän tunteensiirtoon ja molemminpuolisuuden tavoittamattomuuteen liittyvää hankaluutta ihmissuhteissa. Näitä vaikeuksia voidaan kutsua esimerkiksi epävakaudeksi ja narsistisuudeksi.
+
+
+  </div>
+</div>
+
+
 #### Tikapuuanamneesissa olennaista on (1) ____, (2) ____ ja (3) _____ ajallinen yhteys toisiinsa (3p)
 
 <div class="">
@@ -564,6 +589,408 @@ Stressi, traumaattiset kokemukset, turvaton kasvuympäristö ja muut ympäristö
       Oikein 
       
 Lasten psykiatriset oireet ja vointi ovat tiiviissä yhteydessä perheen kokonaistilanteeseen. Vanhemman hoitamaton psykiatrinen häiriö tai perheen sosiaaliset kuormitustekijät (esim. perheväkivalta, päihdeongelmat tai vakavat toimeentulo-ongelmat) vaikuttavat suoraan lapsen turvallisuudentunteeseen ja kehitykseen. Tällöin lapsen oireilu voi helpottaa parhaiten tukemalla vanhempaa ja vakauttamalla perheen arki sosiaalitoimen keinoin.
+
+  </div>
+</div>
+
+#### Käytöshäiriön oireita on mm. varastelu, omaisuuden tuhoaminen, väkivaltainen käyttäytyminen {#Kaytoshairion-oireita}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein 
+      
+Käytöshäiriöllä tarkoitetaan lapsilla ja nuorilla esiintyvää pitkäaikaista ja laaja-alaista toisten oikeuksista ja hyvinvoinnista sekä yhteisön laeista, normeista ja säännöistä piittaamatonta käyttäytymistä, joka heikentää yksilön toimintakykyä kliinisesti merkittävässä määrin
+
+Diagnoosia asetettaessa on muistettava, että käyttäytymisongelmien tulee olla pitkäaikaisia ja poiketa selvästi iänmukaisista sosiaalisista odotuksista sekä aiheuttaa toiminnallista haittaa lapselle ja hänen ympäristölleen. 
+
+Käytöshäiriöisen lapsen oirekuva on usein heterogeeninen ja voi painottua enemmän joko reaktiiviseen aggressiiviseen käyttäytymiseen tai proaktiiviseen aggressioon. Ensin mainitussa lapsi reagoi aggressiivisella käyttäytymisellä ympäristöstä tuleviin virikkeisiin, kun taas jälkimmäisessä lapsi itse aloittaa tappeluita tai rikkoo sosiaalisia normeja esimerkiksi kiusaamalla muita.
+
+![](images/käytöshäiriöicd10.png)
+![](images/badforabusiness.png)
+
+  </div>
+</div>
+
+
+#### Käytöshäiriöiden ilmentymiseen vaikuttaa äidin raskaudenaikainen ylipaino, stressi, tupakointi ja alkoholinkäyttö {#Kaytoshairioiden-riskitekijoita}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein 
+      
+Käytöshäiriöiden kehittymiselle voivat nykykäsityksen mukaan altistaa monet tekijät: niin perimä kuin biologiset ja psykososiaaliset ympäristötekijät sekä niiden yhteisvaikutus. 
+
+Monet raskaudenaikaiset tekijät voivat myös aiheuttaa hermoston kehitykseen ja sitä kautta aiheuttaa psykiatrisia/neuropsykiatrisia oireita. 
+  </div>
+</div>
+
+#### Tic-oireet ovat erit. leikki-ikäisillä pojilla yleisiä {#Tic-oireet-leikki-ika}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein 
+
+Tic-oire on äkillinen, tarkoitukseton, usein samankaltaisena toistuva, rytmitön, pääosin tahdosta riippumaton, joko tietyn lihaksen tai lihasryhmän alueella ilmenevä nykäys (motorinen tic-oire) tai tarkoitukseton, äkillinen äänne, sana tai lause (vokaalinen tic-oire) 
+
+Tic-oireet voivat olla yksinkertaisia, vain yhtä lihasryhmää koskevia (esim. nenän nyrpistys, huudahdusääni), tai monimuotoisia, jolloin ticiin osallistuu useita lihasryhmiä (esim. liikesarjat, fraasien toistelu). Yksinkertaiset tic-oireet ovat lapsilla tavallisia eivätkä yleensä haittaa toimintakykyä.
+
+Kun tic-oireet ovat pitkäkestoisia, niitä esiintyy sekä motorisina että vokaalisina ja ainakin osa oireista on monimuotoisia, kyseessä on Touretten oireyhtymä. Sen esiintyvyys on lapsuus- ja nuoruusiässä pojilla noin 1,0 % ja tytöillä noin 0,3 %. Touretten oireyhtymässä tic-oireet alkavat tyypillisesti 3–8 vuoden iässä, ovat voimakkaimmillaan 10–12-vuotiaana ja helpottuvat usein merkittävästi nuoruusiässä tai nuoressa aikuisuudessa
+
+Tic-häiriöiden esiintyvyys aikuisilla on matalampi, mutta luotettavaa tutkimustietoa on niukalti. Ohimenevät tic-oireet ovat lapsilla hyvin tavallisia, joidenkin arvioiden mukaan yleisyys olisi jopa 20 %.
+
+  </div>
+</div>
+
+#### On huolestuttavaa, jos pieni lapsi pelkää mörköjä tai on eroahdistusta vanhemmista {#Pelkaako-morkoja}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin 
+
+Pienillä lapsilla eroahdistus on tavallinen, normaalikehitykseen kuuluva piirre, varsinkin n. 9kk iästä alkaen ikävuoteen 3-4 asti. Samoin lievät spesifiset pelot, jotka eivät kuitenkaan ole suhteettoman voimakkaita ja toimintakykyä lamaavia. 
+
+  </div>
+</div>
+
+
+#### Masennuksen oireita ovat esim. univaikeudet, keskittymisvaikeudet ja itsesyytökset {#Masennuksen-oireita}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein 
+
+Kuuluvat diagnostisiin oireisiin. Kuvassa masennuksen diagnostiset kriteerit. 
+
+![](images/masennus.png)
+  </div>
+</div>
+
+
+#### Hyvään vuorovaikutukseen kuuluu lapsen tarpeisiin vastaaminen ja lapsen tunteisiin virittäytyminen {#Hyva-vuorovaikutus}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein 
+
+Lapsen tarpeisiin vastaaminen ja tunteisiin virittäytyminen (attunement, reflektiivinen kyky) muodostavat toimivan vuorovaikutuksen ytimen. 
+
+Virittäytymisessä vanhempi havaitsee ja tunnistaa lapsen tunnetilan (esim. pelon, kiukun tai ilon) ja peilaa sitä sopivalla tavalla. Tämä auttaa lasta ymmärtämään omia tunteitaan ja kehittää hänen kykyään säätellä niitä. 
+
+Tarpeisiin tulee vastata johdonmukaisesti ja sopivalla herkkyydellä, mikä luo pohjan turvalliselle kiintymyssuhteelle. 
+  </div>
+</div>
+
+#### Itsetuhoisuudesta ei kannata kysyä suoraan
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin 
+
+Itsetuhoisuuden kartoittaminen ei lisää riskiä itsetuhoisuudelle! Iällä ei ole väliä tämän suhteen. 
+
+  </div>
+</div>
+
+
+#### Mentalisaatio on keskeistä hyvälle vanhemmuudelle? {#Mentalisaatio-vanhemmuudelle}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+       Oikein
+
+Mentalisaatiokyky eli yksilön varhaisessa vuorovaikutuksessa kehittyvä kyky havaita ja ymmärtää itseä ja toista on yksi vanhemmuuden ja lapsen kehityksen tärkeimmistä kulmakivistä. 
+
+Yksilö alkaa kehityksensä alkutaipaleella vähitellen havaita, että toinen ihminen on olemassa ja että toisella on oma itsenäinen mielensä. Tämän perusasian ymmärtäminen ja harjoittelu johtavat sosiaalisten taitojen karttumiseen sekä mahdollisuuteen, että voi ottaa toisen ihmisen huomioon itsenäisenä toisena ihmisenä, johon oman mielen vaikutusvalta ei ulotu.
+
+**Mentalisaatiokyky voi jäädä kehittymättä tai puutteelliseksi, jos varhaislapsuuden hoivaaja ei kykene reflektoimaan vauvan tunnetiloja eli vastaanottamaan, tulkitsemaan ja työstämään niitä riittävän osuvalla tavalla eikä palauttamaan niitä sitten vauvalle.** Jos läheinen hoivaaja on lisäksi esimerkiksi pahantahtoinen, ei kasvava lapsi voi sijoittaa häneen ajatusta itsestä riippumattomista intentioista, koska tällöin ohut mielikuva hyvästä hoivaajasta tulee uhatuksi. Mentalisaatioprosessi estyy ja lisäksi mielikuvat hyvästä ja pahasta jäävät toisistaan lohkoutuneiksi, integroitumattomiksi. Lapselle ei myöskään voi kehittyä toimivaa itsereflektiokykyä, jos hänellä ei ole ollut hoivaajan suhteen reflektoivaa vuorovaikutusta, joka voisi sisäistyä. Tämän seurauksena voi olla monenlaista arkipäivän tunteensiirtoon ja molemminpuolisuuden tavoittamattomuuteen liittyvää hankaluutta ihmissuhteissa. Näitä vaikeuksia voidaan kutsua esimerkiksi epävakaudeksi ja narsistisuudeksi.
+
+  </div>
+</div>
+
+#### Vuoron odottamisen haaste on tyypillinen tarkkaamattomuusoire
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+       Väärin
+
+Kyseessä on impulsiivisuusoire. 
+
+![](images/icd10adhd.png)
+  </div>
+</div>
+
+
+#### ADHD:n diagnosoimiseksi vaaditaan 9 tarkkaamattomuusoiretta
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+       Väärin
+
+Kyseessä on impulsiivisuusoire. 
+
+---
+
+ADHD:ssa arvioitavat oireet kuuluvat kahteen ryhmään eli tarkkaamattomuuteen ja yliaktiivisuuteen/impulsiivisuuteen (ICD10:ssä yliaktiivisuus/impulsiivisuus ovat erillisiä diagnostisissa kriteereissä). 
+
+Tarvitaan riittävä määrä oireita, jotta voidaan diagnosoida ADHD. **ICD10:ssä vaaditaan 6 tarkkaamattomuusoiretta, 3 impulsiivisuusoiretta ja 3 yliaktiivisuusoiretta;*** DSM5 vaaditaan vähintään 6 oiretta tarkaamattomuudesta tai yliaktiivisuudesta/impulsiivisuudesta. ADHD:stä voidaan tunnistaa kolme ilmenemismuotoa sen mukaan, painottuvatko oireet tarkkaamattomuuteen (pääasiassa tarkkaamaton ilmenemismuoto), yliaktiivisuuteen ja impulsiivisuuteen (pääasiassa yliaktiivis-impulsiivinen ilmenemismuoto) vai esiintyykö kaikkia ydinoireita (yhdistetty ilmenemismuoto). 
+
+Tuleva ICD-11-luokitus ei enää määrittele vaadittavien oireiden tarkkaa lukumäärää, vaan kuvaa keskeisiä oireita oireryhminä. 
+
+
+![](images/dsm5adhd.png)
+![](images/icd10adhd.png)
+![](images/adhdmnemonic.png)
+![](images/adhdmuisti.png)
+![](images/adhddiagn.png)
+![](images/adhddiagn2.png)
+
+  </div>
+</div>
+
+
+#### Lapsen ahdistuneisuushäiriön ensisijainen hoito on SSRI {#SSRI-ensisijainen-ahd-laps}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+       Väärin
+
+Ensisijainen hoito perustuu aina psykososiaalisiin hoitoihin ja kognitiiviseen käyttäytymisterapiaan. 
+
+Hoidon rungon muodostavat psykoedukaatio, vanhempainohjaus sekä lapselle suunnattu psykoterapia. 
+
+Lääkkeet ovat lapsilla toisen linjan hoitomuoto. Lääkehoitoa voidaan harkita osana kokonaishoitoa silloin, kun kyseessä on vaikea-asteinen ahdistuneisuus, johon psykosiaalinen hoito ei ole tuonut riittävää vastetta. Lääkehoidon aloituksen tulee aina perustua lastenpsykiatrisen erikoissairaanhoidon arvioon.
+  </div>
+</div>
+
+#### Uhmaikä ja rajojen testaaminen kuuluu normaaliin lapsen kehitykseen
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+       Oikein
+
+Uhmakkuushäiriön diagnoosia asetettaessa on muistettava, että käyttäytymisongelmien tulee olla pitkäaikaisia ja poiketa selvästi iänmukaisista sosiaalisista odotuksista sekä aiheuttaa toiminnallista haittaa lapselle ja hänen ympäristölleen.
+
+Uhmakkuushäiriön diagnoosi asetetaan usein nuoremmille lapsille noin 8–10 vuoden iässä, ja se edeltää usein varsinaista käytöshäiriötä. **Uhmakkuushäiriöisen lapsen käytös muistuttaa nuoremman, noin 2–3-vuotiaan lapsen normaalikehitykseen kuuluvaa "uhmaikää".** Osalla lapsista uhmakas käyttäytyminen on jatkunut tuosta saakka eikä ole iänmukaisesti muuntunut, osalla lapsista uhmakas käytös alkaa vasta kouluiässä.
+
+  </div>
+</div>
+
+
+#### Jos tic-oireita on paljon ja niistä on merkittävää haittaa, voi tehdä ESH-lähetteen {#Tic-esh}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+       Oikein
+
+_Tärkeintä tic-oireiden hoidossa on oirekuvaan liittyvä tieto, neuvonta ja ohjaus_ niin lapselle ja hänen perheelleen kuin lähiympäristölle (päivähoito, koulu), sopeutumisvalmennus, vertaistuki sekä lapsen yleisen sosiaalisen selviytymisen tukeminen. **Neuvonta ja ohjaus voidaan tehdä perusterveydenhuollossa.**
+
+Käyttäytymisterapeuttinen hoito ja/tai lääkehoito on perusteltua, jos tic-oireet häiritsevät lasta tai ne aiheuttavat toiminnallista tai sosiaalista haittaa. Ensisijaisesti suositellaan käyttäytymisterapeuttista hoitoa.
+
+<li>**Jos lapsi tarvitsee terapiaa tai lääkehoitoa, niiden suunnittelu kuuluu asiaan perehtyneelle erikoislääkärille** (esim. lastenpsykiatri tai lastenneurologi paikallisen hoitokäytännön mukaisesti)</li>
+
+  </div>
+</div>
+
+
+#### Jos käytöshäiriö ei laannu 3vk psykososiaalisella hoidolla, voi aloittaa lääkehoidon PTH:ssa {#Kaytoshairio-laakehoito-PTH}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+       Väärin
+
+Lääkehoitoa käytetään vain erikoislääkärin aloittamana vaikeahoitoisissa tapauksissa muun hoidon rinnalla -- ei siis aloiteta PTH:ssa. 
+  </div>
+</div>
+
+#### Atomoksetiini on stimulantti
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+       Väärin
+
+Atomoksetiini on ei-stimulanttilääkitys ADHD:n hoidossa. 
+
+Sillä on kylläkin hyvin samanlaisia haittavaikutuksia kuin stimulanteilla (metyylifenidaatti ja amfetamiinijohdokset), koska sen vaikutusmekanismi perustuu samoihin reitteihin. Atomoksetiini siis vaikuttaa siten, että se estää selektiivisesti NAT-kuljetusproteiinia, joka estää noradrenaliinin mutta myös dopamiinin takaisinottoa prefrontaalikorteksilla. 
+
+Stimulantit taas vapauttavat vapauttavat dopamiinia/noradrenaliinia nopeasti. Atomoksetiini vaikuttaa hitaammin (parissa viikossa säännöllisessä käytössä) ja tasaisesti vuorokauden ympäri. 
+  </div>
+</div>
+
+#### Jos psykososiaalisesta hoidosta ei ole riittävästi hyötyä, sen voi lopettaa ja tilalle lääkitys {#Psyksos-lopettaa-laakitys}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+       Väärin
+
+Lääkehoidon aloittaminen ei korvaa psykososiaalisia hoitoja ja tukitoimia, vaan lääkehoito aloitetaan aina psykosiaalisten hoitojen ja tukitoimien rinnalla, ei niiden tilalle. 
+
+  </div>
+</div>
+
+#### ADHD voi viitata runsas puhuminen ja joku ihme verbi (känkkäily tier setit) {#Kankkaily}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+       Oikein
+
+Runsas puhuminen ja tunteiden säätelyn vaikeudet voivat molemmat olla ADHD:n oireita tai siihen liittyviä liitännäishaasteita. 
+
+Vaikka emotionaalinen säätelyvaikeus ei itsessään ole erillinen ydindiagnostinen kriteeri, se liittyy hyvin tiiviisti ADHD-oirekuvaan. 
+
+![](images/icd10adhd.png)
+  </div>
+</div>
+
+#### Useat psykiatriset häiriöt, esim. ADHD ja ahdistus, voidaan diagnosoida oirepohjaisesti {#Oirepohjaisesti-dg}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+       Oikein
+
+Psykiatriset ja neuropsykiatriset häiriöt (kuten ADHD, ahdistuneisuushäiriöt, masennus tai käytöshäiriöt) diagnosoidaan nykyään pääsääntöisesti oire- ja toimintakykypohjaisesti järjestelmällisen kliinisen arvioinnin perusteella (käyttäen esim. ICD- tai DSM-luokituksia).
+
+Diagnosointi perustuu esitietoihin (haastattelut), oirekyselyihin, käyttäytymisen havainnointiin eri ympäristöissä (koti, koulu/työ) sekä oireiden pitkäkestoisuuden ja toimintakykyhaitan arviointiin
+
+Psykiatriassa fyysisiä kokeita (kuvantamista, labroja) käytetään diagnoosin tukena poissulkevina tutkimuksena; varmistetaan, ettei oireet johdu esim. kilpirauhasen toimintahäiriöistä, raudanpuutteesta yms. 
+
+  </div>
+</div>
+
+#### Erot normaalissa ahdistuneisuudessa vanhemmasta erotessa vaihtelevat eri ikäryhmillä {#Erot-normaalissa-ahdistuneisuudessa}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+       Oikein
+
+Eroahdistushäiriössä pääasiallisena oireena on ikään ja kehitystasoon nähden epätarkoituksenmukainen ja poikkeuksellisen voimakas pelko, joka liittyy eroon kiintymyksen kohteista. Ahdistuneisuus voi ilmetä esimerkiksi pelkona siitä, että läheisille sattuu jotain, somaattisina tuntemuksina, vaikeutena nukahtaa yksin, erotilanteiden välttämisenä tai vaikeutena mennä kouluun eli koulupelkona.
+
+**Pienillä lapsilla eroahdistus on tavallinen, normaalikehitykseen kuuluva piirre.** Sen sijaan eroahdistushäiriölle ominaista on poikkeuksellisen voimakas ahdistuneisuus, josta aiheutuu huomattavaa toimintakyvyn haittaa.
+
+Toisinaan ahdistus purkautuu kiukkuna tai raivona tilanteissa, joissa lapsen pitäisi jäädä yksin. Kieltäytyminen koulunkäynnistä on yksi tavallisista eroahdistushäiriön ilmenemismuodoista lapsilla. Nuoruusikäisillä koulupelon taustalla on tavallisemmin kouluun liittyvä stressi tai sosiaalinen ahdistuneisuus kuin pelko erossaolosta. Koulusta kieltäytyminen voi olla myös käytöshäiriön oire, ja tuolloin haluttomuuteen käydä koulua liittyy myös muitakin sääntöjä rikkovaa käytöstä.
+
+---
+
+Diagnosoitaessa eroahdistushäiriötä saadaan usein erilaisia raportteja lapsen eri arkipäivän tilanteisiin liittyvistä peloista ja toimintatavoista riippuen siitä, mitä informaatiolähdettä käytetään. Tietojen arviointi kokonaisuutena on tärkeää. Erityisesti nuoruusikäisillä korostuu henkilökohtaisen haastattelun tarve arvioitaessa pelkojen sisältöjä ja toimintaa. Myös lasten arvioinnissa on tärkeää saada riittävä käsitys lapsen tilannekohtaisista peloista. Diagnostiikassa voi käyttää apuna standardoitua, strukturoitua haastattelua sekä erilaisia kyselyjä. Esimerkiksi SCAS-kyselyn (Spence Children's Anxiety Scale) lapselle ja vanhemmalle kohdistetut versiot sisältävät myös eroahdistusta mittaavan osion.
+
+
+  </div>
+</div>
+
+
+#### Derealisaatio ei ole ahdistuneisuuden oire, vaan merkki psykoosisairaudesta
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+       Väärin
+
+Derealisaatio (ja depersonalisaatiokin) on hyvinkin yleinen ahdistushäiriöiden oire (yleensä osa diagnostisten oireiden listaa eri häiriöissä) eikä yksinään ole merkki psykoosisairaudesta. 
+
+<li>Derealisaatio tarkoittaa tunnetta, että ympäristö on muuttunut epätodelliseksi ja vieraaksi</li>
+<li>Depersonalisaatio = Itsensä epätodelliseksi ja vieraaksi tunteminen; on kuin jossain kaukaisuudessa tai "poissa tästä maailmasta</li>
+
+---
+
+Psykoosissa ihmisen todellisuudenkäsitys on vääristynyt tai murtunut (esim. harhaluulot tai aistiharhat, joita ihminen pitää täytenä totena). Derealisaatiossa kyse on poikkeavasta kokemuksesta tai tunteesta, ei todellisuudentajun menettämisestä.
 
   </div>
 </div>
