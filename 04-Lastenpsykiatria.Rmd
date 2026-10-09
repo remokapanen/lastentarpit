@@ -992,8 +992,354 @@ Derealisaatio (ja depersonalisaatiokin) on hyvinkin yleinen ahdistushäiriöiden
 
 Psykoosissa ihmisen todellisuudenkäsitys on vääristynyt tai murtunut (esim. harhaluulot tai aistiharhat, joita ihminen pitää täytenä totena). Derealisaatiossa kyse on poikkeavasta kokemuksesta tai tunteesta, ei todellisuudentajun menettämisestä.
 
+![](images/dereal.png)
   </div>
 </div>
+
+#### Vähemmistöstressi tarkoitaa vähemmistöön kuulumiseen kuormittavuutta {#Vahemmistostressi}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+      
+Vahvojen toimintaa ohjaavien normien ulkopuolelle jäämisen aiheuttamaa kuormitusta kuvataan käsitteellä vähemmistöstressi, joka voi ilmetä sekä psyykkisinä että fyysisinä oireina. Yleistä esim. maahanmuuttajilla (valkoisuusnormista poikkeaminen) tai seksuaalivähemmistöillä. 
+
+![](images/vahemmistostressi.png)
+  </div>
+</div>
+
+#### Psykologi voi selvittää mm. oppimisvaikeuksia, neurologisia oireita (ja jotain, ei muistettu tarkasti) {#Psykologi-voi-selvittaa}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+      
+Psykologin kartoitus on monissa tilanteissa riittävä tapa selvittää lapsen tai nuoren oppimis- tai neuropsykiatrisia vaikeuksia, vuorovaikutusta, psyykkistä vointia tai tunne-elämää.
+
+  </div>
+</div>
+
+#### ADHD:n voi diagnosoida pelkästään kyselylomakkeilla {#Kyselylomakkeilla-ADHD}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+      
+ADHD on oirediagnoosi; spesifisiä diagnostisia tutkimuksia ei ole. **Diagnoosia ei voi asettaa yksittäisen kyselylomakkeen kautta, vaan se vaatii laajemman haastattelun** ja kattavan anamneesin (perustuu huolelliseen oireiden kartoittamiseen ja toimintakyvyn arvioon eri toimintaympäristöissä nyt ja aiemmin) sekä tarvittaessa myös somaattisten syiden poissulkua (esim. kilpirauhasen toiminnan häiriöt, päihteiden käyttö). _Tärkeimpänä osana selvittelyä on siis laaja yleispsykiatrinen tutkimus. Alussa tulee myös heti ohjata mahdollisten altistavien elämäntapojen ohjaus ja muutkin tukitoimet. Näiden toimien ollessa riittämättömiä tehdään tarkempi diagnostinen arvio._ Diagnostinen arvio voidaan usein toteuttaa pth:ssa. Arvion tulee kattaa lapsen kokonaistilanne (psyykkinen ja fyysinen terveydentila, kehityshistoria, elämäntilanne ja muut oireisiin mahdollisesti vaikuttavat tekijät).
+
+---
+
+**Koska ADHD on keskushermoston kehityksellinen häiriö, niin oireet alkavat jo lapsuudessa (ADHD:n diagnosoiminen aikuispotilaalla vaatisi myös lapsuuden oireiden selvittämistä).**
+
+<li>Tietoa kerätään kattavasti vanhemmilta, päiväkodista/koululta yms. Myös lapsi tulee haastatella ja tutkia tarkasti </li>
+<li>On hyvä huomioida, että oirekuva voi muuttua lapsen kasvaessa Erityisesti yliaktiivisuus- ja impulsiivisuusoireet tyypillisesti lievittyvät aikuisuuteen tultaessa (aikuisella voi pitemminkin olla sisäistä levottomuutta tai paikallaan oloa edellyttävien tapahtumien välttelyä). Tarkkaavuuden säätelyn vaikeus voi ilmetä alle kouluikäisen leikkien lyhytjänteisyytenä, kouluikäisellä häiriöherkkyytenä, omiin ajatuksiin vaipumisena, huolimattomuusvirheinä ja tavaroiden unohteluna. Aikuisella tarkkaamattomuus voi ilmetä esim. hajamielisyytenä, vaikeutena ylläpitää keskittymistä pitkäjänteisesti yrittämisestä huolimatta, asioiden ja tehtävien unohteluna, huolimattomuutena, jatkuvana myöhästelynä ja toistuvina peruuttamattomina poisjäänteinä vastaanotoilta sekä taipumuksena tehdä toissijaisia asioita tärkeän tehtävän sijasta. Tavallista on myös ikätasoon nähden epätavallinen tuen tarve toisilta ihmisiltä elämänhallinnan onnistumiseksi.</li>
+  <ul>
+    <li>Tyypilliset ADHD-oireet ovat usein havaittavissa jo leikki-iässä, mutta diagnoosin tekeminen ennen kouluikää vaatii erityistä huolellisuutta. Luotettava diagnosoiminen ei oireiden epäspesifisyyden vuoksi useinkaan ole mahdollista ennen 5 vuoden ikää</li>
+  </ul>
+<li>Muu psykiatrinen diagnoosi ei ole este ADHD-diagnoosille silloin, kun on kyse selkeästi erillisistä mutta samanaikaisista häiriöistä. Erotusdiagnostiikan luotettavuuden kannalta olisi hyvä, että psykiatrista oireistoa tai päihdehäiriötä olisi yritetty hoitaa ennen ADHD:n tutkimista, mutta hoitoresistentissä tilanteessa arviota voidaan yrittää erikoissairaanhoidossa tehdä.</li>
+
+![](images/adhd.png)
+![](images/dsm5adhd.png)
+![](images/icd10adhd.png)
+
+  </div>
+</div>
+
+#### Kulttuurisensitiivisessä työssä vaaditaan lääkärin jtn (vakautta?) {#Vakautta-kulttuurisensitiivisessa-tyossa}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+      
+Riippuu vähän mikä oli se sana jota käytettii kysymyksessä. Jos vakautta, niin sinänsä ehkä ei -- enemmänkin haetaan joustavuutta ja oppimishalukkuutta eikä vakautta omissa mielipiteissään. Tosin riippuu vähän missä mielessä vakautta, kyllä potilaalle tulee tulla tunne siitä, että on sen verran vakaa persoona, että kestää kuulla potilaan negatiivisia tunteita.
+
+![](images/kulttuurisensitiivinen.png)
+
+  </div>
+</div>
+
+#### Psykiatrisissa häiriöissä vanhempien apu voi vaihdella merkityksettömästä merkittävään {#Vaihdella-merkityksettomasta}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+      
+Lastenpsykiatrisissa ongelmissa vanhempien tuki, hoitoon sitoutuminen ja psykoedukaatio ovat usein hoidon onnistumisen kulmakiviä. Kuitenkaan aina tähän ei voida panostaa enempää kuin on panostettu hoidon alkuvaiheissa ja ongelma kumpuaa jostain muualta. 
+
+  </div>
+</div>
+
+#### Kiintymyssuhdeteoria perustuu vain psykologiaan {#Kiintymyssuhdeteoria}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+
+Nykyään kiintymyssuhdeteoria hyödyntää vahvasti myös aivotutkimusta (neurobiologiaa), jossa tutkitaan varhaisen vuorovaikutuksen ja kiintymyssuhteiden vaikutusta aivojen ja hermoston kehitykseen.
+
+Kiintymyssuhdeteoria käsitteellistää ihmisten muodostamia vahvoja tunnesiteitä sekä niiden vaikutuksia persoonaan. Lapselle perheessä syntynyt kiintymyssuhde on pohja, jolta voi turvallisesti alkaa tutkia maailmaa ja tutustua siihen. Nämä perheessä syntyneet kiintymyssuhteet ovat ratkaisevan merkityksellisiä, ja niiden vaikea häiriintyminen voi olla uhka lapsen koko biopsykososiaaliselle kehittymiselle. 
+
+Viimeaikaisten tutkimusten mukaan aikuisen kykyyn muodostaa laadullisesti hyvä kiintymyssuhde lapseensa vaikuttavat hänen omat kiintymyssuhteensa omien vanhempiensa kanssa sekä nykyiset tärkeimmät ihmissuhteet ja niiden laatu. Näin ollen myös vanhempien keskinäisen ihmissuhteen laatu heijastuu aina lapseen. Turvallinen kiintymyssuhde syntyy perheessä, jossa vallitsee lämmin, läheinen sekä perheenjäsenten kiintymystä kuvaava ilmasto
+
+---
+
+Kun vanhempien kypsyminen äitiyteen ja isyyteen kehittyy hyvin ja suotuisissa olosuhteissa, syntyy myös turvallinen kiintymyssuhde lapseen. Jos taas tämä prosessi perheessä häiriintyy, äiti ei pysty ajattelemaan lastaan ja äidiksi tulemistaan riittävästi eikä hän saa tukea myöskään puolisoltaan, voi perheessä alkaa negatiivisten tunteiden jatkumo. Siitä kärsivät kaikki, myös kasvava ja kehittyvä lapsi. Jos äiti ei saa tukea, hän herkästi masentuu ja menettää lapsen saamisesta kehittyneet onnellisuuden tunteet. Masentunut äiti ei ehkä jaksa piitata omasta ja lapsen hyvinvoinnista ja voi tuntea siitä syyllisyyttä
+
+Kiintymyssuhteen luoman perusturvallisuuden tunteen turvin lapsi voi tutustua ympäröivään maailmaan ja kohdata sen mukanaan tuomia haasteita tietäen, että hädän tullen hän voi kääntyä turvallisen aikuisen puoleen, jonka kanssa hän on muodostanut vahvan ja luotettavan tunnesiteen. Hyvässä varhaisessa vuorovaikutuksessa lapselle kehittyy hiljalleen perusturvallisuuden tunne, joka on yksi keskeisimmistä varhaislapsuuden kehitystehtävistä ja mahdollistaa vähitellen yhä vapaamman ympäristön tutkimisen. 
+
+Perheen sisäiset konfliktit ja jatkuva riitely tekevät lasten kiintymyssuhteista turvattomia ja organisoitumattomia. Nämä konfliktit saattavat olla esimerkiksi kasvatuksellisia ristiriitoja vanhemman ja lapsen välillä tai pelkästään vanhempien välisiä riitoja, joiden syntyyn voivat vaikuttaa parisuhteen laatu ja hyvin monet perheen elämäntilanteeseen vaikuttavat psykososiaaliset tekijät. Pitkään jatkuessaan ja toistuessaan näillä konflikteilla ja riidoilla on negatiivinen vaikutus lapsen kasvuun ja kehitykseen. Lapset ovat herkkiä havaitsemaan näitä konflikteja ja myös vanhempien välisiä sanattomia viestejä (Davies ja Cummings, 1994). Esimerkiksi alkoholiongelmaisen perheen riidat ovat juomistakin suurempi haitta lapsille.
+  </div>
+</div>
+
+#### Suurin osa mielenterveyshäiriöistä esiintyy alle 15-vuotiailla {#Suurin-osa-alle-15v}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin?
+
+Tilastot riippuvat lähteestä: useimmissa lähteissä n. 50% mielenterveyshäiriöistä saa alkunsa alle 15-vuotiailla ja n. 75% alle 25-vuotiailla (joissain lähteissä jopa alle 18v). 
+
+Vaikka tämä 50% ensimmäisen diagnoosin saaneista onkin alle 15-vuotiaita, niin se ei tarkoita, että suurin osa mielenterveyshäiriöiden kokonaisesta tapausmäärästä (esiintyvyydestä eli prevalenssista tiettynä ajankohtana tai ajanjaksona) painottuisi alle 15-vuotiaisiin.
+
+![](images/stats.png)
+
+  </div>
+</div>
+
+
+#### Lieviä tic-oireita voi hoitaa psykososiaalisella hoidolla {#Lievia-tic-oireita}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Hoidossa tärkeintä on oirekuvaan liittyvä tieto, neuvonta ja ohjaus niin lapselle ja hänen perheelleen kuin lähiympäristölle (päivähoito, koulu), sopeutumisvalmennus, vertaistuki sekä lapsen yleisen sosiaalisen selviytymisen tukeminen. Neuvonta ja ohjaus voidaan tehdä perusterveydenhuollossa. 
+
+Käyttäytymisterapeuttinen hoito ja/tai lääkehoito on perusteltua, jos tic-oireet häiritsevät lasta tai ne aiheuttavat toiminnallista tai sosiaalista haittaa. Ensisijaisesti suositellaan käyttäytymisterapeuttista hoitoa. Jos lapsi tarvitsee terapiaa tai lääkehoitoa, niiden suunnittelu kuuluu asiaan perehtyneelle erikoislääkärille (esim. lastenpsykiatri tai lastenneurologi paikallisen hoitokäytännön mukaisesti).
+
+  </div>
+</div>
+
+#### Tourette on erittäin harvinainen sairaus ja siihen kuuluu muitakin oireita kuin tic-oireet {#Tourette-harvinainen}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+
+Touretteen voi kyllä liittyä (ei pakosti) muitakin oireita, mutta se ei ole "erittäin" harvinainen sairaus. Touretten oireyhtymän esiintyvyys on lapsuus- ja nuoruusiässä pojilla n. 1 % ja tytöillä n. 0.3 %.
+
+
+---
+
+Touretten oireyhtymä on kehityksellinen häiriö, jossa esiintyy useaa motorista ja ainakin yhtä äänellistä tic-oiretta pitkäaikaisesti (> 1 vuosi), vaikka ei välttämättä samanaikaisesti. 
+
+Touretten oireyhtymässä tic-oireet alkavat tavallisimmin leikki-iässä, joskus jo sitä ennen. Suurimmalla osalla on ensin yksinkertaisia motorisia tic-oireita, kuten silmien räpsyttelyä tai levittämistä suureksi, nenän vääntelyä, irvistelyä tai suun aukomista haukottelun tapaan. Äänelliset tic-oireet alkavat tyypillisesti 1–2 vuotta motoristen oireiden alkamisen jälkeen. Yleensä äänelliset tic-oireet alkavat myös yksinkertaisina kurkun karautteluina, niiskutuksina, yskähdyksinä tai yksittäisinä tavuina.
+
+Ajan kuluessa tic-oireet muuttuvat motoristen osalta monimutkaisemmiksi liikkeiksi ja voivat muuttua äänellisten osalta sanoiksi tai fraaseiksi. Tietoisuus tic-oiretta edeltävästä ennakkotuntemuksesta lisääntyy potilaan iän myötä. Haittaavampia tic-oireita ovat Touretten oireyhtymässä joskus ilmenevät rumat tai säädyttömät puheet (koprolalia) ja eleet (kopropraksia), joita ei yleensä esiinny ennen murrosikää. Myös itsensä vahingoittaminen voi olla tic-oire, joskin se usein ainakin vaikea-asteisena luetaan samanaikaishäiriöksi.
+
+**Vaikka Touretten oireyhtymän diagnoosi perustuu tic-oireiden esiintymiseen, siihen liittyy usein muita neuropsykiatrisia ja psykiatrisia oireita, joilla voi kokonaiskuvan kannalta olla suurempi merkitys kuin tic-oireilla itsellään.** On esitetty, että n 85 %:lla on jokin samanaikaishäiriö, joista tavallisimpia ovat ADHD ja pakko-oireinen häiriö. Myös mieliala-, ahdistuneisuus- ja käytöshäiriöt ovat yleisiä, ja osalla täyttyvät myös autismikirjon häiriön kriteerit. Heikko itsetunto, sosiaalinen vetäytyminen ja subkliininen masennus ovat yleisiä. Impulsiivisuutta, räjähtävää käytöstä ja raivokohtauksia esiintyy muita useammin niillä lapsilla, joilla on myös ADHD tai pakko-oireinen häiriö tai kummatkin. Samanaikaisesti esiintyvät OCD ja ADHD ovat myös yhteydessä suurentuneeseen tic-oireiden kroonistumisen riskiin sekä heikompaan psykososiaaliseen selviytymiseen aikuisuudessa.
+
+![](images/tics.png)
+![](images/tourette.png)
+  </div>
+</div>
+
+#### ADHD:ta esiintyy yhtä paljon tytöillä ja pojilla {ADHD-tytot-pojat}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+
+Vuonna 2023 julkaistun meta-analyysin mukaan ADHD:n esiintyvyydeksi 3–12-vuotiailla lapsilla arvioitiin 7,6 % (6,1–9,4 %) ja 12–18-vuotiailla 5,6 % (4,8–7 %). **Esiintyvyys on yleisempää pojilla: 7–12-vuotiailla pojilla 11,3 % ja tytöillä 3,9 %, nuoruusikäisillä pojilla 9,5 % ja tytöillä 5,7 %.**
+
+Esiintyvyyden on arvioitu olevan aikuisilla 2,2–3,4 %; _ero sukupuolien välillä tasoittuu iän myötä._
+
+  </div>
+</div>
+
+#### Keskoisuus ja hapenpuute synnytyksessä voi altistaa ADHD:lle {#Keskoisuus-ADHD}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Tunnettuja ympäristöllisiä ja biologisia riskitekijöitä, jotka voivat vaikuttaa aivojen varhaiseen kehitykseen. 
+  </div>
+</div>
+
+#### Syrjintä voi aiheuttaa psyykkisiä, mutta ei fysiologisia, oireita {#Syrjinta-psyk-fys}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+
+Syrjintä voi aiheuttaa sekä psyykkisiä että fysiologisia (ruumiillisia) oireita. Syrjintä ja ulkopuolelle jättäminen toimivat elimistölle pitkittyneenä ja elimistöä kuormittavana stressitekijänä, joka aktivoi kehon sympaattista hermostoa ja HPA-akselia (kortisoli). Tämä puolestaan voi johtaa suoriin fyysisiin oireisiin ja pitkällä aikavälillä terveysongelmiin.
+
+![](images/vahemmistostressi.png)
+
+  </div>
+</div>
+
+#### Epätodellinen olo ja pelko hulluksi tulemisesta eivät liity ahdistuneisuuteen vaan ovat merkki psykoosisairaudesta {#Epatodellinen-olo-psyk}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+
+Epätodellinen olo (derealisaatio) sekä pelko hulluksi tulemisesta ovat erittäin tyypillisiä voimakkaan ahdistuneisuuden ja paniikkikohtauksen oireita, eivätkä ne sellaisenaan ole merkki psykoosisairaudesta. Psykoosisairaudessa (kuten skitsofreniassa) ihminen menettää todellisuudentajuntansa -- psykoosissa oleva henkilö ei sinänsä aina itse tiedosta tai pelkää olevansa "tulemassa hulluksi", vaan pitää kokemiaan harhoja täysin todellisina. 
+
+![](images/epatodellinen.png)
+  </div>
+</div>
+
+#### Nälkä, jano ja väsymys eivät voi aiheuttaa ADHD:n tyyppisiä oireita lapsessa {#ADHD-nalka}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+
+Kun aivot kärsivät energiapulasta (matala verensokeri nälän seurauksena), janosta tai unenpuutteesta, tarkkaavuuden säätely ja toiminnanohjaus heikentyvät merkittävästi. Erityisesti väsymys ilmenee lapsilla usein päinvastoin kuin aikuisilla – lapsi saattaa muuttua vetämättömän sijaan kierroksilla käyväksi, levottomaksi ja yliaktiiviseksi taistellessaan väsymystä vastaan.
+
+ADHD:n diagnostiikassa on aina tärkeää selvittää elämäntavat ja oireiluun vaikuttavat yksinkertaiset tekijät ennen kuin tehdään merkittävämpää diagnostiikkaa tai aloitettaisiin lääkehoitoa. 
+
+![](images/adhd.png)
+  </div>
+</div>
+
+#### Koululääkärin apuna ovat psykiatrinen hoitaja, koulukuraattori sekä koulupsykologi {#Koululaakarin-apuna}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Koululääkäri tekee tiivistä moniammatillista yhteistyötä. 
+
+---
+
+Koulukuraattori tukee oppilasta erityisesti sosiaalisissa haasteissa, perhetilanteessa, arjen sujumisessa ja koulunkäynnissä
+
+Koulupsykologi arvioi ja tukee muun muassa oppimista, keskittymistä, tunnepuolen haasteita ja kehityksellisiä asioita. 
+
+Koulujen psykiatriset sairaanhoitajat tarjoavat varhaisen vaiheen mielenterveys- ja päihdepalveluita. Psykiatrisen sairaanhoitajan luona asioidaan erilaisissa mielen hyvinvointiin liittyvissä asioissa silloin, kun kyseessä on laajemmin lapsen tai nuoren elämään vaikuttava mielenterveyden ongelma tai huoli päihteiden käytöstä. Yleisimpiä syitä palveluihin ohjautumiselle ovat tilanteet, joissa herää selvä huoli lapsen tai nuoren ahdistuneisuudesta, mielialan laskusta, uupumisesta tai muusta käyttäytymisestä.
+
+  </div>
+</div>
+
+#### Psykologin tutkimuksia varten pitää olla selkeä tutkimuskysymys {#Psykologinen-tutkimuksia-varten-kysymys}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Psykologisia tai neuropsykologisia tutkimuksia varten tarvitaan aina selkeä ja rajattu tutkimuskysymyn, johon tutkimuksella haetaan vastausta, koska psykologi valitsee käytettävät testit, kyselyt ja havainnointimenetelmät suoraan tutkimuskysymyksen perusteella. Ilman selkeää kysymystä tutkimus on vaikea rakentaa ja voi olla hyödytön, eikä se välttämättä vastaa asiakkaan, koulun tai hoitavan tahon todelliseen tarpeeseen. 
+
+![](images/selkea.png)
+![](images/kysymys.png)
+  </div>
+</div>
+
+
+#### Psykologin tutkimuksen vaiheita ovat 
+
+Ei tarkemmin tärpissä. Mitä vaiheita on psykologin tutkimuksessa karkeasti?
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+
+Taustatietojen keruun, yksilötapaamiset ja mahdollisesti ryhmätilanteessa havainnoinnin, psykologiset testit ja tutkimuspalautteen + jatkosuositukset 
+
+![](images/psyk1.png)
+![](images/psyk2.png)
+
+  </div>
+</div>
+
 
 ## 2025 
 
@@ -1415,8 +1761,7 @@ Lähete lastenpsykiatrialle on ajankohtainen silloin, jos kouluterveydenhuollon 
   </button>
   <div class="solution-content">
 
-ADHD on oirediagnoosi; spesifisiä diagnostisia tutkimuksia ei ole. Diagnoosia ei voi asettaa yksittäisen kyselylomakkeen kautta, vaan se vaatii laajemman haastattelun ja kattavan anamneesin (perustuu huolelliseen oireiden kartoittamiseen ja toimintakyvyn arvioon eri toimintaympäristöissä nyt ja aiemmin) sekä tarvittaessa myös somaattisten syiden poissulkua (esim. kilpirauhasen toiminnan häiriöt, päihteiden käyttö). _Tärkeimpänä osana selvittelyä on siis laaja yleispsykiatrinen tutkimus. Alussa tulee myös heti ohjata mahdollisten altistavien elämäntapojen ohjaus ja muutkin tukitoimet. Näiden toimien ollessa riittämättömiä tehdään tarkempi diagnostinen arvio._ Diagnostinen arvio voidaan usein toteuttaa pth:ssa. Arvion tulee kattaa lapsen kokonaistilanne (psyykkinen ja 
-fyysinen terveydentila, kehityshistoria, elämäntilanne ja muut oireisiin mahdollisesti vaikuttavat tekijät).
+ADHD on oirediagnoosi; spesifisiä diagnostisia tutkimuksia ei ole. Diagnoosia ei voi asettaa yksittäisen kyselylomakkeen kautta, vaan se vaatii laajemman haastattelun ja kattavan anamneesin (perustuu huolelliseen oireiden kartoittamiseen ja toimintakyvyn arvioon eri toimintaympäristöissä nyt ja aiemmin) sekä tarvittaessa myös somaattisten syiden poissulkua (esim. kilpirauhasen toiminnan häiriöt, päihteiden käyttö). _Tärkeimpänä osana selvittelyä on siis laaja yleispsykiatrinen tutkimus. Alussa tulee myös heti ohjata mahdollisten altistavien elämäntapojen ohjaus ja muutkin tukitoimet. Näiden toimien ollessa riittämättömiä tehdään tarkempi diagnostinen arvio._ Diagnostinen arvio voidaan usein toteuttaa pth:ssa. Arvion tulee kattaa lapsen kokonaistilanne (psyykkinen ja fyysinen terveydentila, kehityshistoria, elämäntilanne ja muut oireisiin mahdollisesti vaikuttavat tekijät).
 
 **Koska ADHD on keskushermoston kehityksellinen häiriö, niin oireet alkavat jo lapsuudessa (ADHD:n diagnosoiminen aikuispotilaalla vaatisi myös lapsuuden oireiden selvittämistä).**
 

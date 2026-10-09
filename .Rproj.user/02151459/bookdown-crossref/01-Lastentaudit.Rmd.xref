@@ -1,5 +1,20 @@
 h1:lastentaudit Lastentaudit
-h2:section 2025
+h2:section 2026
+h3:14v-tytto-heikko-kasvu 14 v tyttö, hidas kasvu. 4v iässä sekä paino että pituus tippuneet hieman, mutta nyt menee semitasaisesti laskien -3 SD käyrillä. Tulkinta ja erotusdiagnostiikka
+h3:essee---nivelkipu-ja-sen-diagnostiset-vaihtoehdot Essee - Nivelkipu ja sen diagnostiset vaihtoehdot
+h3:Yollinen-artyneisyys Yöllinen/aamuun painoittuva ärtyneisyys ja päänkasvu
+h3:maitoallergian-diagnostiikka Maitoallergian diagnostiikka
+h3:Maarittele Määrittele: atopia, atooppinen iho, atooppinen ihottuma, allerginen astma
+h3:monivalinnat Monivalinnat
+h4:Hinkuyskä-paivystykseen Kuuluuko pienen lapsen hinkuyskä päivystykseen?
+h4:onko-vzv-rokote-mpr-rokotteessa Onko VZV-rokote MPR-rokotteessa
+h4:Ruoka-aineallergia-ihottuma Ruoka-aineallergia aiheuttaa keskivaikeaa atooppista ekseemaa–angioödeemaa; O/V
+h4:Astmariskin-paakriteerit < 3v astmariskin pääkriteerit
+h4:onko-atooppinen-ekseema-allergia Onko atooppinen ekseema allergia
+h4:onko-akuutissa-astmassa-ja-kroonisessa-astmassa-sama-icd-10-alku Onko akuutissa astmassa ja kroonisessa astmassa sama ICD-10 alku?
+h4:tetanusrokotus-perustuuko-laumasuojaan Tetanusrokotus: perustuuko laumasuojaan
+h4:Angioedeema-vaikeampi Angioödeema on vaikeampi urtikarian muoto
+h2:section-1 2025
 h3:Unihairiot-essee Essee: Lasten unihäiriöt
 h3:v-astmakohtaus 2v astmakohtaus
 h3:Keltainen-syomisongelmat 2vk ikäinen perheen ensimmäinen vauva, jolla nyt syömisongelmia, uneliaisuutta ja vanhemmat huolestuneita, lisäksi vauva keltainen, tulee tk päivystykseen.
@@ -13,7 +28,7 @@ h3:Gr2murmur 4 v lapsi, gradus 2/6 sivuääni: Anamneesi, status ja diagnoosi?
 h3:Keuhkokuume Keuhkokuumeen diagnostiikka ja hoito lapsilla
 h3:3v-keuhkokuume 3-v. keuhkokuumepotilas, tehtävänannon mukaan ei sairaalahoidon tarvetta. Tyypilliset aiheuttajamikrobit? Tarvitaanko antimikrobilääkitystä ja jos niin mitä?
 h3:11k-ripuli-oksentelu-kuivuma 11 kk ikäisellä lapsella ollut ripulia ja oksentelua. Yt ollut hyvä. Ohjattu juottamaan lapselle mehua. Seuraavana päivänä tulee takaisin vastaanotolle ja ripuli ja oksentelu jatkunut.
-h3:Influenssa-aiheuttaja-ab Influenssa. Mikä todennäköisesti aiheuttaja, tarvitaanko ab.
+h3:Influenssa-aiheuttaja-ab Influenssa pikatestissä. Mikä todennäköisesti aiheuttaja, tarvitaanko ab.
 h3:essee-3-viikkoisen-vs-7-kuukautisen-kuume Essee: 3-viikkoisen vs 7-kuukautisen kuume
 h3:AOM-essee Essee: akuutti välikorvantulehdus
 h3:essee-lapsen-lihavuus-syyt-seuraukset-selvittely-ja-hoito Essee: Lapsen lihavuus – syyt, seuraukset, selvittely ja hoito
@@ -86,23 +101,23 @@ h4:Lasten-keliakia-tahystys Lasten keliakiaa ei ikinä voi diagnosoida ilman tä
 h4:ibdn-hoidossa-ensisijaista-on-ruokavalio IBD:n hoidossa ensisijaista on ruokavalio
 h4:keliakia-voi-aiheuttaa-kiillevauriota Keliakia voi aiheuttaa kiillevauriota
 h4:Tulirokko-ab Tulirokko pitää hoitaa antibiootilla, vaikka lapsi on hyvävointinen
-h2:section-1 2024
+h2:section-2 2024
 h3:Gr-2-sivuaani-kysymykset-tutkimukset-jatkot Lapsella gradus 2 alkusystolinen sivuääni, kuuluu parasternaalisesti vasemmalta apexin kohdalta. Kuuluu myös muilta kuuntelualueilta. Anamnestisesti olennaisimmat kysymykset? Mitä tutkit? Mitä jatkoja, mikä sivuääni kyseessä?
 h3:2vk-huono-kasvu 2 viikon ikäinen vauva kasvanut huonosti (mainittu paino/pituusnousu per vk).
 h3:Sivuaanen-selvittely-tk-essee Essee: Sivuäänen selvittely tk:ssa (8p)
 h3:vastaanotolla-kalpea-lapsi-jolla-2-vko-ollut-lämpöinen-infektio-johon-ab-ei-ole-auttanut.-verenkuvassa-normosytäärinen-anemia-leukosytoosi-trombosytopenia-ja-erytrosytopenia.-miten-tulkitset-verenkuvan-tod.näk.-dg-mitä-oireita-3-tärkeintä-miten-jatkot Vastaanotolla kalpea lapsi jolla 2 vko ollut lämpöinen infektio johon ab ei ole auttanut. Verenkuvassa normosytäärinen anemia, leukosytoosi, trombosytopenia ja erytrosytopenia. Miten tulkitset verenkuvan, tod.näk. dg? Mitä oireita (3 tärkeintä)? Miten jatkot?
 h3:essee-kawasakin-tauti Essee: Kawasakin tauti
-h3:monivalinnat Monivalinnat
+h3:monivalinnat-1 Monivalinnat
 h4:Keliakia-yokastelu Voiko keliakia aiheuttaa yökastelua?
 h4:Taapero-reisimurtuma Onko taaperon reisimurtuma todennäköisesti pahoinpitely?
 h4:voidaanko-koliikki-diagnosoida-ilman-laboratoriokokeita Voidaanko koliikki diagnosoida ilman laboratoriokokeita?
 h4:laktoosirasituskoe Laktoosirasituskoe
 h4:Motiliteettia-lisaavat-ummetuslaakkeet Ovatko motiliteettiä lisäävät ummetuslääkkeet ensisijaisia lasten ummetuksen hoidossa?
 h4:Toiminnallinen-ummetus-imevaisella Esiintyykö toiminnallista ummetusta imeväisikäisillä?
-h2:section-2 2023
+h2:section-3 2023
 h3:Influenssapikatesti Pienellä lapsella influenssapikatesti positiivinen - todnäk taudinaiheuttajat, hoito ja sen hyöty
 h3:Itkuisuutta-3kk 3 kuukautinen vauva, viime aikoina lisääntynyttä itkuisuutta jopa monta tuntia putkeen, kliinisessä tutkimuksessa yt hyvä, statuksessa ei poikkeavaa, kehitys normaalia - erotusdg, todnäk syy ja työdiagnoosi, miten hoidat?
-h3:monivalinnat-1 Monivalinnat
+h3:monivalinnat-2 Monivalinnat
 h4:laktoosi-intoleranssin-tehokkain-hoito Laktoosi-intoleranssin tehokkain hoito
 h4:maitoallergian-ennuste Maitoallergian ennuste
 h4:AOM-kipu Onko otiitin hoidossa kivunhoito tärkeintä?
@@ -112,11 +127,11 @@ h4:akuutin-otiitin-ensisijainen-hoito Akuutin otiitin ensisijainen hoito
 h4:kananmuna-allergia-ja-mpr-rokote Kananmuna-allergia ja MPR-rokote
 h4:tiomersaali Tiomersaali
 h4:dtap-ipv-hib DTaP-IPV-HIb
-h2:section-3 2022
-h3:monivalinnat-2 Monivalinnat
+h2:section-4 2022
+h3:monivalinnat-3 Monivalinnat
 h4:keskosen-paino Keskosen paino
 h4:mononukleoosi Mononukleoosi
-h2:section-4 2018
+h2:section-5 2018
 h3:M3P3 Tyttö, puberteetti M3P3, kuukautiset alkaneet, pituus 179cm. Voiko pituuskasvua hidastaa? V/O
 h3:21-trisomia 21-trisomiaan liittyy tyypilliset ulkonäköpiirteet, huono jäntevyys, ei sydänvikaa. V/O
 h3:Kuumekouristukset-ehkaisy Kuumekouristuksia voi ehkäistä kuumelääkkeellä? V/O
@@ -176,18 +191,18 @@ h3:Mika-ei-ole-ensisijainen-leikki-ikaisen-kasvun-hidastumisen-syy Mikä ei ole 
 h3:Mika-ei-ole-lihavuuden-komplikaatio Mikä ei ole lihavuuden komplikaatio
 h3:Mika-ei-ole-totta Mikä ei ole totta
 h3:karieksesta Karieksesta
-h2:section-5 2017
+h2:section-6 2017
 h3:Verta-ulosteessa-hataantynyt-aiti Verta ulosteessa, hätääntynyt äiti tuo 4kk täysimetyksellä tulleen vauvan. Veriviiruja mainittuna ja äiti tuo vastaanotolle näytille vaipan jossa ulostetta ja verta. Mitä teet ja anamneesi ja status ja erotusdiagnostiikkaa
 h3:3v-lapsi-tk-iltapaivystyksessa 3v lapsi tuodaan tk-iltapäivystykseen. Kalpea ja veltto ja väsynyt, hengittää tiheästi ja puuskuttaen. Ollut kuumeetonta flunssaa viikon ja nyt eilisestä lähtien oksentanut useita kertoja, muussa perheessä ei gastroenteriittioireilua. Erotusdiagnostiikkaa, tarkempaa anamneesia, miten hoidat tai järjestät jatkohoidon.
 h3:4v-polvikipuinen-lapsi 4v polvikipuinen lapsi. On ontunut nyt eilisestä lähtinen ja valittaa kipua oikeassa polvessa. Miten tutkit/mitä haluat lisää anamneesista? Kerro 4 yleisintä erotusdiagnostista vaihtoehtoa ja niiden tutkimus + hoito lyhyesti.
 h3:Kuivu-nestehoitotehtava Kuivuma-nestehoitotehtävä. Ripuloinut nyt eilisestä klo 22. Ei kliinisiä kuivuman merkkejä, ihon turgor normaali ja limakalvot kuivat. Paino 9800g. Nestehoidosta, iv nestehoidosta, ripulin kotihoito-ohjeistuksesta ja kuivuman määrän/asteen arvioinnista kysymyksiä.
 h3:Verirokkorokotteesta-kaikenlaista Vesirokkorokotteesta kaikenlaista. Onko tehokas? Minkä tyyppinen rokote? Mitkä on vesirokon oireet? Mitä komplikaatioita vesirokolla voi olla?
-h2:section-6 2016
+h2:section-7 2016
 h3:Lastenneuvolassa-femoralispulssit-puuttuu Toimit terveyskeskuslääkärinä lastenneuvolassa. Vastaanotollesi tulee kuuden viikon ikäinen tyttövauva. Hän on ollut tähän saakka täysimetyksellä, kasvanut, kehittynyt ja voinut hyvin. Statusta tehdessä huomaat, että femoralispulssit eivät palpoidu lainkaan.
 h3:Taysimetetylla-punoittavaa-ihottumaa Vastaanotollasi on 5kk:n ikäinen täysimetyksellä oleva vauva, jolle kuukausi sitten ilmaantui punoittavaa ihottumaa aluksi kasvoille, sitten myös vartalolle. Ihottuman puhkeamisen jälkeen lapsi on nukkunut yöt huonommin ilmeisesti kutinan takia.
 h3:Afrikasta-yskaa Afrikasta 9kk aikaisemmin Suomeen muuttaneen perheen vanhin, 12 v ikäinen poika on potilaana tk-vastaanotolla. Koulu-th on ohjannut hänet tutkimuksiin yli kuukauden jatkuneen yskän vuoksi. Yskä vaivaa etenkin iltaisin ja aamuisin, mutta ei ole haitannut koulunkäyntiä. Pojan yleistila on hyvä eikä hänellä ole kuumetta, muut perheenjäsenet ovat terveitä. Maahanmuuttotutkimukset antoivat normaalit tulokset.
 h3:Lapsi-kouristaa-korkea-lampo Keuruun tk:sen odotusaulassa 3-vuotias tyttö alkaa kouristaa symmetrisesti. Lapsi on tullut lääkäriin flunssaoireiden pitkittymisen vuoksi. Hoitaja toteaa tajuttoman ja kouristelevan potilaan korvalämmöksi 39,6.
-h3:monivalinnat-3 Monivalinnat
+h3:monivalinnat-4 Monivalinnat
 h4:GERD-vs-EoE Ruokatorven refluksisairauden ja eosinofiilisen esofagiitin oireet poikkeavat selkeästi toisistaan
 h4:Happosalpaus-tehokas-imevaisen-pulauttelussa Happosalpaus on tehokas imeväisen pulauttelun hoito
 h4:Keliakia-riskigeenit Noin kolmasosa tunnettuja riskigeenejä kantavista sairastuu elinaikanaan keliakiaan

@@ -2,10 +2,150 @@
 
 Tyypilliseen tapaan useina vuosina toistuvat kysymykset jätetty toistamatta tässä ja jokainen yksittäinen tärppi otettu vain kerran käsiteltäväksi. 
 
+## 2026 
+
+Vastauksia tulossa
+
+### 14 v tyttö, hidas kasvu. 4v iässä sekä paino että pituus tippuneet hieman, mutta nyt menee semitasaisesti laskien -3 SD käyrillä. Tulkinta ja erotusdiagnostiikka {#14v-tytto-heikko-kasvu}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+    
+Poikkeavan kasvun selvittely lähtee anamneesista ja statuksesta: 
+
+<li>Kasvuhistoria ja kasvun poikkeamien aikaiset tapahtumat/sairaudet/selvittelyt/löydökset</li>
+  <ul>
+    <li>Mitä 4v iässä kasvun hidastumisen yhteydessä ajateltiin? Mitä selviteltiin? Onko sen jälkeen tehty mitään?</li>
+    <li>Myös neurologisen kehityksen historia tärkeää</li>
+  </ul>
+<li>Puberteetti</li>
+  <ul>
+    <li>Onko havaittu merkkejä murrosiän alkamisesta, milloin alkanut...</li>
+  </ul>
+<li>Sukuhistoria</li>
+  <ul>
+    <li>Vanhempien pituus ja kasvuanamneesi (murrosiän ajoittuminen, kasvutahti)</li>
+    <li>Sisarusten kasvu</li>
+    <li>Suvussa esiintyvät sairaudet (autoimmuunisairaudet, sydänsairaudet...)</li>
+  </ul>
+<li>Oireet</li>
+  <ul>
+    <li>Vatsaoireet, yleisoireet, rasituksensieto...</li>
+  </ul>
+<li>Elämäntavat ja psykososiaalinen ympäristö</li>
+  <ul>
+    <li>Ravitsemus, uni, liikunta...</li>
+  </ul>
+<li>Statuksessa</li>
+  <ul>
+    <li>Yleispediatrinen status (varsinkin murrosiän kehitysaste), neurologinen status</li>
+    <li>Pituus ja paino; mittasuhteet (istumapituus)</li>
+    <li>Yleisolemus (syndromaattiset piirteet)</li>
+  </ul>
+
+---
+
+
+Imeväisiästä n. 2 vuoden ikään lapsi usein hakee kasvukanavaansa ja voi tapahtua muutoksia kasvukäyrillä, vaikka ei olisikaan mitään poikkeavaa käynnissä (pitää kuitenkin olla valppaana). Lapsuusiän kasvu imeväisiän jälkeen on tyypillisesti varsin tasaista. Niinpä aiemmin johdonmukaisesti edenneen kasvun taittumisen syynä on usein sairaus, ja pituuskasvun hidastuminen voi olla ensimmäinen löydös esim. keliakiassa, kilpirauhasen vajaatoiminnassa tai munuaisten vajaatoiminnassa.
+
+Yleisin syy lyhytkasvuisuudelle on kuitenkin ns. normaalivariantti: lyhyet vanhemmat ja/tai hidas kypsyjä. Toistetuissa pituusmittauksissa todettu seularajan rikkoontuminen (2.3SD odotuspituudesta tai 2.7SD iän mukaisesta keskipituudesta, kun odotuspituus ei ole tiedossa) -> kuitenkin **läheteindikaatio ESH.**
+
+Ellei anamneesi tai kliininen tutkiminen viittaa erityisesti johonkin tiettyyn sairauteen, voidaan tutkimuksissa edetä vaiheittain. Ensin seulotaan tavallisimpia ja helpoimmin seulottavia syitä. Yleensä viimeisimpänä tutkitaan kasvuhormonieritys.
+
+<li>Perustutkimuksina otetaan usein jo ennen 1. vastaanottoa PVK+T, La, T4v, TSH, keliakiaseula (ttgaba+iga), Ca, Pi, AFOS, Krea, ALAT.</li>
+  <ul>
+    <li>Todennäköisesti otettaisiin myös naisen murrosikälabrat (FSH, LH, E2) sekä karyotyyppi (indikoitu hyvin lyhytkasvuisilla tytöillä).</li>
+    <li>Luustoikäröntgenkuva myös otettaisiin aika rutiinisti</li>
+  </ul>
+<li>Erikoissairaanhoidon tutkimuksia ovat myös mm. ulosteen kalprotektiini (IBD), seerumin inhibiini B, GnRH-koe sekä sekundaarista hypogonadismia tai muuten aivotuumoria epäiltäessä aivojen magneettitutkimus.</li>
+
+---
+
+Erotusdiagnostisia vaihtoehtoja tällaisessa tapauksessa ovat mm: 
+
+<li>**Viivästynyt murrosikä**</li>
+  <ul>
+    <li>Selittää tasaisesti hidastuvaa kasvua, tosin ei suoraan laskua n. 4 vuotiaana</li>
+  </ul>
+<li>Turnerin oireyhtymä</li>
+  <ul>
+    <li>Turnerin oireyhtymälle (45,XO) on tyypillistä lyhytkasvuisuus ja varsinkin noin ikään 3-4 mennessä suurin osa tippuu kasvukäyrien normaalirajojen ulkopuolelle. Turnerin oireyhtymän tärkeimmät oireet ovat pienikokoisuus ja munasarjojen toimimattomuudesta johtuva viivästynyt tai puuttuva murrosikä. Muita löydöksiä voivat olla turvonneet kämmenselät ja jalkaterät vastasyntyneenä, leveä ja lyhyt kaula, kaulapoimu ja aortan koarktaatio. Ilmiasu vaihtelee suuresti, joten hitaasti kasvavasta tai murrosiältään viiveisestä tytöstä tulee tutkia kromosomit matalalla kynnyksellä. Varhainen diagnoosi takaa optimaalisen hoidon ja sen myötä lähes normaalin kasvun ja murrosiän kehityksen.</li>
+  </ul>
+<li>Kilpirauhasen vajaatoiminta</li>
+  <ul>
+    <li>Usein näkyisi suhteellista painonnousua, mutta pitää poissulkea</li>
+  </ul>
+<li>Kasvuhormonin puutos</li>
+  <ul>
+    <li>Harvinainen, mutta mahdollinen.</li>
+  </ul>
+<li>Ravitsemukselliset / imeytymisongelmaperäiset syyt</li>
+  <ul>
+    <li>Riittämätön ravinnonsaanti tai esim. keliakia tai IBD -> hidastunut kasvu; yleensä kylläkin painon lasku edeltäisi pituuskasvun hidastumista</li>
+  </ul>
+<li>Normaalivariantti tai idiopaattinen</li>
+  <ul>
+    <li>Kun lapsen lyhytkasvuisuuden syytä ei asianmukaisten tutkimusten jälkeen saada selville ja pituus on yli 2 SD iän ja sukupuolen mukaisen keskiarvon alapuolella, tilaa kutsutaan idiopaattiseksi lyhytkasvuisuudeksi (idiopathic short stature, ISS). Kyse on etiologialtaan hyvin heterogeenisesta kasvun häiriöstä, jonka yleisyyteen vaikuttaa myös se, kuinka aktiivisesti pyritään spesifiseen etiologiseen diagnoosiin. Arviolta 60–80 % kaikista alle -2 SDS -mittaisista lapsista päätyy saamaan idiopaattisen lyhytkasvuisuuden diagnoosin. Idiopaattisen lyhytkasvuisuuden diagnoosi sisältää siis myös hitaasta kypsymistemposta johtuvan kasvun ja murrosiän kehityksen viivästymän ja ns. familiaalisen lyhytkasvuisuuden. Lyhytkasvuisuutta pidetään poikien keskuudessa suurempana haittana kuin tyttöjen, koska valtaosa diagnoosin saavista on poikia.</li>
+  </ul>
+
+---
+
+Ei tietystikään esimerkkikuvaa tärpeissä, mutta suunnilleen tämän suuntaista kuvaa (luentomateriaaleista) ehkä näytetty: 
+
+![](images/tasaisestihidastuva.png)
+
+  </div>
+</div>
+
+
+### Essee - Nivelkipu ja sen diagnostiset vaihtoehdot
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+    
+
+  </div>
+</div>
+
+
+### Yöllinen/aamuun painoittuva ärtyneisyys ja päänkasvu {#Yollinen-artyneisyys}
+
+### Maitoallergian diagnostiikka
+
+### Määrittele: atopia, atooppinen iho, atooppinen ihottuma, allerginen astma {#Maarittele}
+
+### Monivalinnat 
+
+#### Kuuluuko pienen lapsen hinkuyskä päivystykseen? {#Hinkuyskä-paivystykseen}
+
+#### Onko VZV-rokote MPR-rokotteessa
+
+#### Ruoka-aineallergia aiheuttaa keskivaikeaa atooppista ekseemaa–angioödeemaa; O/V {#Ruoka-aineallergia-ihottuma}
+
+#### < 3v astmariskin pääkriteerit {#Astmariskin-paakriteerit}
+
+#### Onko atooppinen ekseema allergia 
+
+#### Onko akuutissa astmassa ja kroonisessa astmassa sama ICD-10 alku?
+
+#### Tetanusrokotus: perustuuko laumasuojaan
+
+#### Angioödeema on vaikeampi urtikarian muoto {#Angioedeema-vaikeampi}
+
+
 ## 2025
 
 ### Essee: Lasten unihäiriöt {#Unihairiot-essee}
-
 
 <div class="">
   <button class="solution-button"
@@ -866,7 +1006,7 @@ Jos lapsi on kotona juonut pelkästään mehua niin se on voinut olla tilannetta
   </div>
 </div>
 
-### Influenssa. Mikä todennäköisesti aiheuttaja, tarvitaanko ab. {#Influenssa-aiheuttaja-ab}
+### Influenssa pikatestissä. Mikä todennäköisesti aiheuttaja, tarvitaanko ab. {#Influenssa-aiheuttaja-ab}
 
 <div class="">
   <button class="solution-button"
@@ -876,11 +1016,11 @@ Jos lapsi on kotona juonut pelkästään mehua niin se on voinut olla tilannetta
   </button>
   <div class="solution-content">
 
-Ihmisille infektiivistä influenssaviruksen päätyyppejä on kolme: A, B ja C. Vain influenssa A ja B aiheuttavat laajoja, vuosittaisia kausi-influenssaepidemioita.
+Ihmisille infektiivistä influenssaviruksen päätyyppejä on kolme: A, B ja C. Vain influenssa A ja B aiheuttavat laajoja, vuosittaisia kausi-influenssaepidemioita. **Influenssa C ei näy pikatestissä; A ja B näkyvät.**
 
 <li>A on yleisin aiheuttaja ja aiheuttaa yleensä vakavimmat epidemiat ja voi tarttua myös eläimiin (kuten lintuihin ja sikoihin)</li>
 <li>B aiheuttaa yleensä A-tyyppiä lievemmän taudin ja kiertää pääasiassa vain ihmisillä</li>
-<li>Influenssa C aiheuttaa yleensä vain lievän hengitystieinfektion eikä aiheuta epidemioita</li>
+<li>Influenssa C aiheuttaa yleensä vain lievän hengitystieinfektion eikä aiheuta epidemioita.</li>
 
 ---
 
@@ -1196,9 +1336,9 @@ Ei tarkempaa tehtävänantoa. Käy läpi määritelmä, patogeneesi, diagnostiik
 
 **Yleistyneen allergisen reaktion uhkaavin muoto on anafylaksia, joka on nopeasti etenevä monen kohde-elimen reaktio ja voi johtaa kardiovaskulaariseen kollapsiin.** 
 
-Se yleensä johtuu **IgE-välitteisestä yliherkkyydestä.** Yleisin aiheuttaja-allergeenien kategoria on ruoka-aineet (n. 70%) ja tavallisin lapsilla on ollut lehmänmaito. Muita aiheuttajia olleet kananmuna, vehnä, pähkinät tai siemenet, kasvikset tai hedelmät sekä kala. Muita tunnettuja anafylaktisen reaktion aiheuttajia ovat röntgenvarjoaineet, verituotteet tai parenteraalisesti annettavat proteiinit. Joskus allergeenikontakti ja rasitus yhdessä laukaisevat anafylaksian (esimerkiksi vehnärasitusanafylaksia)
+Se yleensä johtuu **IgE-välitteisestä yliherkkyydestä.** Yleisin aiheuttaja-allergeenien kategoria on ruoka-aineet (n. 70%) ja tavallisin lapsilla on ollut lehmänmaito. Muita yleisiä ruokaperäisiä aiheuttajia ovat mm. kananmuna, vehnä, pähkinät tai siemenet, kasvikset tai hedelmät sekä kala. Muita tunnettuja anafylaktisen reaktion aiheuttajia ovat röntgenvarjoaineet, verituotteet tai parenteraalisesti annettavat proteiinit. Joskus allergeenikontakti ja rasitus yhdessä laukaisevat anafylaksian (esimerkiksi vehnärasitusanafylaksia).
 
-<li>Käynnistyy antigeenin kohdatessa sille spesifisen IgE:n, joka on sitoutuneena korkean affiniteetin IgE-reseptoriin (FcɛR1) kudoksissa sijaitsevien syöttösolujen pinnalla. Antigeenin sitouduttua samanaikaisesti kahteen IgE-molekyyliin (cross-linkage) syöttösolu aktivoituu ja degranuloituu vapauttaen sytokiineja, kemokiineja ja _tulehdusvälittäjäaineita (varsinkin tryptaasi ja histamiini)._</li>
+<li>Anafylaktinen reaktio käynnistyy antigeenin kohdatessa sille spesifisen IgE:n, joka on sitoutuneena korkean affiniteetin IgE-reseptoriin (FcɛR1) kudoksissa sijaitsevien syöttösolujen pinnalla. Antigeenin sitouduttua samanaikaisesti kahteen IgE-molekyyliin (cross-linkage) syöttösolu aktivoituu ja degranuloituu vapauttaen sytokiineja, kemokiineja ja _tulehdusvälittäjäaineita (varsinkin tryptaasi ja histamiini)._</li>
 <li>Anafylaksian harvinaisia mekanismeja ovat IgG-välitteiset reaktiot esimerkiksi monoklonaaliselle vasta-aineelle infliksimabille. Fyysinen rasitus, fysikaalinen ärsytys (kylmä, kuuma), etanoli, lektiinit ja opioidit voivat myös harvoin aktivoida suoraan syöttösoluja ja aloittaa anafylaktisen reaktion ilman immunologista mekanismia.</li>
 
 ---
@@ -1233,9 +1373,13 @@ Anafylaktisen reaktion selvittelyssä varmistetaan, että potilaan oireet ja lö
 
 Anafylaksian riskiä lisäävä kofaktori on osallisena 20–30 % anafylaktisista reaktioista. Esitietoihin kuuluu kysyminen kofaktoreista, joita ovat fyysinen ja psyykkinen rasitus, akuutti infektio, kuume, tulehduskipulääkkeet, beetasalpaajat, ACE-estäjät, alkoholi, rutiinista poikkeavat tilanteet ja premenstruaalinen vaihe. 
 
+Uuden anafylaktisen reaktion jälkeen IgE-välitteisen allergian osoittamisessa voidaan käyttää allergiatutkimuksia (esim. spesifinen IgE), jotka tulisi tehdä vasta noin neljän viikon kuluttua reaktiosta tai joskus myös valvottua altistuskoettakin, jos muut tutkimukset jäävät epäselviksi. 
+
+Anafylaktisen reaktion saaneilta kannattaa myös tutkia seerumin tryptaasipitoisuus niin päivystystilanteessa kuin sitten ns. perustason mittauksena >48h päästä (tehdään lähete allergologisiin jatkoselvittelyihin päivystyksestä). Akuuttivaiheen tryptaasitason poikkeaminen perustasosta (> 20 % + 2 mikrog/l) vahvistaa anafylaktisen reaktion. 
+
 ---
 
-Anafylaksiaa epäiltäessä on kuitenkin kiire eikä aina ole mahdollista kerätä laajaa anamneesia, vaan hoito on annettava heti ja tiedot kerättävä jälkikäteen. **Ensiapu on adrenaliiniannos 0,01 ml/kg (vahvuus 1 mg/ml; enintään 0.5mg) lihakseen. Jos käytössä valmis injektori, annetaan alle 30 kg painaville 0,15 mg adrenaliinia ja isommille 0,3 mg annos** (potilaan koon mukaan voidaan harkita jopa kahta 0.3mg annosta). Adrenaliini suositellaan pistettäväksi _reiden ulkosyrjän lihakseen._ Annos uusitaan tarvittaessa 5-15 minuutin kuluttua.
+Anafylaksiaa epäiltäessä on kuitenkin kiire eikä aina ole mahdollista kerätä laajaa anamneesia tai odotella labroja, vaan hoito on annettava heti ja tiedot kerättävä jälkikäteen. **Ensiapu on adrenaliiniannos 0,01 ml/kg (vahvuus 1 mg/ml; enintään 0.5mg) lihakseen. Jos käytössä valmis injektori, annetaan alle 30 kg painaville 0,15 mg adrenaliinia ja isommille 0,3 mg annos** (potilaan koon mukaan voidaan harkita jopa kahta 0.3mg annosta). Adrenaliini suositellaan pistettäväksi _reiden ulkosyrjän lihakseen._ Annos uusitaan tarvittaessa 5-15 minuutin kuluttua.
 
 Potilas asetetaan puoli-istuvaan asentoon (hypotensiossa makuulle). Varmistetaan, että potilas hengittää. Lisäksi vitaalitoimintojen ylläpitäminen yleisperiaatteiden mukaisesti (tarvittaessa lisähappi naamarilla, tarvittaessa täyttönesteitä hypotensiivisille). Beeta-2-sympatomimeettejä voidaan antaa astmaoireisiin. Beetasalpaajia käyttävillä potilailla adrenaliinin teho voi olla heikentynyt anafylaksiassa ja kardiovaskulaaristatusta parantamaan voidaan tässä tapauksessa antaa glukagonia (1-5mg iv 5 minuutin kuluessa).
 
