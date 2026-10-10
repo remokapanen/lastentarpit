@@ -18,5 +18,13 @@ Tentit ovat exam-tenttejä.
 
 Lastentautiopin tentti sisältää lastentaudit sekä myös lastenkirurgian ja lastenneurologian kysymykset. Näiden molempien oppiaineiden kysymyksistä tulee saada vähintään 2,5 pistettä / 5 pistettä, jotta tentti on näiden kysymysten osalta hyväksytty. Hylätty suoritus lastenneurologian ja lastenkirurgian kysymyksistä (alle 2,5 p molemmista) -> uusitaan vain hylätty osa tentistä. Jos lastentautien osuus hylätään, niin uusitaan koko lastentautiopin tentti. Arvostelu 1-5.
 
+<li>Tentin max pisteet 70p:</li>
+  <ul>
+    <li>60p lastentaudit: 4-5 esseetä (2-8p per kysymys tarjolla niistä) ja loput 1p:n arvoisia monivalintakysymyksiä</li>
+    <li>5p lastenkirurgia: kaikki 1p kysymyksiä; pitkälti "selitä lyhyesti"-tyyppisiä kysymyksiä ja monivalintoja</li>
+    <li>5p lastenneurologia: 2 esseetä/potilastapausta, joista kummatkin 2,5 p arvoisia</li>
+  </ul>
 
-Lastenpsykiatria on oma exam-tenttinsä ja se on HYV-HYL. 
+---
+
+Lastenpsykiatriasta on oma exam-tenttinsä ja se on HYV-HYL. 

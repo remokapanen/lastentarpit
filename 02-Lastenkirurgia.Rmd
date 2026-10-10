@@ -1,5 +1,64 @@
 # Lastenkirurgia
 
+## 2026 
+
+Pääasiassa samat muutaman lauseen selitä lyhyesti -tehtävät kuin edeltävinä vuosina. Samoin monivalinnoissa pääasiassa samoja kuin aikaisemmin.
+
+### Monivalinnat 
+
+#### 6kk ikäisellä lapsella reisimurtuma: todennäköisesti pahoinpitely vai ei? {#Imevainen-reisimurtuma}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Todennäköisesti pahoinpitely
+
+Murtumat imeväisikäisillä, jotka eivät itse omatoimisesti liiku ympäriinsä, herättävät epäilyn pahoinpitelystä. Epäily voi tietysti syntyä iästä riippumatta, jos anamneesin ja vamman välillä on ristiriitaa tai on viive hoitoon hakeutumisessa. 
+
+Kävelevällä taaperolla reisimurtuma on taas tilastollisesti useimmiten tapaturmainen.
+
+![](images/murtumathaly.png)
+  </div>
+</div>
+
+#### 15v poika. Mikä murtuma ja hoito (kipsaus, repositio+kipsaus, leikkaus) {#Mika-rannemurtuma}
+
+Ei esimerkkikuvaa tietystikään saatavilla, mutta tässä mahdollinen kysymykseen sopiva kuva
+
+![](images/rannemurtuma.png)
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+        
+Radiuksen Salter-Harris tyypin 2 (SHII) murtuma + processus styloideus ulnaen (PSU) murtuma. Distaalinen radiusmurtuma on sen verran anguloitunut, että vaaditaan repositiota. Jos lapsen distaalisen radiusmurtuman repositio ei onnistu tai hyväksyttävää asentoa ei saada ylläpidettyä ulkoisen tuennan avulla, murtuma stabiloidaan k-piikeillä. 
+
+**Vastaus siis todennäköisesti "repositio+kipsaus"**
+
+---
+
+Lasten distaalisten radiusmurtumien hyväksyttävät virheasennot vaihtelevat lähteestä toiseen, mutta voi ajatella, että: Dorsaalinen kallistuskulma:
+
+<li>Alle 5v: Alle 30 astetta</li>
+<li>6-10-vuotias: Alle 20 astetta</li>
+<li>Vanhemmilla lapsilla 0-20 astetta riippuen luuston kypsyydestä</li>
+
+---
+
+Jos olisi hyväksyttävän asentoinen, niin ei tarvitse pääsääntöisesti reponointia ja voi kipsata luun suoraan. Yleensä lyhyt dorsaalinen lasta riittää, mutta kyynärvarren murtumissa (molemmat luut murtuneet) käytetään immobilisaationa kulmalastaa. Kyynärluun puikkolisäkkeen murtuma värttiläluun murtuman yhteydessä ei kuitenkaan edellytä hoitoa kulmalastalla.
+
+![](images/vastaus.png)
+  </div>
+</div>
+
 ## 2025 
 
 Ei tarkkoja tehtävänantoja pääosassa listattuja asioita wikissä, joten käsitellään ne ns. "Selitä lyhyesti"-tyyppisinä kysymyksinä, joita on ollut ainakin aikaisempina vuosina wikin mukaan. 
@@ -786,7 +845,7 @@ Kiveksen varovaisella "lypsämisellä" tai vetämisellä alaspäin on keskeinen 
   </div>
 </div>
 
-### N. 10v lapsen ranteen rtg. Mikä murtuma? Miten hoidat (kipsi, repositio + kipsi, leikkaussaliin)? {#Lapsen-ranteen-rtg-lkir}
+### N. 10v lapsen rtg. Mikä murtuma? Miten hoidat (kipsi, repositio + kipsi, leikkaussaliin)? {#Lapsen-ranteen-rtg-lkir}
 
 Ei esimerkkikuvaa wikissä, mutta tekstin perusteella valitsin sopivan kuvan tähän tarkasteltavaksi. 
 
@@ -1593,7 +1652,7 @@ Kotihoitona voi myös kokeilla vaihtoehtoisesti _ruokasuolahoitoa,_ jossa ensin 
   </button>
   <div class="solution-content">
       
-Lapsen ontuminen on aina selvittelyjä vaativa asia. Ontuminen on lapsella aina merkki jostain: kivusta, liikerajoituksesta tai mekaanisesta ongelmasta alaraajassa tai lantiossa. Lapsi ei ontu "tottumuksesta" tai syyttä, minkä vuoksi syy on aina selvitettävä – vaikka kyseessä olisi useimmiten vaaraton ja itsestään ohi menevä vaiva.
+Lapsen ontuminen on aina selvittelyjä vaativa asia. Ontuminen on lapsella aina merkki jostain: kivusta, liikerajoituksesta tai mekaanisesta ongelmasta alaraajassa tai lantiossa. Lapsi ei onnu "tottumuksesta" tai syyttä, minkä vuoksi syy on aina selvitettävä – vaikka kyseessä olisi useimmiten vaaraton ja itsestään ohi menevä vaiva.
 
 Etenkin pienen lapsen on vaikea paikantaa kipua tarkkaan, joten alaraajat on syytä tutkia lonkista varpaisiin erikseen luurakenteiden ja nivelten liikkeiden osalta. Säteilykipu on tavallista (erityisesti lonkkanivelen ongelmat tuntuvat tyypillisesti kipuna reidessä tai polvessa). Vanhemmilta pyritään selvittämään mahdolliset vammat tai infektio-oireet. 
 

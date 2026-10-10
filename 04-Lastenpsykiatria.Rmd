@@ -346,6 +346,57 @@ Tietysti myös geneettiset tekijät vaikuttavat perheen lapsien riskeihin ja on 
   </div>
 </div>
 
+#### Psykologin tutkimuksen vaiheita ovat (3kpl)
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+Taustatietojen keruu 
+
+Yksilötapaamiset + psykologiset testit ja mahdollisesti ryhmätilanteessa havainnoinnin
+
+Tutkimuspalaute + jatkosuositukset 
+
+![](images/psyk1.png)
+![](images/psyk2.png)
+
+  </div>
+</div>
+
+### Mikä on TF-KKT? 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+Traumafokusoitu kognitiivinen käyttäytymisterapia
+
+---
+
+Traumaperäisen stressireaktion ja -häiriön hoidosta laadittu Käypä hoito -suositus suosittelee EMDR-terapian (eye movement desensitization and reprocessing) lisäksi traumakeskeistä kognitiivista käyttäytymisterapiaa (TF-KKT). EMDR-menetelmässä bilateraalisilla ärsykkeillä, joko puolelta toiselle siirtyvillä silmänliikkeillä, taputuksilla tai äänillä, voidaan nopeuttaa haitallisten muistojen käsittelyä. Tekniikkaa voidaan verrata REM-unen nopeiden silmänliikkeiden univaiheeseen, jonka aikana silmät liikkuvat nopeasti puolelta toiselle. Menetelmä mukailee siis automaattista ja luonnollista tapaa käsitellä elämystodellisuuteen liittyviä muistoja. EMDR-hoidon avulla muistot alkavat prosessoitua uudelleen, jolloin niiden käsittely helpottuu.
+
+TF-KKT on strukturoitu, yleensä alle 20 tapaamiskertaa sisältävä terapia. Sen aikana sama psykoterapeutti tapaa erikseen lasta tai nuorta ja vanhempaa kullakin terapiakerralla sekä terapian edetessä molempia yhdessä. Terapian aikana TF-KKT:n eri osa-alueet ovat tärkeitä riippumatta trauman laadusta tai vakavuudesta, mutta niitä painotetaan joustavasti lapsen tai nuoren tilanteen mukaan.
+
+Työskentelyn aikana työstetään kertomus traumaattisesta tapahtumasta kirjoittaen, piirtäen tai jonkin muun luovan menetelmän avulla. Kertomus jaetaan, jos mahdollista, terapian loppupuolella vanhemman kanssa. Menetelmän vahvuutena on riittävä altistaminen traumamuistolle siten, että muiston herättämä ahdistuneisuus ja välttäminen vähenevät istunnon aikana. Apuna käytetään alkuvaiheessa opeteltuja rauhoittumiskeinoja. Lapselle ja nuorelle välitetään myös ymmärrystä traumasta, mielen toiminnasta ja siitä, miten trauman aiheuttama häpeä ja syyllisyys vaikuttavat todellisuuden tulkintaan arkisissa tilanteissa. Erilaisten tunteiden ja käytöksen hallintakeinojen opettelu on myös keskeistä.
+
+---
+
+Vielä erityisesti maahanmuuttajaperheiden lapsille ja nuorille suositellaan narratiivista altistusterapiaa (narrative exposure therapy NET ja KIDNET), jonka vaikuttavuudesta on myös näyttöä. Menetelmän etuna on, että elämänviivan avulla voidaan käsitellä lukuisia traumoja. Terapian aikana käsitellään traumakokemuksia ja saatetaan ne kertomusmuotoon. Terapeutti myös kirjoittaa puhtaaksi traumakertomuksen ja lukee sen lapselle ja nuorelle seuraavalla kerralla. Pitkän terapiaistunnon aikana kertomus nostattaa ahdistusta, joka kuitenkin ehtii laskea siedettäväksi tapaamisen loppua kohden.
+
+![](images/tfkkt.png)
+
+  </div>
+</div>
+
 ### Tosi/Epätosi-väittämät {#Vaittamat-2026}
 
 #### ADHD:n periytyvyys on 40-50% 
@@ -1317,29 +1368,6 @@ Psykologisia tai neuropsykologisia tutkimuksia varten tarvitaan aina selkeä ja 
 ![](images/kysymys.png)
   </div>
 </div>
-
-
-#### Psykologin tutkimuksen vaiheita ovat 
-
-Ei tarkemmin tärpissä. Mitä vaiheita on psykologin tutkimuksessa karkeasti?
-
-<div class="">
-  <button class="solution-button"
-          data-label="Vastaus"
-          data-hide-label="Piilota vastaus">
-    Vastaus
-  </button>
-  <div class="solution-content">
-      
-
-Taustatietojen keruun, yksilötapaamiset ja mahdollisesti ryhmätilanteessa havainnoinnin, psykologiset testit ja tutkimuspalautteen + jatkosuositukset 
-
-![](images/psyk1.png)
-![](images/psyk2.png)
-
-  </div>
-</div>
-
 
 ## 2025 
 

@@ -1,5 +1,79 @@
 # Lastenneurologia
 
+## 2026 
+
+Pitkälti samoja kuin edeltävinä vuosina.
+
+### 14 v tyttö, jolla n. vuoden ajan jatkuvaa päänsärkyä. Pidetty migreenityyppisenä, mutta Propral ei auta eikä päänsärkylääkkeestä vastetta. Lisäksi huimausta ja väsymystä: mitä anamnestisesti haluat tietää? mitä tutkit? mikä dg sinulla tulee mieleen perusteluineen {#14v-jatkuva-paansarky}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Tilanne vaatii uudelleenarviointia niin diagnoosin, selvittelyjen tarpeen ja hoidon suhteen. 
+
+Tässä tilanteessa on selvitettävä systemaattisesti elintavat, psykososiaalinen tilanne, lääkkeiden käyttö sekä poissuljettava sekundaariset, mahdollisesti vakavat syyt.
+
+---
+
+Anamneesi: 
+
+<li>Päänsäryn luonne:</li>
+  <ul>
+    <li>Minne lokalisoituu, onko toispuolista, vaihteleeko lokaatio?</li>
+    <li>Laatu (sykkivä, jatkuva); onko laatu muuttunut?</li>
+    <li>Onko jatkuvaa/jaksottaista (ja jos jaksottaista niin kuinka kauan kohtaus kestää ja kuinka usein kohtauksia on)</li>
+    <li>Milloin ilmenee; herättääkö särky öisin, onko pahinta aamuisin vai iltaisin</li>
+    <li>Provosoivia tekijöitä</li>
+    <li>Pahentaako liikkuminen päänsärkyä</li>
+    <li>Pahentaako ponnistelu, yskiminen tai jokin asento (kumartuminen) päänsärkyä (viittaisi kohonneeseen kallonsisäiseen paineeseen)</li>
+  </ul>
+<li>Lääkehistoria</li>
+  <ul>
+    <li>Särkylääkkeiden käyttömäärä (tiheys, määrä, mitä lääkkeitä)</li>
+    <li>Muut lääkkeet ja luontaistuotteet; varsinkin E-pillerit</li>
+  </ul>
+<li>Muut oireet / liitännäisoireet</li>
+  <ul>
+    <li>Jos on päänsärkykohtauksia, niin onko niitä ennen auraoireita? Onko jälkioireita?</li>
+    <li>Huimauksesta: laatu (pyörittävä, keinuttava...), liittyykö muita oireita (esim. asennonmuutoksiin liittyvää mustenemista silmissä)</li>
+    <li>Onko pahoinvointia tai oksentelua</li>
+    <li>Väsymys: Kuinka paljon nukkuu? Unen laatu? Onko kuorsausta tai hengityskatkoksia? Bruksismia? Onko väsymys jatkuvaa vai päiväaikaista poikkeavaa uneliaisuutta?</li>
+    <li>Onko näössä ongelmia?</li>
+  </ul>
+<li>Psykososiaaliset ja ympäristölliset tekijät</li>
+  <ul>
+    <li>Mieliala ja stressi: Miten koulu sujuu? Onko kiusaamista, ahdistusta tai masennusta?</li>
+    <li>Elintavat: Ruutuaika ja ergonomia (niska-hartiaseudun jännitys), ateriarytmi (verensokerin heittelyt), veden juonti ja liikunta</li>
+  </ul>
+<li>Kasvu- ja kehityshistoria</li>
+<li>Sukuanamneesi</li>
+
+---
+
+Statuksessa:
+
+<li>Täysi neurologinen status</li>
+<li>Silmänpohjat</li>
+<li>Niska-hartiaseudun ja purennan status (lihaskireydet, leukanivelongelmat)</li>
+<li>Kattava yleispediatrinen status</li>
+<li>Verenpaine ja syke!</li>
+
+---
+
+Todennäköisesti **monitekijäinen päänsärkyongelma:** taustalla mahdollisesti oikeasti migreeni, mutta sen lisäksi myös voi olla **samaan aikaan kroonista jännityspäänsärkyä, särkylääkepäänsärkyä ja psykososiaalista kuormitusta.** Tietysti on myös huomioitava se, että **pahenevat/hoitoresistentit päänsäryt kannattaa lähettää ESH** ja siellä tarpeen mukaan otetaan esim. MRI selvittelynä tuumorien poissulkemiseksi.
+
+<li>Varsinkin särkylääkepäänsärky voi tässä tapauksessa olla todennäköinen, koska potilas on ehkä käyttänyt paljon päänsärkylääkkeitä (jos käyttää >15kk/kk NSAIDeja tai parasetamoli tai >10krt/kk triptaaneja) tilanteen pahentuessa. Tämä on voinut johtaa siihen, että alkuperäinen päänsärky on muuttunut päivittäiseksi.</li>
+<li>Krooninen jänmnityspäänsärky on myös yleistä nykynuorilla runsaan älylaitteiden ja huono ergonomian sekä stressin seurauksena. **Jatkuva lihasjännitys niskassa (servikogeeninen syy) voi aiheuttaa myös huimausta** ja jatkuva kipu uuvuttaa (väsymys).</li>
+<li>Epämääräinen, lääkkeille reagoimaton päivittäinen kipu, uupumus ja huimaus (joka voi olla psykogeenista) voivat myös olla merkki vaikeasta stressistä, ahdistuksesta tai alkavasta masennuksesta. Somaattiset oireet ovat nuorilla usein psyykkisen pahan olon ensisijainen ilmenemismuoto.</li>
+
+  </div>
+</div>
+
 ## 2025 
 
 ### 4kk varhaisheijasteet voimakkaat ja ekstensiotonus, onko poikkeavaa ja mitä erotusdiagnooseja {#4kk-ekstensiotonus}
@@ -252,7 +326,7 @@ Estohoidossa  50% kohtausvähenemä on hyvä vaste. Seurataan päänsärkypäiv�
   </div>
 </div>
 
-### 6kk. Ei kannattele itse päätään. Ei seuraa lelua 20cm etäisyydeltä. Eikä yritä tarttua leluun. ANTR voimakas. Onko poikkeavaa, perustele? {#6kk-kehitys}
+### 6kk. Ei kannattele itse päätään. Ei seuraa lelua 20cm etäisyydeltä. Eikä yritä tarttua leluun. ANTR voimakas. Mitä kysyt, mitä tutkit, onko ikään nähden poikkeavaa (perustele) ja mitä jatkotutkimuksia ohjelmoit {#6kk-kehitys}
 
 On myös toinen, jossa alkanut vastikään seurata katseellaan 20-30 cm päässä olevia leluja. 
 
@@ -264,7 +338,7 @@ On myös toinen, jossa alkanut vastikään seurata katseellaan 20-30 cm pääss�
   </button>
   <div class="solution-content">
 
-Löydökset ovat poikkeavia. 
+**Löydökset ovat poikkeavia.**
 
 Pään kannattelu: Normaalisti pään hallinta saavutetaan n. 3–4 kuukauden iässä. 6 kuukauden iässä vauvan tulisi pystyä pitämään päänsä täysin vakaana ja useimmiten jo harjoitella istumista tuettuna.
 
@@ -276,7 +350,18 @@ Voimakas ANTR (asymmetrinen tooninen niskaheijaste): Primitiiviheijaste, joten s
 
 ---
 
-Laaja-alainen motoriikan kehityshäiriö; taustalla voi olla mm. CP-vamma, geneettinen oireyhtymä/aineenvaihduntasairaus tai aivojen synnynnäinen rakennepoikkeavuus. 
+Tulisi selvitellä **tarkasti anamneesi ja tehdä kattava neurologinen / yleispediatrinen status** (mukaanlukien pituus, paino, päänympärys). Anamneesissa:
+
+<li>Raskaus- ja synnytyshistoria: Raskausajan päihteet, infektiot, sikiön kasvu? Synnytyksen kulku; apgar, asfyksia...? Täysiaikainen vai keskonen? </li>
+<li>Varhaiskehitys ja havainnot: Taantumista? Ottaako kontakti? Onko ollut kohtauksellisia oireita?</li>
+<li>Arki ja elintoiminnot: Miten syöminen ja nieleminen sujuu. Onko lapsi poikkeuksellisen veltto tai jäykkä?</li>
+<li>Suku- ja perhetausta: Onko suvussa lihassairauksia, kehitysvammoja, neurologisia sairauksia tai perinnöllisiä oireyhtymiä?</li>
+<li>Muut sairaudet</li>
+<li>Pään traumat</li>
+
+---
+
+Todetaan laaja-alainen motoriikan kehityshäiriö; taustalla voi olla mm. CP-vamma, geneettinen oireyhtymä/aineenvaihduntasairaus tai aivojen synnynnäinen rakennepoikkeavuus. -> **Tulisi tehdä lähete ESH.** Siellä sitten tilanteesta riippuen mm. pään ultra, MRI, labroissa genetiikkaa, kromosomitutkimuksia, aineenvaihduntalabroja, EEG, silmälääkärin arvio, kuulontutkimus yms ja tehdään kuntoutusarvio. 
 
 ![](images/kehitys.png)
 ![](images/6kk.png)

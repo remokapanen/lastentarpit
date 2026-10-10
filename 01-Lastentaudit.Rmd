@@ -4,7 +4,7 @@ Tyypilliseen tapaan useina vuosina toistuvat kysymykset jätetty toistamatta tä
 
 ## 2026 
 
-Vastauksia tulossa
+Pitkälti aikaisempien vuosien tärppejä, joitakin uusia, jotka tässä nyt. 
 
 ### 14 v tyttö, hidas kasvu. 4v iässä sekä paino että pituus tippuneet hieman, mutta nyt menee semitasaisesti laskien -3 SD käyrillä. Tulkinta ja erotusdiagnostiikka {#14v-tytto-heikko-kasvu}
 
@@ -76,6 +76,7 @@ Erotusdiagnostisia vaihtoehtoja tällaisessa tapauksessa ovat mm:
   <ul>
     <li>Turnerin oireyhtymälle (45,XO) on tyypillistä lyhytkasvuisuus ja varsinkin noin ikään 3-4 mennessä suurin osa tippuu kasvukäyrien normaalirajojen ulkopuolelle. Turnerin oireyhtymän tärkeimmät oireet ovat pienikokoisuus ja munasarjojen toimimattomuudesta johtuva viivästynyt tai puuttuva murrosikä. Muita löydöksiä voivat olla turvonneet kämmenselät ja jalkaterät vastasyntyneenä, leveä ja lyhyt kaula, kaulapoimu ja aortan koarktaatio. Ilmiasu vaihtelee suuresti, joten hitaasti kasvavasta tai murrosiältään viiveisestä tytöstä tulee tutkia kromosomit matalalla kynnyksellä. Varhainen diagnoosi takaa optimaalisen hoidon ja sen myötä lähes normaalin kasvun ja murrosiän kehityksen.</li>
   </ul>
+<li>Muut geneettiset oireyhtymät: esim. Noonanin oireyhtymä (yleisin syntymänjälkeistä kasvuhäiriötä aiheuttava monogeeninen sairaus)</li>
 <li>Kilpirauhasen vajaatoiminta</li>
   <ul>
     <li>Usein näkyisi suhteellista painonnousua, mutta pitää poissulkea</li>
@@ -102,6 +103,88 @@ Ei tietystikään esimerkkikuvaa tärpeissä, mutta suunnilleen tämän suuntais
   </div>
 </div>
 
+### Kasvukäyrä 15 v poika, jolla kasvu- sekä painokäyrä laskussa, mitä tutkit ja kyselet, mikä on työ-dg? {#15v-poika-kasvukayrat-laskussa}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+    
+Kun sekä paino että pituus lähtevät laskuun (varsinkin jos paino laskee ennen pituutta), niin kyseessä on usein **energiavajeeseen viittaava tila: heikko ravitsemus, imeytymishäiriö tai energiaa kuluttava systeemisairaus.** Varsinkin pienemmillä lapsilla myös ns. rakkauden puute (psykososiaalinen kasvuhäiriö) on yleinen. 
+
+---
+
+Anamneesissa ja statuksessa: 
+
+<li>Kasvuhistoria ja kasvun poikkeamien aikaiset tapahtumat/sairaudet/selvittelyt/löydökset</li>
+  <ul>
+    <li>Myös neurologisen kehityksen historia tärkeää</li>
+  </ul>
+<li>**Puberteetti**</li>
+  <ul>
+    <li>Onko havaittu merkkejä murrosiän alkamisesta, milloin alkanut...</li>
+  </ul>
+<li>Sukuhistoria</li>
+  <ul>
+    <li>**Vanhempien pituus ja kasvuanamneesi (murrosiän ajoittuminen, kasvutahti)**</li>
+    <li>Sisarusten kasvu</li>
+    <li>Suvussa esiintyvät sairaudet (suolistosairaudet, autoimmuunisairaudet, sydänsairaudet...)</li>
+  </ul>
+<li>Oireet</li>
+  <ul>
+    <li>**Vatsaoireet (vatsakipuja, ripulia, verta/limaa ulosteessa...), yleisoireet,** rasituksensieto...</li>
+  </ul>
+<li>Elämäntavat ja psykososiaalinen ympäristö</li>
+  <ul>
+    <li>**Ravitsemus (ruoan määrä ja mitä syö; aiheuttaako joku oireita),** uni, liikunta...</li>
+    <li>**Syömishäiriöön viittaavaa?**</li>
+  </ul>
+<li>Statuksessa</li>
+  <ul>
+    <li>Yleispediatrinen status (varsinkin murrosiän kehitysaste), neurologinen status</li>
+    <li>Pituus ja paino; mittasuhteet (istumapituus)</li>
+    <li>Yleisolemus (syndromaattiset piirteet)</li>
+  </ul>
+  
+---
+
+**Potilas kuuluu ESH, jos seularajat (kasvukäyrien tai puberteetin) rikkoutuvat toistuvasti (kannattaa toistaa arvo)** mutta usein voidaan ohjelmoida perustutkimuksia lähetteen yhteydessä:
+
+<li>F-Kalpro</li>
+<li>Keliakiaseula (tTgAbA + IgA)</li>
+<li>Perustutkimuksina PVK+T, La, T4v, TSH, Ca, Pi, AFOS, Krea, ALAT.</li>
+  <ul>
+    <li>Mahdollisesti myös miehen murrosikälabrat (FSH, LH, Testo)</li>
+    <li>Luustoikäröntgenkuva myös otetaan suhteellisen usein</li>
+  </ul>
+<li>Erikoissairaanhoidon tarvittaessa lisätutkimuksia</li>
+
+![](images/lyhytverrattuna.png)
+  </div>
+</div>
+
+### Kasvukäyrä huono painonnousu 14-vuotiaalla {#Kasvukayra-huono-painonnousu-14v}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+    
+Hyvin sama kuin edellinen. 
+
+---
+
+Tietysti jos pituus on lähtenyt hieman kiihtymään ja tapahtuu ns. risteämisilmiö, niin silloin toiset diagnoosit kuin simppelin energiavajeen ongelmat ovat varteenotettavampia. Esimerkiksi hypertyreoosi voi aiheuttaa kiihtynyttä pituuskasvua samalla kun suhteellinen paino laskee.
+
+  </div>
+</div>
+
 
 ### Essee - Nivelkipu ja sen diagnostiset vaihtoehdot
 
@@ -113,35 +196,672 @@ Ei tietystikään esimerkkikuvaa tärpeissä, mutta suunnilleen tämän suuntais
   </button>
   <div class="solution-content">
     
+Lapsen nivelkipu ja varsinkin ontuminen on selvittelyjä vaativa asia. Varsinkin ontuminen on lapsella aina merkki jostain: kivusta, liikerajoituksesta tai mekaanisesta ongelmasta alaraajassa tai lantiossa. Lapsi ei onnu "tottumuksesta" tai syyttä, minkä vuoksi syy on aina selvitettävä – vaikka kyseessä olisi useimmiten vaaraton ja itsestään ohi menevä vaiva.
+
+Anamneesissa: 
+
+<li>Vamma- ja tapaturmatausta</li>
+<li>Infektiotausta; onko ollut punkkia? matka-anamneesi?</li>
+<li>Yleisoireet. Paikalliset tai yleistyneet infektio-oireet voivat olla merkki luun tai nivelen bakteeri-infektiosta, ja tuolloin vaaditaan päivystykselliset selvittelyt erikoissairaanhoidossa.</li>
+<li>Oireiden kesto ja kulku: aamujäykkyys? pahempi/parempi rasituksen jälkeen? Alkoiko ontuminen äkillisesti/vähitellen? On tärkeää selvittää, onko ensioireena ollut kipu, ontuminen vai turvotus.</li>
+  <ul>
+    <li>Lapsuusiän idiopaattisessa niveltulehduksessa (lastenreuma) lapsen valittama kipu on harvoin ensimmäinen oire. Ensiksi havaitaan yleensä nivelen käytön varominen tai turvotus. Sen sijaan infektioartriitissa ja lonkan transientissa synoviitissa kipu alkaa sangen äkisti ja on usein voimakasta. Lastenreumassa ontuminen tai nivelen jäykkyys on vaikeampaa aamuisin, kun taas ei-tulehduksellisissa (ortopedisissä) nivelsairauksissa nivelen tai raajan kipu yleensä pahenee päivän mittaan ja rasituksessa.</li>
+  </ul>
+<li>Sukuanamneesissa tulee selvittää reumasairaudet, psoriaasi, tulehdukselliset suolistosairaudet, keliakia ja muut autoimmuunisairaudet (diabetes, MS-tauti, hypotyreoosi) sekä hemofilia.</li>
+
+---
+
+Statuksessa:
+
+<li>Kuume, kontakti, yleisvointi</li>
+<li>Kävely ja inspektio (lihasatrofia, turvotukset, vammajäljet). Trendelenburgin testi. Selän liikkuvuus ja ryhti.</li>
+<li>Kivun ja oireiden lokaatio: Etenkin pienen lapsen on vaikea paikantaa kipua tarkkaan, joten alaraajat on syytä tutkia lonkista varpaisiin erikseen luurakenteiden ja nivelten liikkeiden osalta. Säteilykipu on tavallista (erityisesti lonkkanivelen ongelmat tuntuvat tyypillisesti kipuna reidessä tai polvessa). Tutkien etsitään mahdolliset paikalliset aristukset, turvotukset, kuumotukset ja punoitukset. </li>
+<li>Iho ja imusolmukkeet: Petekkiat, nokkosihottumat tai purppura (IgA-vaskuliitti / HSP), imusolmukkeet (varsinkin nivustaipeen)</li>
+
+---
+
+Yleisimmät lapsen nivelongelmien erotudiagnostiset vaihtoehdot:
+
+<li>**Kasvukivut:**</li>
+  <ul>
+    <li>Kyseessä on tavallisin tuki- ja liikuntaelinvaiva lapsilla -- jopa 50%:lla ilmenee. Kasvukivut voidaan tunnistaa esitietojen ja kliinisen kuvan perusteella. Esiintyvyys on suurin 3–8 v:n iässä. Muuta kipujen syytä on epäiltävä, jos lapsi on alle 3-vuotias, kipu on jatkuvasti vain yhdessä raajassa tai jos kipuihin liittyy ontumista tai objektiivisia löydöksiä. </li>
+    <li>Ei usein ole lokalisoitumista niveleen, mutta **sääret, pohkeet ja polvitaipeet ovat tavallisimmat sijaintipaikat;** voi olla myös reisissä ja joskus käsivarsissa. Kipu on useimmiten symmetrinen: se tuntuu molemmissa alaraajoissa tai vaihtaa puolta. **Vaivaa iltaisin nukkumaanmenoaikana,** myös öisin, mutta ei yleensä aamuisin (vrt. aamujäykkyys niveltulehduksissa). Tuntuu levossa, ei rasituksen aikana. Kestää 0.5–5 tuntia. Kivut eivät vaikuta lapsen päiväaikaiseen toimintakykyyn, eivät vaikuta, ei löydöksiä, ei ontumista.</li>
+    <li>Kipuja voi esiintyä lyhytkestoisesti esim. muutamien kuukausien ajan, mutta ne saattavat kestää voimakkuudeltaan vaihdellen myös useita vuosia. Alaraajojen iänmukaiset muotovariaatiot eivät liity kasvukipujen esiintymiseen.</li>
+    <li>Kasvukipujen yhteydessä kliininen status on täysin normaali.</li>
+    <li>Epätyypillistä kasvukivuille on: ontuminen tai leikkien/liikuntaharrastusten keskeytyminen kivun takia, muut oireet (esim. yleiskunnon heikkous), jatkuvasti toispuolinen kipu tai särky tai oireilu muulloinkin kuin illalla tai yöaikaan.</li>
+    <li>Jos taudinkuva on vähänkään epätyypillinen, esim. kipu vain toisessa raajassa, yläraajojen kipu, aamujäykkyys, nivelturvotus tai systeemioireet (kuume, painonlasku, väsymys), tutkitaan ainakin TVK (leukemian poissulku), CRP ja lasko (niveltulehduksen epäily) ja konsultoidaan lastenlääkäriä tarvittaessa. Kuvantaminen (rtg tai kaikututkimus) on aiheellista, jos kipu lokalisoituu yhteen paikkaan tai todetaan jokin objektiivinen paikallislöydös.</li>
+    <li>Hoidoksi yleensä riittää tilanteen selittäminen sekä itsehoito hieronnalla, venyttelyllä, lämpimällä yms. Parasetamolia (15 mg/kg kerta-annos) voidaan käyttää tilapäisesti. Paranevat itsestään lapsen varttuessa.</li>
+  </ul>
+<li>**Äkilliset, ohimenevät yleensä kuumeettomat niveltulehdukset (yleisimmät);** hyvä diagnosoida 1–2 päivän kuluessa</li>
+  <ul>
+    <li>**Lonkan transientti synoviitti (aseptinen koksiitti, coxitis simplex)**</li>
+      <ul>
+        <li>Lonkan nivelkalvon ohimenevä tulehdus eli transientti synoviitti on yleisin 3-10(-12)-vuotiaan lapsen ontumisen syy. Kyseessä on äkillisesti alkanut, yleensä toispuoleinen, aseptinen tulehdus. Oireena on kivulias ontuminen tai varaamattomuus. Kipu voi tuntua nivusessa tai usein tyypillisen harhaanjohtavasti polvi- tai reisikipua. Tyypillisesti lonkka on fleksiossa ja ulkorotaatiossa. Tutkittaessa erityisesti lonkan kiertoliikkeet ovat rajoittuneet.</li>
+        <li>Yleisoireita ei ole, ja lasko ja CRP ovat normaalit tai vain lievästi suurentuneet.</li>
+        <li>Niveltulehduslöydös vahvistuu kaikukuvauksella, ja diagnoosi varmistuu, kun oirekuva ja löydökset väistyvät muutaman päivän - parin viikon kuluessa. Hoito: lepo, NSAID; kontrolli tarvittaessa, jos oireet ei häviä 2 viikossa (harkinnan mukaan rtg). Voi uusia.</li>
+      </ul>
+    <li>Urtikaria-artriitti</li>
+      <ul>
+        <li>Urtikariaan voi liittyä myös artriitti, urtikariatulehdus nivelessä. Usein lääkkeen (+infektion) aiheuttama; klassisesti n. 5-9vrk antibioottikuurin aloituksen jälkeen (yleisimpiä kefaklori, penisilliini, amoksisilliini).</li>
+        <li>Oirekuvalle on tyypillistä tietysti nokkosihottuma (kutiseva ja paikkaa vaihtava), joka voi joskus olla hemorraginenkin. Lisäksi yhden tai usean nivelen punoitus, turvotus ja liikearkuus; tyypillistä kämmenselissä ja jalkaterissä. </li>
+        <li>Labroissa lasko saattaa hieman kohota. Se paranee samoin kuin iho-oirekin, antihistamiinilääkityksellä. Joskus antihistamiinilääkitystä voidaan tarvita tavanomaista suurempia annoksia.</li>
+        <li>Paranee samoin kuin iho-oirekin: antihistamiinilääkityksellä. Joskus antihistamiinilääkitystä voidaan tarvita tavanomaista suurempia annoksia. Aiheuttava ab on aihetta lopettaa/vaihtaa. Oireet häviävät nopeasti, yleensä viikossa ab:n lopetuksen jälkeen.</li>
+      </ul>
+    <li>IgA-vaskuliitti (aikaisemmin Henoch-Schönleinin purppura)</li>
+      <ul>
+        <li>IgA-vaskuliitti on yleisin lasten vaskuliitti. Suomessa siihen sairastuu vuosittain noin 150–200 lasta. Sairauden tarkka syy on toistaiseksi tuntematon johtuu IgA-immunokompleksien kertymisestä verisuonten seinämään. _Yleensä syttyy ylähengitysteiden infektion jälkeen, mikä lisää IgA:n tuotantoa._</li>
+        <li>IgAV:n tyypillisiä oireita ovat verenpurkaumat eli petekiat (100 %) etenkin alaraajojen ja pakaroiden iholla, ja isojen nivelten kivut ja turvotus (70–80 %), suolisto-oireet (40–60 %), lähinnä vatsakipu ja harvemmin oksentelu ja veriulosteet sekä munuaisoireet, lähinnä hematuria ja proteinuria (30–40 %). _Ns. klassinen triadi on siis palpoitava purppura (ei haalistu painettaessa) yleensä raajoissa ja pakaroissa + nivel- ja/tai vatsakipu + hematuria._</li>
+        <li>IgAV:n diagnoosi tehdään kliinisten oireiden perusteella. Erotusdiagnostisina vaihtoehtoina on syytä huomioida muut ihon verenpurkaumia aiheuttavat sairaudet, kuten sepsis, veren hyytymishäiriöt ja maligniteetit. **IgAV:n hoito on oireenmukainen eikä spesifistä lääkehoitoa ole.** Valtaosalla potilaista oireet häviävät itsestään n. viikossa ilman erityistä hoitoa, mutta uusia petekioita voi ilmaantua ja vatsakivut jatkua joskus useita viikkoja. _Mikäli potilaalla on hankalat nivel- ja/tai suolisto-oireet, voidaan hoitona käyttää pieniannoksista glukokortikoidihoitoa laskevin annoksin neljän viikon ajan._ Valtaosalla potilaista esiintyy myös munuaislöydöksiä, joiden vaikeusaste on erittäin vaihteleva. Yleisimmin esiintyy ohimenevää mikroskooppista tai makroskooppista hematuriaa. Pienelle osalle potilaista voi tulla **etenevä glomerulonefriitti ja/tai akuutti munuaisvaurio, joka edellyttää pikaista munuaisbiopsian ottoa ja hoidon aloitusta pysyvän munuaisvaurion estämiseksi.** Näissä tilanteissa hoitona käytetään yleisimmin glukokortikoidihoitoa ja siklosporiinia. IgAV-nefriitti johtaa vaikeaan krooniseen munuaisten vajaatoimintaan 2–5 % kaikista potilaista.</li>
+      </ul>
+    <li>Parvovirusartriitit, pogostavirusartriitit</li>
+  </ul>
+<li>**Pitkittyvät hitaasti kehittyvät niveltulehdukset;** eivät edellytä tarkkaa diagnostiikkaa päivystysaikana (tosin jos kuumetta niin yleensä tarvitaan). Jos oireet ovat kestäneet yli 2 viikkoa, tutki tumavasta-aineet sekä streptokokki- (AST ja StrDNAb), salmonella-, kampylobakteeri-, yersinia- ja borreliavasta-aineet.</li>
+  <ul>
+    <li>Reaktiivinen niveltulehdus (streptokokki-infektion jälkeen tai entero- tai uroartriitti)</li>
+      <ul>
+        <li>Reaktiiviset artriitit ovat selvästi harvinaisempia lapsilla kuin aikuisilla ja harvoin ilmentyy alle kouluikäisillä.</li>
+        <li>Yleensä affisioi isoja niveliä - sairaat nivelet voivat migratorisesti vaihtaa paikkaa. Nivelet ovat usein erittäin kipeitä ja tautiin voi liittyä usein kuumeilua. Reaktiivinen artriitti tunnettiin aikaisemmin osana Reiterin oireyhtymää, joka syntyy vasteena infektiolle muualla kehossa. Klassiseen triadiin kuuluu varsinkin GU-kanavan infektion kautta: suurten nivelten (useimmiten SI-nivelen tai polven) inflammatorinen artriitti, konjunktiviitti/uveiitti ja uretriitti/servisiitti (can't see, can't pee, can't climb a tree → uveitis, urethritis, arthritis). </li>
+        <li>Laukaisevana tekijänä yleensä suoliston tai harvoin hengitysteiden infektio (tietysti murrosikäisillä myös seksitaudit): salmonella, kampylobakteeri, yersinia tai A-ryhmän streptokokki (ns. post-streptokokkaalinen artriitti) tai Chlamydia pneumoniae. Reaktiivinen artriitti alkaa tyypillisesti n. 1–4 viikon kuluttua edeltävästä infektiosta.</li>
+        <li>Lasko koholla, harkinnan mukaan otettu HLAB27 olisi positiivinen (lisää riskiä niveltulehdukselle) n. 50%:lla. </li>
+        <li>Yleensä GI-infektioiden aiheuttamaan enteroartriittiin ei tarvita ab-hoitoa; pääsääntöisesti vain jos ripulia edelleen esiintyy ja ulosteviljely on positiivinen. Streptokokki-infektiossa ab aiheellinen yleensä. Seksitaudin laukaisemassa artriitissa tietysti tulee aina hoitaa tauti antibiooteilla (klamydian tapauksessa atsitromysiini 1000mg kerta-annoksena tai doksisykliini 100mg x2 7vrk ajan)</li>
+      </ul>
+    <li>Lymen artriitti</li>
+      <ul>
+        <li>Borrelian mahdollisuus niveltulehduksen etiologiassa tulee muistaa. _Borrelia-niveltulehdus on yleensä yhden suuren nivelen, erityisesti polven infektioita._ Artriitti kehittyy yleensä vasta muutaman kk kuluttua infektion alkamisesta. Kehittyy n. 3-5% potilaista, jos primaarivaihe jää hoitamatta (usein punkinpuremaa tai rengasihottumaa ei havaittu/sitä ei edes kehittynyt). Tavallisin myöhäisvaiheen borrelioosin ilmentymä lapsilla. Nivelborrelioosia voi esiintyä mihin aikaan vuodesta tahansa.</li>
+        <li>Borrelia-artriitin yhteydessä seerumin IgG-borreliavasta-aineet ovat selvästi koholla (diagnoosissa tärkeintä on siis artriitti+borrelia-IgG-positiivisuus), tarvittaessa nivelnesteen PCR-geenimonistustestiä voidaan myös käyttää. Yleensä ei kuumetta; tulehdusarvot korkeintaan kohtalaisesti suurentuneet.</li>
+        <li>Hoito erikoissairaanhoidossa (infektiolääkäri/reumatologi). Myöhäisessä Lymen artriitissa antibioottivalinta on amoksisilliini/doksisykliini, jota annetaan 4 viikon ajan; jos jatkuu edelleen tämän jälkeen niin iv-keftriaksoni-harkinta.</li>
+      </ul>
+    <li>Lastenreuma</li>
+      <ul>
+        <li>Lastenreumaksi kutsutaan alle 16 vuoden iässä alkanutta pitkäaikaista niveltulehdussairautta, jolle ei löydy muuta selitystä -- toiselta nimeltään onkin juveniili idiopaattinen artriitti (JIA). Diagnostisissa kriteereissä niveltulehdus (yhdessä tai useammassa nivelessä) on kestänyt yhtäjaksoisesti vähintään 6 viikkoa ja muut niveltulehduksen syyt on poissuljettu. Tarkempi tautityyppi määräytyy ensimmäisten 6kk aikana. Tarkkaa etiologiaa ei tunneta, perinnöllinen alttius isossa roolissa (esim. HLA-assosiaatiot; sisarusten riski sairastua  n. 15-30-kertainen terveeseen normaaliväestöön verrattuna), mutta tarvitaan jokin laukaiseva tekijäkin (identtisistä kaksosistakin vain 25-40% sairastuu).</li>
+        <li>Ei ole yksittäinen sairaus, vaan luokitellaan seitsemään alatyyppiin. Yleisin (n. 47%) on oligoartriitti (6 kk taudin alusta ≤ 4 niveltä; tosin voi olla ns. leviävä oligoartriitti, jossa 6kk jälkeen ≥5 niveltä). Toiseksi yleisin (n. 19%) on reumatekijänegatiivinen polyartriitti (6 kk sisään ≥5 niveltä). Sitten tulee yleisoireinen artriitti (kuume, ihottuma), reumatekijäpositiivinen polyartriitti, entesiitteihin liittyvä artriitti (sisältää lastenselkärankareuman), psoriaasiartriitti ja muu artriitti.</li>
+        <li>Alatyyppien erityispiirteet ja varsinkin vastaaviin aikuisten reumasairauksiin liittyvät piirteet ilmenevät usein vasta murrosiässä, ja siksi erityisesti pienillä lapsilla alatyyppejä voi taudin alkuvaiheessa olla hankala erottaa. Lastenreuma ei siis ole aina erityisenkään samankaltainen kuin aikuisten reuma -- varsinkin pieni lapsi ei useinkaan valita kipua. Alku on moninivelinen vain 10-30%:lla. Tulehdus nivelessä voi aiheuttaa kasvohäiriöitä: voi häiritä pituuskasvua kyseisessä nivelessä (-> heikko kasvu alueella (esim. leuassa pienileukaisuus (usein toispuoleinen leukanivelen affisioituminen) ja leuan vetäytyminen taakse, voi olla vaikeaa avata suuta -> hammaslääkärille seurantaan purennan ja kasvun optimoimiseen) tai varsinkin polven alueella voi nopeuttaa kasvua -> pituusero ja valgusvirheasento alaraajassa).</li>
+        <li>Lastenreumaan liittyy usein etuosan uveiitti/iriitti (krooninen värikalvontulehdus) ja kaikki niveloireiset lastenreumaepäilyt lähetetään silmälääkärille, hoitamattomana voi aiheuttaa näön hekkenemistä; alku voi olla hidas ja tauti oireeton, joten tutkimuksi tarvitaan. Jos taas niveloireettomalla lapsella on etuosan uveiitti, niin silmälääkäri lähettää lastenreumaselvittelyihin, koska 80%:iin tapauksista liittyy lastenreuma (10%:lla todetaan ennen niveltulehdusta). Uveiitti voi olla hyvin vaikeahoitoinen.</li>
+        <li>Lastenreuman hoito alkaa lastenreumatologin tai sairauden hoitoon perehtyneen lastenlääkärin toimesta heti, kun muut syyt on poissuljettu ja diagnoosi on varma tai siitä on vahva epäily. Ennen kuin voidaan olla täysin varmoja diagnoosista täytyy muut syyt saada poissuljettua. Hoito tulehduskipulääkkeellä ja nivelten glukokortikoidi-injektioilla voidaan kuitenkin yleensä aloittaa heti. Lastenreuman lääkehoidon tavoitteena on tulehduksen täydellinen rauhoittuminen, remissio. Kipuun NSAIDit (esim. naprokseeni, koska pitkävaikutteinen), alkuhoitoon nivelinjektiot usein ja systeemistä glukokortikoidia voidaan harkita (varsinkin yleisoireisessa tyypissä, muuten harvoin). Perinteisiä reumalääkkeitä käytetään usein ensilinjassa, metotreksaatista eniten näyttöä, muitakin käytetään. Mikäli niveltulehduksia ei saada rauhoittumaan metotreksaatilla ja nivelen sisäisillä glukokortikoidi-injektioilla, voi toinen perinteinen reumalääke tulla kyseeseen ja tällöin usein aletaan käyttää biologisia reumalääkkeitä (TNF-alfasalpaajat, JAK-estäjät, IL-estäjät...). </li>
+        <li>Ennuste on parantunut, mutta ollaan edelleen kaukana ideaalitilanteesta (41%:lla aktiivitauti / lääkitys 30 v kuluttua diagnoosista; 28%:lla korkea taudin aktiviteetti; 20%:lle potilaista biologisella lääkehoidollakaan ei saavuteta riittävää vastetta). </li>
+      </ul>
+  </ul>
+<li>**Septinen artriitti / osteomyeliitti; nopeasti alkavat kuumeiset niveltulehdukset -> sairaalapäivystyksessä diagnostiikka nopeasti**</li>
+  <ul>
+    <li>Märkäinen niveltulehdus (septinen artriitti) ja luumätä (osteomyeliitti) aiheuttavat kuumeen ja kivuliaan ontumisen. Ne tulee diagnosoida ja hoitaa päivystyksellisesti, joten epäilyn herätessä lapsi on herkästi lähetettävä erikoissairaanhoitoon.</li>
+    <li>Oireena on yhden nivel- tai luualueen kipu, usein korkea kuume ja huonovointisuus. Oireisto alkaa yleensä nopeasti. Lapsi kieltäytyy käyttämästä jalkaa, passiiviset liikkeet ovat kivuliaat, tulehdusalue on palpaatioarka ja se voi punoittaa tai turvottaa. Erityisesti pienillä lapsilla oireet voivat olla epämääräisiä (varaamattomuus, ärtyisyys, itkuisuus, huono yleiskunto).</li>
+    <li>Verikokeissa CRP ja valkosolutaso ovat koholla, mutta hoitoratkaisussa kliininen kuva on yksittäistä verikoetulosta tärkeämpi. Ensisijaista on tutkia veriviljely. Septisessä artriitissa nivelnestenäyte on hyödyllinen, mutta sen ottaminen ei aina ole ongelmatonta (otetaan usein anestesiassa tai ilokaasuanestesiassa). Kaikukuvaus voi näyttää niveltulehduksen ja mahdollisesti osteomyeliittiin viittaavia löydöksiä. Magneettikuvaus auttaa diagnostiikassa ja tulehduksen laajuuden arvioinnissa.</li>
+    <li>Jos yksikään seuraavista ehdoista ei täyty, on septisen artriitin todennäköisyys < 1%: kuumeilu (> 38,5◦C), CRP > 20, leuk > 12 ja täysi jalalle varaamattomuus. CRP < 20 mg/l ja lasko < 20 mm/h lähes poissulkevat septisen infektion, jos oireiden alusta on 1–2 vrk. Lähetä raajaoireinen potilas sairaalaan diagnostista näytteenottoa varten ennen mikrobilääkityksen aloitusta, jos septistä infektiota ei voi poissulkea.</li>
+    <li>Lapsella infektion aiheuttaa useimmiten hematogeenisesti luuhun tai niveleen kulkeutuva patogeeni. Yleisimmät aiheuttajat ovat Staphylococcus aureus (erityisesti osteomyeliitissä), pneumokokki, A-ryhmän streptokokki ja rokottamattomilla Haemophilus influenzae tyyppi B.</li>
+    <li>Mikrobilääkehoito aloitetaan suonensisäisesti, kun asianmukaiset näytteet on otettu. Klindamysiini 40 mg/kg/vrk tai 1. polven kefalosporiini 150 mg/kg/vrk jaettuna neljään annokseen. Suun kautta annosteluun voidaan yleensä siirtyä 2–4 päivän jälkeen. Hoidon pituus on 20 päivää osteomyeliitissä ja 10–14 päivää septisessä artriitissa. Suurin osa potilaista toipuu täysin, jos hoito aloitetaan ajoissa. Pelättyjä komplikaatioita ovat mm. krooninen osteomyeliitti, patologiset murtumat, nivelruston tuhoutuminen ja reisiluun pään aseptinen nekroosi.</li>
+  </ul>
+<li>Muuhun tautiin liittyvä niveloire tai -turvotus</li>
+  <ul>
+    <li>Kawasakin tauti</li>
+      <ul>
+        <li>Diffuusi käsi/jalkaturvotus on yksi diagnostisissa kriteereissä arvioitavia raajaoire, mutta näiden diagnostisten oireiden ulkopuolella isojen nivelien affisioituminen on myös yleistä ja varsinkin isojen nivelien nivelkivut ovat tyypillisiä.</li>
+      </ul>
+    <li>Tulehdukselliset suolistosairaudet (IBD), keliakia</li>
+      <ul>
+        <li>IBD liittyy jopa 20%:lla artriittia. Usein selkärankareumatyyppinen niveltauti (sakroiliittiä, alaraajojen niveltulehduksia, entesiittejä...)</li>
+        <li>Keliakia voi aiheuttaa usein nivelkipuja. Tietysti on kohonnut riski myös muille autoimmuuniartriiteille ja imeytymishäiriöiden kautta TULES-vaurioille.</li>
+      </ul>
+    <li>Hematologiset sairaudet</li>
+      <ul>
+        <li>Leukemiamahdollisuus tärkeää tutkia ainakin ottamalla verenkuva</li>
+        <li>Hemofilia voi aiheuttaa esim. veripolvea; sirppisoluanemiaan voi liittyä sirppisolukriisejä</li>
+      </ul>
+  </ul>
+<li>Maligniteetit (primääriset luukasvaimet / metastaasit)</li>
+  <ul>
+    <li>Lapsilla yleisin lokaatio luukasvaimille on polven ympäristö. Yleisin lasten maligni primaarinen luutuumori on osteosarkooma ja toiseksi yleisin on Ewingin sarkooma.</li>
+  </ul>
+<li>Trauma / Ortopediset syyt</li>
+  <ul>
+    <li>Jalkapohjan vierasesine (hyvä aina tarkastaa jalkapohjat ontuvilta pikkulapsilta)</li>
+    <li>Murtumat -- alaraajojen kaikkien osien murtumat ja useat lantion alueen murtumat voivat aiheuttaa ontumista. Natiiviröntgenkuva on raajojen murtumadiagnostiikan kulmakivi.</li>
+    <li>Apofysiitit -- Apofyysit ovat luiden rustoisia kasvualueita, joihin kiinnittyy lihaksia ja jänteitä. Toistuva vetorasitus näille alueille voi aiheuttaa kiputilan eli apofysiitin, joka ilmenee ontumisena; esim. polven alueella Osgood-Schlatterin tauti (hoidetaan yleensä levolla ja kivunhoidolla). Apofyysin rustokudoksen kiputila, osteokondroosi/osteokondriitti, on lasten ja nuorten rasitusperäisten alaraajakipujen aiheuttajana tavallinen. Varsinkin polven alueella on ns. osteochondritis dissecans, jossa nivelrusto ja sen alainen luu vaurioituu paikallisesti, jolloin kantavalta nivelpinnalta hitaasti irtoaa osteokondraalinen kappale. Osteokondriitti oireilee usein kipuna etenkin rasitukseen liittyen; kipu lisääntyy vähitellen. Myös pettämisen tunne, liikerajoitus ja turvotus polvessa on yleistä. Pidemmälle edetessä voi aiheuttaa lukko-oireen. Diagnoosi tehdään usein röntgenkuvan perusteella, mutta hoidon suunnitteluun tarvitaan yleensä myös magneettikuvantaminen, josta voidaan myös arvioida, onko nivelrusto pesäkkeen päällä ehjä. Suuri osa paranee kuormitusta vähentämällä seurannassa muutamien kuukausien aikana, ja toimenpiteitä tarvitaan harvoin (joskus kokonaan irronneet kiinnitetään tai poistetaan).</li>
+    <li>Ontumista aiheuttava ortopedinen akuuttitilanne on reisiluun pään epifyseolyysi. Siinä reisiluun pää murtuu liukuen kasvulevyä pitkin. Tauti voi kehittyä vähitellen, asteittain tai äkisti, ja se voi liittyä myös lievään vammaan. Epifyseolyysi on yleisin nopean kasvun vaiheessa yli 10-vuotiailla lapsilla, ja ylipaino sekä kasvuhormonihoito ovat sen riskitekijöitä. Kipu voi olla huonosti paikantuva ja tuntua lonkassa, nivusessa, reidessä tai jopa vastakkaisen puolen lonkassa. Lonkka hakeutuu ulko- kiertoon, ja sisäkierto sekä koukistus ovat rajoittuneita. Trendelenburgin testi voi olla positiivinen. Noin 10 % epifyseolyyseistä on epästabiileja, jolloin painon varaaminen ei onnistu. Epäilyn herätessä tarvitaan molempien lonkkien röntgenkuvaus AP- ja Lauenstein-projektioissa. Tilanne vastaa reisiluun kaulan murtumaa: potilas lähetetään päivystyksellisesti lastenortopediseen yksikköön. Potilaalle annetaan kyynärsauvat ja häntä ohjeistetaan olemaan varaamatta kipeälle raajalle. Hoito on aina kirurginen: ensisijaisesti liukuman sulkeinen paikalleen asetus ja ruuvikiinnitys.</li>
+    <li>(Legg-Calvé-)Perthesin tauti on melko harvinainen reisiluun pään luu- ja rustokudoksen vaurio (reisiluun luutumistumake menee kuolioon epäselvästä syystä, verenkierto palautuu itsestään), jonka tärkein oire on kipuontuminen. Taudinkuva muistuttaa lonkan ohimenevää synoviittia, mutta oireilu alkaa hitaammin ja kestää pitkään. Oireena on ajoittaista tai rasituksessa tuntuvaa lonkkakipua, johon lepo auttaa. Kipu voi tuntua nivusen, reiden tai polven alueella. Tautia esiintyy 5-12-vuotiailla ja pojilla jopa viisi kertaa enemmän kuin tytöillä. Trendelenburgin testi on positiivinen ja lonkka voi olla sisärotaatiossa. Röntgentutkimus varmistaa diagnoosin. Tauti paranee ajan kanssa itsestään. Perthesin taudin hoito kuuluu erikoissairaahoitoon. Lähete tehdään kiireellisenä (ei päivystyksellisenä)</li>
+    <li>Leikki-ikäisellä kivuttoman ontumisen voi aiheuttaa epävakaasta lonkasta johtuva lonkkanivelen rakennepoikkeavuus (dysplasia). Lonkan loitonnus on rajoittunut, alaraajoissa voi olla pituuspuolieroa ja Trendelenburgin testi on positiivinen. Röntgenkuva on diagnostinen. </li>
+    <li>Myös alaraajojen pituuspuoliero voi olla kivuttoman ontumisen taustalla. Tämä tutkitaan asettamalla potilaan seistessä lyhyemmän jalan alle mittalautoja, kunnes lantio asettuu vaakasuoraan.</li>
+  </ul>
+<li>Neurologiset syyt; ontuminen on harvoin neurologisen sairauden ensioire, vaikka kävelemisen häiriöt ovat yleisiä mm. CP-vammassa, neuromuskulaarisissa sairauksissa ja perifeerisissä neuropatioissa</li>
+
+![](images/ontumisensyitä.png)
+
+Jos lapsella ei ole yleisoireita eikä mitään poikkeavia tutkimuslöydöksiä, voidaan tilannetta seurata. Mikäli selvää kipukohtaa tai muutoin paikantuvaa ongelmaa ei löydy, diagnoosi ei ole aivan selvä ja oire on pitkittynyt, lapsi tulee lähettää erikoissairaanhoitoon. 
+
+Jos alla olevan kuvan tutkimuksissa todetaan poikkeava löydös, on oireisen alueen röntgenkuvaus aiheellinen. Poikkeuksena tyypillinen rasitusapofysiitti ja lonkan transientti synoviitti
+
+Kaikututkimuksella voidaan selvittää erityisesti lonkkanivelen nesteilyä, pehmytkudosten muutoksia ja mahdollisia vierasesineitä.
+
+Selvä nivelen turvotus tai liikerajoitus ilman poikkeavaa röntgenlöydöstä viittaa niveltulehdukseen
+
+![](images/ontuminentutkimukset.png)
 
   </div>
 </div>
 
+### Yöllinen/aamuun painoittuva ärtyneisyys ja kiihtynyt päänkasvu {#Yollinen-artyneisyys}
 
-### Yöllinen/aamuun painoittuva ärtyneisyys ja päänkasvu {#Yollinen-artyneisyys}
+Todennäköisesti kysytty erotusdiagnostiikkaa, tutkimuksia ja mitä tehdään seuraavaksi
 
-### Maitoallergian diagnostiikka
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+    
+Lapsen yöllinen tai aamupainotteinen ärtyneisyys (isommilla lapsilla myös päänsärky ja aamuoksentelu) yhdistettynä pään kiihtyneeseen kasvuun viittaa vahvasti kohonneeseen kallonsisäiseen paineeseen (ICP). Niin kauan kuin kallon saumat ovat täysin erillään (6–20 kuukauden ikään), voi kiihtyvästi kasvava päänympärys olla ainoa merkki aivopaineen kohoamisesta. 
+
+Erotusdiagnostisia vaihtoehtoja ovat mm. aivokasvaimet (erityisesti lapsilla yleiset takakuopan kasvaimet), keskushermostoinfektiot, akveduktistenoosi synnynnäisesti, hydrokefalus hankinnaisesti aivoverenvuodon/infektion jälkitilana, traumaattiset verenvuodot (esim. ravistelun kautta syntyvä SDH, traumaattisesti syntyvä EDH tai aivoruhjevamma ja verenvuoto aivokudokseen/subaraknoidaalitilaan), kallonsisäsiset paiseet... 
+
+Kallon kasvun kiihtymisenä voisi olla taustalla myös neurometabolinen sairaus.
+
+On tärkeää tarkistaa mittaus, palpoida ja inspektoida kalloa sekä arvioida neurologiaa ja varsinkin silmiä (onko havaittavissa esim. karsastusta tai tyypillistä "auringonlaskun katsetta"). Isommilla lapsilla silmänpohjan tutkimus staassipapillan (näköhermon nystyn turvotuksen) arvioimiseksi. 
+
+---
+
+Jos lapsi on väsynyt, syö huonosti tai oksentelee tai lapsen lakiaukile on pullottava ja täyteläinen tai hänellä on auringonlaskun katse, hänet tulee ohjata päivystyslähetteellä lastentautien poliklinikalle tutkimuksiin ja hoitoon. Jos lapsella on pään kasvun kiihtymisen lisäksi karsastusta, hänet tulee lähettää kiireellisesti lisätutkimuksiin (kannattaa vähintään konsultoida olisiko päivystyksellinen). 
+
+Vaikka olisi vastaanotolla ok vointinen, niin kannattaa tällä anamneesilla vähintään soittaa päivystävälle lastenlääkärille ja kysyä kiireellisyydestä.
+
+  </div>
+</div>
+
+### Essee - maitoallergian diagnostiikka
+
+Käy läpi päässäsi myös maitoallergian oireet, hoito ja ennuste
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Ruoka-allergiat ovat lisääntyneet viime vuosikymmeninä muun atooppisen allergian ohella. Ruoka-allergiaepäily herätetään erilaisten vauvaiän oireiden vuoksi usein – kyselyissä kolmasosa vanhemmista ilmoittaa epäilevänsä ruoka-allergioita lapsellaan. Kuitenkin todelliset luvut ovat huomattavan paljon alhaisempia: maitoallergiaa sairastaa alle kaksivuotiaista lapsista Suomessa noin 2 %, ja kaikkiaan arviolta 5–8 %:lla pikkulapsista on merkittävä ruoka-allergia.
+
+Varhaislapsuudessa tavallisin ruoka-allergia on **monen elinjärjestelmän oireilu** erityisesti maidolle tai kananmunalle, hieman harvinaisempia ovat pähkinä- ja vehnäallergiat. **Maitoallergian oireet alkavat tyypillisesti ensimmäisen elinvuoden aikana, kun lapsi altistuu äidinmaidonkorvikkeelle tai kiinteiden ruokien myötä maitotuotteille.** Kliininen kuva on laaja ja jaetaan mekanismin perusteella kahteen päätyyppiin: IgE (nopeasti alkava oireilu) ja soluvälitteinen (viivästynyt reaktio). 
+
+<li>IgE-välitteisessä reaktiossa imeväisikäiselle lapselle voi kehittyä nopeasti syömisen jälkeen punotusta kasvoille ja hän saattaa oksennella tai alkaa ripuloida. Usein tilanteeseen liittyy urtikaria ja/tai angioedeema esimerkiksi huulissa.  </li>
+<li>Viivästyneesti esiin tulevista todennäköisesti soluvälitteisellä mekanismilla syntyvistä allergioista tärkeä on pienillä lapsilla tavattava ravinnon proteiinin aiheuttama enterokoliitti (food protein induced enterocolitis syndrome FPIES), jonka krooniseen muotoon kuuluu vaikeaoireinen oksentelu, ripulointi ja painonmenetys, jopa anemisoituminen. Tätä tautia tavataan Suomessa enää harvoin. Sen sijaan akuutti FPIES on edelleen huonosti tunnistettu tauti, jota hoidetaan usein päivystyspolilla väärällä diagnoosilla esim. gastroenteriittinä tai anafylaksiana. Tyypillinen potilas on pieni lapsi, joka on saanut maitoa, kananmunaa tai viljaa ja joka alkaa oksennella 2–4 tuntia aterian jälkeen. Oksentelu ja ripulointi voi olla niin voimakasta, että lapsi ajautuu letargiseksi, dehydroituneeksi ja hypotoniseksi.</li>
+<li>Ongelma voi olla myös IgE-tuotantoon liittyvä, mutta oireiltaan viivästynyt: atooppinen ekseema (otettava mahdollisuutena huomioon hoitoresistenteissä ekseemissa imeväisikäisillä) ja eosinofiiliset gastroenteropatiat (esim. eosinofiilinen esofagiitti).</li>
+
+---
+
+Ruoka-allergioiden diagnoosi perustuu pääsääntöisesti anamnestisiin oireisiin, eliminaatio-altistuskokeisiin sekä molekyyliallergologiaan. Selvittelyn kulku riippuu lapsen iästä ja oireista. 
+
+<li>Maitoallergian tapauksessa imeväisiässä eliminoidaan dieetistä epäilty ruoka 1–2 viikon ajaksi samalla kun vanhemmat pitävät oirepäiväkirjaa. Maitoeliminaation ajaksi alle yksivuotias tarvitsee maitoallergiselle sopivan hydrolysoidun korvikkeen, kun taas isommalla lapsella riittää kalsiumlisä ja vaihto esim. soija- tai kaurapohjaisiin valmisteisiin. _Imettävän äidin ei itse tarvitse välttää eliminoitavaa ruokaa,_ koska rintamaitoon päätyvät jäämät ruoka-aineiden proteiineista ovat mitättömiä verrattuna oireita aiheuttaviin tasoihin. Jos lapsen oireet eivät lievity eliminaatioruokavalion aikana, harkitaan muita erotusdiagnostisia vaihtoehtoja. Mikäli taas esimerkiksi ihottuma häviää tai oksentelutaipumus katoaa, voidaan eliminaatiovastetta pitää positiivisena.</li>
+<li>Pelkkä eliminaatiovaste (tai IgE:n osoittaminen) ei vielä osoita allergiaa vaan tavoitteena on, että **kaikki keskeisten ruoka-aineallergioiden diagnoosit perustuvat altistukseen.** Keskeisten ruoka-aineiden, kuten juuri maidon, kanssa altistus tehdään ESH:ssa, joten jos eliminaatiodieetti vähentää oireita, niin PTH:sta tehdään lähete lastentaudeille.</li>
+<li>ESH:ssa sitten toteutetaan **altistuskokeet** (ja usein otetaan IgE-labroja, kuten RuoCom-E (selvitetään IgE-välitteisiä ruoka-aineallergioita, kuten kala/turska, munanvalkuainen, maito, vehnä, soijapapu ja maapähkinä) yms). Mikään IgE-testi ei anna varmuutta varsinaisesta kliinisestä allergiasta. Nopeasti ilmenevissä oireissa voidaan tehdä avoin maitoaltistus, mutta se on aina altis subjektiivisille pelko- ja muille tuntemuksille potilaan taholta ja toisaalta oireet eivät aina johda näkyvään objektiiviseen löydökseen. Ainoa lähes varma diagnostinen testi on _kaksoissokkona_ tehtävä ruoka-altistus välttämisvaiheen jälkeen. Kaksoissokkokoe on työläs ja aikaa vievä: aluksi tehdään normaali altistus tuotteella A ja joidenkin päivien välivaiheen jälkeen uusitaan altistus B-ruoka-aineella. Altistavat lääkäri ja hoitaja sen paremmin kuin potilas eivät tiedä kumpi valmiste sisältää epäiltyä allergeenia. Mikäli valmisteiden välillä nähdään selvä ero oireissa, avataan koodi, joka kertoo, kumpi valmiste sisälsi epäiltyä ruoka-ainetta. Kaksoissokkoaltistus auttaa erityisesti suoli- tai levottomuusoireiltaan vaikeasti tulkittavilla IgE-negatiivisilla potilailla muodostamaan luotettavan käsityksen asiasta.</li>
+
+---
+
+**Maitoallergian hoidossa imeväisillä tavanomaiset korvikkeet korvataan pitkälle hydrolysoiduilla valmisteilla.** Keskeisten ruoka-allergioiden toteamisen jälkeen jatkuva seuranta erikoissairaanhoidossa ei aina ole tarpeen. 
+
+Mikäli potilas ei ole saanut anafylaksiaa ja oireet ovat lieviä tai tulevat vasta suuremmilla annoksilla, voidaan antaa lupa käyttää ruoka-ainetta sietokyvyn rajoissa. Mahdollinen atooppinen ekseema hoidetaan tavallisten ekseeman hoitokäytäntöjen mukaisesti. Kaikille IgE-välitteisestä ruoka-allergiasta kärsiville potilaille kirjoitetaan varalääkkeeksi antihistamiini asianmukaisin ikäkohtaisin annoksin. Jos potilaalla on ollut anafylaksia tai diagnostiikan perusteella siihen on suuri riski, opastetaan adrenaliinikynän käyttö.
+
+**Lapsen ruokavaliota pyritään laajentamaan kohti normaalia (tikapuumalli) ja kasvua seurataan neuvolassa.** Koska lapset toipuvat ruoka-allergioista suurimmassa osassa tapauksista leikki-ikään mennessä, pitäisi eliminoituja ruoka-aineita kokeilla ruokavaliossa säännöllisin väliajoin. Maitoa kannattaa kokeilla pienestä määrästä lähtien kotona ensimmäisen kerran diagnoosin asettamisen jälkeen viimeistään puolentoista vuoden iässä, jos pääasiallinen oire on ollut esimerkiksi nokkosihottuma, ihon lehahtelu tai suolioireet. Mikäli ensioire on ollut anafylaksia tai nopeasti yleistynyt vaikeaksi tulkittava allergiareaktio, tehdään uusinta-altistukset erikoissairaanhoidossa. Ruokien palauttamista ruokavalioon voidaan ensimmäisen kolmen vuoden aikana kokeilla puolen vuoden välein ja tämän jälkeen noin kerran vuodessa.
+
+**Suurin osa maitoallergiasta (samoin kananmuna- ja vehnäallergiasta) kärsivistä lapsista pääsee eroon allergiastaan jo leikki- tai viimeistään kouluikään mennessä.** Kala- ja pähkinäallergioiden väistyminen ei ole yhtä yleistä.
+
+---
+
+![](images/maitotikapuut.png)
+![](images/ruokaallergiaalgo.png)
+![](images/maitoallergia.png)
+
+  </div>
+</div>
 
 ### Määrittele: atopia, atooppinen iho, atooppinen ihottuma, allerginen astma {#Maarittele}
 
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+**Atopia = Taipumus tuottaa IgE-vasta-aineita ulkoisille tavallisille proteiineille**
+
+<li>Atopia ei kuitenkaan aina tarkoita suoraan allergiaa eikä kaikki allergia ole atopiaa. Ihminen voi olla atooppinen (veressä IgE-vasta-aineita), vaikka hänellä ei olisi mitään oireita.</li>
+<li>Allergia taas on kliininen ilmiö: se on elimistön immuunijärjestelmän poikkeava ja haitallinen reaktio aineeseen, joka on normaalisti vaaraton. Voi olla IgE-välitteistä tai muuta yliherkkyyttä. Allergia diagnoosina siis edellyttää selviä oireita (esim. aivastelu, nokkosihottuma, anafylaksia). </li>
+
+---
+
+**Atooppinen iho = Käytännössä tarkoittaa kuivaa ja herkkää ihoa.** Ihon barrieritoiminta on heikentynyt -> iholta haihtuu kosteutta ja ympäristön ärsykkeet, allergeenit sekä mikrobit pääsevät helpommin ihosta läpi. Kun iho tulehtuu, sitä kutsutaan atooppiseksi ihottumaksi eli atooppiseksi ekseemaksi.
+
+---
+
+**Atooppinen ihottuma = Krooninen, kutiseva, tulehduksellinen ihotauti.** Yksi yleisimmistä ihotaudeista, ja sitä esiintyy kaikenikäisillä potilailla.
+
+Diagnoosi on kliininen. Kutinan lisäksi vähintään kolmen seuraavasta viidestä kriteeristä pitää täyttyä:
+
+<li>ekseemaa tyyppialueilla tutkimushetkellä</li>
+<li>ekseemaa tyyppialueilla aiemmin</li>
+<li>kuiva iho</li>
+<li>ihottuma alkanut alle kaksivuotiaana</li>
+<li>potilaalla on allerginen nuha tai astma (alle neljävuotiailla atooppinen tauti perheenjäsenellä)</li>
+
+---
+
+**Allerginen astma = Astman selvimmin tunnistettava fenotyyppi on allerginen astma. Kyseessä on yleensä lapsuudessa alkava sairaus, joka liittyy muihin allergisiin tauteihin, kuten ekseemaan, riniittiin ja ruoka- sekä lääkeaineallergioihin. Tämä astman muoto on Th2- ja IgE-välitteinen tyypin I yliherkkyys (hypersensitiviteetti) -reaktio, jossa alullepanevana tekijänä toimii Th2-solujen ylikorostunut reaktio ympäristön antigeeneihin. Solut erittävät runsaasti erilaisia sytokiineja, jotka muun muassa stimuloivat B-soluja tuottamaan runsaasti IgE-luokan vasta-aineita.** 
+
+<li>Uusi altistuminen allergeeneille laukaisee IgE-välitteisen basofiilien degranulaation ja välittäjäaineiden vapautumisen. Välitön reaktio johtaa vaskulaarisen permeabiliteetin lisääntymiseen, **bronkusten limakalvon ödeemaan ja seinämän sileän lihaksen supistuessa bronkokonstriktioon.** Hitaammin kehittyvä tulehdusreaktio on yleensä astmassa eosinofiilivaltainen. Vaste glukokortikoidihoitoon on yleensä hyvä.</li>
+<li>Ei-allerginen astma on aikuisten tautimuoto, joka ei liity allergioihin, tulehdus on myös vähemmän eosinofiilinen ja vaste glukokortikoideihin huonompi.</li>
+
+  </div>
+</div>
+
+### 4 v. lapsella rr luokkaa 128/70 mmHg sekä ylä- että alaraajassa + hematuriaa. Lisääntynyttä ummetusta ja vatsakipua, vasemmalle painottuen palpoituva “joku” vatsalla. {#Joku-vatsalla-ja-hematuria}
+
+- a. mitä lisäkysymyksiä esität vanhemmille 
+- b. mitä tutkimuksia tilaat 
+- c. mitä teet vastaanoton päätteeksi
+
+<div class="">
+  <button class="solution-button"
+          data-label="a"
+          data-hide-label="a - Piilota vastaus">
+    a
+  </button>
+  <div class="solution-content">
+      
+<li>Yleisvointi ja yleisoireet: Onko lapsella esiintynyt poikkeavaa väsymystä, selittämätöntä kuumeilua, yöhikoilua tai painonlaskua?</li>
+<li>Oireiden kesto ja kehitys: Kuinka kauan vatsakipua ja ummetusta on ollut? Milloin hematuria huomattiin ja onko virtsa silminnähden punaista vai vain tummaa?</li>
+<li>Virtsaaminen ja suolen toiminta: Onko virtsaaminen kivuliasta tai tihentynyttä? Onko ummetukseen kokeiltu lääkityksiä?</li>
+<li>Mahdolliset traumat: Onko vatsan alueelle osunut iskuja tai onko lapsi kaatunut (kasvaimen repeämisriski ja äkillinen kipu)?</li>
+<li>Sukuhistoria: Onko suvussa esim. lapsuusiän syöpiä, munuaissairauksia tai perinnöllisiä oireyhtymiä?</li>
+
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="b"
+          data-hide-label="b - Piilota vastaus">
+    b
+  </button>
+  <div class="solution-content">
+      
+Riippuu vähän missä lokaatiossa ollaan ja mitä palveluita on käytettävissä. Jos ollaan tk:ssa, niin ei ehkä tarvitse lähteä kyseisessä lokaatiossa tilaamaan paljoa mitään (ehkä virtsalabrat, jotta saa varmistettua hematurian). Tässä tilanteessa perusselvittelyitä olisivat:
+
+Virtakokeet - U-KemSeul ja U-solut (hematuria, proteiinivirtsaisuus) ja mahdollisesti menee viljelyyn infektion poissulkemiseksi, jos leuk koholla. 
+
+Vatsan ultraäänitutkimus (ensimmäinen ja tärkein tutkimus palpoituvan massan ja munuaisperäisten oireiden selvittämiseksi).
+
+Muista labroista PVK+T, diffi, CRP, krea, K, Na, Ca-Ion...
+
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="c"
+          data-hide-label="c - Piilota vastaus">
+    c
+  </button>
+  <div class="solution-content">
+      
+**Soitetaan päivystyvälle lastenlääkärille ja konsultoidaan tilanteesta sekä todennäköisesti lähetetään lapsi päivystykseen selvittelyihin** (varmennetussa makroskooppisessa hematuriassa, joka ei selvästi johdu infektiosta on tarve päivystyksellisille selvittelyille). Jos on trauma taustalla, niin makroskooppiset hematuriat kuuluu lastenkirurgialle. 
+
+---
+
+Tilanne herättää epäilyn erityisesti **Wilmsin tuumorista (nefroblastooma),** jossa lapsella usein todetaan poikkeava resistenssi vatsalla, verivirtsaisuutta (minimaalisesta traumasta aiheutuu makroskooppinen hematuria; noin 20–30 %) ja/tai kohonnut verenpaine (johtuen lisääntyneestä reniinin erityksestä; 25 %). Kyseessä on nuorten lasten vatsan alueen malignin möykyn yleisin syy; palpointi varovasti ettei repeä ja leviä. 
+
+<li>Potilaalla on siis hypertensio, joka voi helposti jäädä huomaamatta, koska tehtävänannossa mainittu verenpaine olisi normaali aikuisella. (kts. taulukot alla) </li>
+
+---
+
+Valtaosa nefroblastoomista eli Wilmsin kasvaimista todetaan alle viisivuotiailla; keski-ikä diagnoosille n. 3v. UÄ on hyvä primaaritutkimus. 
+
+Wilmsin tuumorin ensisijainen hoito on leikkaus (nefrektomia) ja tätä ennen+jälkeen kemoterapiaa ja levinneissä tapauksissa myös sädehoitoa
+
+![](images/vp1.png)
+![](images/vp2.png)
+
+  </div>
+</div>
+
+### Alle 3v astmariskin pääkriteerit {#Astmariskin-paakriteerit}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Lyhyesti sanottuna alle 3-vuotiailla vaaditaan 3 lääkärin toteamaa uloshengitysvaikeuskohtausta ja sen lisäksi riskitaulukosta joko 1 pääkriteeri tai 2 sivukriteeriä. 
+
+Yli 3-vuotiailla, mutta alle kouluikäisillä diagnostiikassa käytetään oskillometriaa ja yli kouluikäisillä spirometriaa (ja mahdollisuuksien mukaan PEF-seurantaakin voidaan käyttää; varsinkin yli 12v). 
+
+---
+
+**Astman diagnostiikan periaatteet voidaan jakaa pääasiassa iän mukaan.** Tietystihän aina haluttaisiin saada mahdollisuuksien mukaan keuhkojen toimintakokeiden kautta varmistus, mutta pienillä lapsilla nämä eivät aina onnistu samalla tavalla kuin vanhemmilla. Iän myötä myös astman patogeneesi hieman muuttuu, jonka takia myös diagnostiikka eroaa aivan pienimpien ja vanhempien välillä. 
+
+Jako tehdään erityisesti alle 3-vuotiaiden ja vanhempien välillä. Diagnostisten testien käyttö myös eroaa vanhemmassa ikäryhmässä siten, että diagnostiikka jaetaan vielä alle 6-vuotiaisiin ja kouluikäisiin (ja vielä yli- ja alle 12-vuotiaisiin). 
+
+---
+
+**Alle 3-vuotiailla** ei ole kansainvälisesti yhtä ainoaa oikeaa tapaa diagnosoida pienten lasten astma. Suomessa on kuitenkin sovittu, että diagnostiikka perustuu pääasiassa oirekuvaan ja riskitekijäarvioon (anamneesiin ja mahdollisesti pariin labramittaukseen). Mallissa on erotettu jatkuvasti ja toistuvasti oireilevat lapset. 
+
+Jaksoittaiset oireet ilmenevät pääasiassa flunssien yhteydessä uloshengitysvaikeuksina. **Lapsen ensimmäistä infektiota, johon liittyy uloshengitysvaikeus ja/tai -vinkuna, kutsutaan alle vuoden ikäisellä lapsella bronkioliitiksi** (aiheuttaja klassisesti RSV, mutta vähentynyt nirsevimabin käyttöönoton jälkeen; muutkin respiratoriset virukset voivat laukaista samanlaisen taudinkuvan ja mitä vanhempi lapsi on kyseessä, sitä useammin aiheuttaja on rinovirus (tai enterovirus yms)). **Seuraavaa hengenahdistusta tai yli yksivuotiaiden ensimmäistä hengenahdistusta kutsutaan obstruktiiviseksi bronkiitiksi.**
+
+_Kun hengenahdistus on uusinut riittävän usein, sopimuksen mukaan 3 kertaa vuoden aikana, on sovittu, että sairaus nimetään astmaksi (akuutti astma -diagnoosi (J46, kun pikkulapsella 3. lääkärin toteama uloshengitysvaikeuskohtaus tai ensimmäinen kohtaus ≥3v. lapsella; pitkäaikaisdiagnoosi (J45) mielellään vasta kun tarve säännölliseen lääkitykseen)._
+
+Astmaa ennustavan indeksin perusteella voidaan asettaa näillä pikkulapsilla astman diagnoosi ja samalla myös määrittää ne lapset, jotka voisivat hyötyä säännöllisestä lääkekokeilusta inhaloitavalla kortikosteroidilla (ICS; 3kk lääkehoitokokeilu). **Kriteeristössä vähintään yhden pääkriteerin tai kahden sivukriteerin täyttyminen viittaa astmaan toistuvaa hengityksen vinkunaa (eli siis kolme _lääkärin toteamaa_ uloshengitysvaikeutta, jossa avaavat lääkkeet lievittävät oireita) sairastavalla pikkulapsella:**
+
+<li>Pääkriteerit</li>
+  <ul>
+    <li>Lääkärin toteama astma vanhemmalla</li>
+    <li>Lääkärin toteama atooppinen ihottuma</li>
+    <li>Herkistyminen hengitystieallergeeneille</li>
+  </ul>
+<li>Sivukriteerit</li>
+  <ul>
+    <li>IgE-välitteinen herkistyminen ruoille</li>
+    <li>Hengityksen vinkuna myös silloin, kun lapsella ei ole flunssaa</li>
+    <li>Veren eosinofiilit > 4 % tai > 0,3 x 109/l</li>
+  </ul>
+
+---
+
+Lapsilla siis määritetään atooppisen ominaisuuden selvittelynä herkistyminen aero- ja ruoka-allergeeneille seerumin spesifisen IgE:n määrityksillä (tai ihopistokokeilla). IgE-määrityksissä voidaan käyttää seulakokeita, kuten pöly- tai ruokaerittelyä. Myös leikki- ja kouluikäisillä lapsilla tulee aina astmaa epäiltäessä määrittää IgE-vaste tyypillisille hengitystieallergeeneille joko seerumiin pölyerittelyllä. Seerumin kokonais-IgE-pitoisuuden mittaamisesta ei ole hyötyä astman diagnostiikassa.
+
+Samoin veren suurentunut eosinofiilimäärä kertoo suurentuneesta astmariskistä. Eosinofiilit kannattaa määrittää sekä tautia epäiltäessä että myöhemmin hoidon aikana toistuvastikin, koska se auttaa taudin tulehduksellisen alatyypin määrityksessä.  
+
+---
+
+Pikkulapsista erotetaan myös jatkuvasti/vaikeasti oireilevat, jotka voivat hyötyä ICS-hoitokokeilusta:
+
+<li>Pahenemisvaiheita (avaavan lääkkeen tarve 4 kertaa vuorokaudessa) on ollut tiheästi eli alle kuuden viikon välein</li>
+<li>Jos lapsi oireilee jatkuvasti eli lapsi on tarvinnut avaavaa lääkettä useammin kuin kahdesti viikossa yli neljän viikon ajan</li>
+<li>Lapsella on ollut kaksi suun kautta otettavaa kortikosteroidikuuria alle kuuden kuukauden välein</li>
+
+---
+
+Tämä 3kk hoitokeiluna toteutettava inhaloitava kortikosteroidihoito on rajattu tällä tavalla, koska muuten hyvin suuri osa lapsista saisi ICS-hoitoa eikä se ole täysin haitaton hoito. Oikein valituilla pikkulapsilla ICS kyllä hoitaa tehokkaasti oireita, mutta sen varhainen aloittaminen ei vaikuta astman luonnolliseen kulkuun näin pienillä lapsilla, joilla ongelma on usein iän myötä väistyvä muutenkin. Jos riskitekijöitä ei ole ja oireilu on lievää, tilannetta seurataan.
+
+**Tyypillisiä haittavaikutuksia ICS-hoidolla on mm:** 
+
+<li>Kasvun hidastuminen ja lisämunuaisen lama suurilla annoksilla -- voi siis olla systeemisiäkin haittavaikutuksia</li>
+<li>Kandidaasi: kortikosteroidit immunosupressiivisia ja lisäävät kasvun mahdollisuutta suun limakalvoilla; hampaiden reikiintyminen: jauheinhalaattorien aiheuttama suun pH:n lasku</li>
+  <ul>
+    <li>Aina tulisi purskutella suu ja sylkäistä vesi pois käytön jälkeen</li>
+  </ul>
+  
+---
+
+Inhaloitavat lääkkeet annetaan pienille lapsille yleensä annosaerosolina tilanjatkeen (esim. aerochamber nykyään suositelluin; myös ns. babyhaler usein käytössä) kanssa. Maski yleensä < 3-vuotiailla, suukappale, kun yhteistyö onnistuu. Lääke annostellaan tilanjatkeeseen yksi annos kerralla: rauhallinen hengitys tilanjatkeen kautta n. 5–8 kertaa jokaisen annoksen jälkeen. Kouluikäisillä voidaan käyttää jauheinhalaattoria ilman tilanjatkettakin, jos lapsi hallitsee oikean hengitystekniikan ja hänen sisäänhengitysvoimansa ja -kestonsa ovat riittävät. Lääkkeenottotekniikka näytetään ja harjoitellaan vastaanotolla; puutteellinen tekniikka on yleisin hoidon tehottomuuden syy. 
+
+Hoito aloitetaan pieniannoksisella inhaloitavalla kortikosteroidilla: yleensä käytetään flutikasonipropionaattia 250 mikrog vuorokaudessa (125 1x2). Hoitoa tulee seurata ja tavoitteena on oireettomuus ja normaali rasituksen sieto pienimmällä tehokkaalla ICS-annoksella. Hoitokokeilun vaste arvioidaan soitolla 4-6 vk kuluttua (erotusdiagnostiikka, jos ei hoitovastetta!) ja käynnillä 3 kk kuluttua. Hoitojakson aikana oireettomuuteen pääsevien lasten lääkitys lopetetaan ja hoitoa jatketaan jaksoittaisena. Säännöllistä hoitoa syytä miettiä jos kuureja toistuvasti alle kk välein. Viimeistään silloin, kun jatkuvaa lääkitystä on tarvittu yli kuusi kuukautta, tehdään virallinen astmadiagnoosi.
+
+Säännöllisen inhaloitavan kortikosteroidiannoksen rutiininomainen nosto esimerkiksi flunssien yhteydessä oireiden lisääntyessä ei vähennä pahenemisvaiheita tai suun kautta otettavan kortikosteroidin tarvetta lievää tai keskivaikeaa astmaa sairastavilla potilailla. Astman peruslääkehoitoa tehostetaan vain, jos epäillään inhaloitavan kortikosteroidiannoksen olevan pysyvässä hoidossa liian matala.
+
+---
+
+Erotusdiagnostiikka on tietysti tärkeää miettiä aina astman kanssa. Oireilu voi siis myös johtua: 
+
+<li>Ylähengitysteissä: allerginen nuha, suurentunut kitarisa tai isommilla lapsilla poskiontelon tulehdus</li>
+<li>Alahengitysteissä: vierasesine, verisuonen tai limakalvon epämuodostuma, henkitorven seinämän pehmyys/kaventuma synnynnäisesti, suurentuneet imusolmukkeet tai tuumori, isommilla lapsilla toiminnallinen äänihuulipareesi</li>
+<li>Pienet hengitystiet: bronkopulmonaalinen dysplasia, kystinen fibroosi</li>
+<li>Muut: sydänvika, toistuva astmaan liittymätön yskä (esim. refluksi, infektioon liittyvä yskä), immuunipuutos</li>
+<li>Ennen astmadiagnoosin tekemistä on syytä harkita thoraxkuvan ottamista erityisesti pieniltä lapsilta ja sellaisilta potilailta, joilla on epäselvä taudinkuva tai lääkevaste heikko. Astmadiagnoosia ei tehdä thorax-kuvan perusteella, mutta se on hyvä ottaa muiden syiden poissulkemiseksi.</li>
+
+---
+
+**Astmaoireisilla leikki-ikäisillä (kolmevuotiailla tai sitä vanhemmilla) lapsilla keuhkojen toiminnan poikkeavuus pyritään osoittamaan oskillometrian avulla.**
+
+Oskillometriassa siis mitataan hengitysteiden resistanssia (Rrs; myös reaktanssia (Xrs)). Oskillometriassa lapsi hengittää normaalin lepohengityksen aikana pienen suukappaleen kautta oskillometrialaitteeseen. Laite johtaa suun kautta keuhkoihin eritaajuisia ääni-impulsseja ja mittaa heijastunutta ääntä. Oskillometria yhdistettynä bronkodilataatio- tai ulkojuoksukokeeseen parantaa pienten lasten astmadiagnostiikan osuvuutta. Astmaan viittaa suurentunut hengitysteiden resistanssiarvo pienillä oskillaatiotaajuuksilla (R5) tai alentunut reaktanssiarvo, joka korjaantuu avaavalla lääkkeellä. Jos oskillometriassa mitattu resistanssi (Rrs5) pienenee vähintään 40 % bronkodilataatiokokeessa tai suurenee vähintään 40 % juoksurasituskokeessa, muutos on merkitsevä. Oskillometria on käytössä kaikissa Suomen keskussairaaloissa. Menetelmä on altis virheille ja edellyttää tutkimuksen suorittajalta perehtyneisyyttä ja kokemusta.
+
+---
+
+**Kouluikäisillä taudinmääritys tukeutuu spirometriaan (ja bronkodilataatiokokeeseen) ja yli 12-vuotiailla spirometriaan ja/tai PEF-seurantaan** (usein kuitenkin rasittavaa lapselle ja perheelle tämäkin, joten riippuu hieman potilaasta) kuten aikuisilla. PEF-seurannassa siis kotona puhalletaan 2 viikon ajan samaan aikaan 3 kertaa toistettuna aamuin ja illoin ennen avaavan lääkkeen käyttöä (salbutamoli 0.4 mg) ja 15 minuuttia sen jälkeen. 
+
+Spirometriassa diagnostista on bronkodilataatiossa FEV1:n tai FVC:n paraneminen vähintään 12 % ja 200 ml tai se, että FEV1 pienenee merkitsevästi (vähintään 15 %) rasituskokeessa. Lapsilla rasituskoe on usein herkin astman diagnostiikan väline. PEF-seurannassa taas PEF-arvojen merkitsevä (vähintään 20 % ja 60 l/min ja vähintään 3 kertaa/2 viikkoa) vuorokausivaihtelu tai PEF-arvojen merkittävä suureneminen (vähintään 15 % ja 60 l/min ja vähintään 3 kertaa/2 viikkoa).  PEF-seurannan luotettavuus ei ole varsinkaan <12-vuotiailla lapsilla yhtä hyvä kuin aikuisilla. 
+
+---
+
+Vanhemmilla lapsilla inhaloitava kortikosteroidi (ICS) on ensisijainen hoito heti, kun astma todetaan. 
+
+**Alle 12-vuotiailla astman diagnostiikka ja hoito on porrastetttu pääasiassa ESH. 7–11-vuotiailla perusterveydenhuolto hoitaa välikontrollit, jos hallinta on hyvä; muutoin diagnostiikka ja hoito toteutuvat pääosin erikoissairaanhoidossa.** Perusselvittelyt (anamneesi, peruslabrat (PVK+T, diffi, IgE-selvittelyt)) voi ottaa PTH:ssa, mutta hoitokokeilujen aloittaminen kuuluu ESH.
+
+![](images/astmalapset.png)
+![](images/astmapienillälapsilla.png)
+![](images/astmalapsilla.png)
+![](images/porrastus.png)
+
+  </div>
+</div>
+
 ### Monivalinnat 
+
+#### Astmasta spirometrian diagnostisia tuloksia
+
+Ei vastausvaihtoehtoja. Käy läpi astmalle diagnostiset tulokset spirometriassa. 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+Spirometriassa diagnostista on bronkodilataatiossa **FEV1:n tai FVC:n paraneminen vähintään 12 % ja 200 ml tai se, että FEV1 pienenee merkitsevästi (vähintään 15 %) rasituskokeessa.** Lapsilla rasituskoe on usein herkin astman diagnostiikan väline. PEF-seurannassa taas PEF-arvojen merkitsevä (vähintään 20 % ja 60 l/min ja vähintään 3 kertaa/2 viikkoa) vuorokausivaihtelu tai PEF-arvojen merkittävä suureneminen (vähintään 15 % ja 60 l/min ja vähintään 3 kertaa/2 viikkoa).  PEF-seurannan luotettavuus ei ole varsinkaan <12-vuotiailla lapsilla yhtä hyvä kuin aikuisilla. 
+
+---
+
+**Kouluikäisillä taudinmääritys tukeutuu spirometriaan (ja bronkodilataatiokokeeseen) ja yli 12-vuotiailla spirometriaan ja/tai PEF-seurantaan** (usein kuitenkin rasittavaa lapselle ja perheelle tämäkin, joten riippuu hieman potilaasta) kuten aikuisilla. PEF-seurannassa siis kotona puhalletaan 2 viikon ajan samaan aikaan 3 kertaa toistettuna aamuin ja illoin ennen avaavan lääkkeen käyttöä (salbutamoli 0.4 mg) ja 15 minuuttia sen jälkeen. 
+
+---
+
+**Alle 12-vuotiailla astman diagnostiikka ja hoito on porrastetttu pääasiassa ESH. 7–11-vuotiailla perusterveydenhuolto hoitaa välikontrollit, jos hallinta on hyvä; muutoin diagnostiikka ja hoito toteutuvat pääosin erikoissairaanhoidossa.** Perusselvittelyt (anamneesi, peruslabrat (PVK+T, diffi, IgE-selvittelyt)) voi ottaa PTH:ssa, mutta hoitokokeilujen aloittaminen kuuluu ESH.
+
+![](images/astmalapsilla.png)
+![](images/porrastus.png)
+
+
+  </div>
+</div>
+
+#### Lapsen kivun aistimisesta: vaikuttaako lapsen ahdistuneisuus kipukokemukseen totta vai tarua 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Totta
+
+Lapsen kipukokemukseen vaikuttaa monet tekijät ja pelko/ahdistuneisuus voi usein lisätä kivun tunnetta.
+
+![](images/ahdkipu.png)
+  </div>
+</div>
 
 #### Kuuluuko pienen lapsen hinkuyskä päivystykseen? {#Hinkuyskä-paivystykseen}
 
-#### Onko VZV-rokote MPR-rokotteessa
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Kyllä
+      
+Imeväiset, erityisesti rokottamattomat, tulee aina toimittaa sairaalahoitoon. Imeväisillä hinkuyskä etenee nopeasti ja voi aiheuttaa erityisesti **hengityspysähdyksiä** kohtausten yhteydessä. Voi olla **fataali,** jonka takia pienilapsi vaatii usein tarkkaa seurantaa ja hoidon aloituksen (atsitromysiini) sairaalassa. 
+
+---
+
+Hinkuyskän aiheuttaja on **Bordetella pertussis,** joka on gram-negatiivinen coccobacillus.
+
+Hinkuyskää vastaan rokotetaan kansallisessa rokotusohjelmassa asellulaarisella pertussis -rokotteella (aP-osa DTaP-rokotetta). Sitä annetaan 3, 5 ja 12 kk:n ikäisille lapsille ja tehosteet 4 v:n ja 14–15 v:n iässä. Aikuisille tehoste annetaan 25 v:n iässä, asevelvollisille ja raskaana oleville. Rokote ei anna elinikäistä eikä täydellistä suojaa.
+
+---
+
+**Oirekuva:**
+
+Hinkuyskä on **puuskainen voimakas yskä,** joka on pienille imeväisille hengenvaarallinen. Kliininen diagnoosi perustuu anamneesiin, etenkin puuskittaisen yskän esiintymiseen. Pienillä, rokottamattomilla lapsilla ilmenee katarraalivaiheessa (1–2 viikkoa) lievää yskää ja nuhaa, joskus myös lievää lämpöilyä. Yskävaiheessa alkaa tulla yskänkohtauksia, joihin voi pienillä lapsilla liittyä inspiratorista stridoria eli hinkumista. Rokotetuilla koululaisilla ja aikuisilla on pääsääntöisesti atyyppinen taudinkuva, johon ei liity hinkumista. Yskänpuuskat esiintyvät etenkin öisin ja päättyvät usein limaoksenteluun. Kohtaukset jatkuvat tiheinä 1–4 viikon ajan, minkä jälkeen ne harvenevat. Ne saattavat uusiutua uuden hengitysteiden virusinfektion aikana. Yskävaiheessa potilas on kuumeeton. CRP ja lasko ovat tavallisesti normaalit. Hinkuyskä voi aiheuttaa pienille, rokottamattomille lapsille voimakasta lymfosytoosia, joka on vakavan taudin merkki. Lymfosytoosi johtuu voimakkaasta pertussistoksiinin vaikutuksesta, joka voi johtaa pulmonaalihypertensioon.
+
+Kouluikäinen hinkuyskäpotilas tuodaan yleensä vastaanotolle viikkoja tai kuukausia kestäneen yskän takia. Yskä kuvataan usein poikkeuksellisen voimakkaaksi ja lähes aina puuskittaiseksi. Usein potilaat kuvaavat tautia yskäksi, jonka kaltaista heillä ei ole koskaan ennen ollut. Yli kuukauden kestoinen yskä on usein hinkuyskää ja vaatii aina tarkempia tutkimuksia.
+
+---
+
+Diagnostiikka: 
+
+Imeväisillä - ja varsinkin rokottamattomilla lapsilla - hinkuyskä etenee nopeasti, ja oireita, kuten hengityspysähdyksiä, osataan jo ensimmäisenä tartunnan jälkeisenä viikkona epäillä hinkuyskän aiheuttamiksi. Tällöin taudin toteamiseen käytetään geenimonistustestiä **BopeNhO.** PCR-testin ottoon käytetään Copan-nukkatikkua tai dacron-vanutikkua. Isommilla lapsilla ja aikuisilla pääoire on pitkittynyt yskä, ja usein hinkuyskää ei ensimmäisinä viikkoina osata epäillä. Potilaan tilaa jäädään ainoastaan seuraamaan. Kun oireet pitkittyvät ja oireet ovat kestäneet 3–4 viikkoa, suorat osoitusmenetelmät eivät ole enää kovin herkkiä. Tässä vaiheessa seerumin vasta-ainetasot alkavat nousta, ja diagnostiikassa käytetään ensisijaisesti serologiaa **S-BopeAb.** Serologiaa ei pidä käyttää rokotetuilla alle 2-vuotiailla eikä vuoden sisällä rokotuksen jälkeen. Negatiivinen serologia ei sulje pois hinkuyskädiagnoosia, koska testin herkkyys on usein vain 50–60 %. 
+
+Suomessa hinkuyskää esiintyy jatkuvasti, mutta varsin vähän. Vuonna 2017 laboratoriotestein diagnosoituja tapauksia oli 399, ja viimeisen epidemian aikana vuonna 2004 todettiin 1 631 tapausta. Sairaalahoitoa vaatii vuosittain keskimäärin parikymmentä imeväistä. Vaarallista hinkuyskää esiintyy etenkin alle 3 kk:n ikäisillä ja rokottamattomilla tai osittain rokotetuilla imeväisillä. Koska rokotteen antama suoja on lyhytaikainen, hinkuyskää esiintyy puuskaisena yskänä myös koululaisilla ja aikuisilla.
+
+---
+
+Pienet, erityisesti rokottamattomat imeväiset tulee aina toimittaa sairaalahoitoon. Mikrobilääkkeenä käytetään imeväisillä _atsitromysiiniä_ 10 mg/kg/vrk 5 vrk:n ajan, yli 6 kk:n ikäisillä aloitusannos 10 mg/kg/vrk (max 500 mg) ja sitten 4 päivän ajan 5 mg/kg/vrk (max 250 mg). Isommille lapsille ja aikuisille ensimmäisenä päivänä 500 mg ja sitten 4 päivän ajan 250 mg/vrk. Vaihtoehtoisesti voidaan käyttää roksitromysiiniä tai klaritromysiiniä. Amoksisilliinista tai kefalosporiineista ei ole hyötyä. Hoidon päätavoitteena on tartuttavuuden ja leviämisen vähentäminen. Jotta hoito auttaa oireisiin, se tulee aloittaa hinkuyskäepäilyn herättyä mahdollisimman pian. Käytännössä hoito aloitetaan heti PCR-näytteen ottamisen jälkeen, jos oireet ja epidemiologinen tilanne viittaavat hinkuyskään. Yli kuukauden oireilleita ei kannata hoitaa. Toistuvista mikrobilääkekuureista ei ole hyötyä.
+
+Jos hinkuyskäpotilaan perheessä on alle 6 kk:n ikäisiä lapsia tai yli 36. raskausviikolla oleva, koko perheelle annetaan mikrobilääkeprofylaksi riippumatta oirekuvasta tai rokotusstatuksesta.
+
+Eristysaika on 5 vrk mikrobilääkehoidon alusta. Jos oireita on ollut yli 3 viikon ajan, ei eristystä tarvita.
+
+  </div>
+</div>
+
+#### Onko VZV-rokote MPR-rokotteessa?
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Ei
+
+MPR-rokote sisältää tuhkarokko-, sikotauti- ja vihurirokon vastaiset rokotteen. Rokote on ns. elävä-heikennetty eli se sisältää eläviä tuhkarokko-, sikotauti- ja vihurirokkoviruksia, joiden kykyä aiheuttaa tautia on heikennetty merkittävästi.
+
+VZV eli varicella zoster -virus tarkoittaa vesirokkovirusta. Vesirokkorokote kyllä voidaan antaa MPR-rokotteen kanssa yhdistelmärokotteena 6v iässä ns. MPRV-rokotteena (MPR:n ja vesirokon 2. annos), mutta vesirokkorokote ei sisälly tyypilliseen MPR-rokotteeseen. MPR:n ensimmäinen annos siis annetaan yleensä 12kk iässä ja vesirokko 1.5v iässä. Toiset annokset sitten annetaan rutiinisti yhdistelmärokotteena 6v iässä.  
+
+![](images/rokotusohjlema.png)
+![](images/rok1.png)
+  </div>
+</div>
 
 #### Ruoka-aineallergia aiheuttaa keskivaikeaa atooppista ekseemaa–angioödeemaa; O/V {#Ruoka-aineallergia-ihottuma}
 
-#### < 3v astmariskin pääkriteerit {#Astmariskin-paakriteerit}
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin(/oikein)
+
+Atooppinen ekseema ≠ allergia, mutta allergiat tulee kyllä selvittää keskivaikeaa tai vaikeaa atooppista ihottumaa sairastavalta lapselta. Sinänsä siis väite, että ruoka-aineallergia aiheuttaisi atooppista ekseemaa on väärin (atooppinen ekseema johtuu heikentyneestä ihon barrieritoiminnasta), mutta se voi olla atooppisen ekseeman pahentava tekijä ja jos pienellä lapsella ihottumaan hyvin toteutettu paikallishoito ei tehoa, voi allergiaselvitykset olla aiheellisia. 
+
+Sinänsä kuitenkin voisi myös hyvinkin ajatella myös niin, että ruoka-aineallergia on aiheuttamassa tätä atooppisen ekseeman vaikeusasteen nousua ja varsinkin angioödeemaa. Riippuu vähän siitä, miten tulkitsee kysymyksen. 
+
+![](images/oireet.png)
+  </div>
+</div>
 
 #### Onko atooppinen ekseema allergia 
 
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Ei
+
+Atooppinen ekseema ei ole allergiaa, kuten juuri yllä kerrotiin jo etukäteen. **Se ei aina ole edes sinänsä atopiaan viittaava.** Vaikka nimessä on "atooppinen", niin IgE:n rooli atooppisen ekseeman tautiprosessissa on epäselvä. Atooppisen ekseeman tausta on monitekijäinen: perimä, ihon suojakerroksen häiriöt ja immuunijärjestelmän poikkeava toiminta. Atooppisessa ekseemassa on siis käynnissä useita toisiaan voimistavia prosesseja.
+
+<li>Ihon suojakerroksen häiriön taustalla on usein ihon rakenneproteiinien (kuten erityisesti filaggriinin) puute, mikä tekee ihosta helpommin läpäisevän. Kosteus haihtuu helpommin ja ulkoiset ärsykkeet, kuivuus, kuumuus, hikoilu tai bakteerit pääsevät aiheuttamaan tulehdusta ilman varsinaista allergista reaktiotakin. Myös aktiivinen ihon tulehdus vähentää filaggriinin määrää ihossa, millä saattaa olla suurempi merkitys kuin perinnöllisellä taipumuksella. Siksi on tärkeää, että ihottuma hoidetaan mahdollisimman hyvään kuntoon ja ihon läpäisyeste pääsee korjaantumaan.</li>
+<li>Muita tekijöitä ovat mm. ihon keratiinikerroksen rasvahappokoostumuksen poikkeavuus, ihon pH:n poikkeavuus (terve iho on hapan, pH-arvoltaan 4–6, mutta atooppinen iho on emäksinen. Atooppisen ihon vähäinen hikoilu ja poikkeava rasvahappokoostumus suurentavat pH-arvoa) sekä atooppisen ihon bakteerikannan monimuotoisuuden aleneminen.</li>
+<li>Geenimuutosten lisäksi immuunijärjestelmän kehittymistä tyypin 2 tulehduksen suuntaan voivat muokata epigeneettiset eli geenien ilmentymistä säätelevät tekijät. Epigeneettisten mekanismien kautta atooppisen ekseeman riskiin vaikuttavat monet ympäristötekijät, osa niistä jo sikiövaiheessa. Atooppisen ekseeman riskiä nostaa äidin raskaudenaikainen tupakointi ja altistuminen ympäristösaasteille. Tietyt probioottisten bakteerien kannat, esimerkiksi Lactobacillus rhamnosus, vähentävät atooppisen ekseeman riskiä, jos niitä käytetään jo loppuraskaudesta ja jatketaan syntymän jälkeen.</li>
+<li>Kutina ja raapiminen -> noidankehä</li>
+
+  </div>
+</div>
+
 #### Onko akuutissa astmassa ja kroonisessa astmassa sama ICD-10 alku?
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Ei
+
+Akuutti astma = J46
+
+Astman pitkäaikaisdiagnoosit = J45 
+
+![](images/j46.png)
+![](images/j45.png)
+  </div>
+</div>
 
 #### Tetanusrokotus: perustuuko laumasuojaan
 
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Ei
+
+Tetanus- eli jäykkäkouristusrokotus ei perustu laumasuojaan, vaan se **antaa ainoastaan yksilöllisen suojan rokotetulle henkilölle.**
+
+Tetanuksen aiheuttava Clostridium tetani -bakteeri _ei tartu ihmisestä toiseen._ **Bakteerin itiöitä esiintyy luonnossa yleisesti maaperässä,** pölyssä ja eläinten ulosteissa. Tartunnan saa aina suoraan ympäristöstä, kun bakteerin itiöitä pääsee rikkoutuneelle iholle, haavaan tai palovammaan. Siten muiden ihmisten ottamat rokotukset eivät vähennä bakteerin määrää ympäristössä eivätkä suojaa rokottamatonta yksilöä tartunnalta.
+
+---
+
+Jäykkäkouristus ehkäistään rokotuksilla (ensimmäinen tehoste 25-vuotiaille dtap-yhdistelmärokotteena; tehosteet annetaan 20 v:n välein (tehoste 45- ja 65-vuotiaille). Yli 65-vuotiaille tehoste 10 v:n välein) ja likaisten haavojen hyvällä hoidolla.
+
+Rokottamattomien tauti tulee tunnistaa varhaisvaiheessa. Aluksi paikallinen haavainfektio, jossa bakteerit lisääntyvät ja tuottavat toksiinia. Päivien tai viikkojen kuluttua kehittyy yleissairaus eli luurankolihasten kouristelut, jotka alkavat tyypillisesti puremalihaksista (leukalukko). Paikallisessa taudissa esiintyy vammakohdan läheisyydessä lihasjäykkyyttä ja kivuliaita lihaskouristuksia. 
+
+Diagnoosi on kliininen: lihasjäykkyys- tai kouristusoireet potilaalla, jonka rokotesuoja on puutteellinen ja anamneesissa on tetanukselle altistava vamma.
+
+Hoidossa ilmatien varmistus ja tukihoito mikrobi- ja kouristuslääkkeineen sekä sedaatioineen vaatii useimmiten tehohoitoa. Kuolleisuus on tehohoidossakin huomattava. Hoidon kulmakiviä ovat ihmisperäinen antitetanusimmunoglobuliini ja haavan puhdistus. Ensisijainen lääke on metronidatsoli p.o. tai i.v. Aikuisten annos on 500 mg × 3 ja lasten 30 mg/kg/vrk kolmena annoksena. Vaihtoehtona on G-penisilliini. Immunisaatio aloitetaan toipilasaikana.
+
+![](images/tehosteet.png)
+
+  </div>
+</div>
+
 #### Angioödeema on vaikeampi urtikarian muoto {#Angioedeema-vaikeampi}
 
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+
+Angioödeema ja urtikaria ovat erillisiä prosesseja eikä angioödeeman voi sinänsä suoraan sanoa olevan vaikeampi muoto urtikariasta, vaikka niissä onkin yhteisiä piirteitä ja samankaltaisia syntymekanismeja ja voivat esiintyä usein yhdessä samalla potilaalla. Angioödeeman voi paremmin ajatella olevan **syvempi muoto** urtikariasta ja siinä turvotus sijaitsee ihon alaosissa ja ihon alla olevassa rasvakudoksessa. 
+
+![](images/urt3.png)
+![](images/urt2.png)
+![](images/urt1.png)
+![](images/urt4.png)
+![](images/urt5.png)
+  </div>
+</div>
 
 ## 2025
 
@@ -272,7 +992,7 @@ Lapsilla on myös monia muita unihäiriöitä, kuten parasomnioita ja obstruktii
 
 Ei tarkempaa kysymyksenasettelua wikissä. Käy läpi päässäsi lasten astman pahenemisvaiheen hoito (vaikka niin alle kuin yli 6-vuotiaiden). 
 
-Käy myös läpi astman pääpiirteet, diagnostiikka (ikäryhmittäin) ja hoidon perusperiaatteet; ei ole ilmeisesti muuten tärpeissä ollenkaan tätä kokonaisuudessaan kysytty, joten käydään läpi nyt. 
+Käy myös läpi astman pääpiirteet, diagnostiikka (ikäryhmittäin) ja hoidon perusperiaatteet; ei ole ilmeisesti muuten tärpeissä ollenkaan tätä kokonaisuudessaan kysytty (2026 uutena kysymyksenä kylläkin diagnostiikka alle 3-vuotiailla), joten käydään läpi nyt. 
 
 <div class="">
   <button class="solution-button"
@@ -416,7 +1136,7 @@ Oskillometriassa siis mitataan hengitysteiden resistanssia (Rrs; myös reaktanss
 
 ---
 
-**Kouluikäisillä taudinmääritys kouluikäisillä tukeutuu spirometriaan (ja bronkodilataatiokokeeseen) ja yli 12-vuotiailla spirometriaan ja/tai PEF-seurantaan** (usein kuitenkin rasittavaa lapselle ja perheelle tämäkin, joten riippuu hieman potilaasta) kuten aikuisilla. PEF-seurannassa siis kotona puhalletaan 2 viikon ajan samaan aikaan 3 kertaa toistettuna aamuin ja illoin ennen avaavan lääkkeen käyttöä (salbutamoli 0.4 mg) ja 15 minuuttia sen jälkeen. 
+**Kouluikäisillä taudinmääritys tukeutuu spirometriaan (ja bronkodilataatiokokeeseen) ja yli 12-vuotiailla spirometriaan ja/tai PEF-seurantaan** (usein kuitenkin rasittavaa lapselle ja perheelle tämäkin, joten riippuu hieman potilaasta) kuten aikuisilla. PEF-seurannassa siis kotona puhalletaan 2 viikon ajan samaan aikaan 3 kertaa toistettuna aamuin ja illoin ennen avaavan lääkkeen käyttöä (salbutamoli 0.4 mg) ja 15 minuuttia sen jälkeen. 
 
 Spirometriassa diagnostista on bronkodilataatiossa FEV1:n tai FVC:n paraneminen vähintään 12 % ja 200 ml tai se, että FEV1 pienenee merkitsevästi (vähintään 15 %) rasituskokeessa. Lapsilla rasituskoe on usein herkin astman diagnostiikan väline. PEF-seurannassa taas PEF-arvojen merkitsevä (vähintään 20 % ja 60 l/min ja vähintään 3 kertaa/2 viikkoa) vuorokausivaihtelu tai PEF-arvojen merkittävä suureneminen (vähintään 15 % ja 60 l/min ja vähintään 3 kertaa/2 viikkoa).  PEF-seurannan luotettavuus ei ole varsinkaan <12-vuotiailla lapsilla yhtä hyvä kuin aikuisilla. 
 
@@ -2794,7 +3514,7 @@ Esimerkiksi lonkkanivelen tulehduksissa ei yleensä näy tai tunnu ulkoista turv
   <div class="solution-content">
       Totta
 
-**Pienet, erityisesti rokottamattomat imeväiset tulee aina toimittaa sairaalahoitoon.**
+**Pienet, erityisesti rokottamattomat imeväiset tulee aina toimittaa sairaalahoitoon.** Imeväisillä hinkuyskä etenee nopeasti ja voi aiheuttaa erityisesti hengityspysähdyksiä kohtausten yhteydessä. Voi olla fataali, jonka takia lapsi vaatii usein tarkkaa seurantaa ja hoidon aloituksen (atsitromysiini) sairaalassa. 
 
 Mikrobilääkkeenä käytetään imeväisillä _atsitromysiiniä_ 10 mg/kg/vrk 5 vrk:n ajan, yli 6 kk:n ikäisillä aloitusannos 10 mg/kg/vrk (max 500 mg) ja sitten 4 päivän ajan 5 mg/kg/vrk (max 250 mg). Isommille lapsille ja aikuisille ensimmäisenä päivänä 500 mg ja sitten 4 päivän ajan 250 mg/vrk. Vaihtoehtoisesti voidaan käyttää roksitromysiiniä tai klaritromysiiniä. Amoksisilliinista tai kefalosporiineista ei ole hyötyä. Hoidon päätavoitteena on tartuttavuuden ja leviämisen vähentäminen. Jotta hoito auttaa oireisiin, se tulee aloittaa hinkuyskäepäilyn herättyä mahdollisimman pian. Käytännössä hoito aloitetaan heti PCR-näytteen ottamisen jälkeen, jos oireet ja epidemiologinen tilanne viittaavat hinkuyskään. Yli kuukauden oireilleita ei kannata hoitaa. Toistuvista mikrobilääkekuureista ei ole hyötyä.
 
@@ -2805,7 +3525,7 @@ Eristysaika on 5 vrk mikrobilääkehoidon alusta. Jos oireita on ollut yli 3 vii
 ----
 
 
-Hinkuyskän aiheuttaja on **Bordetella pertussis, joka on gram-negatiivinen coccobacillus (eli siis bakteeri).**
+Hinkuyskän aiheuttaja on **Bordetella pertussis, joka on gram-negatiivinen coccobacillus.**
 
 Hinkuyskää vastaan rokotetaan kansallisessa rokotusohjelmassa asellulaarisella pertussis -rokotteella (aP-osa DTaP-rokotetta). Sitä annetaan 3, 5 ja 12 kk:n ikäisille lapsille ja tehosteet 4 v:n ja 14–15 v:n iässä. Aikuisille tehoste annetaan 25 v:n iässä, asevelvollisille ja raskaana oleville. Rokote ei anna elinikäistä eikä täydellistä suojaa.
 
@@ -5773,7 +6493,7 @@ d: Sivuäänen puuttuminen ei poissulje vaikeaa sydänvikaa. Esimerkiksi ASD ei 
   <div class="solution-content">
       d
 
-Lapsen ontuminen on aina selvittelyjä vaativa asia. Ontuminen on lapsella aina merkki jostain: kivusta, liikerajoituksesta tai mekaanisesta ongelmasta alaraajassa tai lantiossa. Lapsi ei ontu "tottumuksesta" tai syyttä, minkä vuoksi syy on aina selvitettävä – vaikka kyseessä olisi useimmiten vaaraton ja itsestään ohi menevä vaiva.
+Lapsen ontuminen on aina selvittelyjä vaativa asia. Ontuminen on lapsella aina merkki jostain: kivusta, liikerajoituksesta tai mekaanisesta ongelmasta alaraajassa tai lantiossa. Lapsi ei onnu "tottumuksesta" tai syyttä, minkä vuoksi syy on aina selvitettävä – vaikka kyseessä olisi useimmiten vaaraton ja itsestään ohi menevä vaiva.
 
 Etenkin pienen lapsen on vaikea paikantaa kipua tarkkaan, joten alaraajat on syytä tutkia lonkista varpaisiin erikseen luurakenteiden ja nivelten liikkeiden osalta. Säteilykipu on tavallista (erityisesti lonkkanivelen ongelmat tuntuvat tyypillisesti kipuna reidessä tai polvessa). Vanhemmilta pyritään selvittämään mahdolliset vammat tai infektio-oireet. 
 
@@ -6017,7 +6737,7 @@ Jos taas enemmänkin sepsiskuva, niin voidaan mahdollisesti aloittaa iv-ab jo en
   </button>
   <div class="solution-content">
       
-Lapsen ontuminen on aina selvittelyjä vaativa asia. Ontuminen on lapsella aina merkki jostain: kivusta, liikerajoituksesta tai mekaanisesta ongelmasta alaraajassa tai lantiossa. Lapsi ei ontu "tottumuksesta" tai syyttä, minkä vuoksi syy on aina selvitettävä – vaikka kyseessä olisi useimmiten vaaraton ja itsestään ohi menevä vaiva.
+Lapsen ontuminen on aina selvittelyjä vaativa asia. Ontuminen on lapsella aina merkki jostain: kivusta, liikerajoituksesta tai mekaanisesta ongelmasta alaraajassa tai lantiossa. Lapsi ei onnu "tottumuksesta" tai syyttä, minkä vuoksi syy on aina selvitettävä – vaikka kyseessä olisi useimmiten vaaraton ja itsestään ohi menevä vaiva.
 
 
 Anamneesissa: 
