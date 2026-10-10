@@ -336,13 +336,15 @@ Tässä nyt neljä: SDQ, Keskittymiskysely, ADHD-RS, Viivi (5-15R, FTF, five-to-
   </button>
   <div class="solution-content">
 
-lapsen, vanhempien ja isovanhempien 
+lapsen, nykyperheen ja vanhempien primaariperheiden 
 
 ---
 
-Perheen toiminnan ja sisäisten vuorovaikutussuhteiden tarkastelussa on tärkeää ottaa huomioon myös vanhempien primaariperheiden vaikutus. Äidin ja isän kokemukset ja kasvatus vaikuttavat myös heidän näkemyksiinsä ja toimintatapoihin. 
+Perheen toiminnan ja sisäisten vuorovaikutussuhteiden tarkastelussa on tärkeää ottaa huomioon myös vanhempien primaariperheiden (eli siis esim. isovanhempien kasvatustyyli, kokemukset lapsuuessa yms) vaikutus. Äidin ja isän kokemukset ja kasvatus vaikuttavat myös heidän näkemyksiinsä ja toimintatapoihin. 
 
 Tietysti myös geneettiset tekijät vaikuttavat perheen lapsien riskeihin ja on hyvä selvittää vanhempienkin vanhempien taustoja.
+
+![](images/kolme.png)
   </div>
 </div>
 
@@ -361,6 +363,10 @@ Taustatietojen keruu
 Yksilötapaamiset + psykologiset testit ja mahdollisesti ryhmätilanteessa havainnointi
 
 Tutkimuspalaute + jatkosuositukset 
+
+---
+
+Tai jos haettiin psykologisen arvioinnin tasoja, niin ne ovat: konsultaatio, kartoitus ja arvio
 
 ![](images/psyk1.png)
 ![](images/psyk2.png)
@@ -410,7 +416,7 @@ Vielä erityisesti maahanmuuttajaperheiden lapsille ja nuorille suositellaan nar
   <div class="solution-content">
       Väärin 
       
-Riippuu lähteestä, joten vähän huono kysymys. Käypä Hoidon mukaan arviot periytyvän komponentin osuudesta vaihtelevat välillä 74–88 %. Kyseessä on yksi periytyvimmistä (neuro)psykiatrisista häiriöistä.
+Käypä Hoidon mukaan arviot periytyvän komponentin osuudesta vaihtelevat välillä 74–88 %. Kyseessä on yksi periytyvimmistä (neuro)psykiatrisista häiriöistä.
 
 ---
 
@@ -420,6 +426,7 @@ ADHD:n periytymisen todennäköisyys perheissä on huomattavan korkea. Jos vanhe
 
 Kyse on alttiudesta, ei varmasta periytymisestä.
 
+![](images/periytyvyys.png)
   </div>
 </div>
 
@@ -556,6 +563,7 @@ Autismikirjon seulontaan soveltuvia oirekyselylomakkeita ja arviointimenetelmiä
       
 Neuvolapsykologi on sekä lasten- että äitiysneuvolan käytettävissä -- ei ole rajattu vain jompaankumpaan. 
 
+![](images/neuvolapsy.png)
   </div>
 </div>
 
@@ -1072,6 +1080,7 @@ Vahvojen toimintaa ohjaavien normien ulkopuolelle jäämisen aiheuttamaa kuormit
       
 Psykologin kartoitus on monissa tilanteissa riittävä tapa selvittää lapsen tai nuoren oppimis- tai neuropsykiatrisia vaikeuksia, vuorovaikutusta, psyykkistä vointia tai tunne-elämää.
 
+![](images/psykologi.png)
   </div>
 </div>
 
