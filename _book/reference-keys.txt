@@ -440,7 +440,7 @@ mikä-on-tf-kkt
 Vaittamat-2026
 adhdn-periytyvyys-on-40-50
 Mas-ahd-adhd
-Huolimattomuusvirheet-tarkaamattomuus
+Huolimattomuusvirheet-tarkkaamattomuus
 ADHD-ylivilkkaus-tai-hidastuminen
 komplisoitumattoman-adhdn-voi-hoitaa-pthssa
 EPDS-tismi

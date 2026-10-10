@@ -67,7 +67,7 @@ Vanhemman haastattelun perusteella on siis hyödyllistä tehdä lapsen kehityska
   
 **Esimerkiksi sydämentykytys, hikoilu, vapina**
 
-Tai yleisemmin ajateltuna esim. **autonomisen kiihotustilan oireet, rinnan/Vatsan alueen oireet ja psyykkiset oireet**
+Tai yleisemmin ajateltuna esim. **autonomisen kiihotustilan oireet, rinnan/vatsan alueen oireet ja psyykkiset oireet**
 
 ---
       
@@ -136,11 +136,11 @@ ylivilkkaus, levottomuus ja impulsiivisuus
 
 ADHD:n arvioitavat oireet kuuluvat kahteen/kolmeen ryhmään eli tarkkaamattomuuteen ja yliaktiivisuuteen/impulsiivisuuteen (ICD10:ssä yliaktiivisuus/impulsiivisuus ovat erillisiä diagnostisissa kriteereissä, DSM5:ssä eivät). 
 
-Tarvitaan riittävä määrä oireita, jotta voidaan diagnosoida ADHD. ICD10:ssä vaaditaan 6 tarkkaamattomuusoiretta, 3 impulsiivisuusoiretta ja 3 yliaktiivisuusoiretta; DSM5 vaaditaan vähintään 6 oiretta tarkaamattomuudesta tai yliaktiivisuudesta/impulsiivisuudesta. ADHD:stä voidaan tunnistaa kolme ilmenemismuotoa sen mukaan, painottuvatko oireet tarkkaamattomuuteen (pääasiassa tarkkaamaton ilmenemismuoto), yliaktiivisuuteen ja impulsiivisuuteen (pääasiassa yliaktiivis-impulsiivinen ilmenemismuoto) vai esiintyykö kaikkia ydinoireita (yhdistetty ilmenemismuoto). 
+Tarvitaan riittävä määrä oireita, jotta voidaan diagnosoida ADHD. ICD10:ssä vaaditaan 6 tarkkaamattomuusoiretta, 3 impulsiivisuusoiretta ja 3 yliaktiivisuusoiretta; DSM5 vaaditaan vähintään 6 oiretta tarkkaamattomuudesta tai yliaktiivisuudesta/impulsiivisuudesta. ADHD:stä voidaan tunnistaa kolme ilmenemismuotoa sen mukaan, painottuvatko oireet tarkkaamattomuuteen (pääasiassa tarkkaamaton ilmenemismuoto), yliaktiivisuuteen ja impulsiivisuuteen (pääasiassa yliaktiivis-impulsiivinen ilmenemismuoto) vai esiintyykö kaikkia ydinoireita (yhdistetty ilmenemismuoto). 
 
 Tuleva ICD-11-luokitus ei enää määrittele vaadittavien oireiden tarkkaa lukumäärää, vaan kuvaa keskeisiä oireita oireryhminä. 
 
-**Diagnostisesti oireita on ollut jo ennen ikävuotta 12 ((ICD10:ssä virallisesti 7v iässä viimeistään, mutta ennen 12v ICD11 ja DSM5) oireiden arvioimisessa monilähteisen tiedonkeryyn hyödyntäminen), oireet ovat kestäneet vähintään 6kk, oireita on useammalla elämän alueella, on todisteita oireiden haitasta elämässä ja että oireet eivät ole selkesti jostain muusta syystä johtuvia.** Muu psykiatrinen diagnoosi ei ole este ADHD-diagnoosille silloin, kun on kyse selkeästi erillisistä mutta samanaikaisista häiriöistä. Erotusdiagnostiikan luotettavuuden kannalta olisi hyvä, että psykiatrista oireistoa tai päihdehäiriötä olisi yritetty hoitaa ennen ADHD:n tutkimista, mutta hoitoresistentissä tilanteessa arviota voidaan yrittää erikoissairaanhoidossa tehdä.
+**Diagnostisesti oireita on ollut jo ennen ikävuotta 12 ((ICD10:ssä virallisesti 7v iässä viimeistään, mutta ennen 12v ICD11 ja DSM5) oireiden arvioimisessa on tärkeää monilähteisen tiedonkeryyn hyödyntäminen), oireet ovat kestäneet vähintään 6kk, oireita on useammalla elämän alueella, on todisteita oireiden haitasta elämässä ja että oireet eivät ole selkeästi jostain muusta syystä johtuvia.** Muu psykiatrinen diagnoosi ei ole este ADHD-diagnoosille silloin, kun on kyse selkeästi erillisistä mutta samanaikaisista häiriöistä. Erotusdiagnostiikan luotettavuuden kannalta olisi hyvä, että psykiatrista oireistoa tai päihdehäiriötä olisi yritetty hoitaa ennen ADHD:n tutkimista, mutta hoitoresistentissä tilanteessa arviota voidaan yrittää erikoissairaanhoidossa tehdä.
 
 
 ![](images/dsm5adhd.png)
@@ -272,7 +272,7 @@ Muita mm.
 
 Yleinen stimulanttien haittavaikutus on **ruoanhalun väheneminen,** mikä voi lapsilla johtaa kasvun hidastumiseen. Tämän takia lapsilla kasvun kehityksen seuranta on todella tärkeää. Uni voi myös häiriintyä lääkkeistä. 
 
-Stimulantit voivat myös _nostaa sykettä ja aiheuttaa verenpaineenkin nousua,_ minkä takia kardiovaskulaarianamneesi on tärkeää selvittää ennen hoidon alkua ja jatkaa haitavaikutusten seurantaa hoidossa. Aikuisilla rutiinisti otetaan EKG ennen hoidon aloitusta, mutta lapsilla status ja anamneesi riittää yleensä.
+Stimulantit voivat myös _nostaa sykettä ja aiheuttaa verenpaineenkin nousua,_ minkä takia kardiovaskulaarianamneesi on tärkeää selvittää ennen hoidon alkua ja jatkaa haittavaikutusten seurantaa hoidossa. Aikuisilla rutiinisti otetaan EKG ennen hoidon aloitusta, mutta lapsilla status ja anamneesi riittää yleensä.
 Hyvän hoitovasteen saavuttamisen jälkeen lääkehoitoa arvioidaan säännöllisesti yksilöllisen tarpeen mukaan, alussa tiiviisti ja jatkossakin kuitenkin vähintään kerran vuodessa
 
 <li>Arvion yhteydessä tarkistetaan kokonaistilanne, lääkeannoksen teho ja riittävyys sekä lääkityksen jatkamisen tarve</li>
@@ -340,7 +340,7 @@ lapsen, vanhempien ja isovanhempien
 
 ---
 
-Peheen toiminnan ja sisäisten vuorovaikutussuhteiden tarkastelussa on tärkeää ottaa huomioon myös vanhempien primaariperheiden vaikutus. Äidin ja isän kokemukset ja kasvatus vaikuttavat myös heidän näkemyksiinsä ja toimintatapoihin. 
+Perheen toiminnan ja sisäisten vuorovaikutussuhteiden tarkastelussa on tärkeää ottaa huomioon myös vanhempien primaariperheiden vaikutus. Äidin ja isän kokemukset ja kasvatus vaikuttavat myös heidän näkemyksiinsä ja toimintatapoihin. 
 
 Tietysti myös geneettiset tekijät vaikuttavat perheen lapsien riskeihin ja on hyvä selvittää vanhempienkin vanhempien taustoja.
   </div>
@@ -358,7 +358,7 @@ Tietysti myös geneettiset tekijät vaikuttavat perheen lapsien riskeihin ja on 
       
 Taustatietojen keruu 
 
-Yksilötapaamiset + psykologiset testit ja mahdollisesti ryhmätilanteessa havainnoinnin
+Yksilötapaamiset + psykologiset testit ja mahdollisesti ryhmätilanteessa havainnointi
 
 Tutkimuspalaute + jatkosuositukset 
 
@@ -440,7 +440,7 @@ Masennus tai ahdistuneisuushäiriö voi aiheuttaa mm. toiminnanohjauksen vaikeuk
 </div>
 
 
-#### Huolimattomuusvirheet ja tavaroiden hukkaaminen ovat tyypillisiä tarkkaamattomuuden oireita {#Huolimattomuusvirheet-tarkaamattomuus}
+#### Huolimattomuusvirheet ja tavaroiden hukkaaminen ovat tyypillisiä tarkkaamattomuuden oireita {#Huolimattomuusvirheet-tarkkaamattomuus}
 
 <div class="">
   <button class="solution-button"
@@ -533,7 +533,6 @@ Autismikirjon seulontaan soveltuvia oirekyselylomakkeita ja arviointimenetelmiä
 <li>SCQ (Social Communication Questionnaire, Sosiaalisen kommunikaation kyselylomake). SCQ-lomakkeen Elinikäinen-versio ilmeisesti soveltuu autismikirjon häiriön seulontaan yli 4-vuotiaille. Sen voi täyttää vanhempi tai huoltaja, joka on tuntenut lapsen 4–5 vuoden iässä. Tällä hetkellä -version voi täyttää lisäksi esimerkiksi opettaja tai muu tutkittavan henkilön hyvin tunteva henkilö</li>
 <li>M-CHAT R/FTM (The Modified Checklist for Autism in Toddlers -revised-with follow-up) -seulonnan käyttö 16–30 kuukauden ikäisille saattaa aikaistaa autismidiagnoosia</li>
 <li>ASSQ (Autism Spectrum Screening Questionnaire) kartoittaa autistisia piirteitä (sosiaalisen vuorovaikutuksen ja kommunikaation erityispiirteitä sekä rajoittunutta ja toistavaa käyttäytymistä) 7–16-vuotiailta lapsilta ja nuorilta, jotka ovat kognitiivisesti hyvätasoisia tai lievästi älyllisesti kehitysvammaisia. ASSQ-lomakkeen täyttävät opettaja ja vanhemmat. ASSQ-REV on ASSQ:n laajennettu versio, johon on lisätty väittämiä, joiden avulla voidaan tunnistaa paremmin autismikirjon tytöt</li>
-<li>AQ eli autismikirjon osamäärä (Autism Spectrum Quotient) on itsearviointilomake, jonka tarkoituksena on tunnistaa henkilöitä, joille voi olla perusteltua tehdä tarkempi autismikirjon häiriön diagnostinen tutkimus. AQ soveltuu 16 vuotta täyttäneille nuorille ja aikuisille</li>
 <li>AQ eli autismikirjon osamäärä (Autism Spectrum Quotient) on itsearviointilomake, jonka tarkoituksena on tunnistaa henkilöitä, joille voi olla perusteltua tehdä tarkempi autismikirjon häiriön diagnostinen tutkimus. AQ soveltuu 16 vuotta täyttäneille nuorille ja aikuisille</li>
 <li>ESB (Early Sociocognitive Battery) on 2–5 vuoden ikäisten lasten sosiaalisen kognition taitojen arviointimenetelmä, joka on tarkoitettu muun muassa puheterapeuttien ja psykologien käyttöön. Sen avulla voidaan tunnistaa lapsia, joilla on riski kielen kehityksen, sosiaalisen kommunikaation tai autismikirjon häiriöön</li>
 <li>CCC-2-lomakkeen (Children's Communication Checklist) voi täyttää joko vanhempi tai huoltaja tai ammattihenkilö. Sen avulla voidaan seuloa lapsen tai nuoren mahdollinen kielihäiriö, kielen pragmatiikan ongelma ja autismikirjon häiriön piirteet, ja lomakkeen antamaa tietoa voidaan hyödyntää jatkotutkimusten suunnittelussa. Sitä voidaan käyttää apuna myös kuntoutustavoitteiden seuraamisessa</li>
@@ -833,7 +832,7 @@ Kyseessä on impulsiivisuusoire.
 
 ADHD:ssa arvioitavat oireet kuuluvat kahteen ryhmään eli tarkkaamattomuuteen ja yliaktiivisuuteen/impulsiivisuuteen (ICD10:ssä yliaktiivisuus/impulsiivisuus ovat erillisiä diagnostisissa kriteereissä). 
 
-Tarvitaan riittävä määrä oireita, jotta voidaan diagnosoida ADHD. **ICD10:ssä vaaditaan 6 tarkkaamattomuusoiretta, 3 impulsiivisuusoiretta ja 3 yliaktiivisuusoiretta;*** DSM5 vaaditaan vähintään 6 oiretta tarkaamattomuudesta tai yliaktiivisuudesta/impulsiivisuudesta. ADHD:stä voidaan tunnistaa kolme ilmenemismuotoa sen mukaan, painottuvatko oireet tarkkaamattomuuteen (pääasiassa tarkkaamaton ilmenemismuoto), yliaktiivisuuteen ja impulsiivisuuteen (pääasiassa yliaktiivis-impulsiivinen ilmenemismuoto) vai esiintyykö kaikkia ydinoireita (yhdistetty ilmenemismuoto). 
+Tarvitaan riittävä määrä oireita, jotta voidaan diagnosoida ADHD. **ICD10:ssä vaaditaan 6 tarkkaamattomuusoiretta, 3 impulsiivisuusoiretta ja 3 yliaktiivisuusoiretta;*** DSM5 vaaditaan vähintään 6 oiretta tarkkaamattomuudesta tai yliaktiivisuudesta/impulsiivisuudesta. ADHD:stä voidaan tunnistaa kolme ilmenemismuotoa sen mukaan, painottuvatko oireet tarkkaamattomuuteen (pääasiassa tarkkaamaton ilmenemismuoto), yliaktiivisuuteen ja impulsiivisuuteen (pääasiassa yliaktiivis-impulsiivinen ilmenemismuoto) vai esiintyykö kaikkia ydinoireita (yhdistetty ilmenemismuoto). 
 
 Tuleva ICD-11-luokitus ei enää määrittele vaadittavien oireiden tarkkaa lukumäärää, vaan kuvaa keskeisiä oireita oireryhminä. 
 
@@ -1168,7 +1167,7 @@ Kun vanhempien kypsyminen äitiyteen ja isyyteen kehittyy hyvin ja suotuisissa o
 
 Kiintymyssuhteen luoman perusturvallisuuden tunteen turvin lapsi voi tutustua ympäröivään maailmaan ja kohdata sen mukanaan tuomia haasteita tietäen, että hädän tullen hän voi kääntyä turvallisen aikuisen puoleen, jonka kanssa hän on muodostanut vahvan ja luotettavan tunnesiteen. Hyvässä varhaisessa vuorovaikutuksessa lapselle kehittyy hiljalleen perusturvallisuuden tunne, joka on yksi keskeisimmistä varhaislapsuuden kehitystehtävistä ja mahdollistaa vähitellen yhä vapaamman ympäristön tutkimisen. 
 
-Perheen sisäiset konfliktit ja jatkuva riitely tekevät lasten kiintymyssuhteista turvattomia ja organisoitumattomia. Nämä konfliktit saattavat olla esimerkiksi kasvatuksellisia ristiriitoja vanhemman ja lapsen välillä tai pelkästään vanhempien välisiä riitoja, joiden syntyyn voivat vaikuttaa parisuhteen laatu ja hyvin monet perheen elämäntilanteeseen vaikuttavat psykososiaaliset tekijät. Pitkään jatkuessaan ja toistuessaan näillä konflikteilla ja riidoilla on negatiivinen vaikutus lapsen kasvuun ja kehitykseen. Lapset ovat herkkiä havaitsemaan näitä konflikteja ja myös vanhempien välisiä sanattomia viestejä (Davies ja Cummings, 1994). Esimerkiksi alkoholiongelmaisen perheen riidat ovat juomistakin suurempi haitta lapsille.
+Perheen sisäiset konfliktit ja jatkuva riitely tekevät lasten kiintymyssuhteista turvattomia ja organisoitumattomia. Nämä konfliktit saattavat olla esimerkiksi kasvatuksellisia ristiriitoja vanhemman ja lapsen välillä tai pelkästään vanhempien välisiä riitoja, joiden syntyyn voivat vaikuttaa parisuhteen laatu ja hyvin monet perheen elämäntilanteeseen vaikuttavat psykososiaaliset tekijät. Pitkään jatkuessaan ja toistuessaan näillä konflikteilla ja riidoilla on negatiivinen vaikutus lapsen kasvuun ja kehitykseen. Lapset ovat herkkiä havaitsemaan näitä konflikteja ja myös vanhempien välisiä sanattomia viestejä. Esimerkiksi alkoholiongelmaisen perheen riidat ovat juomistakin suurempi haitta lapsille.
   </div>
 </div>
 
@@ -1811,7 +1810,7 @@ ADHD on oirediagnoosi; spesifisiä diagnostisia tutkimuksia ei ole. Diagnoosia e
 
 Tenttivastauksen rakentamisen vihjeitä: 
 
-<li>Vastauksessa tulee tulla ilmi, että aluksi tehdään yleispsykiatrinen tutkimus ja vasta myöhemmin tarkennetaan diagnostiikkaa ADHD:seen. Tärkeintä tässä vastauksessa on antaa pääpiirteet diagnostisista kriteereistä, eli se, että **oireita on ollut jo ennen ikävuotta 12 (tässä monilähteisen tiedonkeryyn hyödyntäminen), oireita on useammalla elämän alueella, on todisteita oireiden haitasta elämässä ja että oireet eivät ole selkesti jostain muusta syystä johtuvia.** Näiden lisäksi tulee tietysti mainita, että arvioitavat oireet kuuluvat kahteen ryhmään eli tarkkaamattomuuteen ja yliaktiivisuuteen/impulsiivisuuteen. Mahdollisesti voi saada täydet/lähes täydet pisteet vastauksesta ilman, että muistaa kaikkia mahdollisia yksittäisiä oireita (koska esim. tulevassa ICD-11:ssa ei edes ole kriteeriä, jonka mukaan pitäisi olla tietty numeromäärä oireita), mutta jos haluaa muistaa kaikki DSM-5-luokituksessa arvioitavat oireet, voi ne muistaa muistisäännöistä **CALLFORFRED ja RUNSFASTT:**</li>
+<li>Vastauksessa tulee tulla ilmi, että aluksi tehdään yleispsykiatrinen tutkimus ja vasta myöhemmin tarkennetaan diagnostiikkaa ADHD:seen. Tärkeintä tässä vastauksessa on antaa pääpiirteet diagnostisista kriteereistä, eli se, että **oireita on ollut jo ennen ikävuotta 12 (tässä monilähteisen tiedonkeryyn hyödyntäminen), oireita on useammalla elämän alueella, on todisteita oireiden haitasta elämässä ja että oireet eivät ole selkeästi jostain muusta syystä johtuvia.** Näiden lisäksi tulee tietysti mainita, että arvioitavat oireet kuuluvat kahteen ryhmään eli tarkkaamattomuuteen ja yliaktiivisuuteen/impulsiivisuuteen. Mahdollisesti voi saada täydet/lähes täydet pisteet vastauksesta ilman, että muistaa kaikkia mahdollisia yksittäisiä oireita (koska esim. tulevassa ICD-11:ssa ei edes ole kriteeriä, jonka mukaan pitäisi olla tietty numeromäärä oireita), mutta jos haluaa muistaa kaikki DSM-5-luokituksessa arvioitavat oireet, voi ne muistaa muistisäännöistä **CALLFORFRED ja RUNSFASTT:**</li>
 
 ![](images/adhdmnemonic.png)
 ![](images/adhddiagn.png)
@@ -2126,7 +2125,7 @@ ADHD:n lääkehoidon voi aloittaa PTH:ssa varsinkin kouluikäisillä lapsilla (t
 
 <li>verenpaineen mittaus</li>
 <li>fokusoitu kardiovaskulaarianamneesi; tarvittaessa kardiologin konsultaatio (käytetyt lääkkeet ovat yleensä stimulantteja (esim. metyylifenidaatti, lisdeksamfetamiini) ja täten kardiovaskulaariongelmat tulee kartoittaa hyvin)</li>
-<li>EKG* (lapsilla yleensä esitiedot (ja sukuanamneesi) ja somaattinen status ((RR, pulssi, auskultaatio yms) riittää ja EKG:ta ei aina tarvita)</li>
+<li>EKG* (lapsilla yleensä esitiedot (ja sukuanamneesi) ja somaattinen status (RR, pulssi, auskultaatio yms) riittää ja EKG:ta ei aina tarvita)</li>
 <li>päihdehäiriöiden poissulku anamnestisesti, kliinisesti ja tarvittaessa laboratoriokokein</li>
 
 ---
@@ -2302,11 +2301,11 @@ Aloita pedagogiset tukitoimet välittömästi – diagnoosia ei tarvitse jääd�
   </button>
   <div class="solution-content">
 
-**Oireita on ollut jo ennen ikävuotta 12 ((ICD10:ssä virallisesti 7v iässä viimeistään, mutta ennen 12v ICD11 ja DSM5) oireiden arvioimisessa monilähteisen tiedonkeryyn hyödyntäminen), oireet ovat kestäneet vähintään 6kk, oireita on useammalla elämän alueella, on todisteita oireiden haitasta elämässä ja että oireet eivät ole selkesti jostain muusta syystä johtuvia.** Muu psykiatrinen diagnoosi ei ole este ADHD-diagnoosille silloin, kun on kyse selkeästi erillisistä mutta samanaikaisista häiriöistä. Erotusdiagnostiikan luotettavuuden kannalta olisi hyvä, että psykiatrista oireistoa tai päihdehäiriötä olisi yritetty hoitaa ennen ADHD:n tutkimista, mutta hoitoresistentissä tilanteessa arviota voidaan yrittää erikoissairaanhoidossa tehdä.
+**Oireita on ollut jo ennen ikävuotta 12 ((ICD10:ssä virallisesti 7v iässä viimeistään, mutta ennen 12v ICD11 ja DSM5) oireiden arvioimisessa monilähteisen tiedonkeryyn hyödyntäminen on tärkeää), oireet ovat kestäneet vähintään 6kk, oireita on useammalla elämän alueella, on todisteita oireiden haitasta elämässä ja että oireet eivät ole selkeästi jostain muusta syystä johtuvia.** Muu psykiatrinen diagnoosi ei ole este ADHD-diagnoosille silloin, kun on kyse selkeästi erillisistä mutta samanaikaisista häiriöistä. Erotusdiagnostiikan luotettavuuden kannalta olisi hyvä, että psykiatrista oireistoa tai päihdehäiriötä olisi yritetty hoitaa ennen ADHD:n tutkimista, mutta hoitoresistentissä tilanteessa arviota voidaan yrittää erikoissairaanhoidossa tehdä.
 
 Arvioitavat oireet kuuluvat kahteen ryhmään eli tarkkaamattomuuteen ja yliaktiivisuuteen/impulsiivisuuteen (ICD10:ssä yliaktiivisuus/impulsiivisuus ovat erillisiä diagnostisissa kriteereissä). 
 
-Tarvitaan riittävä määrä oireita, jotta voidaan diagnosoida ADHD. ICD10:ssä vaaditaan 6 tarkkaamattomuusoiretta, 3 impulsiivisuusoiretta ja 3 yliaktiivisuusoiretta; DSM5 vaaditaan vähintään 6 oiretta tarkaamattomuudesta tai yliaktiivisuudesta/impulsiivisuudesta. ADHD:stä voidaan tunnistaa kolme ilmenemismuotoa sen mukaan, painottuvatko oireet tarkkaamattomuuteen (pääasiassa tarkkaamaton ilmenemismuoto), yliaktiivisuuteen ja impulsiivisuuteen (pääasiassa yliaktiivis-impulsiivinen ilmenemismuoto) vai esiintyykö kaikkia ydinoireita (yhdistetty ilmenemismuoto). 
+Tarvitaan riittävä määrä oireita, jotta voidaan diagnosoida ADHD. ICD10:ssä vaaditaan 6 tarkkaamattomuusoiretta, 3 impulsiivisuusoiretta ja 3 yliaktiivisuusoiretta; DSM5 vaaditaan vähintään 6 oiretta tarkkaamattomuudesta tai yliaktiivisuudesta/impulsiivisuudesta. ADHD:stä voidaan tunnistaa kolme ilmenemismuotoa sen mukaan, painottuvatko oireet tarkkaamattomuuteen (pääasiassa tarkkaamaton ilmenemismuoto), yliaktiivisuuteen ja impulsiivisuuteen (pääasiassa yliaktiivis-impulsiivinen ilmenemismuoto) vai esiintyykö kaikkia ydinoireita (yhdistetty ilmenemismuoto). 
 
 Tuleva ICD-11-luokitus ei enää määrittele vaadittavien oireiden tarkkaa lukumäärää, vaan kuvaa keskeisiä oireita oireryhminä. 
 
@@ -2337,7 +2336,7 @@ ADHD:n lääkehoidon voi aloittaa PTH:ssa varsinkin kouluikäisillä lapsilla (t
 
 <li>verenpaineen mittaus</li>
 <li>fokusoitu kardiovaskulaarianamneesi; tarvittaessa kardiologin konsultaatio (käytetyt lääkkeet ovat yleensä stimulantteja (esim. metyylifenidaatti, lisdeksamfetamiini) ja täten kardiovaskulaariongelmat tulee kartoittaa hyvin)</li>
-<li>EKG* (lapsilla yleensä esitiedot (ja sukuanamneesi) ja somaattinen status ((RR, pulssi, auskultaatio yms) riittää ja EKG:ta ei aina tarvita)</li>
+<li>EKG* (lapsilla yleensä esitiedot (ja sukuanamneesi) ja somaattinen status (RR, pulssi, auskultaatio yms) riittää ja EKG:ta ei aina tarvita)</li>
 <li>päihdehäiriöiden poissulku anamnestisesti, kliinisesti ja tarvittaessa laboratoriokokein</li>
 
 ---
