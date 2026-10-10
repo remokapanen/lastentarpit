@@ -826,10 +826,6 @@ Kyseessä on impulsiivisuusoire.
   <div class="solution-content">
        Väärin
 
-Kyseessä on impulsiivisuusoire. 
-
----
-
 ADHD:ssa arvioitavat oireet kuuluvat kahteen ryhmään eli tarkkaamattomuuteen ja yliaktiivisuuteen/impulsiivisuuteen (ICD10:ssä yliaktiivisuus/impulsiivisuus ovat erillisiä diagnostisissa kriteereissä). 
 
 Tarvitaan riittävä määrä oireita, jotta voidaan diagnosoida ADHD. **ICD10:ssä vaaditaan 6 tarkkaamattomuusoiretta, 3 impulsiivisuusoiretta ja 3 yliaktiivisuusoiretta;*** DSM5 vaaditaan vähintään 6 oiretta tarkkaamattomuudesta tai yliaktiivisuudesta/impulsiivisuudesta. ADHD:stä voidaan tunnistaa kolme ilmenemismuotoa sen mukaan, painottuvatko oireet tarkkaamattomuuteen (pääasiassa tarkkaamaton ilmenemismuoto), yliaktiivisuuteen ja impulsiivisuuteen (pääasiassa yliaktiivis-impulsiivinen ilmenemismuoto) vai esiintyykö kaikkia ydinoireita (yhdistetty ilmenemismuoto). 
@@ -1239,7 +1235,7 @@ Ajan kuluessa tic-oireet muuttuvat motoristen osalta monimutkaisemmiksi liikkeik
   </div>
 </div>
 
-#### ADHD:ta esiintyy yhtä paljon tytöillä ja pojilla {ADHD-tytot-pojat}
+#### ADHD:ta esiintyy yhtä paljon tytöillä ja pojilla {#ADHD-tytot-pojat}
 
 <div class="">
   <button class="solution-button"
@@ -1365,6 +1361,66 @@ Psykologisia tai neuropsykologisia tutkimuksia varten tarvitaan aina selkeä ja 
 
 ![](images/selkea.png)
 ![](images/kysymys.png)
+  </div>
+</div>
+
+#### Lapselle huomauttaminen tic-oireista parantaa tilannetta
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+
+Lapsen tic-oireisiin huomion kiinnittäminen tai niistä huomauttaminen ei yleensä paranna tilannetta, vaan se **voi usein päinvastoin pahentaa oireita.** Jatkuva huomauttaminen tekee lapsen tietoiseksi kehonsa liikkeistä tai äänistä, mikä nostaa stressitasoa ja ahdistusta. Stressi ja jännitys tyypillisesti voimistavat tic-oireita.
+
+---
+
+Tärkeintä "hoidossa" on oirekuvaan liittyvä tieto, neuvonta ja ohjaus niin lapselle ja hänen perheelleen kuin lähiympäristölle (päivähoito, koulu), sopeutumisvalmennus, vertaistuki sekä lapsen yleisen sosiaalisen selviytymisen tukeminen. Neuvonta ja ohjaus voidaan tehdä perusterveydenhuollossa.
+
+Hoidon tavoitteena on tic-oireiden lievittäminen. Seurannassa voidaan käyttää apuna esim. Yale Global Tic Severity Scale -lomaketta.
+
+Käyttäytymisterapeuttinen hoito ja/tai lääkehoito on perusteltua, jos tic-oireet häiritsevät lasta tai ne aiheuttavat toiminnallista tai sosiaalista haittaa. Ensisijaisesti suositellaan käyttäytymisterapeuttista hoitoa. Jos lapsi tarvitsee terapiaa tai lääkehoitoa, niiden suunnittelu kuuluu asiaan perehtyneelle erikoislääkärille (esim. lastenpsykiatri tai lastenneurologi paikallisen hoitokäytännön mukaisesti).
+
+Lääkehoitoa voidaan harkita tilanteissa, joissa muista interventioista ei ole riittävää hyötyä ja tic-oireet ovat jatkuvia ja/tai intensiivisiä ja niistä aiheutuu toiminnallista haittaa, kipuja tai jatkuvia sosiaalisia ongelmia tai ne vaikuttavat kielteisesti tunne-elämään. Ensisijaisena lääkehoitona käytetään antidopaminergisiä lääkkeitä, kuten aripipratsolia tai risperidonia. 
+  </div>
+</div>
+
+#### Ryhmäkoko vaikuttaa lapsen oppimiskykyyn {#Ryhmakoko}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Ryhmäkoolla on tutkimusten mukaan yhteys oppimiseen ja oppimisympäristön laatuun, vaikka sen vaikutus ei ole täysin suoraviivainen ja riippuu useista taustatekijöistä. 
+
+  </div>
+</div>
+
+#### Ankaruus ehkäisee käytöshäiriöitä {#Ankaruus}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+
+Tutkimusnäytön mukaan ankaruus (kuten kovat rangaistukset, pelolla johtaminen tai kylmä ja kontrolloiva kasvatustyyli) ei ehkäise käytöshäiriöitä, vaan voi päinvastoin lisätä niitä. Tehokkain tapa ehkäistä ja hoitaa käytösoireita on yhdistää lämpö (myönteisen käyttäytymisen vahvistaminen (kehu ja huomiointi)), läsnäolo ja selkeät, johdonmukaiset rajat eli ennakoitavuus.
+
+Tähän perustuu myös käytöshäiriöiden hoito eli annetaan tarvittavaa tukea vanhemmuuteen, kasvatuksellisiin kysymyksiin ja vanhempien omiin ongelmiin. 
+
+![](images/ankaruus.png)
   </div>
 </div>
 
