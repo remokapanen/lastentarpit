@@ -130,7 +130,7 @@ Ajatusten tasolla voidaan edetä myös kyseisen tilanteen ulkopuolelle; esim. pu
   </button>
   <div class="solution-content">
   
-ylivilkkaus, levottomuus ja impulsiivisuus
+tarkkaamattomuus (keskittymiskyvyttömyys), yliaktiivisuus ja impulsiivisuus
 
 ---
 
@@ -326,7 +326,7 @@ Tässä nyt neljä: SDQ, Keskittymiskysely, ADHD-RS, Viivi (5-15R, FTF, five-to-
   </div>
 </div>
 
-### Kolmen sukupolven mallissa perehdytään ---, --- ja --- asioihin {#3-sukupolven-mallissa}
+#### Kolmen sukupolven mallissa perehdytään ---, --- ja --- asioihin {#3-sukupolven-mallissa}
 
 <div class="">
   <button class="solution-button"
@@ -368,7 +368,7 @@ Tutkimuspalaute + jatkosuositukset
   </div>
 </div>
 
-### Mikä on TF-KKT? 
+#### Mikä on TF-KKT? 
 
 <div class="">
   <button class="solution-button"
