@@ -90,19 +90,19 @@ Kyllä, löydös on poikkeava ja edellyttää lastenneurologin arviota.
 
 Normaalissa motorisessa kehityksessä varhaisheijasteiden (kuten moro ja ATNR) tulisi yleensä 4 kuukauden iässä jo vaimentua tai olla väistymässä; yleensä 4-5kk asti säilyminen on epäilyttävää ja yli 6kk jo huolestuttavaa. Niiden voimakas esiintyminen estää tahdonalaisen motoriikan, kuten käsien tuomisen keskiviivaan, tarttumisen ja kääntymisen harjoittelun. 
 
-Voimakas ekstensiotonus (ojentajaylijännite, vartalon taakseveto, jalkojen ojennus; kehoon, päähän tai raajoihin tulee ojennustaipumus) on vauvoilla hälyttävä merkki, sillä vauvan asennonhallinnan tulisi olla usein pääasiassa normitonuksisesti koukistuksellinen eikä hypertonisesti eksensiivinen. 
+Voimakas ekstensiotonus (ojentajaylijännite, vartalon taakseveto, jalkojen ojennus; kehoon, päähän tai raajoihin tulee ojennustaipumus) on vauvoilla hälyttävä merkki, sillä vauvan asennonhallinnan tulisi olla usein pääasiassa normitonuksisesti koukistuksellinen eikä hypertonisesti ekstensoiva. 
 
 Oirekuva viittaa ensisijaisesti ylemmän motoneuronin vaurioon tai keskushermoston säätelyhäiriöön.
 
 ---
 
-Erotusdiagnostiikkaan kuuluu ensisijaisesti **CP-vamma** (sikiöaikana, vastasyntyneisyysvaiheessa tai varhaislapsuudessa tapahtuneen keskushermoston liikettä säätelevien, kehittyvien alueiden kertavauriota, jonka seurauksena on kehittynyt pysyvä ei-etenevä aivovaurio ja liikuntavamma), mutta myös mm. keskushermoston synnynnäiset rakennepoikkeavuudet, geneettiset oireyhtymät ja aineenvaihduntasairaudet. Periaatteessa myös Sandiferin oireyhtymän (GERD aiheutaa spastisen tortikolliksen tai ekstension (lapsi yrittää kaulan asennolla hallita suuhun pyrkivää refluksia), raudanpuuteanemian ja rumpupalikkosormet) voi pitää mielessään harvinaisena syynä vauvan oudoille vartaloasennoille, tosin se ei aiheuttaisikaan varhaisheijasteiden poikkeavaa säilymistä. 
+Erotusdiagnostiikkaan kuuluu ensisijaisesti **CP-vamma** (sikiöaikana, vastasyntyneisyysvaiheessa tai varhaislapsuudessa tapahtuneen keskushermoston liikettä säätelevien, kehittyvien alueiden kertavauriota, jonka seurauksena on kehittynyt pysyvä ei-etenevä aivovaurio ja liikuntavamma), mutta myös mm. keskushermoston synnynnäiset rakennepoikkeavuudet, geneettiset oireyhtymät ja aineenvaihduntasairaudet. Periaatteessa myös Sandiferin oireyhtymän (GERD aiheuttaa spastisen tortikolliksen tai ekstension (lapsi yrittää kaulan asennolla hallita suuhun pyrkivää refluksia), raudanpuuteanemian ja rumpupalikkasormet) voi pitää mielessään harvinaisena syynä vauvan oudoille vartaloasennoille, tosin se ei aiheuttaisikaan varhaisheijasteiden poikkeavaa säilymistä. 
 
 ---
 
 Tämä potilas tarvitsee lähetteen erikoissairaanhoitoon lastenneurologialle. Ennen lähetteen laatimista statuksessa ja anamneesissa on olennaista huomioida seuraavat seikat:
 
-<li>Raskaus ja synnytys: Oliko raskausaikana infektioita, poikkeavia uä-löydöksiä, tai oliko synnytyksessä asfyksiaa? Apgar-pisteet? Bilirubiinitasot ja niiden hoito vastasyntyneisyyskaudella?</li>
+<li>Raskaus ja synnytys: Oliko raskausaikana infektioita, poikkeavia uä-löydöksiä tai oliko synnytyksessä asfyksiaa? Apgar-pisteet? Syntymäpituus ja -paino? Raskausviikot? Bilirubiinitasot ja niiden hoito vastasyntyneisyyskaudella?</li>
 <li>Vakavia sairauksia, keskushermostoinfektioita tai pään traumoja taustalla?</li>
 <li>Kohtausoireet: Onko ollut kouristuskohtauksia? Poissaolokohtauksia? Nykimistä? Silmien poikkeavia liikkeitä?</li>
 <li>Päänkasvu: Onko päänympäryksen kasvu taittunut tai kiihtynyt poikkeavasti? Kasvu (pituus, paino) muuten?</li>
@@ -155,7 +155,7 @@ Jos ajattelee, että ei ole kyseessä vaarallinen sekundaarinen syy, niin primaa
 **Erotusdiagnostisesti kyseessä voi olla ainakin mm. migreeni (todennäköisin anamneesin perusteella), aivokasvain/muu kallonsisäistä painetta kohottava prosessi, jännityspäänsärky, psykogeeninen päänsärky, taittovika/karsastus tai näiden yhdistelmä.**
 
 <li>Migreeni (ilman auraa) - Oirekuva on klassinen: kohtauksittainen särky, johon liittyy pahoinvointia/oksentelua. Lääkevaste parasetamolille on hyvä, ja nukkuminen katkaisee usein migreenikohtauksen lapsilla. Kohtauksia on kohtuullinen määrä (2 krt/kk) ja oireilu on episodimaista</li>
-<li>Kohonnut ICP/aivokasvain - Pidetään aina mielessä. Oireet kuitenkin ilmenevät potilaalla ilmeisesti illalla (ei mainintaa aamuyöstä tai heräämisestä kipuun) ja tila vaikuttaa sykliseltä eikä etenevältä. Ei myöskään ole muita oireita (esim. neurologian), jolloin aivotuumori on erityisen harvinainen päänsäryn aiheuttaja. </li>
+<li>Kohonnut ICP/aivokasvain - Pidetään aina mielessä. Oireet kuitenkin ilmenevät potilaalla ilmeisesti illalla (ei mainintaa aamuyöstä tai heräämisestä kipuun) ja tila vaikuttaa sykliseltä eikä etenevältä. Ei myöskään ole muita neurologisia oireita -> laskee aivotuumorin todennäköisyyttä</li>
 <li>Jännityspäänsärky - Erittäin yleinen (liikunnan vähäisyys, stressi yms):  Joskus lapsen jännityspäänsärky voi olla vaikeaa erottaa migreenistä, sillä se voi olla myös kohtauksittaista ja migreenilapsilla voi esiintyä myös jännityspäänsärkyä migreenikohtausten välissä (nuorilla migreeni voi painottua takaraivolle, jolloin sen voi helposti sekoittaa jännityspäänsärkyyn)</li>
 <li>Psykogeeninen päänsärky - Psykogeenisesta päänsärystä voidaan puhua silloin, kun häiriön pääasiallinen ylläpitäjä on psyykkinen tekijä, jonka poistuminen lopettaa myös päänsäryt kokonaan. Särky on kuitenkin yleensä luonteeltaan jatkuvaa eikä särky häiritse tavallista toimintaa yhtä paljon kuin migreeni tai jännityspäänsärky eikä siihen yleensä kuulu liitännäisoireita. Vaste kipulääkitykselle on usein vaatimaton. </li>
 <li>Taittovika/karsastus aina mahdollista päänsäryssä. Ei yleensä aiheuta voimakasta pahoinvointia ja oksentelua. Kipua esiintyisi enemmän tarkkaa näköä vaativan tekemisen (piirtäminen, katselu) jälkeen. </li>
@@ -171,7 +171,7 @@ Pään MRI ei todellakaan ole aina tarvittu tutkimus, mutta se on järkevää ot
 
 **Perhettä tulisi ohjeistaa pitämään päänsärkypäiväkirjaa.** Kirjataan ylös kohtausten ajankohta, kesto, voimakkuus, mahdolliset laukaisijat, annetut lääkkeet ja niiden teho. Tämä on hyvä työkalu diagnoosin varmentamisessa ja seurannassa.
 
-**Ohjeistetaan myös päänsäryn kohtauslääkehoito: Kipuherkistymisen estämiseksi annetaan heti riittävän suuri määrä lääkettä ja uusi annos tarvittaessa 2 t:n kuluttua. Ensisijainen lääke on ibuprofeeni suun kautta (10mg/kg kerta-annos), ja siihen voi yhdistää parasetamolin (15mg/kg kerta-annos); lapsilla yhteiskäytöstä ei tosin ole tutkimusnäyttöä.** Triptaaneja voidaan migreenissä miettiä yli 12-vuotiailla  (>6 vuotiaille > 20 kg painaville), jos nämä eivät riitä. Pahoinvointilääkkeet migreenin hoidossa joskus tarpeen (ondansetroni), mutta ei kirjoiteta tätä kotiin nyt, yleensä vain sairaalapäivystyksessä. Metoklopramidi aiheuttaa lapsille usein ekstrapyramidaalioireita, eikä sitä tule käyttää lasten pahoinvoinnin hoidossa.
+**Ohjeistetaan myös päänsäryn kohtauslääkehoito: Kipuherkistymisen estämiseksi annetaan heti riittävän suuri määrä lääkettä ja uusi annos tarvittaessa 2 t:n kuluttua. Ensisijainen lääke on ibuprofeeni suun kautta (10-20mg/kg kerta-annos), ja siihen voi yhdistää parasetamolin (15-20mg/kg kerta-annos); lapsilla yhteiskäytöstä ei tosin ole tutkimusnäyttöä.** Triptaaneja voidaan migreenissä miettiä yli 12-vuotiailla  (>6 vuotiaille > 20 kg painaville), jos nämä eivät riitä (ensisijainen yleensä sumatriptaani-nenäsumute 10mg, jos 20-40kg ja 20mg jos >40kg). Pahoinvointilääkkeet migreenin hoidossa joskus tarpeen (ondansetroni), mutta ei kirjoiteta tätä kotiin nyt, yleensä vain sairaalapäivystyksessä. Metoklopramidi aiheuttaa lapsille usein ekstrapyramidaalioireita, eikä sitä tule käyttää lasten pahoinvoinnin hoidossa.
 
 _Jos ei mene mitenkään ohi ja kipu on vaikea, niin voi hakeutua päivystykseen._
 
@@ -273,7 +273,7 @@ Migreenikohtaus voidaan jakaa neljään vaiheeseen:
 <li>Päänsäryn tyyppi</li>
   <ul>
     <li>Tensiopäänsäryssä päänsärky on jatkuvaa pantamaista ja puristavaa koko pään alueella</li>
-    <li>Migreenissä kipu sykkivää ja toispuoleista</li>
+    <li>Migreenissä kipu sykkivää ja toispuoleista (lapsilla kylläkin oikeastaan harvemmin toispuolista ja useammin molemminpuolista)</li>
   </ul>
 <li>Palpaatiolöydökset</li>
   <ul>
@@ -293,11 +293,11 @@ Migreenikohtaus voidaan jakaa neljään vaiheeseen:
 
 ---
 
-Migreenin ensisijainen kohtaushoito on ibuprofeeni suun kautta (10mg/kg kerta-annos), ja siihen voi yhdistää parasetamolin (15mg/kg kerta-annos); lapsilla yhteiskäytöstä ei tosin ole tutkimusnäyttöä. Triptaaneja voidaan migreenissä miettiä yli 12-vuotiailla  (>6 vuotiaille > 20 kg painaville), jos nämä eivät riitä. Annokset saa toistaa 2h kuluttua. Pahoinvointilääkkeet migreenin hoidossa joskus tarpeen (ondansetroni).
+Migreenin ensisijainen kohtaushoito on ibuprofeeni suun kautta (10-20mg/kg kerta-annos), ja siihen voi yhdistää parasetamolin (15-20mg/kg kerta-annos); lapsilla yhteiskäytöstä ei tosin ole tutkimusnäyttöä. Triptaaneja voidaan migreenissä miettiä yli 12-vuotiailla  (>6 vuotiaille > 20 kg painaville), jos nämä eivät riitä (ensisijainen yleensä sumatriptaani-nenäsumute 10mg, jos 20-40kg ja 20mg jos >40kg). Annokset saa toistaa 2h kuluttua. Pahoinvointilääkkeet migreenin hoidossa joskus tarpeen (ondansetroni).
 
 _Jos ei mene mitenkään ohi ja kipu on vaikea, niin voi hakeutua päivystykseen._
 
-Päivystyksessä voidaan hoitaa vaikeassa tai pitkittyneessä tapauksessa iv-hoidollakin. On tärkeää selvittää päivystyksessä, onko potilas kokeillut jo kotona tyypillistä kohtauslääkitystään ja tarvittaessa annostella se, jos sitä ei vielä olla kokeiltu (eli siis NSAID+parasetamoli (ja usein myös pahoinvointilääke tai jopa triptaanikin) yleensä isommallakin annoksella, kuten migreeneissä yleensä tapana). Päivystyksessä usein kuitenkin potilaat ovat jo kokeilleet kohtauslääkitystään, mutta vaste ei ole ollut riittävä. Päivystyksessä tulee tällöin korjata dehydraatiota ja antaa ns. migreenitippa, jonka koostumus eroaa paikasta toiseen ja lasten ja aikuisten välillä ainakin monien lähteiden mukaan (aikuisilla ketorolaakki 30 mg + metoklopramidi 10 mg + deksametasoni 4 mg i.v. + parasetamolia 1000mg i.v.; usein voidaan myös miettiä diatsepaamia lisäksi 2.5 mg iv, jos mukana merkittävä ahdistus/lihastensiokomponentti). Lapsilla ainakin yhden lähteen mukaan annetaan ondansetronia 0.15mg/kg ja deksketoprofeenia 0.5-1mg/kg. Jos potilas ei ole vielä käyttänyt triptaania tähän kyseiseen kohtaukseen tai sen käytöstä on yli 2 tuntia, niin tipan lisäksi usein annostellaan triptaanikin (esim. subkutaanisti), jos sille ei ole vasta-aiheita. 
+Päivystyksessä voidaan hoitaa vaikeassa tai pitkittyneessä tapauksessa iv-hoidollakin. On tärkeää selvittää päivystyksessä, onko potilas kokeillut jo kotona tyypillistä kohtauslääkitystään ja tarvittaessa annostella se, jos sitä ei vielä olla kokeiltu (eli siis NSAID+parasetamoli (ja usein myös pahoinvointilääke tai jopa triptaanikin) yleensä isommallakin annoksella, kuten migreeneissä yleensä tapana). Päivystyksessä usein kuitenkin potilaat ovat jo kokeilleet kohtauslääkitystään, mutta vaste ei ole ollut riittävä. Päivystyksessä tulee tällöin korjata dehydraatiota ja antaa ns. migreenitippa, jonka koostumus eroaa paikasta toiseen ja lasten ja aikuisten välillä ainakin monien lähteiden mukaan (aikuisilla ketorolaakki 30 mg + metoklopramidi 10 mg + deksametasoni 4 mg i.v. + parasetamolia 1000mg i.v.; usein voidaan myös miettiä diatsepaamia lisäksi 2.5 mg iv, jos mukana merkittävä ahdistus/lihastensiokomponentti). Lapsilla ainakin yhden lähteen mukaan annetaan deksametasonia 0,5mg/kg iv, ondansetronia 0.15mg/kg ja deksketoprofeenia 0.5-1mg/kg / ketorolaakkia 0.5mg/kg. Jos potilas ei ole vielä käyttänyt triptaania tähän kyseiseen kohtaukseen tai sen käytöstä on yli 2 tuntia, niin tipan lisäksi usein annostellaan triptaanikin (esim. subkutaanisti), jos sille ei ole vasta-aiheita. 
  
 
 ---
@@ -346,15 +346,15 @@ Katseen kohdistaminen: Vauva kiinnittää katseensa kasvoihin tai leluun ja seur
 
 Tarttumisen puute: Vauvan tulisi tavoitella ojennettua esinettä 4kk iässä ja 6kk iässä tarttua nyrkkiotteella ja alkaa vaihtaa lelua kädestä toiseen
 
-Voimakas ANTR (asymmetrinen tooninen niskaheijaste): Primitiiviheijaste, joten sammuu ihljalleen viimeistään 4-6kk mennessä
+Voimakas ANTR (asymmetrinen tooninen niskaheijaste): Primitiiviheijaste, joten sammuu hiljalleen viimeistään 4-6kk mennessä
 
 ---
 
 Tulisi selvitellä **tarkasti anamneesi ja tehdä kattava neurologinen / yleispediatrinen status** (mukaanlukien pituus, paino, päänympärys). Anamneesissa:
 
 <li>Raskaus- ja synnytyshistoria: Raskausajan päihteet, infektiot, sikiön kasvu? Synnytyksen kulku; apgar, asfyksia...? Täysiaikainen vai keskonen? </li>
-<li>Varhaiskehitys ja havainnot: Taantumista? Ottaako kontakti? Onko ollut kohtauksellisia oireita?</li>
-<li>Arki ja elintoiminnot: Miten syöminen ja nieleminen sujuu. Onko lapsi poikkeuksellisen veltto tai jäykkä?</li>
+<li>Varhaiskehitys ja havainnot: Taantumista? Ottaako kontaktia? Ääntely, jokeltelu? Onko ollut kohtauksellisia oireita?</li>
+<li>Arki ja elintoiminnot: Miten syöminen ja nieleminen sujuu.? Onko lapsi poikkeuksellisen veltto tai jäykkä?</li>
 <li>Suku- ja perhetausta: Onko suvussa lihassairauksia, kehitysvammoja, neurologisia sairauksia tai perinnöllisiä oireyhtymiä?</li>
 <li>Muut sairaudet</li>
 <li>Pään traumat</li>
@@ -529,7 +529,7 @@ Koska kouristus on jo kestänyt 10 minuuttia, niin kyseessä on pitkittynyt koht
 
 Jo perus-ABCDE-settiä tehdessään voi määrätä hoitajaa hakemaan kohtauslääkkeen. **Annetaan kohtauslääkkeenä bukkaalinen midatsolaami (esim. Buccolam 0.25mg/kg ad 10mg) tai rektaalinen diatsepaami (esim. Stesolid 0,5 mg /kg eli käytännössä 5mg <15kg painoisille ja 10mg >15kg painoisille).**
 
-Tulee myös ottaa yhteys lähimpään sairaalapäivystykseen ja ilmoittaa siitä, että tullaan lähettämään pitkittyneesti kouristava lapsi sinne. **Siirto ambulanssilla saatettuna. Siirtoa valmistellessa voidaan yrittää avata iv-yhteys. Kun suoniyhteys on avattu, kohtauksen jatkuessa annetaan lisäannoksia bentsodiatsepiinia (i.v.); esim. loratsepaami 0.1mg/kg ad 4mg (voidaan uusia 10-15min kuluttua, jos sanut vasta yhden kerran).**
+Tulee myös ottaa yhteys lähimpään sairaalapäivystykseen ja ilmoittaa siitä, että tullaan lähettämään pitkittyneesti kouristava lapsi sinne. **Siirto ambulanssilla saatettuna. Siirtoa valmistellessa voidaan yrittää avata iv-yhteys. Kun suoniyhteys on avattu, kohtauksen jatkuessa annetaan lisäannoksia bentsodiatsepiinia (i.v.); esim. loratsepaami 0.1mg/kg ad 4mg (voidaan uusia 10-15min kuluttua, jos saanut vasta yhden kerran).**
 
 ---
 
@@ -575,7 +575,7 @@ Anamneesi:
 <li>Vammamekanismi</li>
   <ul>
     <li>Kuinka kova isku oli kyseessä (vauhti, osumakohta)?</li>
-    <li>Oksensiko iskun jälkeen. Onko korvista tai nenästä tullut kirkasta eritettä tai verta? Muita trauman merkkejä?</li>
+    <li>Oksensiko iskun jälkeen? Onko korvista tai nenästä tullut kirkasta eritettä tai verta? Muita trauman merkkejä?</li>
   </ul>
 <li>Taustatiedot ja sukuhistoria</li>
   <ul>
@@ -620,7 +620,7 @@ Mahdollinen vaihtoehto vielä on kardiologinen tai heijasteperäinen synkopee. K
 
 ---
 
-**Eli siis: Jos kliininen tutkimus ja neurologinen status ovat täysin normaalit ja anamneesi tukee affektikohtausta, vanhemmille annetaan tieto kohtauksen vaarattomuudesta. Otetaan EKG pidentyneen QT-ajan ja muiden kardiologisten syiden poissulkemiseksi. Ainakin jos tulee samanlainen kohtaus, niin tarkistetaan laboratorioarvot (kuten p-ferritiini ja hemoglobiini), sillä raudanpuute altistaa affektikohtauksille ja sen hoito usein vähentää kohtauksia.**
+**Eli siis: Jos kliininen tutkimus ja neurologinen status ovat täysin normaalit ja anamneesi tukee affektikohtausta, vanhemmille annetaan tieto kohtauksen vaarattomuudesta. Otetaan EKG pidentyneen QT-ajan ja muiden kardiologisten syiden poissulkemiseksi. Ainakin jos tulee uudestaan samanlainen kohtaus, niin tarkistetaan laboratorioarvot (kuten p-ferritiini ja hemoglobiini), sillä raudanpuute altistaa affektikohtauksille ja sen hoito usein vähentää kohtauksia.**
 
   </div>
 </div>
@@ -656,13 +656,13 @@ Perusterveydenhuollossa aloitetaan tietysti anamneesista ja statuksesta.
   </ul>
 <li>Status</li>
   <ul>
-    <li>Yleinen terveydentila, yleisstatus, dysmorfiset ulkonäköpiirteet, ulkoiset anommaliat, iho (neurokutaanioireyhtymät)</li>
+    <li>Yleinen terveydentila, yleisstatus, dysmorfiset ulkonäköpiirteet, ulkoiset anomaliat, iho (neurokutaanioireyhtymät)</li>
     <li>Kasvu (pituus, paino, päänympärys)</li>
     <li>Huulien, kitalaen ja kielijänteen anatomian tarkastus. </li>
     <li>Näkö, kuulo</li>
     <li>Ymmärrys (ymmärtääkö yksivaiheisia ohjeita, entä kaksivaiheisia?); osaako nimetä asioita kuvista jos osoittaa</li>
     <li>Korvaavien viestintäkeinojen käyttö: Osoittaako lapsi haluamiaan asioita, käyttääkö eleitä, ilmeitä tai ottaako aikuista kädestä kiinni?</li>
-    <li>Vuorovaikutus ja leikki: Miten lapsi ottaa katsekontaktia? Esiintykö yhteistä huomiota (joint attention, esim. näyttääkö lapsi lelua vanhemmalle innoissaan)? Millaista leikki on?</li>
+    <li>Vuorovaikutus ja leikki: Miten lapsi ottaa katsekontaktia? Esiintyykö yhteistä huomiota (joint attention, esim. näyttääkö lapsi lelua vanhemmalle innoissaan)? Millaista leikki on?</li>
     <li>Motoriikan arvio</li>
   </ul>
 
@@ -699,7 +699,7 @@ Kun lapsella on diagnosoitu kehityksellinen kielihäiriö, lääkärin johtama m
 
 Alle vuoden ikäisen vauvan kuuluisi käyttää molempia käsiään suunnilleen symmetrisesti ja yhtä paljon. Jos imeväisikäinen suosii toista kättä, tämä on poikkeavaa, vaikka lievä suosiminen onkin mahdollista normaalivariaation kautta. Lapsen todellinen kätisyys alkaa kehittyä ja näkyä selvemmin vasta 2–4 vuoden iässä, ja se vakiintuu lopullisesti vasta esikoulu- tai kouluiän kynnyksellä. Vaikka kätisyys määräytyykin osittain jo varhain sikiökaudella, vauvavuoden aikana molemmanpuoleinen ja tasainen raajojen käyttö on merkki normaalista motorisesta kehityksestä. 
 
-**Jos pieni vauva suosii selkeästi toista kättä, niin tulisi pysähtyä ja miettiä, onko taustalla jotain patologista. Mahdollisia erotusdiagnostisia vaihtoehtoja ovat mm. CP-vamma tai hartiapunoksen/muun ääreishermon vamma.**
+**Jos pieni vauva suosii selkeästi toista kättä, niin tulisi pysähtyä ja miettiä, onko taustalla jotain patologista. Mahdollisia erotusdiagnostisia vaihtoehtoja ovat mm. CP-vamma tai hartiapunoksen/muun ääreishermon vamma tai esim. solisluun murtuma.**
 
 ---
 
@@ -749,9 +749,9 @@ Anamneesissa:
 
 Konsultoidaan lastenneurologia. Jos kyseessä on ensimmäinen hemipleginen kohtaus tai jos raajojen heikkous ja puutokset eivät ole täysin väistyneet, aivot on kuvattava välittömästi aivoinfarktin, tai verenvuodon poissulkemiseksi. **Aivoverenkiertohäiriö täytyy sulkea pois akuuteissa migreeneissä erityisesti, kun esiintyy ensimmäistä kertaa motorinen (hemipleginen) tai aivorunkoperäinen auraoire tai aura pitkittyy huomattavasti tai on muuten epätyypillinen.**
 
-Jos ei poikkeavaa kuvassa, niin hoito on iv nsaid+parasetamoli ja ondansetroni sekä tarvittaessa nesteytys. Triptaanit ovat vasta-aiheisia hemiplegisessä migreenissä. 
+Jos ei poikkeavaa kuvassa, niin hoito on ns. migreenitippa eli iv nsaid(+parasetamoli) ja ondansetroni ja usein myös deksametasonia sekä tarvittaessa nesteytys. Triptaanit ovat vasta-aiheisia hemiplegisessä migreenissä. 
 
-Jatkossa hoidossa mm. nsaid+parasetamoli kotona päänäsrkyyn ja E-pillerikielto: Mikäli tytöllä on migreeni auraoireinen migreeni, yhdistelmäehkäisytablettien (estrogeeni) käyttö on vasta-aiheinen aivoinfarktiriskin vuoksi
+Jatkossa hoidossa mm. nsaid+parasetamoli kotona päänsärkyyn ja E-pillerikielto: Mikäli tytöllä on migreeni auraoireinen migreeni, yhdistelmäehkäisytablettien (estrogeeni) käyttö on vasta-aiheinen aivoinfarktiriskin vuoksi
 
   </div>
 </div>
@@ -766,7 +766,7 @@ Jatkossa hoidossa mm. nsaid+parasetamoli kotona päänäsrkyyn ja E-pillerikielt
   </button>
   <div class="solution-content">
 
-Sanamattomuus ja ikätovereihin kohdistuvan kiinnostuksen tai leikin puute 2-vuotiaalla lapsella ovat merkittäviä kehityksen punaisia lippuja. Tässä iässä lapselta odotetaan yleensä noin 50 sanan sanavarastoa, 2-3 sanan lauseita, reagoimista omaan nimeen sekä kiinnostusta muihin lapsiin (vähintään rinnakkaisleikkiä ja toisten havainnointia).
+Kielelliset ongelmat ja ikätovereihin kohdistuvan kiinnostuksen tai leikin puute 2-vuotiaalla lapsella ovat merkittäviä kehityksen punaisia lippuja. Tässä iässä lapselta odotetaan yleensä noin 50 sanan sanavarastoa, 2-3 sanan lauseita, reagoimista omaan nimeen sekä kiinnostusta muihin lapsiin (vähintään rinnakkaisleikkiä ja toisten havainnointia).
 
 Puutokset sekä kielellisissä että sosiaalisissa taidoissa edellyttävät aina kokonaisvaltaista kehityksellistä arviointia. Erotusdiagnostiikkaan kuuluu mm. autismikirjon häiriöt, laaja-alainen kehitysviive, kuulonalenema, kehityksellinen kielihäiriö ja deprivaatio. 
 
@@ -776,7 +776,7 @@ Anamneesissa:
 
 <li>Sosiaalinen vuorovaikutus ja kommunikaatio: Reagoiko lapsi omalle nimelleen? Osoittaako hän sormella asioita näyttääkseen niitä muille tai pyytääkseen jotain? Ottaako lapsi luontevaa katsekontaktia? Käyttääkö hän kehonkieltä, vilkuttamista, pään nyökkäämistä? Hymyileekö lapsi?</li>
 <li>Leikkiminen: Huomioiko lapsi toisia lapsia laisinkaan. Leikin sisältö? </li>
-<li>Joustavuus ja aistit: Suuttuuko lapsi poikkeavan voimakkaasti pienistä rutiinien muutoksista? Esiintykö aistiherkkyyksiä (esim. kovien äänien peittäminen, tiettyjen vaatteiden tai ruoka-aineiden ehdoton torjunta)?</li>
+<li>Joustavuus ja aistit: Suuttuuko lapsi poikkeavan voimakkaasti pienistä rutiinien muutoksista? Esiintyykö aistiherkkyyksiä (esim. kovien äänien peittäminen, tiettyjen vaatteiden tai ruoka-aineiden ehdoton torjunta)?</li>
 <li>Puheen ymmärtäminen: Ymmärtääkö lapsi arjen tuttuja kehotuksia ilman elekielen tukea</li>
 <li>Muu kehitys esim. kävely, juoksu, esineisiin tarttuminen, arjen toiminnot</li>
 
@@ -795,7 +795,7 @@ Status:
 
 Koska oirekuvassa yhdistyvät kielellinen viive ja sosiaalisen vuorovaikutuksen haasteet, lapsi tarvitsee moniammatillisen arvioinnin:
 
-Neuvolassa puheterapeutin arvio sekä psykologin arvio. Mikäli herää selvä epäily autismikirjon häiriöstä tai laaja-alaisesta kehitysviiveestä, lapsi lähetetään erikoissairaanhoitoon diagnostisiin jatkoselvityksiin. Puhetta tukevien menetelmien (kuvat, tukiviittomat) käyttö aloitetaan välittömästi kodissa ja varhaiskasvatuksessa, eikä esim. kielellisen kehityksen häiriö diagnoosia jäädä odottamaan.
+Neuvolassa puheterapeutin arvio sekä psykologin arvio. Mikäli herää selvä epäily autismikirjon häiriöstä tai laaja-alaisesta kehitysviiveestä, lapsi lähetetään erikoissairaanhoitoon diagnostisiin jatkoselvityksiin. Puhetta tukevien menetelmien (kuvat, tukiviittomat) käyttö aloitetaan välittömästi kodissa ja varhaiskasvatuksessa, eikä esim. kielellisen kehityksen häiriön diagnoosia jäädä odottamaan.
 
   </div>
 </div>
@@ -968,9 +968,9 @@ Tajuttomuuden yleisimmät syyt voi muistaa yleisessä käytössä olevasta muist
 
 ---
 
-EKG, thx-rtg, astrup, elektrolyytit, PVK, CRP, Krea, Urea, ALAT, EtOH, huumeseula, u-kemseul, CK, TnT. Likvori aina paikallaan epäiltäessä infektiota (tai tulehduksellista keskushermostosairautta) tai jos tajuttomuuden syy ei muuten selviä (esim. kuume, niskajäykkyys, infektioanamneesi).
+EKG, thx-rtg, verinäytteet iv kanyylin asettamisen yhteydessä: astrup, elektrolyytit, PVK, CRP, Krea, Urea, ALAT, EtOH, huumeseula, B-Myrkky, (epilepsialääkkeen seerumipitoisuus jos on käytössä) u-kemseul, CK, TnT. Likvori aina paikallaan epäiltäessä infektiota (tai tulehduksellista keskushermostosairautta) tai jos tajuttomuuden syy ei muuten selviä (esim. kuume, niskajäykkyys, infektioanamneesi).
 
-Pään natiivi tietokonetomografia (TT) on yleensä tajuttoman potilaan ensisijainen kuvantamistutkimus ja tehdään viipymättä jos ei löydy metabolista/toksista syytä, todetaan puolieroja, epäillään pään vammaa...; tarvittaessa MRI tai angiografia. 
+Pään kuvantaminen on useimmissa tapauksissa tärkeä tutkimus, samoin EEG, mutta kuvantaminen ensisijainen yleensä. Ensisijaisesti otetaan sinänsä MRI (kuvausajan lyhentämiseksi pyyntönä esim. "aivojen magneettitutkimus AVH-hälytyksenä"), mutta natiivi tietokonetomografia (TT) tarvitaan, jos MRI ei onnistu nopeasti (konsultoi radiologia herkästi). Kuvantaminen tehdään viipymättä jos ei löydy metabolista/toksista syytä, todetaan puolieroja, epäillään pään vammaa...; tarvittaessa angiografia. 
 
 EEG tarvitaan usein, varsinkin jos epäillään ns. nonkonvulsiivista status epilepticusta. Voi antaa viitteitä myös infektioista (esim. herpes-enkefaliitti).
   </div>
@@ -991,7 +991,7 @@ Lapsella taantumaa: oppinut aikaisemmin ottamaan hyvin kontaktia, seuraamaan lel
 
 Taustalla voi olla mm. jokin epileptinen enkefalopatia / infantiilispasmit, kallonsisäinen prosessi/kohonnut ICP, keskushermostoinfektio tai metabolinen/neurodegeneratiivinen sairaus. Todennäköisimmin jos ei ole muita oireita kuin vain taantuma, niin työdiagnoosina voidaan pitää infantiilispasmeja, koska tässä iässä (tyypillisesti 2–12 kk) alkava Westin oireyhtymä ilmenee oppikirjamaisesti oppitujen taitojen taantumisena, sosiaalisen kontaktin ja katsekontaktin sammumisena sekä selittämättömänä itkuisuutena/ärtyneisyytenä. Vanhemmat eivät välttämättä ole vielä tunnistaneet hienovaraisia nykäyksiä tai sivuille suuntautuvia sarjamaisia käsi- tai vartalospasmeja
 
-Kerätään vastaanotolla myäs tarkempi anamneesi vanhemmilta (onko ollut nykäyksiä varsinkin heräämisen yhteydessä, onko lapsella ollut pään vammoja, kuumetta tai infektio-oireita). Tehdään tarkka yleispediatrinen ja neurologinen status. Mitataan päänympärys. 
+Kerätään vastaanotolla myös tarkempi anamneesi vanhemmilta (onko ollut nykäyksiä varsinkin heräämisen yhteydessä, onko lapsella ollut pään vammoja, kuumetta tai infektio-oireita). Tehdään tarkka yleispediatrinen ja neurologinen status. Mitataan päänympärys. 
 
 **Lapset, joilla epäillään infantiilispasmeja, tulee ohjata päivystyksenä lastenneurologian yksikköön.** 
 
@@ -1032,7 +1032,7 @@ Kerätään siis aina tarkka anamneesi ja status:
 
 <li>Katsekontakti ja yhteinen tarkkaavuus (Joint Attention): Katsooko Jemina silmiin? Osoittaako hän sormella kiinnostavia asioita (esim. lintua, koiraa) jakaakseen kokemuksen muiden kanssa, vai käyttääkö hän kättä pelkkänä työkaluna?</li>
 <li>Reagointi nimeen ja sosiaalinen hymy: Reagoiko Jemina, kun häntä kutsutaan nimeltä? Tuleeko vastavuoroista hymyä ja ilmehdintää?</li>
-<li>Kielellinen kehitys: Onko sanoja tullut, ovatko sanat kadonneet (taantuma eli regression on aina hälytysmerkki), tai käyttääkö hän puheen sijaan pelkkää ääntelyä tai aikuista välikappaleena?</li>
+<li>Kielellinen kehitys: Onko sanoja tullut, ovatko sanat kadonneet (taantuma eli regressio on aina hälytysmerkki), tai käyttääkö hän puheen sijaan pelkkää ääntelyä tai aikuista välikappaleena?</li>
 <li>Aistiherkkyydet ja rutiinit: Reagoiko hän voimakkaasti arjen äänille, valoille tai vaatteiden saumoille? Vaatiiko hän tarkkoja rutiineja ja suuttuuko silminnähden pienistä muutoksista?</li>
 <li>Leikki: Miten Jemina leikkii? Onko leikki mielikuvitusleikkiä (esim. syöttää nukkea) vai leikkiikö hän mekaanisesti, rivittääkö tavaroita jonoon tai pyöritteleekö pyöriä?</li>
 <li>Varhaiskehitys: Ovatko motoriset taidot (kävely, juoksu) kehittyneet normaalisti? Raskaus, synnytys?</li>
@@ -1061,7 +1061,7 @@ Autismikirjon häiriön diagnostiset kriteerit perustuvat Suomessa vielä toista
 
 ---
 
-Vanhemmat kiinnittävät huomionsa lapsen poikkeaviin piirteisiin usein jo ennen lapsen ensimmäistä tai toista syntymäpäivää, ja autismikirjon diagnoosia ennustavia käyttäytymismalleja on havaittu jo 1-vuotissyntymäpäivien kotivideoissa: katsekontaktin vähäisyys, reagoimattomuus omaan nimeen, esineiden esittelemisen puute sekä puute osoittaa etusormella mielenkiinnon kohdetta. Kuitenkin autismidiagnoosi asetetaan nykyisin keskimäärin vasta 3–4 vuoden iässä, ja tätä ikää pitää edelleen saada alemmaksi.
+Vanhemmat kiinnittävät huomionsa lapsen poikkeaviin piirteisiin usein jo ennen lapsen ensimmäistä tai toista syntymäpäivää, ja autismikirjon diagnoosia ennustavia käyttäytymismalleja on havaittu jo 1-vuotissyntymäpäivien kotivideoissa: katsekontaktin vähäisyys, reagoimattomuus omaan nimeen, esineiden esittelemisen puute sekä mielenkiinnon kohteiden osoittelun vähäisyys. Kuitenkin autismidiagnoosi asetetaan nykyisin keskimäärin vasta 3–4 vuoden iässä, ja tätä ikää pitää edelleen saada alemmaksi.
 
 Joskus diagnoosi tehdään vasta nuoruudessa. Diagnosointi nuoruusiässä on vaikeampaa, koska autismikirjon häiriön oireet ovat useimmiten puhtaimmillaan lapsuudessa. Diagnosoinnin vaikeutta lisää se, että monille on nuoruusiässä ehtinyt kehittyä samanaikaisia psykiatrisia ja neuropsykiatrisia häiriöitä yleisemmin kuin lapsuusiässä. 
 
@@ -1128,7 +1128,7 @@ Anamneesissa kouristuksen tarkka kesto, kouristuksen luonne, edeltävät oireet 
 
 Statuksessa iän mukainen neurologinen status ja yleisstatus. Vitaalit. 
 
-Erotusdiagnostisia vaihtoehtoja ovat siis mm. kuumekouristus, epileptinen kohtaus, keskushermostoinfektio, metabolinen häiriö tai affektiokohtaus/synkopee. 
+Erotusdiagnostisia vaihtoehtoja ovat siis mm. kuumekouristus, epileptinen kohtaus, keskushermostoinfektio, metabolinen häiriö tai affektikohtaus/synkopee. 
 
 ---
 
@@ -1153,7 +1153,7 @@ Paljon samoja kysymyksiä eri vuosina. Pääasiassa siis usein kouluikäinen, jo
   </button>
   <div class="solution-content">
   
-Päänsäryssä on aina tärkeää selvittää, onko potilaalla jotain vaaralliseen sekundaariseen päänsärkyyn viittaavaa (SN2NOOP4 tai SNNOOP10). Jos on syytä muistisääntöjen perusteella epäillä jotain vaarallista syytä, niin harkitse päivystykseen tai esh-pkl:lle lähettämistä tilanteen mukaan -> tarvittaessa herkästi konsultoi päivystäjää. Jos on epäily subaraknoidaalivuodosta, on ollut tajunnanmenetys/aleneminen, uusi neurologinen statuslöydös, epäily keskushermoston infektiosta, ponnistelun/yskimisen yhteydessä alkava päänsärky tai löytyy staasipapilla, niin aina päivystykseen; useimmiten otetaan vähintään pään natiivi-TT päivystyksellisesti. Muiden kanssa voi miettiä vähän enemmän. Tärkeä kysymys on aina: Onko särky uusi ja äkillinen vai toistuva ja tuttu? 
+Päänsäryssä on aina tärkeää selvittää, onko potilaalla jotain vaaralliseen sekundaariseen päänsärkyyn viittaavaa (SN2NOOP4 tai SNNOOP10). Jos on syytä muistisääntöjen perusteella epäillä jotain vaarallista syytä, niin harkitse päivystykseen tai esh-pkl:lle lähettämistä tilanteen mukaan -> tarvittaessa herkästi konsultoi päivystäjää. Jos on epäily subaraknoidaalivuodosta, on ollut tajunnanmenetys/aleneminen, uusi neurologinen statuslöydös, epäily keskushermoston infektiosta, ponnistelun/yskimisen yhteydessä alkava päänsärky tai löytyy staasipapilla, niin aina päivystykseen; useimmiten otetaan vähintään pään MRI/natiivi-TT päivystyksellisesti. Muiden kanssa voi miettiä vähän enemmän. Tärkeä kysymys on aina: Onko särky uusi ja äkillinen vai toistuva ja tuttu? 
 
 <li>Systemic = Yleisoireet (mahdollisesti esim. keskushermostoinfektio)</li>
 <li>Neurologic = Neurologiset oireet/löydökset (mukaanlukien tajuttomuuskohtaus, tajunnantason lasku, niskajäykkyys yms)</li>
@@ -1204,8 +1204,7 @@ Anamneesissa ja statuksessa mm:
 <li>lapsen kasvu on poikkeavaa</li>
 <li>pään kasvu kiihtyy (varhaislapsuudessa)</li>
 <li>havaitaan poikkeavia neurologisia löydöksiä tai poikkeavaa kehitystä</li>
-<li>pään kasvu kiihtyy (varhaislapsuudessa)</li>
-<li>aivoverenkiertohäiriö täytyy sulkea pois erityisesti, kun esiintyy ensimmäistä kertaa motorinen(hemipleginen) tai aivorunkoperäinen auraoire tai aura pitkittyy huomattavasti tai on muuten epätyypillinen (tällöin mahdollisesti TT-tutkimuskin)</li>
+<li>aivoverenkiertohäiriö täytyy sulkea pois erityisesti, kun esiintyy ensimmäistä kertaa motorinen(hemipleginen) tai aivorunkoperäinen auraoire tai aura pitkittyy huomattavasti tai on muuten epätyypillinen (tällöin päivystyksellisesti AVH-hälynä MRI tai jos ei saada nopeasti niin TT)</li>
 <li>lapsi on alle 5-vuotias</li>
 
 ---
@@ -1230,11 +1229,13 @@ Migreeni
 <li>Jaetaan auralliseen (n. 15%) ja aurattomaan (n. 85%) päämuotoon</li>
 <li>Aurallisessa migreenissä tyypilliset auraoireet ovat näköoireita (yleisin aura), tuntohäiriöitä tai puheen tuoton ongelmia ja niille on ominaista täydellinen palautuvuus. Harvinaisia auraoireita ovat retinaaliset oireet, motoriset oireet hemiplegisessä migreenissä ja aivorunko-oireet aivorunkomigreenissä. Yksittäiset auraoireet kestävät 5-60 minuuttia. Toisinaan auraoiretta ei seuraa päänsärky, ja joskus auraoireet pitkittyvät. Harvinaiset oireet edellyttävät tilannearviota ja diagnosointia erikoissairaanhoidossa.</li>
 <li>Migreenin päänsärkykohtaukset kestävät tyypillisesti 2-72 (aikuisilla 4-72 kriteereissä) tuntia ilman hoitoa tai jos hoito ei tehoa. Samalla potilaalla voi esiintyä kestoltaan ja voimakkuudeltaan vaihtelevia kohtauksia, sekä aurallisena että aurattomana.</li>
-<li>Päänsärky on tyypillisesti voimakasta, toispuoleista ja sykkivää (erottelee jännityspäänsärystä, joka ilmenee pantamaisena, puristavana särkynä koko pään alueella). Nuorilla migreeni voi painottua takaraivolle, jolloin sen voi helposti sekoittaa jännityspäänsärkyyn</li>
+<li>Päänsärky on tyypillisesti voimakasta, toispuoleista ja sykkivää (erottelee jännityspäänsärystä, joka ilmenee pantamaisena, puristavana särkynä koko pään alueella). Lapsilla kuitenkin on hyvä muistaa, että migreeni on jokseenkin harvoin klassisen toispuoleinen ja usein onkin molemminpuoleinen.</li>
 <li>Rasitus pahentaa migreenin päänsärkyä (vrt. jännityspäänsärky, jossa lievittää)</li>
 <li>Tyypillisesti ilmenee liitännäisoireita, kuten pahoinvointia/oksentelua, valoarkuutta (fotofobia) ja/tai ääniarkuutta (fonofobia)</li>
 
 ---
+
+Tässä alla vielä kaksi lapsilla harvinaista päänsärkytyypiä, jotka on kuitenkin hyvä tunnistaa: 
 
 Sarjoittainen päänsärky (Hortonin neuralgia, cluster headaches)
 
@@ -1491,13 +1492,13 @@ Perusterveydenhuollossa aloitetaan tietysti anamneesista ja statuksesta.
   </ul>
 <li>Status</li>
   <ul>
-    <li>Yleinen terveydentila, yleisstatus, dysmorfiset ulkonäköpiirteet, ulkoiset anommaliat, iho (neurokutaanioireyhtymät)</li>
+    <li>Yleinen terveydentila, yleisstatus, dysmorfiset ulkonäköpiirteet, ulkoiset anomaliat, iho (neurokutaanioireyhtymät)</li>
     <li>Kasvu (pituus, paino, päänympärys)</li>
     <li>Huulien, kitalaen ja kielijänteen anatomian tarkastus. </li>
     <li>Näkö, kuulo</li>
     <li>Ymmärrys (ymmärtääkö yksivaiheisia ohjeita, entä kaksivaiheisia?); osaako nimetä asioita kuvista jos osoittaa</li>
     <li>Korvaavien viestintäkeinojen käyttö: Osoittaako lapsi haluamiaan asioita, käyttääkö eleitä, ilmeitä tai ottaako aikuista kädestä kiinni?</li>
-    <li>Vuorovaikutus ja leikki: Miten lapsi ottaa katsekontaktia? Esiintykö yhteistä huomiota (joint attention, esim. näyttääkö lapsi lelua vanhemmalle innoissaan)? Millaista leikki on?</li>
+    <li>Vuorovaikutus ja leikki: Miten lapsi ottaa katsekontaktia? Esiintyykö yhteistä huomiota (joint attention, esim. näyttääkö lapsi lelua vanhemmalle innoissaan)? Millaista leikki on?</li>
     <li>Motoriikan arvio</li>
   </ul>
 

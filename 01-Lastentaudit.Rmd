@@ -220,7 +220,7 @@ Statuksessa:
 
 ---
 
-Yleisimmät lapsen nivelongelmien erotudiagnostiset vaihtoehdot:
+Yleisimmät lapsen nivelongelmien erotusdiagnostiset vaihtoehdot:
 
 <li>**Kasvukivut:**</li>
   <ul>
@@ -371,7 +371,7 @@ Todennäköisesti kysytty erotusdiagnostiikkaa, tutkimuksia ja mitä tehdään s
     
 Lapsen yöllinen tai aamupainotteinen ärtyneisyys (isommilla lapsilla myös päänsärky ja aamuoksentelu) yhdistettynä pään kiihtyneeseen kasvuun viittaa vahvasti kohonneeseen kallonsisäiseen paineeseen (ICP). Niin kauan kuin kallon saumat ovat täysin erillään (6–20 kuukauden ikään), voi kiihtyvästi kasvava päänympärys olla ainoa merkki aivopaineen kohoamisesta. 
 
-Erotusdiagnostisia vaihtoehtoja ovat mm. aivokasvaimet (erityisesti lapsilla yleiset takakuopan kasvaimet), keskushermostoinfektiot, akveduktistenoosi synnynnäisesti, hydrokefalus hankinnaisesti aivoverenvuodon/infektion jälkitilana, traumaattiset verenvuodot (esim. ravistelun kautta syntyvä SDH, traumaattisesti syntyvä EDH tai aivoruhjevamma ja verenvuoto aivokudokseen/subaraknoidaalitilaan), kallonsisäsiset paiseet... 
+Erotusdiagnostisia vaihtoehtoja ovat mm. aivokasvaimet (erityisesti lapsilla yleiset takakuopan kasvaimet), keskushermostoinfektiot, akveduktistenoosi synnynnäisesti, hydrokefalus hankinnaisesti aivoverenvuodon/infektion jälkitilana, traumaattiset verenvuodot (esim. ravistelun kautta syntyvä SDH, traumaattisesti syntyvä EDH tai aivoruhjevamma ja verenvuoto aivokudokseen/subaraknoidaalitilaan), kallonsisäiset paiseet... 
 
 Kallon kasvun kiihtymisenä voisi olla taustalla myös neurometabolinen sairaus.
 
@@ -6781,7 +6781,7 @@ Statuksessa:
 
 ---
 
-Yleisimmät lapsen nivelongelmien erotudiagnostiset vaihtoehdot (käydään nyt läpi enemmän kuin vaaditut neljä): 
+Yleisimmät lapsen nivelongelmien erotusdiagnostiset vaihtoehdot (käydään nyt läpi enemmän kuin vaaditut neljä): 
 
 <li>**Äkilliset, ohimenevät yleensä kuumeettomat niveltulehdukset (yleisimmät);** hyvä diagnosoida 1–2 päivän kuluessa</li>
   <ul>
