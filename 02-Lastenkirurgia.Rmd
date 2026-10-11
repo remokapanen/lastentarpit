@@ -53,7 +53,7 @@ Lasten distaalisten radiusmurtumien hyväksyttävät virheasennot vaihtelevat l�
 
 ---
 
-Jos olisi hyväksyttävän asentoinen, niin ei tarvitse pääsääntöisesti reponointia ja voi kipsata luun suoraan. Yleensä lyhyt dorsaalinen lasta riittää, mutta kyynärvarren murtumissa (molemmat luut murtuneet) käytetään immobilisaationa kulmalastaa. Kyynärluun puikkolisäkkeen murtuma värttiläluun murtuman yhteydessä ei kuitenkaan edellytä hoitoa kulmalastalla.
+Jos olisi hyväksyttävän asentoinen, niin ei tarvitse pääsääntöisesti reponointia ja voi kipsata luun suoraan. Yleensä lyhyt dorsaalinen lasta riittää, mutta kyynärvarren murtumissa (molemmat luut murtuneet) käytetään immobilisaationa kulmalastaa. Kyynärluun puikkolisäkkeen murtuma värttinäluun murtuman yhteydessä ei kuitenkaan edellytä hoitoa kulmalastalla.
 
 ![](images/vastaus.png)
   </div>
@@ -120,7 +120,7 @@ Ei vaadi hoitoa tai seurantaa. Hoituu itsestään viimeistään hormonitoiminnan
 
 ---
 
-Jos kiinnike on erittäin tiukka tai peittää lähes koko emättimen ja virtsaputken suun, oireina voi esiintyä virtsaamisongelmia, mutta tämä on todella harvinaista. Rakon tyhjeneminen syytä varmistaa ultraäänellä, jos epäilyä virtsaamisvaikeudesta. Voi joskus häiritä katetrointia (esim. leikkauksissa); jolloin voidaan sormella vetäen avata kiinnikettäsen verran että katetri saadaan laittetua paikalle. Jos kiinnike haittaa virtsaamista tai aiheuttaa tulehduksia, voi määrätä estrogeenivoidetta tai kortisonivoidetta. Voidetta levitetään kuuriluontoisesti suoraan kiinnityslinjaan, mikä pehmentää ihoa ja auttaa sitä avautumaan. 
+Jos kiinnike on erittäin tiukka tai peittää lähes koko emättimen ja virtsaputken suun, oireina voi esiintyä virtsaamisongelmia, mutta tämä on todella harvinaista. Rakon tyhjeneminen syytä varmistaa ultraäänellä, jos epäilyä virtsaamisvaikeudesta. Voi joskus häiritä katetrointia (esim. leikkauksissa); jolloin voidaan sormella vetäen avata kiinnikettä sen verran että katetri saadaan laittetua paikalle. Jos kiinnike haittaa virtsaamista tai aiheuttaa tulehduksia, voi määrätä estrogeenivoidetta tai kortisonivoidetta. Voidetta levitetään kuuriluontoisesti suoraan kiinnityslinjaan, mikä pehmentää ihoa ja auttaa sitä avautumaan. 
 
 ![](images/labiasynekia.png)
   </div>
@@ -219,7 +219,7 @@ Salter-Harrisin luokan 3 murtuma kulkee kasvulevyn kautta epifyysin läpi nivelp
 
 ---
 
-Kasvulevyyn ulottuvat murtumat luokitellaan tavallisimmin Salter-Harris-luokituksen avulla. On myös Petersonin luokitus, joka on tarkempi on käytössä mm. Helsingissä enemmän; muuten maailmalla SH-luokitus on yleisemmin käytössä.
+Kasvulevyyn ulottuvat murtumat luokitellaan tavallisimmin Salter-Harris-luokituksen avulla. On myös Petersonin luokitus, joka on tarkempi ja on käytössä mm. Helsingissä enemmän; muuten maailmalla SH-luokitus on yleisemmin käytössä.
 
 <li>SH1 = Murtuma on pelkästään kasvulevyn hypertrofisessa vyöhykkeessä; epifyysi erkanee metafyysistä</li>
 <li>SH2 = Murtuma kulkee kasvulevyn halki metafyysiin; yleisin tyyppi</li>
@@ -1896,7 +1896,7 @@ Salter-Harrisin luokan 2 murtuma kulkee kasvulevyn halki metafyysiin; on yleisin
 
 ---
 
-Kasvulevyyn ulottuvat murtumat luokitellaan tavallisimmin Salter-Harris-luokituksen avulla. On myös Petersonin luokitus, joka on tarkempi on käytössä mm. Helsingissä enemmän; muuten maailmalla SH-luokitus on yleisemmin käytössä.
+Kasvulevyyn ulottuvat murtumat luokitellaan tavallisimmin Salter-Harris-luokituksen avulla. On myös Petersonin luokitus, joka on tarkempi ja on käytössä mm. Helsingissä enemmän; muuten maailmalla SH-luokitus on yleisemmin käytössä.
 
 <li>SH1 = Murtuma on pelkästään kasvulevyn hypertrofisessa vyöhykkeessä; epifyysi erkanee metafyysistä</li>
 <li>SH2 = Murtuma kulkee kasvulevyn halki metafyysiin; yleisin tyyppi</li>
@@ -2495,7 +2495,7 @@ _Tarvittaessa leikkaus 5. ikävuonna ennen kouluun siirtymistä, jos peukalo ei 
   </button>
   <div class="solution-content">
 
-Tavallisimpia rintakehän epämuodostumia ovat kuopparinta (pectus excavatum, suutarinkuoppa) ja harjurinta (pectus carinatum, pulunrinta). Kupparinnassa nimensä mukaan rinta on kuopalla ja harjurinnassa koholla.
+Tavallisimpia rintakehän epämuodostumia ovat kuopparinta (pectus excavatum, suutarinkuoppa) ja harjurinta (pectus carinatum, pulunrinta). Kuopparinnassa nimensä mukaan rinta on kuopalla ja harjurinnassa koholla.
 
 Näiden rakennepoikkeavuuksien tarkkaa syytä ei tunneta, mutta jossain määrin ne assosioituvat sidekudossairauksiin (Marfan, Ehlers–Danlos) ja osalla potilaista todetaan suvussa vastaavia epämuodostumia. 
 
@@ -2525,7 +2525,7 @@ Ei esimerkkikuvaa; leikitään, että tämänlainen kuva olisi ollut kyseessä:
   </button>
   <div class="solution-content">
 
-Humeruksen diadyysimurtuma; hoidetaan yleensä konservatiivisesti. 30 asteen kulmavirhe kaikkiin suuntiin hyväksytään, jos kasvupyrähdystä ei vielä ole tapahtunut. Alle kouluikäisillä voidaan hyväksyä suurempikin asentovirhe.
+Humeruksen diafyysimurtuma; hoidetaan yleensä konservatiivisesti. 30 asteen kulmavirhe kaikkiin suuntiin hyväksytään, jos kasvupyrähdystä ei vielä ole tapahtunut. Alle kouluikäisillä voidaan hyväksyä suurempikin asentovirhe.
 
 Hoitona on rannekaulalenkki ja isommilla lapsilla tarvittaessa lisäksi yksilöllinen ortoosi. Kuukauden immobilisaatio on pääsääntöisesti riittävä murtuman tukevoitumiseksi. Tämän jälkeen voimakasta kuormitusta ja raajan varaan kaatumista tulisi välttää kahteen kuukauteen asti uusintamurtuman riskin vuoksi.
 
@@ -2803,7 +2803,7 @@ Vanhemmille voi kertoa (ainakin diagnoosin jälkeen), että vauvalla on todettu 
 
 Lapsella palleatyrä voi olla joko vakava, jo syntymässä todettu synnynnäinen palleatyrä tai harvinaisempi myöhemmin ilmenevä hiatustyrä. 
 
-Aikuisilla palleatyrä on yleensä ns. hiatushernia, mahalaukun osa luisuu pallean ruokatorvihiatuksen läpi. Hiatushernioiden katsotaan aikauisilla olevan tavallisesti hankittuja, eli ne ovat kehittyneet kudosten löystymisen seurauksena ajan myötä. Normaalitilanteessa ruokatorvi kulkee palleassa olevan hiatusaukon kautta vatsaontelon puolelle. Vatsaontelon puolelle ruokatorvea ulottuu normaalitilanteessa hiatusaukon läpi vähintään 2 cm. Tällöin mahalaukun kardia muodostaa jyrkän kulman ruokatorven kanssa toimien takaiskuventtiilin tavoin vatsaontelon paineen lisääntyessä ja estäen näin refluksia mahalaukusta ruokatorveen.
+Aikuisilla palleatyrä on yleensä ns. hiatushernia, mahalaukun osa luisuu pallean ruokatorvihiatuksen läpi. Hiatushernioiden katsotaan aikuisilla olevan tavallisesti hankittuja, eli ne ovat kehittyneet kudosten löystymisen seurauksena ajan myötä. Normaalitilanteessa ruokatorvi kulkee palleassa olevan hiatusaukon kautta vatsaontelon puolelle. Vatsaontelon puolelle ruokatorvea ulottuu normaalitilanteessa hiatusaukon läpi vähintään 2 cm. Tällöin mahalaukun kardia muodostaa jyrkän kulman ruokatorven kanssa toimien takaiskuventtiilin tavoin vatsaontelon paineen lisääntyessä ja estäen näin refluksia mahalaukusta ruokatorveen.
 
 ---
 
@@ -3062,7 +3062,7 @@ UÄ voi auttaa erotusdiagnostiikassa (tosin jos on vahva epäily testistorsiosta
 
 ---
 
-Kiveksen traumassa yleensä oireena kipu, turvotus ja punoitus/mustelma. Anamnestisesti saadaan selville aiheuttaja. Yleensä konservatiivinen hoito riittävät. Operatiivinen, jos kiveksessä repeämä tai kives näkyvissä. 
+Kiveksen traumassa yleensä oireena kipu, turvotus ja punoitus/mustelma. Anamnestisesti saadaan selville aiheuttaja. Yleensä konservatiivinen hoito riittää. Operatiivinen, jos kiveksessä repeämä tai kives näkyvissä. 
 
 
 ![](images/testis1.png)

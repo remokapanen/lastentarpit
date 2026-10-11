@@ -1523,7 +1523,7 @@ Kuntoutussuunnitelman sisältöön kuuluu
 <li>Diagnoosit, lyhyt kuvaus sairauden/vamman luonteesta ja hoidosta</li>
 <li>Toimintakyky ja sen arviointimenetelmät</li>
 <li>Aiemmin saatu kuntoutus, sen vaikutukset</li>
-<li>Suositeltava kuntoutus: kesto, ajoitus, käyntitiheys muoto, maksajataho yms. </li>
+<li>Suositeltava kuntoutus: kesto, ajoitus, käyntitiheys, muoto, maksajataho yms. </li>
 <li>Apuvälineet</li>
 <li>Päiväkodin ja koulun tukitoimet</li>
 <li>Muut arjen tukitoimet (kuljetukset, avustajat yms)</li>
@@ -1539,7 +1539,7 @@ Esitiedot: Anamneesista varhaisvaiheet, terveydentila, miksi tulee arvioon, suku
 
 Status: yleistila, yleisstatus, neurologinen status, kasvutiedot 
 
-Ongelman kuvaus tarkemmin: "Esim. todetaan merkittävä kielenkehityksen hitaus, joka vaikeuttaa selvästi suoriutumista päiväkodin arjessa ja aiheuttaa päivittäistä tuen tarvetta. Näönvaraiset påäättelytaidot kuvautuvat ikätasoisina. Kuvaavin diagnoosi on kielellinen kehityshäiriö, joskin lieviä autismipiirteitä mukana myös. Diagnoosia tarkennetaan myöhemmin lapsen kasvaessa ja kuntoutuksen edetessä. 
+Ongelman kuvaus tarkemmin: "Esim. todetaan merkittävä kielenkehityksen hitaus, joka vaikeuttaa selvästi suoriutumista päiväkodin arjessa ja aiheuttaa päivittäistä tuen tarvetta. Näönvaraiset päättelytaidot kuvautuvat ikätasoisina. Kuvaavin diagnoosi on kielellinen kehityshäiriö, joskin lieviä autismipiirteitä mukana myös. Diagnoosia tarkennetaan myöhemmin lapsen kasvaessa ja kuntoutuksen edetessä. 
 
 Kuntoutussuunnitelma ajalle ___:
 
