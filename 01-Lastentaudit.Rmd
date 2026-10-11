@@ -244,7 +244,7 @@ Yleisimmät lapsen nivelongelmien erotudiagnostiset vaihtoehdot:
       <ul>
         <li>Urtikariaan voi liittyä myös artriitti, urtikariatulehdus nivelessä. Usein lääkkeen (+infektion) aiheuttama; klassisesti n. 5-9vrk antibioottikuurin aloituksen jälkeen (yleisimpiä kefaklori, penisilliini, amoksisilliini).</li>
         <li>Oirekuvalle on tyypillistä tietysti nokkosihottuma (kutiseva ja paikkaa vaihtava), joka voi joskus olla hemorraginenkin. Lisäksi yhden tai usean nivelen punoitus, turvotus ja liikearkuus; tyypillistä kämmenselissä ja jalkaterissä. </li>
-        <li>Labroissa lasko saattaa hieman kohota. Se paranee samoin kuin iho-oirekin, antihistamiinilääkityksellä. Joskus antihistamiinilääkitystä voidaan tarvita tavanomaista suurempia annoksia.</li>
+        <li>Labroissa lasko saattaa hieman kohota.</li>
         <li>Paranee samoin kuin iho-oirekin: antihistamiinilääkityksellä. Joskus antihistamiinilääkitystä voidaan tarvita tavanomaista suurempia annoksia. Aiheuttava ab on aihetta lopettaa/vaihtaa. Oireet häviävät nopeasti, yleensä viikossa ab:n lopetuksen jälkeen.</li>
       </ul>
     <li>IgA-vaskuliitti (aikaisemmin Henoch-Schönleinin purppura)</li>
@@ -325,14 +325,33 @@ Yleisimmät lapsen nivelongelmien erotudiagnostiset vaihtoehdot:
 
 ![](images/ontumisensyitä.png)
 
-Jos lapsella ei ole yleisoireita eikä mitään poikkeavia tutkimuslöydöksiä, voidaan tilannetta seurata. Mikäli selvää kipukohtaa tai muutoin paikantuvaa ongelmaa ei löydy, diagnoosi ei ole aivan selvä ja oire on pitkittynyt, lapsi tulee lähettää erikoissairaanhoitoon. 
+---
 
-Jos alla olevan kuvan tutkimuksissa todetaan poikkeava löydös, on oireisen alueen röntgenkuvaus aiheellinen. Poikkeuksena tyypillinen rasitusapofysiitti ja lonkan transientti synoviitti
+**On siis tärkeää tunnistaa päivystyksellistä hoitoa vaativat tilat: septiset infektiot (septinen artriitti / osteomyeliitti), maligniteetit (leukemia), lonkan epifyseolyysi ja traumat** (sekä hemofilia (verenvuoto nivelessä) joka usein anamnestisesti selvä). Yhden nivelen oireilussa siis:
 
-Kaikututkimuksella voidaan selvittää erityisesti lonkkanivelen nesteilyä, pehmytkudosten muutoksia ja mahdollisia vierasesineitä.
+<li>Septisen infektion epäilyssä lähete päivystykseen välittömästi</li>
+<li>Maligniteetin poissulussa vähintään PVK+T (ja usein diffi) ja epäilyssä lisäksi RTG ja harkinnan mukaan MT</li>
+<li>Epifyseolyysiepäily herää erityisesti, jos >10-vuotiallaa on lonkkakipua / ontumista -> rtg</li>
+<li>Traumassa tietysti kohdennetty RTG ja jatkot löydösten perusteella</li>
+<li>Jos potilaalla on tiedossa oleva hemostaasin häiriö ja nivelen turvotus ja kipu, niin hoidetaan välittämsti hyytymistekijävalmisteella; usein todennetaan vuoto myös UÄ:llä; traumassa RTG ja lastenkirurgin kons</li>
 
-Selvä nivelen turvotus tai liikerajoitus ilman poikkeavaa röntgenlöydöstä viittaa niveltulehdukseen
+---
 
+Jos on epäily lonkan transientista monosynoviitista (3-10v, ei kuumetta, ei yleisoireita, lonkassa atraumaattisesti liikearkuus ja rajoitus, CRP matala/hieman koholla, PVKT ok), niin diagnoosi yleensä varmistetaan UÄ:llä, mutta sen voi tehdä arkena. Natiivi-rtg matalalla kynnyksellä trauman, epifyseolyysin ja Perthesin taudin poissulkemiseksi varsinkin jos UÄ:ssä ei ole hydropsia/synoviittia tai vaikutelma ei täysin sovi transienttiin synoviittiin. 
+
+Varsinkin yli 10-vuotiailta tulisi aina ottaa lonkan epifyseolyysin poissuluksi natiivirtg, jos lonkkakipua (tai polvikipua ja lonkan statuksessa poikkeavaa); tällöin usein päivystyksellisesti, koska epifyseolyysi on ortopedinen hätätilanne. RTG otetaan useimmiten myös, jos oireet pitkittyvät yli 2vk (ei-päivystyksellisesti). Pidempikestoisissa oireissa jatkotutkimukset tehdään erikoissairaanhoidossa.
+
+---
+
+Jos lapsella on yhden nivelen turvotus ilman merkittäviä yleisoireita, otetaan perustutkimuksina PVK+T, diffi, La ja CRP. Otetaan myös virtsan liuskatesti, jos vaskuliitti-ihottumaa (etsitään pyuriaa ja/tai prot-/hematuriaa). Nieluviljely myös, jos nieluoireita. Jos ei ole merkittävää tulehdusarvojen nousua tai kuumetta, niin voidaan usein ottaa rauhallisesti tutkimusten kanssa. Mahdollisia syitä ovat mm. lastenreuma, Borrelia-artriitti, poststreptokokkaalinen artriitti, enteroartriitti, virustauteihin liittyvä artriitti... 
+
+Toisen vaiheen tutkimuksina otetaan nivelen UÄ ja herkästi natiivi-rtg arkena. Jos todetaan hydrops/synoviitti, niin tarkistetaan PVK+T, diffi, La, ANA, BorrAb, IgG, IgM, IgA, keliakiaseula, THS, T4v, >10-vuotiailla RF ja CPPAb sekä tarvittaessa infektioserologiaa kliinisen kuvan mukaan. Tehdään lähete lastenreumapoliklinikalle. Samoin tehdään lähete ESH, jos nivelkipu / ontuminen / raajan käyttörajoitus jatkuu >2vk ilman turvotustakin.
+
+<li>Pitkäkestoinen niveltulehdus aiheuttaa usein lievää anemiaa ja punasolujen mikrosytoosia. Sekä yleisoireisessa lastenreumassa että leukemiassa potilaalla voi olla anemia ja leukosytoosi. Yleisoireisessa lastenreumassa leukosytoosi on kuitenkin aina neutrofiilivaltainen, kun taas leukemiassa se on lähes aina lymfosyytti- tai blastivaltainen. Leukemiapotilaalla trombosyyttiarvo on usein matala, kun taas yleisoireisessa lastenreumassa se on lähes poikkeuksetta korkea. Maahanmuuttajataustaisella potilaalla, jolla on mikrosyyttinen anemia ja hyvä yleistila, voivat nivelkivut johtua talassemiasta.</li>
+<li>Reaktiivisessa artriitissa ja infektioartriiteissa lasko ja CRP ovat yleensä voimakkaasti koholla, kun taas lastenreumassa arvot ovat vaihtelevasti koholla tai voivat olla viitealueella.</li>
+
+![](images/erotus.png)
+![](images/hippain.png)
 ![](images/ontuminentutkimukset.png)
 
   </div>
@@ -6776,7 +6795,7 @@ Yleisimmät lapsen nivelongelmien erotudiagnostiset vaihtoehdot (käydään nyt 
       <ul>
         <li>Urtikariaan voi liittyä myös artriitti, urtikariatulehdus nivelessä. Usein lääkkeen (+infektion) aiheuttama; klassisesti n. 5-9vrk antibioottikuurin aloituksen jälkeen (yleisimpiä kefaklori, penisilliini, amoksisilliini).</li>
         <li>Oirekuvalle on tyypillistä tietysti nokkosihottuma (kutiseva ja paikkaa vaihtava), joka voi joskus olla hemorraginenkin. Lisäksi yhden tai usean nivelen punoitus, turvotus ja liikearkuus; tyypillistä kämmenselissä ja jalkaterissä. </li>
-        <li>Labroissa lasko saattaa hieman kohota. Se paranee samoin kuin iho-oirekin, antihistamiinilääkityksellä. Joskus antihistamiinilääkitystä voidaan tarvita tavanomaista suurempia annoksia.</li>
+        <li>Labroissa lasko saattaa hieman kohota.</li>
         <li>Paranee samoin kuin iho-oirekin: antihistamiinilääkityksellä. Joskus antihistamiinilääkitystä voidaan tarvita tavanomaista suurempia annoksia. Aiheuttava ab on aihetta lopettaa/vaihtaa. Oireet häviävät nopeasti, yleensä viikossa ab:n lopetuksen jälkeen.</li>
       </ul>
     <li>IgA-vaskuliitti (aikaisemmin Henoch-Schönleinin purppura)</li>
@@ -6857,14 +6876,31 @@ Yleisimmät lapsen nivelongelmien erotudiagnostiset vaihtoehdot (käydään nyt 
 
 ![](images/ontumisensyitä.png)
 
-Jos lapsella ei ole yleisoireita eikä mitään poikkeavia tutkimuslöydöksiä, voidaan tilannetta seurata. Mikäli selvää kipukohtaa tai muutoin paikantuvaa ongelmaa ei löydy, diagnoosi ei ole aivan selvä ja oire on pitkittynyt, lapsi tulee lähettää erikoissairaanhoitoon. 
+**On siis tärkeää tunnistaa päivystyksellistä hoitoa vaativat tilat: septiset infektiot (septinen artriitti / osteomyeliitti), maligniteetit (leukemia), lonkan epifyseolyysi ja traumat** (sekä hemofilia (verenvuoto nivelessä) joka usein anamnestisesti selvä). Yhden nivelen oireilussa siis:
 
-Jos alla olevan kuvan tutkimuksissa todetaan poikkeava löydös, on oireisen alueen röntgenkuvaus aiheellinen. Poikkeuksena tyypillinen rasitusapofysiitti ja lonkan transientti synoviitti
+<li>Septisen infektion epäilyssä lähete päivystykseen välittömästi</li>
+<li>Maligniteetin poissulussa vähintään PVK+T (ja usein diffi) ja epäilyssä lisäksi RTG ja harkinnan mukaan MT</li>
+<li>Epifyseolyysiepäily herää erityisesti, jos >10-vuotiallaa on lonkkakipua / ontumista -> rtg</li>
+<li>Traumassa tietysti kohdennetty RTG ja jatkot löydösten perusteella</li>
+<li>Jos potilaalla on tiedossa oleva hemostaasin häiriö ja nivelen turvotus ja kipu, niin hoidetaan välittämsti hyytymistekijävalmisteella; usein todennetaan vuoto myös UÄ:llä; traumassa RTG ja lastenkirurgin kons</li>
 
-Kaikututkimuksella voidaan selvittää erityisesti lonkkanivelen nesteilyä, pehmytkudosten muutoksia ja mahdollisia vierasesineitä.
+---
 
-Selvä nivelen turvotus tai liikerajoitus ilman poikkeavaa röntgenlöydöstä viittaa niveltulehdukseen
+Jos on epäily lonkan transientista monosynoviitista (3-10v, ei kuumetta, ei yleisoireita, lonkassa atraumaattisesti liikearkuus ja rajoitus, CRP matala/hieman koholla, PVKT ok), niin diagnoosi yleensä varmistetaan UÄ:llä, mutta sen voi tehdä arkena. Natiivi-rtg matalalla kynnyksellä trauman, epifyseolyysin ja Perthesin taudin poissulkemiseksi varsinkin jos UÄ:ssä ei ole hydropsia/synoviittia tai vaikutelma ei täysin sovi transienttiin synoviittiin. 
 
+Varsinkin yli 10-vuotiailta tulisi aina ottaa lonkan epifyseolyysin poissuluksi natiivirtg, jos lonkkakipua (tai polvikipua ja lonkan statuksessa poikkeavaa); tällöin usein päivystyksellisesti, koska epifyseolyysi on ortopedinen hätätilanne. RTG otetaan useimmiten myös, jos oireet pitkittyvät yli 2vk (ei-päivystyksellisesti). Pidempikestoisissa oireissa jatkotutkimukset tehdään erikoissairaanhoidossa.
+
+---
+
+Jos lapsella on yhden nivelen turvotus ilman merkittäviä yleisoireita, otetaan perustutkimuksina PVK+T, diffi, La ja CRP. Otetaan myös virtsan liuskatesti, jos vaskuliitti-ihottumaa (etsitään pyuriaa ja/tai prot-/hematuriaa). Nieluviljely myös, jos nieluoireita. Jos ei ole merkittävää tulehdusarvojen nousua tai kuumetta, niin voidaan usein ottaa rauhallisesti tutkimusten kanssa. Mahdollisia syitä ovat mm. lastenreuma, Borrelia-artriitti, poststreptokokkaalinen artriitti, enteroartriitti, virustauteihin liittyvä artriitti... 
+
+Toisen vaiheen tutkimuksina otetaan nivelen UÄ ja herkästi natiivi-rtg arkena. Jos todetaan hydrops/synoviitti, niin tarkistetaan PVK+T, diffi, La, ANA, BorrAb, IgG, IgM, IgA, keliakiaseula, THS, T4v, >10-vuotiailla RF ja CPPAb sekä tarvittaessa infektioserologiaa kliinisen kuvan mukaan. Tehdään lähete lastenreumapoliklinikalle. Samoin tehdään lähete ESH, jos nivelkipu / ontuminen / raajan käyttörajoitus jatkuu >2vk ilman turvotustakin.
+
+<li>Pitkäkestoinen niveltulehdus aiheuttaa usein lievää anemiaa ja punasolujen mikrosytoosia. Sekä yleisoireisessa lastenreumassa että leukemiassa potilaalla voi olla anemia ja leukosytoosi. Yleisoireisessa lastenreumassa leukosytoosi on kuitenkin aina neutrofiilivaltainen, kun taas leukemiassa se on lähes aina lymfosyytti- tai blastivaltainen. Leukemiapotilaalla trombosyyttiarvo on usein matala, kun taas yleisoireisessa lastenreumassa se on lähes poikkeuksetta korkea. Maahanmuuttajataustaisella potilaalla, jolla on mikrosyyttinen anemia ja hyvä yleistila, voivat nivelkivut johtua talassemiasta.</li>
+<li>Reaktiivisessa artriitissa ja infektioartriiteissa lasko ja CRP ovat yleensä voimakkaasti koholla, kun taas lastenreumassa arvot ovat vaihtelevasti koholla tai voivat olla viitealueella.</li>
+
+![](images/erotus.png)
+![](images/hippain.png)
 ![](images/ontuminentutkimukset.png)
 
 
