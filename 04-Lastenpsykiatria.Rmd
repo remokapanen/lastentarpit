@@ -256,7 +256,7 @@ Muita mm.
   </div>
 </div>
 
-#### ADHD-lääkityksen seurannassa tarkkaillaan (fyysiset asiat) (5 viivaa, 3p) {#ADHD-laakityksen-seurannassa}
+#### ADHD-lääkityksen seurannassa tarkkaillaan (fyysiset asiat) (4 viivaa, 4p) {#ADHD-laakityksen-seurannassa}
 
 <div class="">
   <button class="solution-button"
@@ -266,7 +266,7 @@ Muita mm.
   </button>
   <div class="solution-content">
 
-**pituus, paino, verenpaine, syke, uni**
+**pituus, paino, verenpaine, syke**
 
 ---
 
@@ -363,10 +363,6 @@ Taustatietojen keruu
 Yksilötapaamiset + psykologiset testit ja mahdollisesti ryhmätilanteessa havainnointi
 
 Tutkimuspalaute + jatkosuositukset 
-
----
-
-Tai jos haettiin psykologisen arvioinnin tasoja, niin ne ovat: konsultaatio, kartoitus ja arvio
 
 ![](images/psyk1.png)
 ![](images/psyk2.png)
@@ -1050,7 +1046,7 @@ Psykoosissa ihmisen todellisuudenkäsitys on vääristynyt tai murtunut (esim. h
   </div>
 </div>
 
-#### Vähemmistöstressi tarkoitaa vähemmistöön kuulumiseen kuormittavuutta {#Vahemmistostressi}
+#### Vähemmistöstressi tarkoittaa vähemmistöön kuulumiseen kuormittavuutta {#Vahemmistostressi}
 
 <div class="">
   <button class="solution-button"
@@ -1111,24 +1107,6 @@ ADHD on oirediagnoosi; spesifisiä diagnostisia tutkimuksia ei ole. **Diagnoosia
 ![](images/adhd.png)
 ![](images/dsm5adhd.png)
 ![](images/icd10adhd.png)
-
-  </div>
-</div>
-
-#### Kulttuurisensitiivisessä työssä vaaditaan lääkärin jtn (vakautta?) {#Vakautta-kulttuurisensitiivisessa-tyossa}
-
-<div class="">
-  <button class="solution-button"
-          data-label="Vastaus"
-          data-hide-label="Piilota vastaus">
-    Vastaus
-  </button>
-  <div class="solution-content">
-      
-      
-Riippuu vähän mikä oli se sana jota käytettii kysymyksessä. Jos vakautta, niin sinänsä ehkä ei -- enemmänkin haetaan joustavuutta ja oppimishalukkuutta eikä vakautta omissa mielipiteissään. Tosin riippuu vähän missä mielessä vakautta, kyllä potilaalle tulee tulla tunne siitä, että on sen verran vakaa persoona, että kestää kuulla potilaan negatiivisia tunteita.
-
-![](images/kulttuurisensitiivinen.png)
 
   </div>
 </div>
@@ -1430,6 +1408,336 @@ Tutkimusnäytön mukaan ankaruus (kuten kovat rangaistukset, pelolla johtaminen 
 Tähän perustuu myös käytöshäiriöiden hoito eli annetaan tarvittavaa tukea vanhemmuuteen, kasvatuksellisiin kysymyksiin ja vanhempien omiin ongelmiin. 
 
 ![](images/ankaruus.png)
+  </div>
+</div>
+
+#### Kulttuurisensitiivisessä otteessa korostuu lääkärin vankka tietämys ja ohjaus siihen perustuen {#Vakautta-kulttuurisensitiivisessa-tyossa}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin 
+
+Korostuu enemmänkin kiinnostus uusia asioita kohtaan ja kyky luoda avoin ei-tietämyksen ilmapiiri, sen sijaan, että tulisi tukeutua jäykkiin vankkaan tietämykseen perustuviin ajatusmalleihin. 
+
+![](images/kulttuurisensitiivinen.png)
+![](images/ku1.png)
+![](images/ku2.png)
+![](images/ku3.png)
+![](images/ku4.png)
+
+
+  </div>
+</div>
+
+#### ADHD:n diagnoosi perustuu psykologiseen tutkimukseen
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin 
+
+ADHD-diagnoosi perustuu lääketieteelliseen kokonaisarvioon. Sinänsä psykologin tutkimusta ei aina tarvita, vaikka voikin olla hyödyllinen lisäapu esimerkiksi kognitiivisen toimintakyvyn tai liitännäisoireiden arvioinnissa. 
+
+---
+
+ADHD on oirediagnoosi; spesifisiä diagnostisia tutkimuksia ei ole. **Diagnoosia ei voi asettaa yksittäisen kyselylomakkeen kautta, vaan se vaatii laajemman haastattelun** ja kattavan anamneesin (perustuu huolelliseen oireiden kartoittamiseen ja toimintakyvyn arvioon eri toimintaympäristöissä nyt ja aiemmin) sekä tarvittaessa myös somaattisten syiden poissulkua (esim. kilpirauhasen toiminnan häiriöt, päihteiden käyttö). _Tärkeimpänä osana selvittelyä on siis laaja yleispsykiatrinen tutkimus. Alussa tulee myös heti ohjata mahdollisten altistavien elämäntapojen ohjaus ja muutkin tukitoimet. Näiden toimien ollessa riittämättömiä tehdään tarkempi diagnostinen arvio._ Diagnostinen arvio voidaan usein toteuttaa pth:ssa. Arvion tulee kattaa lapsen kokonaistilanne (psyykkinen ja fyysinen terveydentila, kehityshistoria, elämäntilanne ja muut oireisiin mahdollisesti vaikuttavat tekijät).
+
+---
+
+**Koska ADHD on keskushermoston kehityksellinen häiriö, niin oireet alkavat jo lapsuudessa (ADHD:n diagnosoiminen aikuispotilaalla vaatisi myös lapsuuden oireiden selvittämistä).**
+
+<li>Tietoa kerätään kattavasti vanhemmilta, päiväkodista/koululta yms. Myös lapsi tulee haastatella ja tutkia tarkasti </li>
+<li>On hyvä huomioida, että oirekuva voi muuttua lapsen kasvaessa Erityisesti yliaktiivisuus- ja impulsiivisuusoireet tyypillisesti lievittyvät aikuisuuteen tultaessa (aikuisella voi pitemminkin olla sisäistä levottomuutta tai paikallaan oloa edellyttävien tapahtumien välttelyä). Tarkkaavuuden säätelyn vaikeus voi ilmetä alle kouluikäisen leikkien lyhytjänteisyytenä, kouluikäisellä häiriöherkkyytenä, omiin ajatuksiin vaipumisena, huolimattomuusvirheinä ja tavaroiden unohteluna. Aikuisella tarkkaamattomuus voi ilmetä esim. hajamielisyytenä, vaikeutena ylläpitää keskittymistä pitkäjänteisesti yrittämisestä huolimatta, asioiden ja tehtävien unohteluna, huolimattomuutena, jatkuvana myöhästelynä ja toistuvina peruuttamattomina poisjäänteinä vastaanotoilta sekä taipumuksena tehdä toissijaisia asioita tärkeän tehtävän sijasta. Tavallista on myös ikätasoon nähden epätavallinen tuen tarve toisilta ihmisiltä elämänhallinnan onnistumiseksi.</li>
+  <ul>
+    <li>Tyypilliset ADHD-oireet ovat usein havaittavissa jo leikki-iässä, mutta diagnoosin tekeminen ennen kouluikää vaatii erityistä huolellisuutta. Luotettava diagnosoiminen ei oireiden epäspesifisyyden vuoksi useinkaan ole mahdollista ennen 5 vuoden ikää</li>
+  </ul>
+<li>Muu psykiatrinen diagnoosi ei ole este ADHD-diagnoosille silloin, kun on kyse selkeästi erillisistä mutta samanaikaisista häiriöistä. Erotusdiagnostiikan luotettavuuden kannalta olisi hyvä, että psykiatrista oireistoa tai päihdehäiriötä olisi yritetty hoitaa ennen ADHD:n tutkimista, mutta hoitoresistentissä tilanteessa arviota voidaan yrittää erikoissairaanhoidossa tehdä.</li>
+
+![](images/adhd.png)
+![](images/dsm5adhd.png)
+![](images/icd10adhd.png)
+
+
+  </div>
+</div>
+
+#### ADHD:n diagnoosi perustuu laajaan anamneesiin
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein 
+
+ADHD-diagnoosi perustuu lääketieteelliseen kokonaisarvioon ja pääasiassa laajan haastattelun kautta kerättyyn anamneesiin. 
+
+---
+
+ADHD on oirediagnoosi; spesifisiä diagnostisia tutkimuksia ei ole. **Diagnoosia ei voi asettaa yksittäisen kyselylomakkeen kautta, vaan se vaatii laajemman haastattelun** ja kattavan anamneesin (perustuu huolelliseen oireiden kartoittamiseen ja toimintakyvyn arvioon eri toimintaympäristöissä nyt ja aiemmin) sekä tarvittaessa myös somaattisten syiden poissulkua (esim. kilpirauhasen toiminnan häiriöt, päihteiden käyttö). _Tärkeimpänä osana selvittelyä on siis laaja yleispsykiatrinen tutkimus. Alussa tulee myös heti ohjata mahdollisten altistavien elämäntapojen ohjaus ja muutkin tukitoimet. Näiden toimien ollessa riittämättömiä tehdään tarkempi diagnostinen arvio._ Diagnostinen arvio voidaan usein toteuttaa pth:ssa. Arvion tulee kattaa lapsen kokonaistilanne (psyykkinen ja fyysinen terveydentila, kehityshistoria, elämäntilanne ja muut oireisiin mahdollisesti vaikuttavat tekijät).
+
+---
+
+**Koska ADHD on keskushermoston kehityksellinen häiriö, niin oireet alkavat jo lapsuudessa (ADHD:n diagnosoiminen aikuispotilaalla vaatisi myös lapsuuden oireiden selvittämistä).**
+
+<li>Tietoa kerätään kattavasti vanhemmilta, päiväkodista/koululta yms. Myös lapsi tulee haastatella ja tutkia tarkasti </li>
+<li>On hyvä huomioida, että oirekuva voi muuttua lapsen kasvaessa Erityisesti yliaktiivisuus- ja impulsiivisuusoireet tyypillisesti lievittyvät aikuisuuteen tultaessa (aikuisella voi pitemminkin olla sisäistä levottomuutta tai paikallaan oloa edellyttävien tapahtumien välttelyä). Tarkkaavuuden säätelyn vaikeus voi ilmetä alle kouluikäisen leikkien lyhytjänteisyytenä, kouluikäisellä häiriöherkkyytenä, omiin ajatuksiin vaipumisena, huolimattomuusvirheinä ja tavaroiden unohteluna. Aikuisella tarkkaamattomuus voi ilmetä esim. hajamielisyytenä, vaikeutena ylläpitää keskittymistä pitkäjänteisesti yrittämisestä huolimatta, asioiden ja tehtävien unohteluna, huolimattomuutena, jatkuvana myöhästelynä ja toistuvina peruuttamattomina poisjäänteinä vastaanotoilta sekä taipumuksena tehdä toissijaisia asioita tärkeän tehtävän sijasta. Tavallista on myös ikätasoon nähden epätavallinen tuen tarve toisilta ihmisiltä elämänhallinnan onnistumiseksi.</li>
+  <ul>
+    <li>Tyypilliset ADHD-oireet ovat usein havaittavissa jo leikki-iässä, mutta diagnoosin tekeminen ennen kouluikää vaatii erityistä huolellisuutta. Luotettava diagnosoiminen ei oireiden epäspesifisyyden vuoksi useinkaan ole mahdollista ennen 5 vuoden ikää</li>
+  </ul>
+<li>Muu psykiatrinen diagnoosi ei ole este ADHD-diagnoosille silloin, kun on kyse selkeästi erillisistä mutta samanaikaisista häiriöistä. Erotusdiagnostiikan luotettavuuden kannalta olisi hyvä, että psykiatrista oireistoa tai päihdehäiriötä olisi yritetty hoitaa ennen ADHD:n tutkimista, mutta hoitoresistentissä tilanteessa arviota voidaan yrittää erikoissairaanhoidossa tehdä.</li>
+
+![](images/adhd.png)
+![](images/dsm5adhd.png)
+![](images/icd10adhd.png)
+
+  </div>
+</div>
+
+#### Kyselylomakkeista ei ole hyötyä lastenpsykiatrisessa selvittelyssä {#Kyselylomakkeista-ei-hyotya}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin 
+
+Kyselylomakkeilla voidaan kerätä tehokkaasti tietoa eri ympäristöistä ja kartoittaa tehokkaasti oireiden laajuutta ja vakavuutta sekä tunnistaa erotusdiagnostisia ongelmia. 
+
+Kyselylomakkeet kuitenkin toimivat arvioinnin tukena ja seulonnassa -- ne eivät siis yksin riitä diagnoosiin. Lopullinen diagnostinen arvio perustuu aina lääkärin tai työryhmän tekemään kliiniseen kokonaisarvioon, jossa yhdistyvät haastattelut, havainnointi, taustatiedot ja tarvittaessa muut tutkimukset.
+
+  </div>
+</div>
+
+#### Lapsen tai vanhemman fyysinen sairaus ei lisää riskiä mielialahäiriölle {#Fyysinen-sairaus-ei-lisaa-riskia}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin 
+
+Fyysinen sairaus on tärkeä riskitekijä mielialahäiriöille, kuten masennukselle. Fyysisen sairauden ei tarvitse edes olla lapsen oma, sillä myös vanhemman/muun läheisen sairastuminen horjuttaa koko perheen arkea ja turvallisuudentunnetta.
+
+  </div>
+</div>
+
+#### Käytöshäiriön diagnoosiin riittää kuukauden kestänyt uhmaava, aggressiivinen ja epäsosiaalinen käytös {#Kaytoshairion-diagnoosiin-riittaa}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin 
+
+Käytöshäiriön diagnostisissa kriteereissä kestovaatimus on vähintään 6kk eikä muutenkaan voida pelkästään näillä oireilla diagnosoida käytöshäiriötä, koska tulee myös poissulkea muut aiheuttavat syyt. 
+
+![](images/käytös.png)
+  </div>
+</div>
+
+#### Traumatisoitumisessa tärkeä piirre on traumakokemuksen aiheuttama yleisen perusturvallisuudentunteen horjuminen {#Turvallisuudentunne}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein 
+
+Traumaattinen kokemus (kuten kaltoinkohtelu, onnettomuus, väkivalta tai läheisen menettäminen) usein rikkoo ihmisen oletuksen siitä, että maailma on ennustettava ja pääosin turvallinen paikka. Kun turvallisuudentunne katoaa, hermosto voi jäädä yliaktivointitilaan. Yksilö kokee jatkuvaa uhkaa, valppautta ja vaaraa silloinkin, kun todellista akuuttia vaaraa ei ole.
+
+![](images/perusturvallisuus.png)
+
+  </div>
+</div>
+
+
+#### Lastenpsykiatrinen häiriö on 5% lapsista {#5-prosentilla-hairio}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin 
+
+15-20%
+
+![](images/yleisyys.png)
+
+  </div>
+</div>
+
+
+#### Masennus ilmenee samalla tavalla eri ikäisillä {#Masennus-ilmenee-samalla-tavalla}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin 
+
+Masennuksen ilmenemismuoto voi vaihdella merkittävästi iän muuttuessa. Lapsilla masennus voi ilmentyä hyvin ei-masennusmaisina oireina, kuten mm. levottomuutena, keskittymisvaikeuksina, ärtyneisyytenä, raivoamisena sekä fyysisinä oireina, jotka jäävät usein huomaamatta tai niitä ei huomioida masennusperäisen oireilun mahdollisuutena. 
+![](images/masennuseriikäisillä.png)
+  </div>
+</div>
+
+#### Masennuksen pääoireet ovat alentunut mieliala, toivottomuus ja ärtyneisyys {#Masennuksen-paaoireet}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin 
+
+Masennuksen diagnostisissa kriteereissä pääoireet ovat ns. B-kriteerin oireet eli masentunut mieliala, kiinnostuksen/mielihyvän menettäminen ja vähentyneet voimavarat/väsymys
+
+![](images/masennus.png)
+  </div>
+</div>
+
+
+#### Leikki-ikäisten psykiatrisissa häiriöissä korostuu tunnesäätelyn häiriöt {#Leikki-ikaisten-hairioissa}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein 
+
+Tunnesäätelyn ja toiminnan ohjauksen vaikeudet ovat keskiössä leikki-ikäisten lasten psykiatrisissa häiriöissä. Leikki-iässä lapsi harjoittelee runsaasti omien tunteidensa tunnistamista ja säätelyä. Tämän vuoksi kehityksen viiveet tai psykiatriset häiriöt ilmentyvät usein juuri vaikeuksina hallita tunnereaktioita. 
+  </div>
+</div>
+
+#### Paniikkikohtaukset ilmenevät paniikkihäiriössä samanlaisten ja toistuvien altistavien tekijöiden laukaisemina {#Paniikkikohtaukset-ilmenevat}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin 
+
+Paniikkihäiriössä henkilöllä esiintyy toistuvia paniikkikohtauksia ennalta arvaamattomissa ja vaihtelevissa tilanteissa, jotka eivät ole erityisen rasittavia tai vaarallisia. 
+
+![](images/paniikkikohtaus.png)
+  </div>
+</div>
+
+#### Rasistiset kokemukset lisäävät allostaattista kuormaa {#Rasismi-ja-allostaattinen-kuorma}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein 
+
+Syrjintäkokemukset toimivat kroonisina psyykkisinä ja sosiaalisina stressitekijöinä, jotka lisäävät kehossa allostaattista kuormaa. 
+
+---
+
+**Allostaattisella kuormituksella tarkoitetaan elimistön stressiin liittyvää häiriötilaa,** jonka on osoitettu lisäävän kuolemanriskiä ja monenlaisia terveysriskejä sekä liittyvän mielenterveyshäiriöihin
+
+**Allostaattisen kuormitusteorian mukaan stressitilanteissa keho pyrkii sopeutumaan ja saavuttamaan tasapainon biologisten sopeutumisprosessien kautta; esim. kortisolin erityksellä pyritään ylläpitämään ”valmiustilaa”.** Häiriötiloissa kompensaatiomekanismit saattavat olla pitkällä aikavälillä haitallisia: mm. sydän- ja verisuonitaudit, immuunipuolustus, uniongelmat, kipuoireet. 
+
+Allostaattisen kuormituksen määrittämiseen ei vielä ole vakiintunutta menetelmää, mutta sitä voidaan mitata erilaisten biomarkkereiden avulla. Allostaattisen kuormituksen biomarkkerit voidaan jaotella neuroendokriinisiin, sydän- ja verenkiertoelimistön toimintaan liittyviin, metabolisiin, immuunijärjestelmään liittyviin ja antropometrisiin eli kehon ominaisuuksia mittaaviin biomarkkereihin
+
+Allostaattista kuormitusta voi syntyä neljällä tavalla: toistuvien reaktioiden kautta, toistuvaan vaativaan tai stressaavaan tilanteeseen liittyvän epäonnistuneen sopeutumisen kautta, stressireaktion pitkittymisen kautta ja stressijärjestelmän riittämättömän reagoivuuden kautta
+
+<li>Normaali stressireaktio on stressistä palautumisen kannalta tärkeä</li>
+<li>Allostaattisella ylikuormituksella tarkoitetaan elimistön pysyvää toimintahäiriötä tai sairastumista</li>
+
+![](images/vahemmistostressi.png)
+![](images/allo.png)
+  </div>
+</div>
+
+#### Ajatusmallit, joissa pyöritellään epämiellyttäviä asioita päässä altistavat mielialahäiriöille {#Ajatusmallit-altistavat}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein 
+
+Ruminaatiossa eli murheiden jauhamisessa ihminen juuttuu analysoimaan menneitä virheitä, epäonnistumisia tai ikäviä tapahtumia ilman, että pyrkimyksenä on aktiivinen ongelmanratkaisu. Tämä vahvistaa negatiivisia tunteita ja laskee mielialaa entisestään -> noidankehä
+
+![](images/taåa.png)
+  </div>
+</div>
+
+#### Vanhempien ohjauksesta on hyötyä käytöshäiriöiden hoidossa, mutta sitä ei kannata kokeilla muiden psykiatristen häiriöiden hoidossa {#Vanhempien-ohjauksesta-ei-hyotya-muualla}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin 
+
+Vanhemmuustaitojen ohjaus on tehokas ja keskeinen hoitomuoto käytöshäiriöiden lisäksi useiden muidenkin lasten ja nuorten psykiatristen sekä kehityksellisten häiriöiden hoidossa; esimerkiksi ADHD:ssa vanhempien ohjaus on hyvin tärkeää. 
+
+  </div>
+</div>
+
+#### Lastensuojelusta ei tyypillisesti saa apua käytöshäiriöissä {#Lastensuojelusta-ei-apua-kaytoshairioissa}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin 
+
+Lastesuojeluilmoitus kannattaa tehdä matalalla kynnyksellä, kun perheen voimavarat eivät riitä tilanteen hallitsemiseen tai on huoli lapsen kehityksestä. Myös siis käytöshäiriöissä lastensuojelu on yksi keskeisimmistä tahoista, joilta perheet voivat saada apua ja tukea.
+
+![](images/lastensuojelu.png)
   </div>
 </div>
 
