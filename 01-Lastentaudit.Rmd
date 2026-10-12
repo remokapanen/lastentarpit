@@ -6,6 +6,159 @@ Tyypilliseen tapaan useina vuosina toistuvat kysymykset jätetty toistamatta tä
 
 Pitkälti aikaisempien vuosien tärppejä, joitakin uusia, jotka tässä nyt. 
 
+### Essee - Urtikaria ja angioödeema {#Urtikaria-essee}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+    
+Urtikaria (nokkosihottuma) ja angioödeema (syvempi ihonalainen tai limakalvonalainen turvotus) ovat iho- ja limakalvosairauksia, jotka liittyvät usein läheisesti toisiinsa. Molemmat tilat johtuvat tyypillisesti syöttösolujen degranulaatiosta (-> histamiini) ja sen aiheuttamasta verisuonten läpäisevyyden äkillisestä lisääntymisestä, mikä johtaa nesteen vuotamiseen ympäröivään kudokseen. Urtikariassa siis on ödeemaa ja perivaskulaarista tulehdussolukerääntymää dermiksen ylä- ja keskiosissa, kun taas angioödeemassa vastaavat muutokset ovat dermiksen alaosissa ja ihonalaiskerroksessa. Epidermis itsessään pysyy normaalina. 
+
+Vaikka ne voivat esiintyä itsenäisesti, noin puolella potilaista urtikaria ja angioödeema esiintyvät samanaikaisesti. Urtikariaa ilmenee n. 15-30%:lla elämän aikana ja lapsilla ilmaantuvuus on n. 1%/v (kumulatiivinen ilmaantuvuus 10v ikään mennessä n. 14%). Atooppinen ihottuma on merkittävä riskitekijä. 
+
+Joidenkin määritelmien mukaan urtikaria on tila, johon liittyy paukamat, angioödeema tai molemmat. Käsitellään tässä sitä kuitenkin vain paukamina ja angioödeemaa omana asianaan eikä urtikarian alaluokkana.  
+
+---
+
+**Urtikarian paukamalle on olennaista kolme tyyppipirrettä:**
+
+<li>Vaihtelevankokoinen paukaman keskiosan turvotus, jota lähes poikkeuksetta ympäröi eryteema</li>
+  <ul>
+    <li>Usein keskeltä siis vaaleilta. Ihomuutosten koko vaihtelee ja ne voivat muuttaa muotoaan, levitä tai yhdistyä laajoiksi alueiksi.</li>
+    <li>Paukamat vaalenevatja painuvat pois keskeltä käsin painaessa</li>
+  </ul>
+<li>Kutina tai joskus polttelun tunne</li>
+  <ul>
+    <li>Voimakkaaseen ihottumaan voi liittyä yleisoireita: pahoinvointia, vatsakipua, päänsärkyä, nivelsärkyä, kuumetta...</li>
+  </ul>
+<li>Paukaman hetkellinen luonne eli paukaman kohdalla iho palautuu normaaliksi yleensä 30 minuutin – 24 tunnin kuluessa. Jos paukama kestää paikallaan yli vuorokauden, kyse ei ole normaalista urtikariasta vaan jostain muusta ihotaudista.</li>
+
+---
+
+**Vertaa taas angioödeemaan:**
+
+<li>Äkillinen, voimakas punoittava tai ihonvärinen turvotus dermiksen alaosissa, ihonalaiskerroksessa tai limakalvoilla</li>
+  <ul>
+    <li>Joskus turvotusta siis myös kielessä tai nielussa; yleensä ei kurkunpäässä (hereditäärisessä angioödeemassa kyllä usein)</li>
+  </ul>
+<li>Joskus kipu paremminkin kuin kutina</li>
+<li>Oireen hitaampi häviäminen paukamiin verrattuna (voi kestää jopa 72 tuntia)</li>
+
+---
+
+**Urtikaria voidaan jakaa oireiden keston suhteen akuuttiin (<6vk), krooniseen (>6vk) ja uusiutuvaan.**
+
+**Suurimman osan akuuteista urtikarioista laukaisee infektio, tavallisimmin ylähengitystie- tai muu virusinfektio.** Infektioissa tapahtuu komplementin aktivaatio, jossa komplementin C3–C5-osista vapautuu niin sanottuja anafylatoksiineja (C3a, C4a, C5a), jotka puolestaan aktivoivat syöttösolut vapauttamaan histamiinia, beeta-tryptaasia ja muita välittäjäaineita. Selittää 80-90% akuuteista urtikarioista. 
+
+Toisia aiheuttajia ovat mm. lääkkeet (useammin urtikarian syynä on kylläkin itse infektio kuin infektion hoitoon käytetty antibiootti), ruoka-aineet ja muut IgE-välitteiset allergiat. 
+
+<li>Etenkin tulehduskipulääkkeet voivat laukaista urtikariaa muillakin mekanismeilla kuin allergian kautta. Tulehduskipulääkkeet voivat myös pahentaa kaikkia urtikarian/angioödeeman muotoja, vaikka ne eivät aina olisikaan sinänsä niiden varsinainen aiheuttaja. Esimerkiksi arakidonihappometabolia voi ohjautua syklo-oksigenaasitien estymisen seurauksena lipoksigenaasitielle ja leukotrieenien muodostukseen -> voi pahentaa oireita.</li>
+  <ul>
+    <li>Myös mm. opioidit voivat vapauttaa histamiinia ja aiheuttaa urtikariaa sekä bronkospasmia</li>
+  </ul>
+<li>IgE-välitteinen allergia on mahdollista esimerkiksi penisilliiniryhmän mikrobilääkkeille ja lihasrelaksanteille tai ampiaisten ja mehiläisten pistoille. IgE-välitteinen ruoka-aineallergia on harvinainen (alle 1 %) syy aikuisen akuutille urtikarialle, mutta toistuvissa akuuteissa urtikarioissa sitä voidaan epäillä, kuten myös pienten lasten urtikariassa. </li>
+  <ul>
+    <li>Allergia on akuutissa urtikariassa taustalla useammin kuin muissa tyypeissä, mutta yleisesti harvoin (IgE-välitteinen allergia korkeintaan 1-5% tapauksista aiheuttajana). ”Allergia voi aiheuttaa urtikariaa, mutta urtikaria ei useinkaan johdu allergiasta” </li>
+  </ul>
+<li>N. 30-50% tapauksista jää idiopaattisiksi</li>
+
+---
+
+**Yleensä akuutissa urtikariassa ei tarvita laajoja tutkimuksia ja diagnoosi on anamneesiin+statukseen perustuva.** Allergologisia tutkimuksia vain jos taudinkuva viittaa enemmän välittömään allergiseen reaktioon kuin akuuttiin spontaaniin urtikariaan (esim. anafylaksia, nopea yhteys ruoan/lääkkeen ottoon, epäily paikallisesti kosketusurtikariasta). 
+
+Anamneesissa tulee kerätä mm. seuraavat tiedot: 
+
+<li>Oireiden kesto</li>
+<li>Paukamien tiheys ja kesto</li>
+<li>Oireiden vuorokausivaihtelu ja oirepaikka</li>
+<li>Oireiden vuorokausivaihtelu ja oirepaikka</li>
+<li>Onko myös angioödeemaa</li>
+<li>Onko kutinaa tai kipua</li>
+<li>Atopia-tausta</li>
+<li>Aiempi nokkosrokkotaipumus itsellä tai perheenjäsenillä</li>
+<li>Edeltävät infektiot</li>
+<li>Tiedossa olevat allergiat</li>
+<li>GI-oireet</li>
+<li>Lääkkeiden käyttö (NSAID, vaihtoehtolääkkeet/luontaistuotteet, rokotukset, injisoitavat lääkkeet, hormonit, laksatiivit, supot, korva/silmätipat)</li>
+<li>Havaittu yhteys ruoka-aineisiin</li>
+<li>Laukaiseeko fyysinen rasitus</li>
+<li>Stressi</li>
+<li>Aiemmat hoidot ja niiden teho</li>
+<li>Onko nyt käytössä antihistamiini ja millä annoksella</li>
+<li>Statuksessa kannattaa muistaa tehdä ihon raapaisutesti, jolla etsitään dermogafismusta.</li>
+
+---
+
+Hoitona pääasiassa oireenmukainen hoito. Jos potilaalla on käytössä jokin lääkekuuri, jonka epäillään olevan syynä oireisiin, se on hyvä lopettaa ja vaihtaa tarvittaessa toisen tyyppiseen lääkeaineeseen. Useimmiten urtikarian syynä on kuitenkin itse infektio, ei sen hoitoon käytetty lääke.
+
+<li>**Oireenmukaisena hoitona suositellaan toisen sukupolven H1-antihistamiinia, jonka annosta voi tarpeen mukaan nostaa kaksin- tai jopa nelinkertaiseksi suosituksen mukaisesta annoksesta.** Käytetään aluksi siis normaaliannoksella, jos oireet eivät rauhoitu, voidaan annos nostaa 2–4-kertaiseksi (lapsilla pääsääntöisesti 2x, aikuisilla ad 4x); reseptiin on tuolloin tehtävä Sic!-merkintä. Lääkettä on syytä jatkaa riittävän kauan, jopa muutaman viikon ajan, jotta urtikarian laukaissut tekijä poistuu elimistöstä. Hyvin rajuissa oireissa, joissa korotettu antihistamiiniannoskaan ei auta, voidaan käyttää lyhyttä suun kautta otettavaa kortikosteroidikuuria.</li>
+<li>NSAID ja ASA välttö oireiden ajan</li>
+<li>Voi kestää vain 1-2 päivää tai uusia päivittäin muutaman viikon ajan. Laaja-alainenkin akuutti urtikaria rauhoittuu yleensä vähitellen päivien – viikkojen kuluessa.</li>
+
+---
+
+**Krooninen urtikaria (>6vk oireilua) on harvinaisempi kuin akuutti urtikaria** ja sen elinikäisen esiintyvyyden arvioidaan olevan 2 %. **Jaetaan spontaaniin ja fysikaaliseen (indusoituvaan) krooniseen urtikariaan.** Spontaanissa oireita ja paukamia voi tulla päivittäin, viikoittain tai ajoittain ilman selvää laukaisevaa tekijää, ja oireiden vaikeusaste on vaihteleva. Tavallista on, että tässä urtikariatyypissä esiintyy samanaikaisesti myös fysikaalisia urtikarioita. Voi siis olla samaan aikaan spontaani että indusoituva urtikaria. 
+
+<li>Indusoituvat urtikariat syntyvät ulkoisen tekijän, kuten ihon hankauksen, hikoilun tai kylmän, seurauksena</li>
+  <ul>
+    <li>Yksinkertainen dermografinen urtikaria (dermografismus, piirtopaukamointi) on yleisin fysikaalisen urtikarian muoto (2–5 prosentilla väestöstä), jolle yleensä ei löydy selittävää aiheuttavaa tekijää. Se saatetaan todeta sattumalöydöksenä tutkittaessa muuta urtikariaa tai ihotautia. Oireinen ja kutiseva dermografinen urtikaria on harvinaisempi. Joskus oireet laukeavat erilaisten infektioiden ja stressin jälkeen. Dermografismuksessa urtikariapaukama tulee ihon hankaamisesta tai raapimisesta noin 5–7 minuutin kuluessa. Histamiini on keskeinen välittäjäaine. Oireilua voidaan tutkia ihon raapaisutestillä, jossa jollakin tylpällä esineellä, esimerkiksi spaattelilla, raapaistaan yläselän ihoa muutaman kerran.</li>
+    <li>Kylmäurtikaria on toiseksi yleisin fysikaalisen urtikarian muoto. Potilaat saavat oireita muutamassa minuutissa kylmästä viimaisesta ilmasta, viileästä vedestä, lumesta, kylmien esineiden koskettelusta ja kylmistä juomista ja ruuista.</li>
+    <li>Muita ovat mm. viivästynyt paineurtikaria, valourtikaria, kuumaurtikaria, tärinäangioödeema, kolinerginen urtikaria (eli hikiurtikaria) ja vesiurtikaria</li>
+    <li>Diagnoosin kulmakivi on potilaan anamneesi. Tarkkoja provokaatiotestejä tarvitaan harvoin</li>
+  </ul>
+<li>Spontaanit taas ilmaantuvat ilman tunnistettavia ulkoisia (yleisin on autoimmuuniurtikaria); taudin varsinainen syy jää yleensä tuntemattomaksi. Laajoja etiologisia selvityksiä ei tarvita rutiinimaisesti.</li>
+  <ul>
+    <li>**Jos urtikariaoireilu kestää yli kuusi viikkoa, suositellaan potilailta perustutkimuksina katsottavaksi CRP ja täydellinen verenkuva; mahdollisesti myös La, virtsan kemseula ja nieluviljely.** Huolellinen anamneesi on keskeistä urtikarian selvittelyssä; oirepäiväkirja auttaa. Jos anamneesi antaa aihetta, potilaita voidaan tutkia tarkemmin mahdollisten aiheuttajien suhteen</li>
+    <li>Ei rutiinisti allergiatestejä, vaan ainoastaan jos on syytä epäillä allergiaa (IgE-välitteiset ruoka-aineallergiat ovat aikuisilla harvinaisia kroonisen urtikarian aiheuttajia; voi epäillä jos urtikariakohtauksia tulee ajoittain ja ne sopivat ajallisesti ruuan nauttimiseen). Aina dermografiakoe (raapaisukoe, etsitään dermografista urtikariaa eli yleisintä fysikaalista urtikariaa) ennen allergiatesteihin lähettämistä. Antihistamiini tauko 5-7 päivää edeltävästi. Käytännössä selvitykset erikoissairaanhoidossa.</li>
+    <li>Krooniset infektiot ovat varsin harvinaisia kroonisen spontaanin urtikarian aiheuttajia, mutta joskus esimerkiksi vatsalaukun helikobakteeri-infektio tai jokin muu krooninen infektio (bakteeri-, virus-, parasiitti- tai sieni-infektio) hammasjuuressa, poskiontelossa, nielussa, virtsarakossa tai suolessa voi löytyä oireilun taustalta. Hyvin harvinaisia ovat myös ne tapaukset, joissa krooninen urtikaria liittyy toimenpiteiden yhteydessä asennettuihin ja elimistölle vieraisiin aineisiin tai implantteihin.</li>
+    <li>Psykologiset tekijät (stressi, depressio) tulee pitää mielessä aiheuttavina/ylläpitävinä tekijöinä</li>
+    <li>Erikoismuoto urtikariasta on ns. _urtikariavaskuliitti, jolle on tyypillisiä ovat pitkäkestoiset (yli 24 tuntia kestävät) urtikariapaukamat,_ joihin liittyy usein kivun tai polttelun tunnetta. Toisin kuin urtikariassa urtikariavaskuliitin ihomuutosten parantuessa iholle jää mustelmankaltainen jälki tai hyperpigmentaatio. Taudinkuvaan voi liittyä angioödeemaa. Potilalla voi esiintyä myös lihaskipuja, lämpöilyä ja sairaudentunnetta. Epäile urtikariavaskuliittia, jos kroonisessa urtikariassa on kuumeilua, nivelkipuja, niveltulehduksia tai lihaskipuja. Urtikariavaskuliitin diagnoosi varmistetaan tavallisesti erikoissairaanhoidossa muutoksesta otettavalla koepalalla, jossa nähdään leukosytoklasiaa ja fibriinikertymiä verisuonten seinämissä. Leesiosta otetussa immunofluoresenssikoepalassa voidaan nähdä immunoglobuliini- tai komplementtikertymiä perivaskulaarisesti ja/tai tyvikalvolla. Diagnoosin varmistuttua taudin tyyppi selvitetään tutkimalla komplementtijärjestelmän osat. Laajemmat laboratoriotutkimukset voivat olla tarpeen systeemivaskuliitin poissulkemiseksi. Urtikariavaskuliittiepäily kannattaa ohjata erikoissairaanhoitoon.</li>
+  </ul>
+
+---
+
+**Kroonisessa urtikariassa hoidon tavoite on oireettomuus. Taudin aktiivisuutta seurataan Urticaria activity score-kaaviolla (UAS7); angioödeeman seurannassa angioedema activity score = AAS. Ensisijaisena hoitona on väsyttämätön antihistamiini säännöllisesti (ei tarvittaessa) ja altistavien tekijöiden välttäminen.** 
+
+<li>Antihistamiiniannosta nostetaan tarvittaessa ad x4 (sic!), lapsilla 2x. Jos väsyttää, vaihda valmistetta. 70% urtikarioista vastaa antihistamiinille. Heikko teho autoimmuuniurtikariaan, urtikariavaskuliittiin ja fysikaalisiin muotoihin. Heikko teho myös angioödeemaan.</li>
+<li>Krooninen spontaani urtikaria kestää keskimäärin 1–5 vuotta (joillakin lyhempään, toisilla pidempään). </li>
+<li>NSAID ja ASA välttö oireiden ajan järkevää, ovat tunnettuja kofaktoreita. Myös muiden aiheuttavan tekijöiden välttäminen aiheellista, jos ne ovat tunnistettavissa.</li>
+<li>Toisen linjan hoitona esim. vaikeaan ja tavanomaiseen hoitoon reagoimattomaan krooniseen spontaaniin urtikariaan käytetään erikoissairaanhoidossa monoklonaalista anti-IgE-vasta-ainetta omalitsumabia. Montelukastia 10 mg iltaisin tai mahdollisesti jopa H2-salpaajia (ranitidiini) voidaan käyttää antihistamiinin rinnalla omalitsumabihoitoon pääsyä odotellessa. Mikäli näistä huolimatta haittaavia oireita, p.o. kortikosteroidi pikakuurina. </li>
+<li>Noin 30–50 % kroonisista spontaaneista urtikarioista paranee kolmen ensimmäisen vuoden aikana. Fysikaaliset urtikariat oireilevat usein pidempään.</li>
+
+---
+
+Angioödeemasta vielä lyhyesti erikseen tarkemmin:
+
+**Angioödeemaa esiintyy yhdessä urtikarian kanssa noin puolella potilaista, pelkkää urtikariaa esiintyy noin 40 prosentilla ja pelkkää angioödeemaa noin 10 prosentilla potilaista.**
+
+Urtikaria ja angioödeema ovat yleensä IgE- ja siten erityisesti histamiini-välitteisiä, mutta varsinkin angioödeema voi joskus tapahtua **bradykiniinivälitteisesti** (esim. hereditäärinen angioödeema tai ACE-estäjien aiheuttama). 
+
+<li>ACE:n estäjät estävät bradykiniinin hajoamista -> bradykiniiniä kertyy ja aiheuttaa tyypillisiä haittavaikutuksia, kuten bronkokonstriktio ja verisuonten laajeneminen + läpäisevyyden lisääntyminen </li>
+<li>Hereditäärinen angioödeema (HAE) on harvinainen angioödeeman taustasyy, joka yleensä johtuu C1-esteraasi-inhibiittorin (C1-INH) geenin mutaatioista; autosomissa vallitsevasti periytyvä sairaus, jota esiintyy Suomessa 100–150 potilaalla ja joka alkaa yleensä nuorella iällä. Sukuanamneesi voi olla negatiivinen.</li>
+  <ul>
+    <li>Angioödeemakohtaukseen voi liittyä ihon rengasmaista punoitusta, mutta ei urtikariaa, ja sen voi laukaista trauma, stressi, jotkut lääkkeet, kuukautiset, infektiot ja toimenpiteet. Kohtauksissa kurkunpään turvotusta esiintyy jopa 50 %:lla HAE-potilaista ja se voi olla taudin ensioire. Kurkunpään turvotus voi olla henkeä uhkaava. Tärkeää osata erottaa anafylaksiasta. Anafylaktinen reaktio on yleisreaktio, kun taas HAE:ssa hengenvaaralliset oireet johtuvat nielun ja kurkunpään turvotuksesta: oireena on ensin äänen käheys, sitten potilas ei pysty puhumaan ja voi tukehtua. Anafylaktisessa reaktiossa iholla on usein nokkospaukamia, HAE:ssa ei. Adrenaliini tehoaa anafylaktiseen reaktioon mutta ei HAE-kohtaukseen.</li>
+    <li>C1-esteraasi-inhibiittori normaalisti inhiboi kallikreiinia, joka on vastuussa HMWK:n konversiosta bradykiniiniksi. Puute johtaa korkeisiin bradykiniinitasoihin ja bradykiniini on tunnettu vasodilataattori → ei-IgE-välitteinen angioödeema</li>
+    <li>S-HAE-tutkimuspaketti (P-C1inh, P-C1InhBk, P-C3, P-C4) tulisi ottaa hereditääristä angioödeemaa epäiltäessä (toistuvat kohtaukset ja mahdollisesti sukuanamneesi) turvotuskohtauksen aikana (tai vuorokauden sisällä kohtauksesta).</li>
+    <li>Hereditäärisen angioödeeman (HAE) kohtaushoidossa ensisijaisia lääkkeitä ovat C1-INH-konsentraatti (annetaan usein myös ennen toimenpiteitä estohoitona) tai ikatibantti (bradykiniini-2-reseptorin estäjä)</li>
+  </ul>
+
+
+![](images/urt4.png)
+![](images/urt3.png)
+![](images/urt2.png)
+![](images/urt1.png)
+![](images/urt5.png)
+
+![](images/chronicurticaria.png)
+![](images/haetyypit.png)
+  </div>
+</div>
+
+
 ### 14 v tyttö, hidas kasvu. 4v iässä sekä paino että pituus tippuneet hieman, mutta nyt menee semitasaisesti laskien -3 SD käyrillä. Tulkinta ja erotusdiagnostiikka {#14v-tytto-heikko-kasvu}
 
 <div class="">
@@ -872,8 +1025,9 @@ Hoidossa ilmatien varmistus ja tukihoito mikrobi- ja kouristuslääkkeineen sek�
   <div class="solution-content">
       Väärin
 
-Angioödeema ja urtikaria ovat erillisiä prosesseja eikä angioödeeman voi sinänsä suoraan sanoa olevan vaikeampi muoto urtikariasta, vaikka niissä onkin yhteisiä piirteitä ja samankaltaisia syntymekanismeja ja voivat esiintyä usein yhdessä samalla potilaalla. Angioödeeman voi paremmin ajatella olevan **syvempi muoto** urtikariasta ja siinä turvotus sijaitsee ihon alaosissa ja ihon alla olevassa rasvakudoksessa. 
+Angioödeema ja urtikaria ovat erillisiä prosesseja (tosin uudemmat hoitosuositukset määrittelevät urtikarian tilaksi, johon liittyy paukamat, angioödeema tai molemmat) eikä angioödeeman voi sinänsä suoraan sanoa olevan vaikeampi muoto urtikariasta, vaikka niissä onkin yhteisiä piirteitä ja samankaltaisia syntymekanismeja ja voivat esiintyä usein yhdessä samalla potilaalla. Angioödeeman voi paremmin ajatella olevan **syvempi muoto** urtikariasta ja siinä turvotus sijaitsee ihon alaosissa ja ihon alla olevassa rasvakudoksessa. 
 
+![](images/urt0.png)
 ![](images/urt3.png)
 ![](images/urt2.png)
 ![](images/urt1.png)
