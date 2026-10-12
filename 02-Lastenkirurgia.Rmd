@@ -6,6 +6,31 @@ Pääasiassa samat muutaman lauseen selitä lyhyesti -tehtävät kuin edeltävin
 
 ### Monivalinnat 
 
+#### 1kk potilaalla nivustyrä, leikataanko kuukauden vai vuoden päästä {#Nivustyra-1kk-vai-1v}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Kuukauden
+
+Lapsilla nivustyrän kuroutumisriski on merkittävästi korkeampi kuin aikuisilla; suurin riski on alle 1-vuotiailla. 
+
+Lapsilla rutiinisti kaikki nivustyrät aina hoidetaan operatiivisesti, vaikka olisivatkin oireettomia. Leikkaus suoritetaan pääasiassa kureutumisriskin takia -> kiireetön lähete lastenkirurgialle arvioon (tällä välillä kerrotaan vanhemmille, että jos tyrä kureutuu eikä ole painettavissa pois, kun lapsi on pitkällään ja rauhoittunut, lapsi pitää viedä päivystyksenä lääkäriin). Kuroutunut tyrä saadaan yleensä painettua takaisin. Toisella kädellä tuetaan nivuskanavan ulkosuulta, ja toisella kädellä painetaan tyrää tasaisella kompressiolla nivuskanavan suuntaisesti vatsaonteloon päin. Painamisen pitää olla tasainen ja riittävän pitkä. Kokenut reponoitsija saa lähes aina nivustyrän reponoitua. Jos on epävarma tyrän reponoitumisesta, lapsi pitää lähettää sairaalaan. Kun kuroutunut tyrä on saatu reponoitua, odotetaan turvotuksen laskeutumista 1–2 vuorokautta, jonka jälkeen tyrä leikataan.
+
+Herniotomia on yleisin lastenkirurginen leikkaus. Viilto nivuseen (laparotomiasta ei ole lapsille merkittävää hyötyä, koska anatomia on niin pientä, että suora lähestymistapa ei aiheuta merkittävästi isompaa haavaa), tyräpussin erilleen preparointi ja sulku, ei verkkoa lapsille (voi aiheuttaa lapsen kasvaessa liikakiristystä). Uusinut tyrä ja bilateraalinen tyrä leikataan usein laparoskooppisesti.
+
+---
+
+Vrt. taas laskeutumaton kives, joka leikataan 12kk ikään mennessä (ja voidaan seurata 6kk saakka).
+
+  </div>
+</div>
+
+
 #### 6kk ikäisellä lapsella reisimurtuma: todennäköisesti pahoinpitely vai ei? {#Imevainen-reisimurtuma}
 
 <div class="">
@@ -1703,9 +1728,9 @@ On paljon monia muitakin syitä.
 
 <li>Septisen infektion epäilyssä lähete päivystykseen välittömästi</li>
 <li>Maligniteetin poissulussa vähintään PVK+T (ja usein diffi) ja epäilyssä lisäksi RTG ja harkinnan mukaan MT</li>
-<li>Epifyseolyysiepäily herää erityisesti, jos >10-vuotiallaa on lonkkakipua / ontumista -> rtg</li>
-<li>Traumassa tietysti kohdennetty RTG ja jatkot löydösten perusteella</li>
-<li>Jos potilaalla on tiedossa oleva hemostaasin häiriö ja nivelen turvotus ja kipu, niin hoidetaan välittämsti hyytymistekijävalmisteella; usein todennetaan vuoto myös UÄ:llä; traumassa RTG ja lastenkirurgin kons</li>
+<li>Epifyseolyysiepäily herää erityisesti, jos >10-vuotiaalla on lonkkakipua / ontumista -> rtg</li>
+<li>Traumassa tietysti kohdennettu RTG ja jatkot löydösten perusteella</li>
+<li>Jos potilaalla on tiedossa oleva hemostaasin häiriö ja nivelen turvotus ja kipu, niin hoidetaan välittömästi hyytymistekijävalmisteella; usein todennetaan vuoto myös UÄ:llä; traumassa RTG ja lastenkirurgin kons</li>
 
 ---
 

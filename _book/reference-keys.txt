@@ -14,6 +14,7 @@ Astmariskin-paakriteerit
 monivalinnat
 astmasta-spirometrian-diagnostisia-tuloksia
 lapsen-kivun-aistimisesta-vaikuttaako-lapsen-ahdistuneisuus-kipukokemukseen-totta-vai-tarua
+Lapsilla-kipuasteikot
 Hinkuyskä-paivystykseen
 onko-vzv-rokote-mpr-rokotteessa
 Ruoka-aineallergia-ihottuma
@@ -292,6 +293,7 @@ Vanhemman-depressio
 lastenkirurgia
 section-8
 monivalinnat-5
+Nivustyra-1kk-vai-1v
 Imevainen-reisimurtuma
 Mika-rannemurtuma
 section-9

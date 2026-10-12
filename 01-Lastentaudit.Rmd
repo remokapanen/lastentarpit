@@ -6,7 +6,7 @@ Tyypilliseen tapaan useina vuosina toistuvat kysymykset jätetty toistamatta tä
 
 Pitkälti aikaisempien vuosien tärppejä, joitakin uusia, jotka tässä nyt. 
 
-### Essee - Urtikaria ja angioödeema {#Urtikaria-essee}
+### Essee - Urtikaria ja angioödeema; patogeneesi, määritelmä ja hoito (8p) {#Urtikaria-essee}
 
 <div class="">
   <button class="solution-button"
@@ -484,9 +484,9 @@ Yleisimmät lapsen nivelongelmien erotusdiagnostiset vaihtoehdot:
 
 <li>Septisen infektion epäilyssä lähete päivystykseen välittömästi</li>
 <li>Maligniteetin poissulussa vähintään PVK+T (ja usein diffi) ja epäilyssä lisäksi RTG ja harkinnan mukaan MT</li>
-<li>Epifyseolyysiepäily herää erityisesti, jos >10-vuotiallaa on lonkkakipua / ontumista -> rtg</li>
-<li>Traumassa tietysti kohdennetty RTG ja jatkot löydösten perusteella</li>
-<li>Jos potilaalla on tiedossa oleva hemostaasin häiriö ja nivelen turvotus ja kipu, niin hoidetaan välittämsti hyytymistekijävalmisteella; usein todennetaan vuoto myös UÄ:llä; traumassa RTG ja lastenkirurgin kons</li>
+<li>Epifyseolyysiepäily herää erityisesti, jos >10-vuotiaalla on lonkkakipua / ontumista -> rtg</li>
+<li>Traumassa tietysti kohdennettu RTG ja jatkot löydösten perusteella</li>
+<li>Jos potilaalla on tiedossa oleva hemostaasin häiriö ja nivelen turvotus ja kipu, niin hoidetaan välittömästi hyytymistekijävalmisteella; usein todennetaan vuoto myös UÄ:llä; traumassa RTG ja lastenkirurgin kons</li>
 
 ---
 
@@ -800,7 +800,7 @@ Spirometriassa diagnostista on bronkodilataatiossa FEV1:n tai FVC:n paraneminen 
 
 Vanhemmilla lapsilla inhaloitava kortikosteroidi (ICS) on ensisijainen hoito heti, kun astma todetaan. 
 
-**Alle 12-vuotiailla astman diagnostiikka ja hoito on porrastetttu pääasiassa ESH. 7–11-vuotiailla perusterveydenhuolto hoitaa välikontrollit, jos hallinta on hyvä; muutoin diagnostiikka ja hoito toteutuvat pääosin erikoissairaanhoidossa.** Perusselvittelyt (anamneesi, peruslabrat (PVK+T, diffi, IgE-selvittelyt)) voi ottaa PTH:ssa, mutta hoitokokeilujen aloittaminen kuuluu ESH.
+**Alle 12-vuotiailla astman diagnostiikka ja hoito on porrastettu pääasiassa ESH. 7–11-vuotiailla perusterveydenhuolto hoitaa välikontrollit, jos hallinta on hyvä; muutoin diagnostiikka ja hoito toteutuvat pääosin erikoissairaanhoidossa.** Perusselvittelyt (anamneesi, peruslabrat (PVK+T, diffi, IgE-selvittelyt)) voi ottaa PTH:ssa, mutta hoitokokeilujen aloittaminen kuuluu ESH.
 
 ![](images/astmalapset.png)
 ![](images/astmapienillälapsilla.png)
@@ -832,7 +832,7 @@ Spirometriassa diagnostista on bronkodilataatiossa **FEV1:n tai FVC:n paranemine
 
 ---
 
-**Alle 12-vuotiailla astman diagnostiikka ja hoito on porrastetttu pääasiassa ESH. 7–11-vuotiailla perusterveydenhuolto hoitaa välikontrollit, jos hallinta on hyvä; muutoin diagnostiikka ja hoito toteutuvat pääosin erikoissairaanhoidossa.** Perusselvittelyt (anamneesi, peruslabrat (PVK+T, diffi, IgE-selvittelyt)) voi ottaa PTH:ssa, mutta hoitokokeilujen aloittaminen kuuluu ESH.
+**Alle 12-vuotiailla astman diagnostiikka ja hoito on porrastettu pääasiassa ESH. 7–11-vuotiailla perusterveydenhuolto hoitaa välikontrollit, jos hallinta on hyvä; muutoin diagnostiikka ja hoito toteutuvat pääosin erikoissairaanhoidossa.** Perusselvittelyt (anamneesi, peruslabrat (PVK+T, diffi, IgE-selvittelyt)) voi ottaa PTH:ssa, mutta hoitokokeilujen aloittaminen kuuluu ESH.
 
 ![](images/astmalapsilla.png)
 ![](images/porrastus.png)
@@ -857,6 +857,26 @@ Lapsen kipukokemukseen vaikuttaa monet tekijät ja pelko/ahdistuneisuus voi usei
 ![](images/ahdkipu.png)
   </div>
 </div>
+
+#### Voiko lapsilla käyttää kipuasteikkoja? {#Lapsilla-kipuasteikot}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Kyllä
+
+Mittarin valinta riippuu lapsen iästä ja kehitystasosta. Yleensä mittarien käyttö onnistuu n. 4-5-v alkaen; aluksi kasvoasteikolla ja myöhemmin (>8v) VAS/NRS. Kivun mittaaminen on opetettava lapselle. 
+
+Jos lapsi ei ole tarpeksi kypsä näiden mittarien käyttämiseen, niin arvio perustuu pääasiassa havainnointiin; tukena esim. FLACC-asteikko (Face, Legs, Activity, Cry ja Consolability) ja alle 1-vuotiailla NIPS-asteikko (Neonatal Infant Pain Scale).  
+
+![](images/asteikko.png)
+  </div>
+</div>
+
 
 #### Kuuluuko pienen lapsen hinkuyskä päivystykseen? {#Hinkuyskä-paivystykseen}
 
@@ -1077,7 +1097,7 @@ Lasten unihäiriöitä kannattaa arvioida neljän ulottuvuuden kautta: unen saan
   <ul>
     <li>Arvioidaan, onko tarjolla oleva uniaika (vanhempien ylläpitämä tai toivoma vuorokausirytmi) sopiva suhteessa lapsen unentarpeeseen. **Uniaikojen tulee vastata lapsen unentarvetta.** Liian pitkä tarjolla oleva uniaika voi ilmetä nukahtamisvaikeutena tai yöheräilynä. Jos yöllinen unipaine jää vähäiseksi, lapsi herättelee öisin tiheään eikä nuku sikeästi. Tällöin uni- ja valveajan eroja tulee korostaa ja lyhentää kokonaisuniajan kestoa niin, että yöhön saadaan selkeä yhtäjaksoinen sikeän unen jakso. Varsinkin leikki- tai kouluiässä nukahtamisvaikeuden taustalta löytyy toisinaan liian pitkä tarjolla oleva uniaika. Tällöin vanhemmat eivät ole huomanneet sopeuttaa vuorokausirytmiä lapsen iän mukana vähenevään unentarpeeseen.</li>
     <li>Vuorokausirytmin on oltava säännöllinen eikä sen kannata vaihdella päivästä toiseen tai merkittävästi viikonloppuisinkaan. On kuitenkin hyvä tiedostaa, että päiväunien asteittain vähentyessä muutoksia rytmissä tapahtuu ainakin 2–3 vuoden ikään saakka. </li>
-    <li>Vauvalla ei ensimmäisten elinkuukausien aikana ole juuri vuorokausirytmiä. Vanhempien voi olla joskus vaikea hyväksyä tätä, ja he saattavat esittää toiveita, että vauvan unirytmiin yritettäisiin vaikuttaa erilaisilla ns. unikoulumenetelmillä. Varsinaiset unikoulumenetelmät eivät kuitenkaan sovellu näin pienen lapsen nukkumisopetukseen hermoston kypsymättömyyden takia. Sen sijaan neuvoloissa olisi hyvä jakaa kirjallista tietoa unen kehitykseen ja häiriöihin liittyvistä seikoista jo heti lapsen syntymän jälkeen – tai jopa ennen sitä. Tämän on todettu vähentävän myöhemmin uneen liittyviä ongelmia.  Lisäksi yksinkertaisilla perusohjeilla (esim. vanhempien säännöllinen vuorokausirytmi, unihygienia (nukutaan pimeässä ja hoidetaan yöaikaiset syötyt mahdollisimman elettomästi ja virikkeettömästi; tavallista suurempi imetys juuri ennen nukkumaanmenoa...) voidaan jouduttaa kypsymistä. </li>
+    <li>Vauvalla ei ensimmäisten elinkuukausien aikana ole juuri vuorokausirytmiä. Vanhempien voi olla joskus vaikea hyväksyä tätä, ja he saattavat esittää toiveita, että vauvan unirytmiin yritettäisiin vaikuttaa erilaisilla ns. unikoulumenetelmillä. Varsinaiset unikoulumenetelmät eivät kuitenkaan sovellu näin pienen lapsen nukkumisopetukseen hermoston kypsymättömyyden takia. Sen sijaan neuvoloissa olisi hyvä jakaa kirjallista tietoa unen kehitykseen ja häiriöihin liittyvistä seikoista jo heti lapsen syntymän jälkeen – tai jopa ennen sitä. Tämän on todettu vähentävän myöhemmin uneen liittyviä ongelmia.  Lisäksi yksinkertaisilla perusohjeilla (esim. vanhempien säännöllinen vuorokausirytmi, unihygienia (nukutaan pimeässä ja hoidetaan yöaikaiset syötöt mahdollisimman elettomästi ja virikkeettömästi; tavallista suurempi imetys juuri ennen nukkumaanmenoa...) voidaan jouduttaa kypsymistä. </li>
   </ul>
 
 ---
@@ -1139,7 +1159,7 @@ Lapsilla on myös monia muita unihäiriöitä, kuten parasomnioita ja obstruktii
 
 <li>Parasomniat eli unen erityishäiriöt eivät ole varsinaisesti uni- ja valvetilaa säätelevien prosessien poikkeavuuksia vaan fyysisiä ilmiöitä, jotka pääasiassa esiintyvät unen aikana. Nyrkkisääntönä voi ajatella, että parasomniat ovat **yleensä tilapäisiä ja iän myötä väistyviä ongelmia, jotka eivät vaadi erillisiä hoidollisia toimenpiteitä. Jos niitä ilmenee usein tai ne ovat pitkittyviä, on tärkeä poissulkea univelka ja muut unihäiriöt, sillä erilaiset ympäristön kuormitus- ja stressitekijät lisäävät alttiutta parasomnioille.**</li>
   <ul>
-    <li>NREM-parasomniat ovat tyypillisimpiä lapsilla (kuitenkin n. 25% säilyy aikuisikään asti ja ilmenee myös de novo aikuisena joskus) ovat mm. vartalon heijaaminen ja pään hakkaaminen (RMD) yöllinen sekavuuskohtaus, yöllinen kauhukohtaus, unissakävely, seksomnia, unenaikainen syömishäiriö (SRED), kohtauksittaiset dystoniat ja bruksismi (narskuttelu). Lapsuudessa parasomniat eivät yleensä viittaa muihin häiriöihin. Aikuisilla esiintyessään ne liittyvät usein osin psykiatrisiin häiriöihin</li>
+    <li>NREM-parasomniat ovat tyypillisimpiä lapsilla (kuitenkin n. 25% säilyy aikuisikään asti ja ilmenee myös de novo aikuisena joskus) ovat mm. vartalon heijaaminen ja pään hakkaaminen (RMD), yöllinen sekavuuskohtaus, yöllinen kauhukohtaus, unissakävely, seksomnia, unenaikainen syömishäiriö (SRED), kohtauksittaiset dystoniat ja bruksismi (narskuttelu). Lapsuudessa parasomniat eivät yleensä viittaa muihin häiriöihin. Aikuisilla esiintyessään ne liittyvät usein osin psykiatrisiin häiriöihin</li>
       <ul>
        <li>**Vartalon heijaaminen ja pään hakkaaminen alkavat usein puolen vuoden iästä. Ei tarvitse hoitoa, jos lapsen kehitys on normaalia.** Sängyn reunoja voi suojata, jottei lapsi satuta itseään. Jos imeväisellä on säpsähdyksenomaisia toistuvia nykäyksiä, oireilun syynä voi olla harvinainen ja kiireesti hoitoa vaativa infantiilispasmioireyhtymä.</li>
        <li>Narskuttelu voi aiheuttaa kiillevaurioita. Keskeinen hoito vaikeissa tapauksissa on purentakisko (yleinen stressin vähentäminen myös auttaa).</li>
@@ -1204,7 +1224,7 @@ Lääkäri arvioi, tarvitaanko pahenemisvaiheen hoitoon suun kautta annosteltava
 
 **Lyhyesti:**
 
-Astman pahenemisvaiheessa arvioidaan vaikeusaste: alle kouluikäisillä pääasiassa kliinisesti, vanhemmilla voi käyttää myös PEF- tai FEV1-mittauksia. Lievissä usein riittää pelkkä oirelääkityksen lisääminen, vaikeustason noustessa yleensä lisätään p.o. kortikosteroidi mukaan (enintään 40mg, lapsilla 1-2mg/kg (3-)5(-7)vrk). Lisähappea voidaan antaa, tavoite >92-95%; PEF- tai FEV1-tavoite >70% omasta parhaasta. Jos hyvä hoitovaste, niin voidaan mahdollisesti kotiuttaa ja tarpeen mukaan tehdä lähete ESH, jos toistuvasti pahenemisvaiheita. Heille harkitaan erityishoitoja ja voidaan antaa yksilöllisiä omahoito-ohjeita.
+Astman pahenemisvaiheessa arvioidaan vaikeusaste: alle kouluikäisillä pääasiassa kliinisesti, vanhemmilla voi käyttää myös PEF- tai FEV1-mittauksia. Lievissä usein riittää pelkkä oirelääkityksen lisääminen **(esim. ns. salbutamoliloudaus, jossa annetaan esim. salbutamolia 0.1mg x6 (4-8) tarvittaessa uusien 20-30min välein),** vaikeustason noustessa voidaan lisätään p.o. kortikosteroidi mukaan (enintään 40mg, lapsilla 1-2mg/kg (3-)5(-7)vrk). Lisähappea voidaan antaa, tavoite >92-95%; PEF- tai FEV1-tavoite >70% omasta parhaasta. Jos hyvä hoitovaste, niin voidaan mahdollisesti kotiuttaa ja tarpeen mukaan tehdä lähete ESH, jos toistuvasti pahenemisvaiheita. Heille harkitaan erityishoitoja ja voidaan antaa yksilöllisiä omahoito-ohjeita.
 
 ![](images/akuutinastmanhoito.png)
 ![](images/alle6.png)
@@ -1317,7 +1337,7 @@ Spirometriassa diagnostista on bronkodilataatiossa FEV1:n tai FVC:n paraneminen 
 
 Vanhemmilla lapsilla inhaloitava kortikosteroidi (ICS) on ensisijainen hoito heti, kun astma todetaan. 
 
-**Alle 12-vuotiailla astman diagnostiikka ja hoito on porrastetttu pääasiassa ESH. 7–11-vuotiailla perusterveydenhuolto hoitaa välikontrollit, jos hallinta on hyvä; muutoin diagnostiikka ja hoito toteutuvat pääosin erikoissairaanhoidossa.** Perusselvittelyt (anamneesi, peruslabrat (PVK+T, diffi, IgE-selvittelyt)) voi ottaa PTH:ssa, mutta hoitokokeilujen aloittaminen kuuluu ESH.
+**Alle 12-vuotiailla astman diagnostiikka ja hoito on porrastettu pääasiassa ESH. 7–11-vuotiailla perusterveydenhuolto hoitaa välikontrollit, jos hallinta on hyvä; muutoin diagnostiikka ja hoito toteutuvat pääosin erikoissairaanhoidossa.** Perusselvittelyt (anamneesi, peruslabrat (PVK+T, diffi, IgE-selvittelyt)) voi ottaa PTH:ssa, mutta hoitokokeilujen aloittaminen kuuluu ESH.
 
 ![](images/astmalapset.png)
 ![](images/astmapienillälapsilla.png)
@@ -1753,8 +1773,6 @@ Auskultaatiossa voidaan joskus kuulla paikalliset tai laaja-alaiset hienojakoise
   </ul>
 <li>Hienojakoisten rahinoiden kuuleminen etenkin itkevältä ja liikehtivältä lapselta on haastavaa, joten yleistilan ja hengitysvaikeuden arviointi korostuu. Kun lapsi on selvästi sairas ja sairaus on kehittynyt äkillisesti, erotusdiagnostiikassa on muistettava keuhkokuume, vaikka auskultaatiolöydös olisi normaali. </li>
 <li>Happisaturaation mittaaminen on tärkeää ainakin, jos lapsella todetaan hengitysvaikeus. Hengitysvaikeus, jonka merkkeinä ovat apuhengityslihasten käyttäminen, ähkiminen (engl. grunting), nenänsiipihengitys pienillä lapsilla ja hypoksia (happisaturaatio < 95 %), on merkki vaikeasta keuhkokuumeesta. </li>
-<li>Suuri CRP-pitoisuus tai veren suuri leukosyyttimäärä lisäävät bakteerin aiheuttaman keuhkokuumeen todennäköisyyttä, mutta pieni CRP-pitoisuus tai leukosyyttimäärä ei sulje pois bakteeri-infektiota erityisesti taudin alkuvaiheessa. _Verenkuvan ja CRP:n tutkiminen ei kuitenkaan ole välttämätöntä hyväkuntoiselta lapselta, jolla epäillään keuhkokuumetta ja jonka hoito tapahtuu kotona._</li>
-
 
 ---
 
@@ -1808,6 +1826,8 @@ Lapsen keuhkokuume on keuhkokudoksen tulehdus, jonka voivat aiheuttaa pelkät vi
 Bakteeri- ja virusinfektiota on vaikea erottaa toisistaan, vaikka korona-, influenssa- ja RSV-pikatesti on käyttökelpoinen epidemia-aikana. **Kliinisesti diagnosoitu keuhkokuume hoidetaan antibiootilla, jos ei ole selkeästi viruksen aiheuttama.**
 
 **Suun kautta annosteltava amoksisilliini (40-45 mg/kg/vrk jaettuna 3 annokseen (maksimiannos 750 mg × 3) 5 vrk:n ajan) on ensisijainen valinta aikaisemmin terveiden lasten kotisyntyisessä keuhkokuumeessa, jonka oireet viittaavat bakteeritautiin, kun taudinkuva ei ole vaikea.** Hyväkuntoiset penisilliiniallergiset voidaan hoitaa makrolidilla (ensisijaisesti atritromysiini). _Oseltamiviiria voidaan käyttää influenssaviruksen aiheuttaman keuhkokuumeen hoitoon (jos influenssa on todettu testaamalla ja oireiden alusta on alle 48 tuntia)._
+
+Jos on perusteltu epäily mykoplasmainfektioista keuhkokuumeen taustalla, niin hyväkuntoinen potilas voidaan hoitaa makrolidilla tai doksisykliinillä tai vaihtoehtoisesti yleisoireisille potilaille voidaan aloittaa makrolidi tai doksisykliini amoksisilliinin rinnalle. 
   </div>
 </div>
 
@@ -2610,7 +2630,7 @@ Bilirubiinipitoisuutta voidaan arvioida tarkoitusta varten kehitetyllä ihomitta
 
 _Konjugoimaton bilirubiini läpäisee veri-aivoesteen. Jos sen pitoisuus on hyvin suuri, se voi aiheuttaa väsymystä ja vaurioittaa kehittyviä aivoja (kernikterus)._ Tämän takia liiallista kellastumista tulee hoitaa. Fysiologinen keltaisuus on yleensä harmitonta, mutta **mikäli bilirubiinitaso on lapsen gestaatioikään nähden liian korkea, voidaan sitä laskea sinivalohoidolla** (ei toimi konjugoituneeseen hyperbilirubinemiaan ja se vaatii eri selvittelyt/hoidot).
 
-Valohoitoraja riippuu lapsen gestaatioiästä, syntymäpainosta ja kronologisesta iästä. Valohoidon kynnysarvo on sitä matalampi, mitä ennenaikaisempana lapsi on syntynyt. Ennenaikaisuus on siis tärkein vastasyntyneen keltaisuudelle altistava tekijä. Syntymän jälkeen valohoidon kynnysarvo nousee ensimmäisten elinpäivien aikana ja hoitoa aloitettaessa huomioidaan mahdolliset muut kellastumisen riskitekijät, kuten veriryhmäimmunisaatio, runsaat mustelmat (esim. päälakipahka mm. ikukupin aiheuttamana), polysytemia ja äidin diabetes. 
+Valohoitoraja riippuu lapsen gestaatioiästä, syntymäpainosta ja kronologisesta iästä. Valohoidon kynnysarvo on sitä matalampi, mitä ennenaikaisempana lapsi on syntynyt. Ennenaikaisuus on siis tärkein vastasyntyneen keltaisuudelle altistava tekijä. Syntymän jälkeen valohoidon kynnysarvo nousee ensimmäisten elinpäivien aikana ja hoitoa aloitettaessa huomioidaan mahdolliset muut kellastumisen riskitekijät, kuten veriryhmäimmunisaatio, runsaat mustelmat (esim. päälakipahka mm. imukupin aiheuttamana), polysytemia ja äidin diabetes. 
 
 <li>Sinivalo muuttaa iholla konjugoimattoman bilirubiinin rakenteen vesiliukoiseksi ja helpommin virtsaan erittyväksi fotoisomeeriksi. Lapsen paljaalle iholle kohdistetaan valo erityisellä valohoitolampulla ja/tai vartalon alle sijoitettavalla patjalla. Silmät suojataan laseilla hoidon aikana.</li>
 <li>Sinivalohoitoa voidaan antaa synnytyssairaalassa tai kotisairaalan seurannassa myös kotona</li>
@@ -4875,7 +4895,7 @@ Tietysti voi myös olla jokin sekundaarinen bakteeri-infektio, joille influenssa
 
 ---
 
-Influenssan hoidon perusta on aina oireenmukainen hoito eli kuume- ja kipulääkitys sekä ravinnosta ja nesteytyksestä huolehtiminen. Influenssa on kuitenkin ainoa flunssaviruksista, johon on spesifinen lääkehoito. **Ensisijaisesti käytetään siis oseltamiviiriä, jota suositellaan aloitettavan varsinkin vaikeaoiresemmille, jos oireiden alusta on kulunut alle 48 tuntia (ja mahdollisesti myöhemminkin, jos sairaalahoitoa vaativa tai muuten perussairas)**
+Influenssan hoidon perusta on aina oireenmukainen hoito eli kuume- ja kipulääkitys sekä ravinnosta ja nesteytyksestä huolehtiminen. Influenssa on kuitenkin ainoa flunssaviruksista, johon on spesifinen lääkehoito. **Ensisijaisesti käytetään siis oseltamiviiriä, jota suositellaan aloitettavan varsinkin vaikeaoireisemmille, jos oireiden alusta on kulunut alle 48 tuntia (ja mahdollisesti myöhemminkin, jos sairaalahoitoa vaativa tai muuten perussairas)**
 
 Oseltamiviirin tehon kannalta ratkaisevaa on siis lääkityksen aloituksen nopeus. **Lääke lyhentää taudin kestoa 1–2 vuorokaudella, kun hoito aloitetaan 48 tunnin kuluessa influenssan oireiden alusta.** Kuitenkin jos oseltamiviirihoito aloitetaan jo 24 tunnin kuluessa oireiden alusta, sairauden kesto influenssa A -lapsilla lyhenee noin 4 vuorokautta. **Nopeasti aloitetulla influenssalääkityksellä voidaan vähentää myös influenssan aiheuttamia komplikaatioita.** Mikäli oseltamiviirihoito päästään aloittamaan 12 tunnin kuluessa kuumeen noususta, se vähentää influenssan komplikaationa ilmaantuvia pikkulasten välikorvatulehduksia noin 80 %:lla.
 
@@ -5924,7 +5944,7 @@ Kun tunnetut sekundaarisen hypertension syyt on poissuljettu, puhutaan essentiel
   </div>
 </div>
 
-### Keliakia on lasten yleisin imeytysmishäiriösairaus; O/V {#Keliakia-yleisin}
+### Keliakia on lasten yleisin imeytymishäiriösairaus; O/V {#Keliakia-yleisin}
 
 <div class="">
   <button class="solution-button"
@@ -7034,9 +7054,9 @@ Yleisimmät lapsen nivelongelmien erotusdiagnostiset vaihtoehdot (käydään nyt
 
 <li>Septisen infektion epäilyssä lähete päivystykseen välittömästi</li>
 <li>Maligniteetin poissulussa vähintään PVK+T (ja usein diffi) ja epäilyssä lisäksi RTG ja harkinnan mukaan MT</li>
-<li>Epifyseolyysiepäily herää erityisesti, jos >10-vuotiallaa on lonkkakipua / ontumista -> rtg</li>
-<li>Traumassa tietysti kohdennetty RTG ja jatkot löydösten perusteella</li>
-<li>Jos potilaalla on tiedossa oleva hemostaasin häiriö ja nivelen turvotus ja kipu, niin hoidetaan välittämsti hyytymistekijävalmisteella; usein todennetaan vuoto myös UÄ:llä; traumassa RTG ja lastenkirurgin kons</li>
+<li>Epifyseolyysiepäily herää erityisesti, jos >10-vuotiaalla on lonkkakipua / ontumista -> rtg</li>
+<li>Traumassa tietysti kohdennettu RTG ja jatkot löydösten perusteella</li>
+<li>Jos potilaalla on tiedossa oleva hemostaasin häiriö ja nivelen turvotus ja kipu, niin hoidetaan välittömästi hyytymistekijävalmisteella; usein todennetaan vuoto myös UÄ:llä; traumassa RTG ja lastenkirurgin kons</li>
 
 ---
 
