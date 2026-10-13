@@ -5,6 +5,10 @@ Urtikaria-essee
 id_14v-tytto-heikko-kasvu
 id_15v-poika-kasvukayrat-laskussa
 Kasvukayra-huono-painonnousu-14v
+id_15v-tytto-kuukautiset-eivat-alkaneet-mikrosyt-anemia
+Kasvukayra-2v-tytto
+Paanymparys-kiihtynyt
+miksi-ihmiset-ovat-niin-allergisia
 essee---nivelkipu-ja-sen-diagnostiset-vaihtoehdot
 Yollinen-artyneisyys
 essee---maitoallergian-diagnostiikka
@@ -19,9 +23,14 @@ Hinkuyskä-paivystykseen
 onko-vzv-rokote-mpr-rokotteessa
 Ruoka-aineallergia-ihottuma
 onko-atooppinen-ekseema-allergia
-onko-akuutissa-astmassa-ja-kroonisessa-astmassa-sama-icd-10-alku
+onko-akuutissa-astmassa-ja-kroonisessa-astmassa-sama-icd-10-diagnoosin-alku-eli-j45
 tetanusrokotus-perustuuko-laumasuojaan
 Angioedeema-vaikeampi
+atopiassa-kokonais-ige-on-koholla
+Hoitamaton-kipu
+astma-johtuu-tyypin-1-tulehduksesta
+toiminnallisten-vatsavaivojen-diagnosoimisessa-tarvitaan-eshn-tutkimuksia
+Yleisimmät-vinkunavirukset
 section-1
 Unihairiot-essee
 v-astmakohtaus

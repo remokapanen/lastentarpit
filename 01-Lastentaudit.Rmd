@@ -338,6 +338,162 @@ Tietysti jos pituus on lähtenyt hieman kiihtymään ja tapahtuu ns. risteämisi
   </div>
 </div>
 
+### 15v tyttö ja tämän PVK, jossa mikrosyyttinen anemia. Kilpaurheiluharrastaja, kuukautiset eivät alkaneet. 3 tärkeintä aiheuttajaa + miten hoidat ja järjestät seurannan. {#15v-tytto-kuukautiset-eivat-alkaneet-mikrosyt-anemia}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+Mikrosytäärisen anemian yleisin aiheuttaja on **raudanpuuteanemia,** joka on myös tässä tapauksessa todennäköisin aiheuttaja. Taustalla voivat olla runsaat kuukautiset (ei tässä tapauksessa, koska amennorea), _kasvupyrähdys, tiukka kasvis- /vegaaniruokavalio_ tai kuten tässä tapauksessa niin _kilpaurheilu._ Myös _keliakia_ voi olla taustalla. Harvinaisempi syy esim. IBD, kun tulehduksellisissa suolistosairauksissa raudan menetys voi olla lisääntynyttä ja imeytyminen häiriintynyttä, ja lisäksi kroonisiin sairauksiin liittyvä inflammaatio huonontaa raudan hyväksikäyttöä. Pienellä leikki-ikäisellä raudanpuute voi johtua rautaköyhän lehmänmaidon runsaaseen käyttöön liittyvästä tihkuvuodosta suoleen sekä maidon kalsiumin aiheuttamasta raudan imeytymisen hidastumisesta.
+
+<li>Kilpaurheilu aiheuttaa lisääntynyttä raudantarvetta ja usein taustalla on myös riittämätön tai liian yksipuolinen ravinnonsaanti suhteessa kovaan harjoitusmäärään. Potilaallamme ei vielä ole virallisesti myöhäinen menarke (normaaliväli 10.5v-16v), mutta jos olisi, niin se selittyisi todennäköisesti merkittävällä energiavajeella. Myöhäinen menarke (>16v) voi siis johtua mm. puuttuvasta energiasta, mikä suppressoi hypotalamusta -> GnRH:n vapautuminen vähenee.</li>
+
+---
+
+Tietysti myös harvinaisemmat syyt, kuten **talassemiat** (varsinkin ulkomaalaistaustaisilla) tulee pitää mielessä. Talassemioiden PVK:lle tyypillistä on se, että Eryt on koholla (toisin kuin raudanpuutteessa punasolujen määrä on vähentynyt) ja MCV on hemoglobiiniin suhteessa suhteettoman matala (kun taas raudanpuutteessa MCV usein seuraa Hb:n vaikeusastetta). Talassemiat ovat tärkeä tunnistaa, koska niitä ei hoideta rautalisällä ja väärin aloitettu rautalääkitys on talassemiapotilaalle jopa vaarallinen (raudan kertymisen vaara korkea, koska raudan imeytyminen on tehostunut). 
+
+Myös **kroonisen taudin anemia (tulehdusanemia)** voi pitkittyneenä johtaa mikrosytääriseen anemiaan. 
+
+---
+
+Anamnestisesti tärkeää kysyä mm. urheilusta tarkemmin, ruokavaliosta, mahdolliset vatsaoireet (ripuli, turvotus, vatsakivut) sekä suvun tausta. Myös kasvukäyrät tietysti tärkeää tarkastaa. Puberteettistatus.
+
+Labroista voidaan ottaa varmistavina tutkimuksina ferritiini, tfr ja keliakian poissulkuun keliseula (ttgaba + iga). 
+
+**Suun kautta otettava rautalisä** on helppo ja turvallinen tapa korjata raudanpuute. Voidaan antaa tälle tytölle esim. 100mg/vrk joka toinen päivä (pediatrinen annostelu on yleensä n. 2–5 mg/kg (max 100mg/vrk)). Rauta imeytyy parhaiten happaman ruuan tai juoman kanssa annosteltuna, ja kun vältetään maitotuotteiden samanaikaista nauttimista.
+
+<li>**Raudanpuutediagnoosin varmistaa hyvä vaste rautahoidolle; noin 10-14 vrk:n kuluttua kannattaa kontrolloida Hb ja Retik;** retikulosyyttiluvun (ja RDW:n, mutta ei usein printata tätä arvoa) pitäisi suurentua, vaikka merkittävää hemoglobiinitason (tai MCV-arvon) nousua ei vielä havaittaisikaan. Voi vielä kontrolloida myöhemminkin tilanteen, jotta näkee, milloin Hb on normalisoitunut.</li>
+<li>Jatka rautahoitoa vähintään 3 kk sen jälkeen, kun Hb on normaalistunut. Yleensä 4-6 kuukauden rautahoito on riittävä, ja rautalisä voidaan lopettaa, kun ferritiini on normaalistunut (edellyttäen, ettei mitään akuutin faasin reaktiota ole käynnissä). Hb tai MCV ei yleensä enää suurene, kun ferritiini on saavuttanut tason 20–25.</li>
+<li>Lisäksi voi olla hyvä keskustella harjoitusmääristä ja yleisesti ravinnosta, jos ne vaikuttavat olevan epätasapainossa.</li>
+
+  </div>
+</div>
+
+
+### Kasvukäyrä 2v tyttö, pituus -1SD -> +3SD ja rintojen kasvua havaittu 1v iässä ja nyt kolme tummaa häpykarvaa. Isä 192cm, äiti 165cm. Pohdi erotusdiagnostisia vaihtoehtoja, mitä teet? {#Kasvukayra-2v-tytto}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+**Ennenaikaisen puberteetin oireita: merkittävä pituuskasvun kiihtyminen, rintojen rauhaskudoksen kasvu (telarke) jo 1 vuoden iässä sekä pubakarvoituksen (pubarke) ilmaantuminen.**
+
+Jos olisi pelkkää rintarauhasen kasvua, niin voisi kyseessä olla ns. _erillinen ennenaikainen telarke,_ joka tarkoittaa tytön rintarauhasen ohimenevää kehittymistä, johon ei liity muita murrosiän ilmiöitä. Pituuskasvu jatkuu johdonmukaisena, luusto ei kypsy normaalia nopeammin, eikä muita murrosiän merkkejä, kuten karvoitusta tai ihon tai hiusten rasvoittumista ilmaannu. Rintarauhasten läpimitta on korkeintaan 3 senttimetriä. Rintarauhasten koko voi vaihdella 4–6 viikon sykleissä. Tyypillisessä muodossaan rintarauhasten suureneminen havaitaan alle 3-vuotiaalla tytöllä, ja yleensä rintarauhaset pienenevät 1–2 vuoden sisällä niiden kasvun havaitsemisesta. Alle 2-vuotiaan tytön telarkea voidaan seurata perusterveydenhuollossa. Konsultoitava kuitenkin herkästi erikoissairaanhoitoa ja lähete erikoissairaanhoitoon on tarpeen, jos rintarauhaset jatkavat kasvuaan eivätkä pienene, jos ilmaantuu muitakin puberteetin merkkejä, kuten karvoitusta tai jos pituuskasvu kiihtyy. Myös jos ennenaikainen telarke havaitaan ensimmäisen kerran yli 2-3 vuoden iässä, on erikoissairaanhoidon arvio tarpeen.
+
+Jos olisi pelkkä pubarke eikä merkittävää pituuskasvun kiihtymistä tai telarkea, niin voisi olla kyseessä _ennenaikainen adrenarkekin._ Adrenarke tarkoittaa lisämunuaisten miessukupuolihormonien erityksen käynnistymistä. Yleensä kliinisinä merkkeinä ilmenee kainalo- ja häpykarvoitusta, aikuistyyppinen kainalohikoilua ja sen hajua, hiusten rasvoittumista sekä komedoja ja aknea. Viaton erillinen ennenaikainen adrenarke ilmaantuu usein 5–7 vuoden iässä (ennenaikaisena pidetään, jos alkaa tytöillä <8v ja pojilla <9v), eikä siihen liity pituuskasvun merkittävää kiihtymistä (tosin hienoista kasvun nopeutumista havaitaan usein) tai huomattavaa luuston kypsymisen nopeutumista (luustoikä voi olla johdonmukaista kasvun nopeutumista vastaavasti hieman keskimääräistä edellä). Ennenaikaista adrenarkea voi jäädä seuraamaan PTH:ssa, jos oireet ovat lieviä (hienhaju, ihon/hiusten rasvoittuminen, komedot, lievä pituuskasvun kiihtyminen) -- herkästi ESH ja ainakin jos ennenaikaiseen adrenarkeen liittyy häpykarvoitus, lähete erikoissairaanhoitoon on suotavaa. 
+
+Lapsen odotuspituus on ((192+165)/2-171)/10=+0.75 SD. Tämä vain mainintana, koska riippumatta odotuspituudesta ovat potilastapauksen löydökset poikkeavia. Odotuspituus siis voidaan laskea kaavasta [(vanhempien pituuden keskiarvo)–171]/10 -- hyvä tietää.
+
+---
+
+Lapsella on siis **selvä epäily ennenaikaisesta murrosiästä** eikä hyvänlaatuisesta isoloidusta kehityksen piirteestä. Ennenaikainen puberteetti voidaan jakaa sentraaliseen ja perifeeriseen sen mukaan onko mekanismi GnRH-riippuvainen (eli aktivoituuko aivojen hypotalamus-aivolisäke-akseli vai tulevatko sukupuolihormonit sen ulkopuolelta). 
+
+Otetaan kattava anamneesi ja status ja **lähetetään lapsi ESH:oon ennenaikaisen murrosiän selvittelyihin.**
+
+<li>Anamneesissa mm:</li>
+  <ul>
+    <li>Milloin löydöksiä havaittiin ensimmäisen kerran, miten ovat kehittyneet, sukuhistoria, muut oireet (esim. kohonneen kallonsisäisen paineen oireet, kuten aamupainotteinen päänsärky, pahoinvointi, oksentelu...), muut sairaudet, lääkitys, tärkeää kysyä myös käytetäänkö perheessä hormonivalmisteita (esim. isä käyttäisi testosteronigeeliä) tai luontaistuotteita...</li>
+  </ul>
+<li>Statuksessa kattava yleispediatrinen status, neurologisen kehittymisen ja statuksen arviointi, silmänpohjat jos onnistuu; pituus, paino ja päänympärys</li>
+<li>ESH:ssa labroja mm. (LH, FSG, E2, DHEAS, 17-OHP, mahdollisesti GnRH-koe tarvittaessa, luustoikä-rtg; jos perifeerinen ongelma niin munasarjojen UÄ, jos sentraalinen niin pään MRI...</li>
+
+---
+
+Hoitoa ei kysytty, mutta sentraalisessa idiopaattisessa murrosiässä hoitona toimii GnRH-analogit (esim. triptoreliini, leuproreliini, gosereliini). Lääkitys annetaan useimmiten subkutaanisesti tai lihakseen 1–6 kk:n välein, ja se poistaa hoidon ajaksi LH:n ja FSH:n pulsaation. Hoidon pituus on yksilöllinen ja lopetuspäätökseen vaikuttavat mm. nuoren omat toiveet tulevasta kehityksestään, psykososiaaliset tekijät ja hoitavan lääkärin antama arvio tulevasta aikuispituudesta. On pitkälti siirrytty 3 tai 6kk välein pistettäviin valmisteisiin. 
+
+Jos taas kyseessä taas on perifeerinen ennenaikainen murrosikä (esim. hormonia erittävä munasarja-, kives- tai lisämunuaiskasvain) tai jos sentraalisen muodon taustalla on keskushermoston kasvain, hoito määräytyy ensisijaisesti tämän taustasyyn (esim. leikkaus tai kasvainkohtainen hoito) mukaan. 
+
+  </div>
+</div>
+
+### 1.5v neuvolatarkastuksessa. Pituus edennyt tasaisesti-0.8SD, nyt -1SD, paino-pituus% +5%->-5%. Ärtyneisyyttä ja heräilee aikaisin. Päänympärys -1SD->+1SD. Lievää karsastusta tulee ilmi vastaanotolla. Tulkitse kasvukäyrämuutokset. Pohdi erotusdiagnostiikkaa. Mitä tutkit? Mitä teet neuvolavastaanoton jälkeen? {#Paanymparys-kiihtynyt}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+Pituus ei itsessään ole muuttunut merkittävästi, -0.2SD, muutokset eivät ole merkittäviä. PP-% tippunut 10% ja tämä on kylläkin huomattavaa. Tärkeää on, että painon ja pituuden muutokset ovat samansuuntaiset eikä ole merkittävää risteämistä tapahtunut. 
+
+Huomattavin löydös on kuitenkin päänympäryksen kasvun kiihtyminen. Lapsen pään tulisi kasvaa yleensä yhdensuuntaisesti pituuden kanssa. Jos pään kasvu kiihtyy/hidastuu > 1 SD pituuskasvuun vastaavaan muutokseen nähden, niin seularajat paukkuvat (ohjeistuksen voi sinänsä ymmärtää siten, että vain päänkasvun kiihtyminen >1SD enemmän kuin kasvun kiihtyminen olisi poikkeavaa, mutta tietysti myös on poikkeavaa, jos päänkasvu kiihtyy suhteessa pituuden hidastumiseenkin). 
+
+---
+
+Varsinkin tässä tapauksessa pään kasvun kiihtyminen on poikkeavaa, koska lapsella on viitteitä mahdollisesta kallonsisäisen paineen kohonneisuudesta -- ärtyneisyys ja varsinkin aikaisin heräily (näin pieni lapsi ei vielä osaa sanoa aamupainotteisesta / yöllä herättävästä päänsärystä tai pahoinvoinnista, jotka ovat klassisia kohonneen ICP:n merkkejä). Kiihtyneen pään kasvun taustalla voi olla aivo-selkäydinnestekierron estyminen (tuumori, akveduktin ahtaus/stenoosi) tai sen takaisinimeytymisen estyminen (subduraalivuoto/effuusio; huom.! lasten traumat ja kaltoinkohtelu) tai neurometabolinen sairaus. 
+
+Todettava karsastuskin voi olla tilaa vievän prosessin aiheuttamaa. Aina karsastuksen suhteen on myös muistettava, että jaksoittainenkin karsastus on poikkeavaa yli 4kk ikäisillä ja kaikenikäisillä jatkuva karsastus on poikkeavaa. 
+
+---
+
+Vastaanotolla tarkka anamneesi ja yleispediatrinen status sekä neurologian arvio. Silmänpohjiin katsominen jos onnistuu. Mittausten toistaminen. 
+
+---
+
+Periaatteesssa ohjeistuksissa sanotaan, että jos on kohonneen kallonsisäisen paineen merkkejä, niin tulisi lapsi lähettää päivystyksellisesti ESH:n arvioon. Jos lapsella olisi pään kasvun kiihtymisen lisäksi vain karsastusta, hänet tulisi lähettää kiireellisesti lisätutkimuksiin. Jos lapsi on väsynyt, syö huonosti tai oksentelee tai lapsen lakiaukile on pullottava ja täyteläinen tai hänellä on auringonlaskun katse, hänet tulee ohjata päivystyslähetteellä lastentautien poliklinikalle tutkimuksiin ja hoitoon.
+
+Ei usein löydy tarkkaa ohjeistusta siitä, millä kiirellisyydellä tällä tavalla oireilevat tulisi lähettää, joten soitetaan vastaanoton jälkeen päivystävälle lastenlääkärille ja konsultoidaan lähettämisestä. Kerro vanhemmille avoimesti ja rauhoittavasti, että pään kasvun ja oireiden vuoksi lapsi tarvitsee jatkotutkimuksia sairaalassa ja kerrotaan päivystävän lääkärin mukaan joko heti päivystykseen siirtymisestä tai lähipäivinä tutkimuksiin menemisestä. 
+
+  </div>
+</div>
+
+
+### Miksi ihmiset ovat niin allergisia? 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      
+Allerginen reaktio on epätarkoituksenmukainen ja haitallinen **immunologinen reaktio,** johon osallistuvat erilaiset tulehdussolut ja niiden tuottamat välittäjäaineet.
+
+Allergia tulisi erottaa muista yliherkkyys-kattotermin alla olevista reaktioista. Yliherkkyys siis tarkoittaa ulkoisten tekijöiden aiheuttamaa elimistölle haitallista fysiologista tapahtumaa sen mekanismista riippumatta. Allergia tulisi pitää käsitteenä, joka tarkoittaa selvää elimistön immuunijärjestelmän epämielekästä reaktiota osoitettua allergeenia kohtaan. Esimerkiksi ruokayliherkkyydessä henkilö voi olla herkkä laktoosille ja saada siitä oireita laktaasin puutteen takia -> laktoosi-intoleranssi. Tällöin ei kuitenkaan ole kyseessä allergia, koska tilanne ei johdu immunologisesta reaktiosta, vaan laktoosin pilkkoutumisen ongelmasta entsyymivajeen takia. 
+
+Allergia voidaan vielä jakaa IgE-välitteiseen ja ei-IgE-välitteiseen tyyppiin. 
+
+<li>Yleisin ja tunnetuin allergiamuoto on IgE-tyyppinen, jossa allergeenia vastaan tuotetaan ensialtistuksessa IgE-vasta-aineita (herkistyminen) ja tässä tärkeässä roolissa ovat Th2-solut. **Th2-solut** ovat T-auttaja-soluja, jotka mm. rekrytoivat eosinofiileja paikalle ja kannustavat B-soluja tuottamaan IgE-vasta-aineita. Herkistyminen ei sinänsä merkitse oireilua, mutta käynnistää usein oireiluun johtavan prosessin. IgE-vasta-aineet kiinnittyvät kudosten syöttösolujen pinnalle. Seuraavalla altistuskerralla allergeeni sitoutuu näihin IgE-vasta-aineisiin ja laukaisee syöttösolun degranulaation -> solu vapauttaa mm. histamiinia ja muita tulehdusvälittäjäaineita -> verisuonien läpäisevyyden lisääntyminen ja vasodilataatio sekä bronkokonstriktio -> oireet, kuten aivastelu, nuha, silmien kutina, urtikaria, astmaoireet yms. </li>
+  <ul>
+    <li>Oireet ilmenevät nopeasti. Kyseessä on siis tyypin I yliherkkyysreaktio</li>
+  </ul>
+<li>Ei-IgE-välitteinen allergia on tyypillisesti ns. soluvälitteinen ja viivästynyt allergia. Oireet ilmenevät hitaammin tuntien tai jopa päivien kuluessa, koska reaktio ei johdu nopeasta vasta-ainevälitteisestä degranulaatiosta, vaan reaktiota välittävät T-solut, jotka tunnistavat allergeenin, aktivoituvat ja kutsuvat paikalle muita tulehdussoluja aiheuttaen paikallisen tulehdusreaktion.</li>
+  <ul>
+    <li>Kyseessä on ns. tyypin IV yliherkkyysreaktio. Esimerkki on mm. kosketusihottuma ja hitaasti ilmenevät suolisto-oireet</li>
+  </ul>
+
+---
+
+Allergiset sairaudet ovat lisääntyneet länsimaissa voimakkaasti viimeisten vuosikymmenien aikana. Ne ovat lisääntyneet myös Suomessa, mutta esiintyvyysluvut Suomessa eivät kuitenkaan ole eurooppalaista huipputasoa. FinTerveys 2017 -tutkimuksen mukaan esiintyvyyden kasvu on hidastumassa. 
+
+Osa allergisten sairauksien lisääntymisestä selittynee diagnostisilla muutoksilla, mutta myös todellista muutosta on tapahtunut. Tätä tukee FINRISKI-tutkimuksessa todettu IgE-välitteisen herkistymisen lisääntyminen Suomessa: 25–54-vuotiaiden herkistyminen koivulle lisääntyi kahdeksasta prosentista 15 prosenttiin ja kissalle kuudesta prosentista 11 prosenttiin vuosien 1997 ja 2007 välillä. Samassa tutkimuskokonaisuudessa havaittiin moninkertaiset erot atopian ja allergisten sairauksien esiintyvyydessä Suomen ja Venäjän Karjalan välillä, ja ero tuntuu toistaiseksi vain kasvavan. 
+
+Allergiset sairaudet ovat siis yleisiä rikkaissa länsimaissa. Yksi isoimmista havaituista eroista on Suomen ja Venäjän Karjalan välillä. Myös Itä- ja Länsi-Saksan välissä havaittiin samanlainen ero ennen Saksojen yhdistymistä. Yhdistymisen jälkeen ero allergisten sairauksien esiintyvyydessä kaventui merkittävästi muutamassa vuodessa, mikä osoittaa, että allergisia sairauksia voidaan ehkäistä elintapoihin ja ympäristöön kohdistuvilla muutoksilla. 
+
+On siis kehittynyt ns. **hygieniahypoteesi** -- ajatellaan, että mikrobiologiseen ympäristöön liittyvillä tekijöillä voisi olla jotakin tekemistä allergioiden synnyn kanssa. Maatilalla syntyneillä lapsilla on vähemmän atopiaa kuin kaupunkioloissa kasvaneilla. Joissakin tutkimuksissa allergiaa todettiin sitä vähemmän, mitä enemmän lapset olivat navetassa ensimmäisen elinvuoden aikana. 
+
+**Yleisesti voisi siis sanoa, että luonnonläheisyyden puute, ravinnon muutokset, eläinkontaktien vähäisyys ja esim. runsas antibioottien käyttö ovat yhteydessä lisääntyneeseen allergiariskiin.**
+
+_Suomessa toteutettiin Kansallinen allergiaohjelma 2008-2018, jonka kautta pyrittiin tuomaan kansan tietoisuuteen varsinkin sitä, että ei tulisi välttää allergian aiheuttajia turhaan._ **Hygieniahypoteesin mukaan immuunisysteemin tulisi päästä aikaisessa kehityksessä kohtaamaan allergeeneja, koska tätä kautta T-solujen kehitys alkaa painottua enemmän Th1-solujen tuottamisen suuntaan sen sijaan, että erikoistuttaisiin allergiatulehduksessa tärkeässä roolissa oleviksi Th2-soluiksi vasteena ympäristön allergeeneille.** Allergeenien välttäminen on edelleen olennainen osa hoitoa silloin, kun allergia aiheuttaa vaikeita oireita. Hygieniahypoteesi ei myöskään tarkoita sitä, että tauteja aiheuttavien mikrobien välttäminen olisi haitallista, tai että lasten pitäisi antaa sairastaa "luonnolliset lastentaudit" esimerkiksi kieltäytymällä rokotuksista.
+
+Allergioiden ehkäisyssä on siis tärkeää, että lapset pystyisivät temmeltää puhtaan luonnonlian yhteydessä, syödä monipuolisesti (rintaruokinta suositeltua imeväisiässä) yms.
+
+![](images/karelia.png)
+![](images/microbiome.png)
+![](images/worldrapid.png)
+  </div>
+</div>
 
 ### Essee - Nivelkipu ja sen diagnostiset vaihtoehdot
 
@@ -984,7 +1140,7 @@ Atooppinen ekseema ei ole allergiaa, kuten juuri yllä kerrotiin jo etukäteen. 
   </div>
 </div>
 
-#### Onko akuutissa astmassa ja kroonisessa astmassa sama ICD-10 alku?
+#### Onko akuutissa astmassa ja kroonisessa astmassa sama ICD-10-diagnoosin alku eli J45?
 
 <div class="">
   <button class="solution-button"
@@ -1053,6 +1209,99 @@ Angioödeema ja urtikaria ovat erillisiä prosesseja (tosin uudemmat hoitosuosit
 ![](images/urt1.png)
 ![](images/urt4.png)
 ![](images/urt5.png)
+  </div>
+</div>
+
+#### Atopiassa kokonais-IgE on koholla 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin? 
+      
+Atopia tarkoittaa taipumusta tuottaa IgE-vasta-aineita tyypillisiä ympäristön antigeenejä vastaan. Tämän takia kokonais-IgE on usein koholla atopiassa. Ei kuitenkaan voi universaalisesti sanoa, että atopiassa olisi aina koholla olevat IgE-arvot (voivat olla normaalitkin) tai että se olisi mitenkään diagnostista atopialle -- kokonais-IgE voi olla koholla myös ei-atooppisista syistä kuten loisinfektioista, joista autoimmuunitaudeista tai primääriristä immuunipuutoksista (esim. hyper-IgE-syndrooma) johtuen. 
+
+  </div>
+</div>
+
+#### Pitkittyneet kivut lapsuudessa voivat muokata kivun kokemusta myöhemmin elämässä {#Hoitamaton-kipu}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+      
+Hoitamaton kipu voi muokata myöhempiä kipukokemuksia -- taustalla mm. keskushermoston herkistyminen ja sitä kautta neuroplastinen kipu. Kipu ja siihen liittyvä stressi tai ahdistus voivat myös muovata sitä, miten ihminen oppii tulkitsemaan kehon aistimuksia, mikä voi lisätä alttiutta kivun kokemiselle tai siitä aiheutuvalle haitalle aikuisena.
+
+![](images/hoitkipu.png)
+  </div>
+</div>
+
+#### Astma johtuu tyypin 1 tulehduksesta
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+      
+Yleisin astmatyyppi on allerginen astma, joka liittyy muihin allergisiin tauteihin, kuten ekseemaan, riniittiin ja ruoka- sekä lääkeaineallergioihin. Tämä astman muoto on Th2- ja IgE-välitteinen tyypin I yliherkkyys (hypersensitiviteetti) -reaktio, jossa alullepanevana tekijänä toimii Th2-solujen ylikorostunut reaktio ympäristön antigeeneihin. Solut erittävät runsaasti erilaisia sytokiineja, jotka muun muassa stimuloivat B-soluja tuottamaan runsaasti IgE-luokan vasta-aineita.
+
+Tällaista Th2-solujen ajamaa tulehdusta kutsutaan **tyypin 2 tulehdukseksi.** 
+
+  </div>
+</div>
+
+#### Toiminnallisten vatsavaivojen diagnosoimisessa tarvitaan ESH:n tutkimuksia
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+      
+Toiminnallisten vatsavaivojen, kuten IBS:n, dyspepsian yms. diagnostiikka ja hoito kuuluvat pääasiassa PTH:lle eikä merkittäviä diagnostisia tutkimuksia yleensä tarvita -- poissuljetaan tarpeen mukaan yleisimpiä muita aiheuttajia (kuten keliakia, IBD yms). 
+
+Tarkempia selvittelyitä tarvitaan, jos on hälyttäviä oireita, tilanne on hoitoresistentti tai erotusdiagnostiikassa herää epäily harvinaisemmasta elimellisestä sairaudesta. 
+  </div>
+</div>
+
+
+### Yleisimmät pienten lasten vinkunavirukset ovat RSV, rinovirus ja influenssavirus {#Yleisimmät-vinkunavirukset}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin?
+
+Hengitysteiden virukset ovat obstruktiivisen bronkiitin ja pikkulasten astmakohtauksen tärkeimmät laukaisevat tekijät. Kaikki hengitysteiden virukset voivat liittyä hengenahdistukseen, mutta niiden merkitys vaihtelee.
+
+RS-virus ja rinovirus ovat ylivoimaisesti yleisimmät pienten lasten virusperäisen vinkunan (uloshengitysobstruktion) aiheuttajat. Bronkioliitin klassisesti tärkein aiheuttaja on RSV. Obstruktiivisessa bronkiitissa tärkeimpiä ovat rinovirukset, etenkin tyypin C rinovirus.
+
+Influenssavirus voi kyllä aiheuttaa vaikeitakin hengitystieinfektioita ja obstruktiotakin, mutta RSV:n ja rinoviruksen rinnalle kuuluvat uloshengitysobstruktioiden luokittelussa pikemminkin erityisesti enterovirukset ja parainfluenssavirukset, mutta myös adenovirus, ihmisen metapneumovirus (hMPV) sekä kausikoronavirukset. Bokavirusta on löydetty runsaasti lasten nenänielusta hengitysvaikeuksien aikana, mutta pääosin sekainfektioina muiden virusten kanssa. Yleisyydet kyllä riippuvat lähteestä ja joissakin lähteissä influenssaviruksetkin ovat osa tärkeimpiä aiheuttajia varsinkin kausiluontoisesti. 
+
+![](images/viralwheeze.png)
+![](images/viralwheeze2.png)
+![](images/boka.png)
+
   </div>
 </div>
 
@@ -4026,7 +4275,7 @@ Pikkulapsilla ja vauvoilla hengitysteiden anatomia on pieni, ja flunssien jälji
   </div>
 </div>
 
-#### Allergiat diagnosoidaan pääasiassa eliminaatio-altistuskokein {#Allergiat-diagnosoidaan}
+#### Ruoka-allergiat diagnosoidaan pääasiassa eliminaatio-altistuskokein {#Allergiat-diagnosoidaan}
 
 <div class="">
   <button class="solution-button"
@@ -4035,11 +4284,11 @@ Pikkulapsilla ja vauvoilla hengitysteiden anatomia on pieni, ja flunssien jälji
     Vastaus
   </button>
   <div class="solution-content">
-      Oikein/Väärin
+      Oikein
 
-Riippuu epäillystä allergiasta, sinänsä virheellistä yleistää eliminaatio-altistuskokeet kaikkiin allergioihin. 
+Kulmakivi varsinkin ruoka-allergioissa. Epäilty ruoka-aine poistetaan ruokavaliosta (yleensä 1–2 viikoksi), minkä aikana oireiden pitää rauhoittua. Tämän jälkeen ruoka-aine palautetaan ruokavalioon hallitusti (altistus). Jos oireet palaavat, niin kyseessä on todennäköisimmin ruoka-allergia. Vaikka verikokeista (spesifiset IgE-vasta-aineet) tai ihotesteistä voitaisiin saada suuntaa, varsinkin keskeisten ruoka-aineiden (kuten maidon, viljojen tai kananmunan) kohdalla diagnoosi halutaan usein varmistaa altistuskokeella turhien ja rajoittavien välttämisruokavalioiden välttämiseksi.
 
-Se on kuitenkin kulmakivi varsinkin ruoka-allergioissa. Epäilty ruoka-aine poistetaan ruokavaliosta (yleensä 1–2 viikoksi), minkä aikana oireiden pitää rauhoittua. Tämän jälkeen ruoka-aine palautetaan ruokavalioon hallitusti (altistus). Jos oireet palaavat, niin kyseessä on todennäköisimmin ruoka-allergia. Vaikka verikokeista (spesifiset IgE-vasta-aineet) tai ihotesteistä voitaisiin saada suuntaa, varsinkin keskeisten ruoka-aineiden (kuten maidon, viljojen tai kananmunan) kohdalla diagnoosi halutaan usein varmistaa altistuskokeella turhien ja rajoittavien välttämisruokavalioiden välttämiseksi.
+Vaikeaoireisissa tapauksissa ei aina ole aiheellista tehdä altistusta (esim. jos anafylaksia ja suhteellisen selvä aiheuttaja eikä keskeinen ruoka). Silloin voidaan anamneesin ja IgE:n perusteella tehdä diagnoosi. 
 
 ---
 
