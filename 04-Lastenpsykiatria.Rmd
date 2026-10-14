@@ -1741,6 +1741,53 @@ Lastesuojeluilmoitus kannattaa tehdä matalalla kynnyksellä, kun perheen voimav
   </div>
 </div>
 
+#### Somaattisen terveyden, päihteiden ja lääkkeiden vaikutus on tärkeää psykiatrista kokonaisarviota tehdessä {#Somaattisen-terveyden}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Monet somaattiset sairaudet (esim. kilpirauhasen toimintahäiriöt tai aivoja suoraan affisioivat sairaudet) voivat aiheuttaa tai jäljitellä psyykkisiä oireita, kuten masennusta, ahdistuneisuutta, sekavuutta tai psykoottisuutta. Monet päihteet voivat sekä laukaista psyykkisiä oireita (esim. päihdepsykoosi tai vieroitusoireisiin liittyvä ahdistus) että vaikeuttaa olemassa olevien mielenterveyden häiriöiden hoitoa. Useat lääkkeet voivat aiheuttaa psyykkisiä sivuvaikutuksia (esim. kortisoni voi aiheuttaa mielialan vaihteluita tai unettomuutta). 
+  </div>
+</div>
+
+#### Parivuotiaan uhmakkuus on normaali osa lapsen kehitystä, mutta vanhemmat saattavat tarvita ohjausta tässä kehitysvaiheessa lapsensa ymmärtämisessä ja kasvatuksessa {#Parivuotiaan-uhmakkuus}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Oikein
+
+Uhmaikä eli tahtoikä on normaali, noin 2–4-vuotiaalla lapsella ilmenevä itsenäistymisvaihe, johon kuuluvat voimakkaat tunteet, rajojen testaus ja kiukkukohtaukset. Vaikka kyseessä on kehityksellisesti terve vaihe, se voi kuormittaa vanhempia huomattavasti, ja ammattilaisten antama ohjaus sekä tuki on usein tarpeellista.
+
+  </div>
+</div>
+
+#### Sosiaalisten suhteiden ja suoriutumisen ei tarvitse kärsiä, vaan käytöshäiriö voidaan diagnosoida pelkkien oireiden perusteella {#Sosiaalisten-suhteiden-ei-tarvitse-karsia}
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Väärin
+
+Käytöshäiriön (ja psyykkisten häiriöiden yleensä) diagnosoinnissa ei riitä pelkkä oireiden luetteloiminen, vaan toimintakyvyn heikkeneminen tai haitta sosiaalisella, koulutuksellisella tai ammatillisella alueella on keskeinen edellytys diagnoosin asettamiselle.
+
+  </div>
+</div>
+
 ## 2025 
 
 ### Milloin tehdään päivystyksellinen/akuuttilähete lastenpsykiatrialle? {#Milloin-paiv-lpsy}
@@ -2027,8 +2074,6 @@ Hoitamattomana varhaislapsuuden käytösongelmat tai tunnesäätelyn pulmat voiv
     b
   </button>
   <div class="solution-content">
-
-Validointi ja psykoedukaatio: Kuuntele vanhempia syyllistämättä. Kerro, että 4-vuotiaalle on tyypillistä testata rajoja (uhmaikä eli tahtoikä on normaali, noin 2–4-vuotiaalla lapsella ilmenevä itsenäistymisvaihe, johon kuuluvat voimakkaat tunteet, rajojen testaus ja kiukkukohtaukset), mutta voimakas aggressio on merkki siitä, että lapsen oma tunnesäätelykapasiteetti on ylittynyt. Ilmiö, jossa oireet purkautuvat vain kotona ("kotona räjähtäjä"), on hyvin tyypillinen: lapsi purkaa kaiken kerääntyneen stressinsä turvallisimpaan paikkaan eli vanhempiinsa.
 
 Vanhemmuuden tukiohjelmat ovat ensisijaisia hoitomuotoja käytöshäiriöiden hoidossa. Voimaperheet-vanhempainohjauksen toimintamallissa yhdistyvät lastenneuvolassa toteutettava käytösongelmien varhainen tunnistaminen ja internetin ja puhelimen välityksellä toteutettava 3-4 kuukautta kestävä vanhempainohjausohjelma. Perheille tarjottava strukturoitu ohjaus toteutetaan ohjelmaan koulutetun terveydenhuollon ammattihenkilön viikoittaisessa ohjauksessa. Voimaperheet-vanhempainohjauksen vaikuttavuutta on tutkittu Suomessa ja sen on todettu olevan tehokas menetelmä lapsuusiän käytösongelmien varhaisessa hoidossa. 
 
